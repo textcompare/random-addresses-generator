@@ -24,7 +24,10 @@
     "npm-package"
   ],
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/shubhamsomwanshi11/random-addresses-generator.git"
