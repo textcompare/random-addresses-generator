@@ -1,0 +1,35 @@
+{
+  "name": "random-addresses-generator",
+  "version": "1.0.0",
+  "description": "random-addresses-generator is a lightweight JavaScript library for generating random and customizable addresses. Perfect for developers needing dummy data for testing, prototyping, or mockups. The package supports various address formats and is designed to be easily extendable for internationalization and custom templates.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "author": "shubhamsomwanshi11",
+  "keywords": [
+    "address",
+    "address-generator",
+    "random-address",
+    "fake-address",
+    "address-mock",
+    "address-data",
+    "testing-data",
+    "mock-data",
+    "javascript",
+    "nodejs",
+    "dummy-data",
+    "data-generator",
+    "random-data",
+    "npm-package"
+  ],
+  "license": "ISC",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shubhamsomwanshi11/random-addresses-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shubhamsomwanshi11/random-addresses-generator/issues"
+  }
+}
