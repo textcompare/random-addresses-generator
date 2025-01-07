@@ -65,6 +65,10 @@ function generateAddress(count, info = infoObject) {
         ? infoObject.addressFormat
         : (info.addressFormat || infoObject.addressFormat);
 
+    const validStates = info.states && Array.isArray(info.states) && info.states.length > 0
+        ? info.states.map((state) => state.toUpperCase())
+        : null;
+
     // Generate the addresses
     for (let i = 0; i < count; i++) {
         const address = {};
@@ -74,6 +78,8 @@ function generateAddress(count, info = infoObject) {
 
             if (field === 'firstName' || field === 'lastName') {
                 address[field] = getRandomElement(nameData[dataField]);
+            } else if (field === 'state' && validStates) {
+                address[field] = getRandomElement(validStates);
             } else if (addressData[dataField]) {
                 address[field] = getRandomElement(addressData[dataField]);
             } else if (field === 'city') {
