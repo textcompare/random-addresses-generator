@@ -1,5 +1,5 @@
 {
-    "firstNames": [
+    "firstnames": [
       "Aiden", "Jackson", "Liam", "Lucas", "Noah", "Mason", "Ethan", "Caden", "Oliver", "Elijah",
       "Grayson", "James", "Benjamin", "Logan", "Alexander", "Sebastian", "Carter", "Daniel", "Jayden", "Michael",
       "Matthew", "David", "Joseph", "Levi", "Isaac", "Gabriel", "Owen", "Dylan", "Wyatt", "Luke",
@@ -12,7 +12,7 @@
       "Zachary", "Ryder", "Bentley", "Jace", "Malachi", "Kane", "Luca", "Jude", "Joel", "Maxwell",
       "Zane", "Harrison", "Axel", "Beckett", "Mateo", "Milo", "Jonah", "Kaiden", "Carlos", "Jameson"
     ],
-    "lastNames": [
+    "lastnames": [
       "Smith", "Johnson", "Williams", "Jones", "Brown", "Davis", "Miller", "Wilson", "Moore", "Taylor",
       "Anderson", "Thomas", "Jackson", "White", "Harris", "Martin", "Thompson", "Garcia", "Martinez", "Robinson",
       "Clark", "Rodriguez", "Lewis", "Lee", "Walker", "Hall", "Allen", "Young", "Hernandez", "King",

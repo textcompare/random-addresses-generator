@@ -1,7 +1,9 @@
 
 # Random Address Generator
 
-A package to generate random addresses  based on country data. It allows users to generate realistic addresses for various countries with customizable formats.
+## Overview
+
+The **Random Address Generator** package generates realistic random addresses based on country data, with customizable formats and additional fields. The package supports generating random addresses for various countries, and allows you to control various aspects of the address, such as the country, address type, and format.
 
 ## Installation
 
@@ -11,25 +13,179 @@ To install the package, use npm:
 npm install random-addresses-generator
 ```
 
-## Available Countries
+## Fields Generated
 
-You can generate addresses for the following countries:
+The address generator can generate the following fields:
+
+1. **buildingNo**: The building number or house number (e.g., 123, 456).
+2. **buildingName**: The name of the building (e.g., "Sunset Tower").
+3. **streetNumber**: The street number (e.g., 12).
+4. **streetName**: The name of the street (e.g., "Main St", "Elm Street").
+5. **neighborhood**: The neighborhood or area (e.g., "Downtown", "Suburbs").
+6. **landmark**: A nearby landmark or notable feature (e.g., "Near Central Park").
+7. **city**: The city name (e.g., "New York", "Los Angeles").
+8. **state**: The state or region name (e.g., "California", "Texas").
+9. **zipCode**: The postal or zip code (e.g., "10001", "90210").
+10. **firstName**: The first name of a random person (e.g., "John", "Maria").
+11. **lastName**: The last name of a random person (e.g., "Doe", "Smith").
+12. **phone**: A randomly generated phone number (e.g., "+1 (555) 123-4567").
+13. **email**: A randomly generated email address (e.g., "john.doe@example.com").
+
+### Address Type
+
+- **Commerical**: Commercial addresses such as office buildings or business premises (default).
+- **Corporate**: Corporate addresses such as company headquarters.
+- **Industrial**: Industrial addresses like factories, warehouses.
+
+### Addon Fields
+
+You can add custom fields to your address data by using the `addon` property. This property allows you to inject additional data into the generated address.
+
+**Example:**
+
+```js
+{
+  addon: [{
+    note: "This is a special note"
+  }]
+}
+```
+
+This will append a `note` field to each generated address.
+
+### State Selection
+
+You can control which states to generate addresses from by passing an array of state codes. If you don't specify any states, the generator will select from all available states by default.
+
+**Example:**
+
+```js
+{
+  states: ["CA", "MN"] // Generates addresses from California and Minnesota only
+}
+```
+
+### Country Selection
+
+You can specify the country to generate addresses from. The default country is the United States (`USA`).
+
+**Example:**
+
+```js
+{
+  country: "Canada" // Generates addresses from Canada
+}
+```
+
+### Address Format
+
+You can specify the format of the generated address using the `addressFormat` property, which defines the order of the fields. By default, the address format is:
+
+```js
+['buildingNo', 'buildingName', 'streetNumber', 'streetName', 'neighborhood', 'landmark', 'city', 'state', 'zipCode', 'firstName', 'lastName', 'phone', 'email']
+```
+
+You can customize the format by passing an array of field names.
+
+**Example:**
+
+```js
+{
+  addressFormat: ['firstName', 'lastName', 'city', 'state', 'zipCode']
+}
+```
+
+## Function Usage
+
+### `generateAddress(count, info)`
+
+Generates a specified number of random addresses with the given configuration.
+
+#### Parameters:
+
+- **count**: The number of addresses to generate.
+- **info** (optional): A configuration object with the following optional properties:
+  - `country`: The country to generate addresses for (default is "United States").
+  - `addressType`: The type of address to generate (options: "Commerical", "Corporate", "Industrial", default is "Commerical").
+  - `states`: An array of state codes (e.g., `["CA", "MN"]`), default is `["all"]`, which generates from all states.
+  - `addressFormat`: A custom format for the address (default is `['buildingNo', 'buildingName', 'streetNumber', 'streetName', 'neighborhood', 'landmark', 'city', 'state', 'zipCode', 'firstName', 'lastName', 'phone', 'email']`).
+  - `addon`: Custom fields to be added to each address.
+  - `format`: The format of the output (options: "json", "csv", "text", default is "json").
+
+#### Example Usage:
+
+1. **Generate 5 Commercial Addresses from the United States:**
+
+```js
+const { generateAddress } = require('random-addresses-generator');
+
+const addressData = generateAddress(5, {
+  country: 'USA', 
+  addressType: 'Commerical', 
+  format: 'json'
+});
+
+console.log(addressData);
+```
+
+2. **Generate 3 addresses from specific states (California and Minnesota):**
+
+```js
+const { generateAddress } = require('random-addresses-generator');
+
+const addressData = generateAddress(3, {
+  country: 'USA', 
+  states: ['CA', 'MN'],
+  addressFormat: ['firstName', 'lastName', 'streetName', 'city', 'state', 'zipCode'],
+  format: 'json'
+});
+
+console.log(addressData);
+```
+
+3. **Generate 2 addresses with custom addon field:**
+
+```js
+const { generateAddress } = require('random-addresses-generator');
+
+const addressData = generateAddress(2, {
+  country: 'Canada',
+  addressType: 'Corporate',
+  addon: [{
+    note: "This is a custom note"
+  }],
+  format: 'json'
+});
+
+console.log(addressData);
+```
+
+### Supported Countries
+
+The package supports generating random addresses for the following countries:
+
+#### Popular Countries:
+
+1. **United States (USA)**
+2. **United Kingdom (UK)**
+3. **Canada**
+4. **Germany**
+5. **France**
+6. **Australia**
+7. **India**
+8. **Brazil**
+9. **China**
+10. **Mexico**
+
+#### Other Supported Countries:
 
 - Argentina
-- Australia
 - Belgium
-- Brazil
-- Canada
-- China
 - Egypt
-- France
-- Germany
 - Greece
-- India
 - Indonesia
 - Italy
 - Japan
-- Mexico
 - Netherlands
 - New Zealand
 - Nigeria
@@ -47,129 +203,4 @@ You can generate addresses for the following countries:
 - Thailand
 - Turkey
 - UAE
-- UK
-- USA
 - Vietnam
-
-## Parameters
-
-The following parameters can be passed to the `generateAddress` function:
-
-| Parameter        | Type     | Description                                                            | Default Value | Optional/Required |
-|------------------|----------|------------------------------------------------------------------------|---------------|-------------------|
-| `count`          | Number   | The number of random addresses to generate.                             | N/A           | Required          |
-| `country`        | String   | The country for which to generate addresses (e.g., "USA", "India").     | USA           | Optional          |
-| `states`         | Array    | List of states to include in address (e.g., ['California']).            | ['all']       | Optional          |
-| `format`         | String   | The format in which to return the addresses (json, csv, text).          | json          | Optional          |
-| `addressFormat`  | Array    | The order of fields to include in the address (e.g., `['firstName', 'city', 'phone']`). | ['firstName', 'lastName', 'phone', 'streetNumber', 'streetName', 'city', 'state', 'zipCode'] | Optional          |
-| `separator`      | String   | The separator used in the CSV format.                                   | ','           | Optional          |
-
-### How to Pass Parameters
-
-To pass parameters to the `generateAddress` function, you can either pass them directly or use the default object `infoObject` which contains the default values.
-
-### Example Usage
-
-#### Generate Addresses in JSON Format
-
-```javascript
-const { generateAddress } = require('random-addresses-generator');
-
-// Generate 5 random addresses for USA
-const addresses = generateAddress(5, { country: 'USA' });
-console.log(addresses);
-```
-
-#### Generate Addresses in CSV Format
-
-```javascript
-const { generateAddress } = require('random-addresses-generator');
-
-// Generate 3 random addresses for India in CSV format
-const addresses = generateAddress(3, { country: 'India', format: 'csv' });
-console.log(addresses);
-```
-
-#### Generate Addresses with Custom Fields
-
-```javascript
-const { generateAddress } = require('random-addresses-generator');
-
-// Generate 2 random addresses for France, only including firstName, lastName, and city
-const addresses = generateAddress(2, { country: 'France', addressFormat: ['firstName', 'lastName', 'city'] });
-console.log(addresses);
-```
-
-### File Formats
-
-You can choose from the following formats for the generated addresses:
-
-- **JSON Format** (`json`): Returns addresses in a well-structured JSON format.
-- **CSV Format** (`csv`): Returns addresses in CSV format, with the option to specify a custom separator.
-- **Text Format** (`text`): Returns addresses as comma-separated values.
-
-Here’s an example of the output in different formats:
-
-#### JSON Format:
-```json
-[
-  {
-    "firstName": "John",
-    "lastName": "Doe",
-    "phone": "USA 555-1234",
-    "streetNumber": "123",
-    "streetName": "Main St",
-    "city": "New York",
-    "state": "NY",
-    "zipCode": "10001"
-  },
-  ...
-]
-```
-
-#### CSV Format:
-```csv
-firstName,lastName,phone,streetNumber,streetName,city,state,zipCode
-John,Doe,USA 555-1234,123,Main St,New York,NY,10001
-...
-```
-
-#### Text Format:
-```
-John, Doe, USA 555-1234, 123, Main St, New York, NY, 10001
-...
-```
-
-## Example Output
-
-Here is an example of how the package works:
-
-```javascript
-const { generateAddress } = require('random-addresses-generator');
-
-// Example: Generate 3 random addresses for Brazil
-const addresses = generateAddress(3, { country: 'Brazil', format: 'json' });
-console.log(addresses);
-```
-
-Output:
-
-```json
-[
-  {
-    "firstName": "Carlos",
-    "lastName": "Silva",
-    "phone": "Brazil 55-9999-1234",
-    "streetNumber": "567",
-    "streetName": "Rua dos Andes",
-    "city": "São Paulo",
-    "state": "SP",
-    "zipCode": "04523-000"
-  },
-  ...
-]
-```
-
-## License
-
-This package is open source and available under the MIT License.

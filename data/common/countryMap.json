@@ -1,0 +1,25 @@
+{
+    "usa": [
+        "united states",
+        "united states of america",
+        "usa"
+    ],
+    "canada": [
+        "canada",
+        "canadian"
+    ],
+    "india": [
+        "india",
+        "indian"
+    ],
+    "united kingdom": [
+        "united kingdom",
+        "uk",
+        "great britain",
+        "britain"
+    ],
+    "germany": [
+        "germany",
+        "deutschland"
+    ]
+}

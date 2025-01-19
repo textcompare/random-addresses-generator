@@ -1,43 +1,55 @@
-const fs = require('fs');  // Import fs module
-const path = require('path'); // Import path module
-const phoneFormats = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../data/phone.json'), 'utf8')); // Using path.resolve for cross-platform compatibility
+const fs = require('fs');
+const path = require('path');
 
 // Default object
 const infoObject = {
-    country: "USA",
-    states: ['all'],
+    country: "United States",
+    addressType: 'Residential',
+    addressFormat: [`buildingNo`, `buildingName`, `streetNumber`, `streetName`, `neighborhood`, `landmark`, `city`, `state`, `zipCode`, `firstName`, `lastName`, `phone`, `email`],
     format: 'json',
-    addressFormat: ['firstName', 'lastName', 'phone', 'streetNumber', 'streetName', 'city', 'state', 'zipCode'],
-    separator: ','
+    states: ['all'],
 };
+
+// Get data of houseNames
+const houseNames = JSON.parse(fs.readFileSync(path.resolve(__dirname, `../data/common/houseNames.json`), 'utf-8'));
+const landmarkData = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../data/common/landmarks.json'), 'utf-8'));
+const countryMap = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../data/common/countryMap.json'), 'utf-8'));
 
 // Helper function to get a random element from an array
 const getRandomElement = (array) => array[Math.floor(Math.random() * array.length)];
 
-function generateRandomPhoneNumber(countryCode) {
-    // Load phone formats from JSON file
-    const countryKey = countryCode.toLowerCase();
 
-    if (!phoneFormats[countryKey]) {
-        throw new Error(`Unsupported country code: ${countryCode}`);
+
+// Normalize country name
+function normalizeCountryName(countryName) {
+    // Convert to lowercase and check the map
+    const normalizedName = countryName.toLowerCase().trim();
+
+    for (let key in countryMap) {
+        if (countryMap[key].includes(normalizedName)) {
+            return key;
+        }
     }
 
-    const { countryPrefix, format } = phoneFormats[countryKey];
-
-    const randomDigit = () => Math.floor(Math.random() * 10);
-    const randomStartDigit = () => Math.floor(Math.random() * 3) + 7;
-
-    let isFirst = true;
-    const phoneNumber = format.replace(/X/g, () => {
-        if (isFirst) {
-            isFirst = false;
-            return randomStartDigit();
-        }
-        return randomDigit();
-    });
-
-    return `${countryPrefix} ${phoneNumber}`;
+    // If no match found, return as is
+    return normalizedName;
 }
+
+// Helper function to generate random phone number
+function generateRandomPhoneNumber(areaCode, countryCode, phoneFormat) {
+    const randomDigit = () => Math.floor(Math.random() * 10);
+
+    // If areaCode is not provided, generate a random area code
+    if (!areaCode) {
+        areaCode = Math.floor(Math.random() * 900 + 100); // Random area code between 100 and 999
+    }
+
+    let phoneNumber = phoneFormat.replace(/A/g, areaCode)
+        .replace(/X/g, randomDigit);
+
+    return countryCode + phoneNumber;
+}
+
 
 // Function to generate addresses
 function generateAddress(count, info = infoObject) {
@@ -47,16 +59,15 @@ function generateAddress(count, info = infoObject) {
 
     const addresses = [];
     const country = info.country || infoObject.country;
-    const fileName = country.toLowerCase().trim().replaceAll(' ', '-');  // Normalize country name
+    let fileName = normalizeCountryName(country);
 
     let addressData;
     let nameData;
     try {
         // Use path.resolve to handle file paths in a platform-independent way
-        addressData = JSON.parse(fs.readFileSync(path.resolve(__dirname, `../data/${fileName}.json`), 'utf-8'));
-        nameData = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../data/name.json'), 'utf-8'));
+        addressData = JSON.parse(fs.readFileSync(path.resolve(__dirname, `../data/countries/${fileName}.json`), 'utf-8'));
+        nameData = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../data/common/names.json'), 'utf-8'));
     } catch (error) {
-        console.error(error);
         return "Invalid Country Name or data file not found.";
     }
 
@@ -66,30 +77,93 @@ function generateAddress(count, info = infoObject) {
         : (info.addressFormat || infoObject.addressFormat);
 
     const validStates = info.states && Array.isArray(info.states) && info.states.length > 0
-        ? info.states.map((state) => state.toUpperCase())
-        : null;
+        ? info.states[0].toLowerCase() === 'all' || info.states[0].toLowerCase() === 'all'
+            ? Object.keys(addressData.states) // Pick a random state from all available states
+            : info.states.map(state => state.toUpperCase()) // If specific states are provided, use them
+        : Object.keys(addressData.states); // Default to picking any state if no states are provided
+
 
     // Generate the addresses
     for (let i = 0; i < count; i++) {
         const address = {};
 
-        addressFormat.forEach((field) => {
-            const dataField = field + 's';
+        // Select a random state if 'all' or from specific states
+        const selectedState = validStates && validStates.length > 0
+            ? getRandomElement(validStates)
+            : getRandomElement(Object.keys(addressData.states));
 
-            if (field === 'firstName' || field === 'lastName') {
-                address[field] = getRandomElement(nameData[dataField]);
-            } else if (field === 'state' && validStates) {
-                address[field] = getRandomElement(validStates);
-            } else if (addressData[dataField]) {
-                address[field] = getRandomElement(addressData[dataField]);
-            } else if (field === 'city') {
-                address[field] = getRandomElement(addressData['cities']);
-            } else if (field === 'phone' || field === 'phoneNo') {
-                address[field] = generateRandomPhoneNumber(fileName);
-            } else {
+        // Select a random city from the selected state
+        const cityData = getRandomElement(addressData.states[selectedState].cities);
+        const { cityname, zipcodes, areacodes } = cityData;
+
+        // Select a random zip code and area code
+        const zipCode = getRandomElement(zipcodes);
+        const areaCode = getRandomElement(areacodes);
+
+        // Generate the phone number with area code
+        const phoneNumber = generateRandomPhoneNumber(areaCode, addressData.countrycode, addressData.phoneformat);
+        let generatedFirstName = "", generatedLastName = "";
+
+        // Populate the address format fields
+        addressFormat.forEach((field) => {
+            let updatedField = field.toLowerCase();
+            const dataField = updatedField + 's';
+            let addressT = info.addressType || "Residential";
+            address['addressType'] = addressT;
+            if (updatedField === 'firstname') {
+                if (!generatedFirstName)
+                    generatedFirstName = nameData[dataField] ? getRandomElement(nameData[dataField]) : `N/A`
+                address[field] = generatedFirstName;
+            } else if (updatedField === 'lastname') {
+                if (!generatedLastName) generatedLastName = nameData[dataField] ? getRandomElement(nameData[dataField]) : `N/A`
+                address[field] = generatedLastName;
+            } else if (updatedField === 'email') {
+                if (generatedFirstName == "") generatedFirstName = getRandomElement(nameData.firstnames);
+                if (generatedLastName == "") generatedLastName = getRandomElement(nameData.lastnames);
+                address[field] = `${generatedFirstName.toLowerCase()}.${generatedLastName.toLowerCase()}@example.com`;
+            } else if (updatedField === 'state') {
+                address[field] = addressData.states[selectedState].state;
+            } else if (updatedField === 'city') {
+                address[field] = cityname;
+            } else if (updatedField === 'zipcode') {
+                address[field] = zipCode;
+            } else if (updatedField === 'phone' || updatedField === 'phoneno') {
+                address[field] = phoneNumber;
+            } else if (updatedField === 'streetname') {
+                address[field] = getRandomElement(addressData.streetnames);
+            } else if (updatedField === 'neighborhood') {
+                if (addressT.toLowerCase() == "industrial")
+                    address[field] = getRandomElement(addressData.neighborhoods.industrial);
+                else if (addressT.toLowerCase() == "corporate")
+                    address[field] = getRandomElement(addressData.neighborhoods.corporate);
+                else
+                    address[field] = getRandomElement(addressData.neighborhoods.commerical);
+            } else if (updatedField === 'landmark') {
+                if (addressT.toLowerCase() == "industrial")
+                    address[field] = getRandomElement(landmarkData.industrial);
+                else if (addressT.toLowerCase() == "corporate")
+                    address[field] = getRandomElement(landmarkData.corporate);
+                else
+                    address[field] = getRandomElement(landmarkData.commerical);
+            } else if (updatedField === 'streetnumber' || updatedField === 'housenumber' || updatedField === 'streetno' || updatedField === 'houseno' || updatedField == "buildingno" || updatedField == "buildingNumber") {
+                address[field] = Math.floor(Math.random() * 9999) + 1;
+            } else if (updatedField === 'housename' || updatedField == 'buildingname' || updatedField == 'building') {
+                if (addressT.toLowerCase() == "industrial")
+                    address[field] = getRandomElement(houseNames.industrial);
+                else if (addressT.toLowerCase() == "corporate")
+                    address[field] = getRandomElement(houseNames.corporate);
+                else
+                    address[field] = getRandomElement(houseNames.commerical);
+            }
+            else {
                 address[field] = `N/A`;
             }
         });
+        if (info.addon) {
+            for (let key in info.addon) {
+                address[key] = info.addon[key];
+            }
+        }
 
         addresses.push(address);
     }
@@ -115,5 +189,7 @@ function generateAddress(count, info = infoObject) {
             return "Unsupported format. Use 'json', 'csv', or 'text'.";
     }
 }
+
+console.log(generateAddress(1));
 
 module.exports = { generateAddress };
