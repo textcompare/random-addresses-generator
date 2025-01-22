@@ -3,11 +3,10 @@ const path = require('path');
 
 // Default object
 const infoObject = {
-    country: "United States",
+    country: "Indonesia",
     addressType: 'Residential',
     addressFormat: [`buildingNo`, `buildingName`, `streetNumber`, `streetName`, `neighborhood`, `landmark`, `city`, `state`, `zipCode`, `firstName`, `lastName`, `phone`, `email`],
-    format: 'json',
-    states: ['all'],
+    format: 'json'
 };
 
 // Get data of houseNames
@@ -16,8 +15,7 @@ const landmarkData = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../data
 const countryMap = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../data/common/countryMap.json'), 'utf-8'));
 
 // Helper function to get a random element from an array
-const getRandomElement = (array) => array[Math.floor(Math.random() * array.length)];
-
+const getRandomElement = (array) => array ? array[Math.floor(Math.random() * array.length)] : 'N/A';
 
 
 // Normalize country name
@@ -43,6 +41,17 @@ function generateRandomPhoneNumber(areaCode, countryCode, phoneFormat) {
     if (!areaCode) {
         areaCode = Math.floor(Math.random() * 900 + 100); // Random area code between 100 and 999
     }
+
+    let newLen = 10 - areaCode.length;
+    let i;
+    for (i = 0; i < phoneFormat.length; i++) {
+        if (phoneFormat[i] == 'X') {
+            newLen--;
+            if (newLen <= 0) break;
+        }
+    }
+
+    phoneFormat = phoneFormat.slice(0, i + 1);
 
     let phoneNumber = phoneFormat.replace(/A/g, areaCode)
         .replace(/X/g, randomDigit);
@@ -76,24 +85,71 @@ function generateAddress(count, info = infoObject) {
         ? infoObject.addressFormat
         : (info.addressFormat || infoObject.addressFormat);
 
-    const validStates = info.states && Array.isArray(info.states) && info.states.length > 0
-        ? info.states[0].toLowerCase() === 'all' || info.states[0].toLowerCase() === 'all'
-            ? Object.keys(addressData.states) // Pick a random state from all available states
-            : info.states.map(state => state.toUpperCase()) // If specific states are provided, use them
-        : Object.keys(addressData.states); // Default to picking any state if no states are provided
+    const container = getRandomElement(addressData.citycontainers);
 
+    const validRegions = (() => {
+        if (addressData.states && info.states && Array.isArray(info.states) && info.states.length > 0) {
+            return info.states[0].toLowerCase() === 'all'
+                ? Object.keys(addressData.states)
+                : info.states.map(state => state.toUpperCase());
+        }
+        if (addressData.provinces && info.provinces && Array.isArray(info.provinces) && info.provinces.length > 0) {
+            return info.provinces[0].toLowerCase() === 'all'
+                ? Object.keys(addressData.provinces)
+                : info.provinces.map(province => province);
+        }
+        if (addressData.territories && info.territories && Array.isArray(info.territories) && info.territories.length > 0) {
+            return info.territories[0].toLowerCase() === 'all'
+                ? Object.keys(addressData.territories)
+                : info.territories.map(territory => territory);
+        }
+        if (addressData.regions && info.regions && Array.isArray(info.regions) && info.regions.length > 0) {
+            return info.regions[0].toLowerCase() === 'all'
+                ? Object.keys(addressData.regions)
+                : info.region.map(region => region);
+        }
+        if (addressData.communities && info.communities && Array.isArray(info.communities) && info.communities.length > 0) {
+            return info.communities[0].toLowerCase() === 'all'
+                ? Object.keys(addressData.communities)
+                : info.communities.map(community => community);
+        }
+        if (addressData.municipalities && info.municipalities && Array.isArray(info.municipalities) && info.municipalities.length > 0) {
+            return info.municipalities[0].toLowerCase() === 'all'
+                ? Object.keys(addressData.municipalities)
+                : info.municipalities.map(municipality => municipality);
+        }
+        return Object.keys(addressData[container]);
+    })();
 
     // Generate the addresses
     for (let i = 0; i < count; i++) {
         const address = {};
 
-        // Select a random state if 'all' or from specific states
-        const selectedState = validStates && validStates.length > 0
-            ? getRandomElement(validStates)
-            : getRandomElement(Object.keys(addressData.states));
+        // Select a random region (state, province, or territory)
+        const selectedRegion = validRegions && validRegions.length > 0
+            ? getRandomElement(validRegions)
+            : getRandomElement(Object.keys(addressData.states || addressData.provinces || addressData.territories));
 
-        // Select a random city from the selected state
-        const cityData = getRandomElement(addressData.states[selectedState].cities);
+        let regionData;
+        if (addressData.states && addressData.states[selectedRegion]) {
+            regionData = addressData.states[selectedRegion];
+        } else if (addressData.provinces && addressData.provinces[selectedRegion]) {
+            regionData = addressData.provinces[selectedRegion];
+        } else if (addressData.territories && addressData.territories[selectedRegion]) {
+            regionData = addressData.territories[selectedRegion];
+        }
+        else if (addressData.regions && addressData.regions[selectedRegion]) {
+            regionData = addressData.regions[selectedRegion];
+        }
+        else if (addressData.communities && addressData.communities[selectedRegion]) {
+            regionData = addressData.communities[selectedRegion];
+        }
+        else if (addressData.municipalities && addressData.municipalities[selectedRegion]) {
+            regionData = addressData.municipalities[selectedRegion];
+        }
+
+        // Select a random city from the selected region
+        const cityData = getRandomElement(regionData.cities);
         const { cityname, zipcodes, areacodes } = cityData;
 
         // Select a random zip code and area code
@@ -122,7 +178,15 @@ function generateAddress(count, info = infoObject) {
                 if (generatedLastName == "") generatedLastName = getRandomElement(nameData.lastnames);
                 address[field] = `${generatedFirstName.toLowerCase()}.${generatedLastName.toLowerCase()}@example.com`;
             } else if (updatedField === 'state') {
-                address[field] = addressData.states[selectedState].state;
+                if (container == "states") {
+                    address['state'] = regionData.name;
+                }
+                else if (container == "territories") {
+                    address["territory"] = regionData.name;
+                }
+                else {
+                    address["province"] = regionData.name;
+                }
             } else if (updatedField === 'city') {
                 address[field] = cityname;
             } else if (updatedField === 'zipcode') {
@@ -137,14 +201,14 @@ function generateAddress(count, info = infoObject) {
                 else if (addressT.toLowerCase() == "corporate")
                     address[field] = getRandomElement(addressData.neighborhoods.corporate);
                 else
-                    address[field] = getRandomElement(addressData.neighborhoods.commerical);
+                    address[field] = getRandomElement(addressData.neighborhoods.residential);
             } else if (updatedField === 'landmark') {
                 if (addressT.toLowerCase() == "industrial")
                     address[field] = getRandomElement(landmarkData.industrial);
                 else if (addressT.toLowerCase() == "corporate")
                     address[field] = getRandomElement(landmarkData.corporate);
                 else
-                    address[field] = getRandomElement(landmarkData.commerical);
+                    address[field] = getRandomElement(landmarkData.residential);
             } else if (updatedField === 'streetnumber' || updatedField === 'housenumber' || updatedField === 'streetno' || updatedField === 'houseno' || updatedField == "buildingno" || updatedField == "buildingNumber") {
                 address[field] = Math.floor(Math.random() * 9999) + 1;
             } else if (updatedField === 'housename' || updatedField == 'buildingname' || updatedField == 'building') {
@@ -153,10 +217,7 @@ function generateAddress(count, info = infoObject) {
                 else if (addressT.toLowerCase() == "corporate")
                     address[field] = getRandomElement(houseNames.corporate);
                 else
-                    address[field] = getRandomElement(houseNames.commerical);
-            }
-            else {
-                address[field] = `N/A`;
+                    address[field] = getRandomElement(houseNames.residential);
             }
         });
         if (info.addon) {

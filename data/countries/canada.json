@@ -1,105 +1,5339 @@
 {
-    "streetNames": [
-        "Yonge Street",
-        "Queen Street",
-        "Bay Street",
-        "Bloor Street",
-        "King Street",
-        "Dundas Street",
-        "St. Laurent Boulevard",
-        "Wellington Street",
-        "Front Street",
-        "Sherbrooke Street",
-        "Steeles Avenue",
-        "Bloor-Yorkville",
-        "University Avenue",
-        "College Street",
-        "Lakeshore Road",
-        "Rue Saint-Denis",
-        "Crescent Street",
-        "Hastings Street",
-        "Brunswick Avenue",
-        "The Esplanade"
-    ],
-    "streetNumbers": [
-        "101",
-        "202",
-        "303",
-        "404",
-        "505",
-        "606",
-        "707",
-        "808",
-        "909",
-        "1234",
-        "4321",
-        "5678",
-        "6789",
-        "7890",
-        "8901",
-        "2345",
-        "3456",
-        "4567",
-        "5670",
-        "6781"
-    ],
-    "cities": [
-        "Toronto",
-        "Vancouver",
-        "Montreal",
-        "Ottawa",
-        "Calgary",
-        "Edmonton",
-        "Quebec City",
-        "Winnipeg",
-        "Hamilton",
-        "Kitchener",
-        "London",
-        "Halifax",
-        "Victoria",
-        "Saskatoon",
-        "Regina",
-        "St. John's",
-        "Barrie",
-        "Sudbury",
-        "Chatham",
-        "Thunder Bay"
-    ],
-    "states": [
-        "Ontario",
-        "British Columbia",
-        "Quebec",
-        "Alberta",
-        "Manitoba",
-        "Nova Scotia",
-        "Saskatchewan",
-        "Newfoundland and Labrador",
-        "New Brunswick",
-        "Prince Edward Island",
-        "Northwest Territories",
-        "Yukon",
-        "Nunavut"
-    ],
-    "zipCodes": [
-        "M5A 1A1",
-        "V5K 0A1",
-        "H2X 1Y4",
-        "K1A 0B1",
-        "T2P 1L4",
-        "T5J 2T1",
-        "G1R 2P1",
-        "R3C 1Z5",
-        "L8P 1C7",
-        "N2H 5C5",
-        "N6A 1S1",
-        "B3H 3A1",
-        "V8W 1H7",
-        "S7K 3J7",
-        "S4P 3X8",
-        "A1C 1K3",
-        "L4M 4X2",
-        "P3B 1S5",
-        "P7B 5S6",
-        "M9V 1C3"
+    "streetnames": {
+        "residential": [
+            "Maple Street",
+            "Pine Avenue",
+            "Oak Drive",
+            "Birch Crescent",
+            "Willow Lane",
+            "Elm Road",
+            "Cedar Boulevard",
+            "Cherry Hill",
+            "Heather Way",
+            "Magnolia Place",
+            "Hickory Street",
+            "Spruce Court",
+            "Aspen Crescent",
+            "Peach Drive",
+            "Birchwood Avenue",
+            "Juniper Drive",
+            "Beechwood Lane",
+            "Rosemary Way",
+            "Lavender Lane",
+            "Wisteria Avenue",
+            "Camellia Street",
+            "Alder Avenue",
+            "Acorn Street",
+            "Chestnut Road",
+            "Linden Street",
+            "Dogwood Drive",
+            "Sagebrush Lane",
+            "Ivy Avenue",
+            "Cypress Crescent",
+            "Alderwood Drive",
+            "Clematis Way",
+            "Sunflower Road",
+            "Maplewood Drive",
+            "Hawthorn Crescent",
+            "Lilac Lane",
+            "Sweetgum Street",
+            "Cottonwood Avenue",
+            "Jasmine Court",
+            "Redwood Street",
+            "Freesia Drive",
+            "Goldenrod Road",
+            "Azalea Crescent",
+            "Thyme Avenue",
+            "Lavender Road",
+            "Saffron Lane",
+            "Zinnia Street",
+            "Magnolia Crescent",
+            "Marigold Drive"
+        ],
+        "corporate": [
+            "King Street West",
+            "Queens Street East",
+            "Bay Street",
+            "Front Street",
+            "Yonge Street",
+            "Dundas Street",
+            "Wellington Street",
+            "Bloor Street",
+            "College Street",
+            "Richmond Street",
+            "Spadina Avenue",
+            "Adelaide Street",
+            "Steeles Avenue",
+            "St. Clair Avenue",
+            "Church Street",
+            "King Street East",
+            "University Avenue",
+            "Dufferin Street",
+            "Eglinton Avenue",
+            "Sherbourne Street",
+            "Parliament Street",
+            "Roncesvalles Avenue",
+            "Parkdale Avenue",
+            "Leslie Street",
+            "Islington Avenue",
+            "Avenue Road",
+            "Bloorview Avenue",
+            "Cedarvale Avenue",
+            "Lawrence Avenue",
+            "Broadview Avenue",
+            "Bayview Avenue",
+            "Humber Boulevard",
+            "Winston Churchill Boulevard",
+            "Keele Street",
+            "Don Mills Road",
+            "Queensway Avenue",
+            "Scarborough Road",
+            "Kingston Road",
+            "Woodbine Avenue",
+            "O'Connor Drive",
+            "Victoria Park Avenue",
+            "Gerrard Street",
+            "Danforth Avenue",
+            "Mount Pleasant Road",
+            "The Esplanade",
+            "St. James Street",
+            "Harbord Street"
+        ],
+        "industrial": [
+            "Industrial Parkway",
+            "Technology Drive",
+            "Business Park Road",
+            "Commerce Street",
+            "Manufacturing Road",
+            "Factory Avenue",
+            "Distribution Way",
+            "Logistics Boulevard",
+            "Export Street",
+            "Warehouse Drive",
+            "Production Lane",
+            "Assembly Street",
+            "Cargo Road",
+            "Innovation Way",
+            "Supply Chain Road",
+            "Transport Avenue",
+            "Packaging Lane",
+            "Mechanical Drive",
+            "Heavy Industry Street",
+            "Construction Boulevard",
+            "Process Street",
+            "Automation Avenue",
+            "Transportation Road",
+            "Shipping Lane",
+            "Retail Park Road",
+            "Fuel Road",
+            "Refinery Avenue",
+            "Energy Park Drive",
+            "Chemical Street",
+            "Materials Lane",
+            "Bulk Road",
+            "Manufacturing Boulevard",
+            "Machine Shop Road",
+            "Assembly Avenue",
+            "Logistic Street",
+            "Tech Park Boulevard",
+            "Sawmill Road",
+            "Smelting Avenue",
+            "Warehouse Park",
+            "Cargo Way",
+            "Precision Road",
+            "Supply Road",
+            "Iron Works Lane",
+            "Trade Route",
+            "Cargo Court",
+            "Export Drive",
+            "Process Avenue",
+            "Workshop Street"
+        ]
+    },
+    "neighborhoods": {
+        "residential": [
+            "Westmount",
+            "Yorkville",
+            "The Beaches",
+            "Mount Royal",
+            "Kitsilano",
+            "Rosedale",
+            "Davisville Village",
+            "Lawrence Park",
+            "Queen's Park",
+            "Glenmore Park",
+            "Rockcliffe Park",
+            "Shaughnessy",
+            "Brentwood Bay",
+            "North End",
+            "Downtown West",
+            "Highland Park",
+            "Forest Hill",
+            "Le Plateau-Mont-Royal",
+            "The Annex",
+            "Point Grey",
+            "Dunbar",
+            "Vaughan",
+            "Broadview North",
+            "Trenton East",
+            "Bloor West Village",
+            "Cabbagetown",
+            "Corktown",
+            "East Vancouver",
+            "Leaside",
+            "Upper East Side",
+            "Montreal West",
+            "Thornhill",
+            "Carleton Heights",
+            "New Edinburgh",
+            "Bayview Village",
+            "Bridle Path",
+            "Leslieville",
+            "Pleasantville",
+            "West End",
+            "Scarborough Village",
+            "St. John's Wood",
+            "York Mills",
+            "Harbord Village",
+            "Brockton Village",
+            "Glen Eden",
+            "Wellington Village",
+            "North York Centre",
+            "Little Italy",
+            "Queen Street West",
+            "Greenwood-Coxwell"
+        ],
+        "corporate": [
+            "Financial District",
+            "King's Street West",
+            "Downtown Toronto",
+            "Bay Street Corridor",
+            "City Centre",
+            "King Street East",
+            "Waterfront Communities",
+            "Core District",
+            "Business District",
+            "Harbourfront",
+            "Tech Park",
+            "Innovation District",
+            "Business Bay",
+            "Silicon Valley North",
+            "Corporate Drive",
+            "Technology Corridor",
+            "International Business Park",
+            "Enterprise Zone",
+            "Market Square",
+            "Trade District",
+            "Central Business Area",
+            "Portlands",
+            "Mount Pleasant Business Park",
+            "Brentwood Corporate Center",
+            "Burlington Business District",
+            "York Mills Business District",
+            "Vancouver Downtown",
+            "Central Corridor",
+            "Waterfront Park",
+            "Innovation Zone",
+            "Distillery District",
+            "South Financial District",
+            "Business Bay Area",
+            "Parkview Corporate Center",
+            "North Business Hub",
+            "Business Park Estates",
+            "Tech City",
+            "Civic Center",
+            "Central Exchange",
+            "Corporate Plaza",
+            "Media Hub",
+            "Trade Centre",
+            "Regent Park Business Center",
+            "Dundas Square District",
+            "Bayview Executive Park"
+        ],
+        "industrial": [
+            "Industrial Park",
+            "Tech Industry Zone",
+            "Northwest Industrial Area",
+            "Southwest Industrial Area",
+            "Eastside Industrial Zone",
+            "Westside Industrial District",
+            "Commerce Park",
+            "Trade Industrial Hub",
+            "Factory District",
+            "Refinery Zone",
+            "Logistics Park",
+            "Warehousing District",
+            "Manufacturing Center",
+            "Distribution Hub",
+            "Business Park",
+            "Research and Development Zone",
+            "Export Industrial Area",
+            "Processing Plant District",
+            "Supply Chain Center",
+            "Chemical Industry Zone",
+            "Automotive Park",
+            "Energy Industrial Park",
+            "Construction Hub",
+            "Heavy Industry Zone",
+            "Transport Corridor",
+            "Metropolitan Industrial Center",
+            "Silicon Park",
+            "Light Manufacturing Area",
+            "Innovation Park",
+            "Factory Square",
+            "Industrial Strip",
+            "Heavy Equipment Park",
+            "Technology Manufacturing District",
+            "Chemical Factory Zone",
+            "Goods Distribution Area",
+            "Trade Industrial Park",
+            "Refinery Park",
+            "Metropolitan Logistics District",
+            "Cargo Hub",
+            "Mining Zone",
+            "Research Park",
+            "Infrastructure Zone",
+            "Textile District",
+            "Industrial Corridor",
+            "Smelting District",
+            "Production Plant Area",
+            "Shipping District",
+            "Processing Zone"
+        ]
+    },
+    "country": "Canada",
+    "countrycode": "+1",
+    "phoneformat": "(A) XXX-XXXX",
+    "provinces": {
+        "Alberta": {
+            "cities": [
+                {
+                    "cityname": "Calgary",
+                    "zipcodes": [
+                        "T2A 0A1",
+                        "T2B 1C4",
+                        "T2C 2C5",
+                        "T2E 1A1",
+                        "T3E 2X3"
+                    ],
+                    "areacodes": [
+                        "403",
+                        "587",
+                        "825",
+                        "780",
+                        "403"
+                    ]
+                },
+                {
+                    "cityname": "Edmonton",
+                    "zipcodes": [
+                        "T5A 0A1",
+                        "T5B 2X3",
+                        "T5C 4A1",
+                        "T5E 2G5",
+                        "T5G 3Y2"
+                    ],
+                    "areacodes": [
+                        "780",
+                        "587",
+                        "825",
+                        "403",
+                        "780"
+                    ]
+                },
+                {
+                    "cityname": "Red Deer",
+                    "zipcodes": [
+                        "T4N 1A1",
+                        "T4N 5G5",
+                        "T4R 2Y3",
+                        "T4S 1V1",
+                        "T4P 1V3"
+                    ],
+                    "areacodes": [
+                        "403",
+                        "587",
+                        "825",
+                        "780",
+                        "403"
+                    ]
+                },
+                {
+                    "cityname": "Lethbridge",
+                    "zipcodes": [
+                        "T1H 0A1",
+                        "T1J 2Y3",
+                        "T1K 7C1",
+                        "T1M 0C9",
+                        "T1N 4A2"
+                    ],
+                    "areacodes": [
+                        "403",
+                        "587",
+                        "825",
+                        "780",
+                        "403"
+                    ]
+                },
+                {
+                    "cityname": "Fort McMurray",
+                    "zipcodes": [
+                        "T9H 0A1",
+                        "T9H 3A2",
+                        "T9J 1X1",
+                        "T9K 2A5",
+                        "T9L 3V6"
+                    ],
+                    "areacodes": [
+                        "780",
+                        "587",
+                        "825",
+                        "403",
+                        "780"
+                    ]
+                },
+                {
+                    "cityname": "Banff",
+                    "zipcodes": [
+                        "T1L 1A1",
+                        "T1L 1H5",
+                        "T1L 1K3",
+                        "T1L 1R7",
+                        "T1L 2R4"
+                    ],
+                    "areacodes": [
+                        "403",
+                        "587",
+                        "825",
+                        "780",
+                        "403"
+                    ]
+                },
+                {
+                    "cityname": "Sherwood Park",
+                    "zipcodes": [
+                        "T8A 1A1",
+                        "T8A 2B3",
+                        "T8A 3C5",
+                        "T8A 5G4",
+                        "T8A 6Y9"
+                    ],
+                    "areacodes": [
+                        "780",
+                        "587",
+                        "825",
+                        "403",
+                        "780"
+                    ]
+                },
+                {
+                    "cityname": "Medicine Hat",
+                    "zipcodes": [
+                        "T1A 0A1",
+                        "T1A 1X2",
+                        "T1A 3X4",
+                        "T1B 1B5",
+                        "T1C 0Y3"
+                    ],
+                    "areacodes": [
+                        "403",
+                        "587",
+                        "825",
+                        "780",
+                        "403"
+                    ]
+                },
+                {
+                    "cityname": "Grande Prairie",
+                    "zipcodes": [
+                        "T8V 0A1",
+                        "T8V 2J6",
+                        "T8V 3N1",
+                        "T8X 1A3",
+                        "T8X 4V1"
+                    ],
+                    "areacodes": [
+                        "780",
+                        "587",
+                        "825",
+                        "403",
+                        "780"
+                    ]
+                },
+                {
+                    "cityname": "Airdrie",
+                    "zipcodes": [
+                        "T4B 1A1",
+                        "T4B 2H6",
+                        "T4B 3R8",
+                        "T4B 4A1",
+                        "T4B 5A1"
+                    ],
+                    "areacodes": [
+                        "403",
+                        "587",
+                        "825",
+                        "780",
+                        "403"
+                    ]
+                },
+                {
+                    "cityname": "Okotoks",
+                    "zipcodes": [
+                        "T1S 1A1",
+                        "T1S 2B4",
+                        "T1S 2M3",
+                        "T1S 3A2",
+                        "T1S 5Y4"
+                    ],
+                    "areacodes": [
+                        "403",
+                        "587",
+                        "825",
+                        "780",
+                        "403"
+                    ]
+                },
+                {
+                    "cityname": "Camrose",
+                    "zipcodes": [
+                        "T4V 0A1",
+                        "T4V 1N9",
+                        "T4V 2V3",
+                        "T4V 4Y5",
+                        "T4V 6P1"
+                    ],
+                    "areacodes": [
+                        "780",
+                        "587",
+                        "825",
+                        "403",
+                        "780"
+                    ]
+                },
+                {
+                    "cityname": "Hinton",
+                    "zipcodes": [
+                        "T7V 1A1",
+                        "T7V 2B3",
+                        "T7V 3J4",
+                        "T7V 4B5",
+                        "T7V 5H2"
+                    ],
+                    "areacodes": [
+                        "780",
+                        "587",
+                        "825",
+                        "403",
+                        "780"
+                    ]
+                },
+                {
+                    "cityname": "Fort Saskatchewan",
+                    "zipcodes": [
+                        "T8L 1A1",
+                        "T8L 1C6",
+                        "T8L 2G8",
+                        "T8L 2K1",
+                        "T8L 3X1"
+                    ],
+                    "areacodes": [
+                        "780",
+                        "587",
+                        "825",
+                        "403",
+                        "780"
+                    ]
+                },
+                {
+                    "cityname": "Cold Lake",
+                    "zipcodes": [
+                        "T9M 0A1",
+                        "T9M 1G4",
+                        "T9M 3K8",
+                        "T9M 4H5",
+                        "T9M 5C9"
+                    ],
+                    "areacodes": [
+                        "780",
+                        "587",
+                        "825",
+                        "403",
+                        "780"
+                    ]
+                },
+                {
+                    "cityname": "Leduc",
+                    "zipcodes": [
+                        "T9E 0A1",
+                        "T9E 1B6",
+                        "T9E 2C7",
+                        "T9E 3X4",
+                        "T9E 5R7"
+                    ],
+                    "areacodes": [
+                        "780",
+                        "587",
+                        "825",
+                        "403",
+                        "780"
+                    ]
+                },
+                {
+                    "cityname": "St. Albert",
+                    "zipcodes": [
+                        "T8N 0A1",
+                        "T8N 2S5",
+                        "T8N 4P6",
+                        "T8N 5H5",
+                        "T8N 6S2"
+                    ],
+                    "areacodes": [
+                        "780",
+                        "587",
+                        "825",
+                        "403",
+                        "780"
+                    ]
+                },
+                {
+                    "cityname": "Spruce Grove",
+                    "zipcodes": [
+                        "T7X 0A1",
+                        "T7X 1J7",
+                        "T7X 3K3",
+                        "T7X 4P2",
+                        "T7X 5H1"
+                    ],
+                    "areacodes": [
+                        "780",
+                        "587",
+                        "825",
+                        "403",
+                        "780"
+                    ]
+                },
+                {
+                    "cityname": "High River",
+                    "zipcodes": [
+                        "T1V 1A1",
+                        "T1V 1A2",
+                        "T1V 3H3",
+                        "T1V 5B5",
+                        "T1V 5G2"
+                    ],
+                    "areacodes": [
+                        "403",
+                        "587",
+                        "825",
+                        "780",
+                        "403"
+                    ]
+                },
+                {
+                    "cityname": "Beaumont",
+                    "zipcodes": [
+                        "T4X 1A1",
+                        "T4X 2B5",
+                        "T4X 3H6",
+                        "T4X 4A1",
+                        "T4X 5G3"
+                    ],
+                    "areacodes": [
+                        "780",
+                        "587",
+                        "825",
+                        "403",
+                        "780"
+                    ]
+                },
+                {
+                    "cityname": "Tofield",
+                    "zipcodes": [
+                        "T0B 4J0",
+                        "T0B 4X3",
+                        "T0B 4H4",
+                        "T0B 4V8",
+                        "T0B 4P1"
+                    ],
+                    "areacodes": [
+                        "780",
+                        "587",
+                        "825",
+                        "403",
+                        "780"
+                    ]
+                },
+                {
+                    "cityname": "Sylvan Lake",
+                    "zipcodes": [
+                        "T4S 1A1",
+                        "T4S 1A9",
+                        "T4S 2P1",
+                        "T4S 3Y7",
+                        "T4S 5L5"
+                    ],
+                    "areacodes": [
+                        "403",
+                        "587",
+                        "825",
+                        "780",
+                        "403"
+                    ]
+                },
+                {
+                    "cityname": "Ponoka",
+                    "zipcodes": [
+                        "T4J 1R5",
+                        "T4J 1S9",
+                        "T4J 2H2",
+                        "T4J 3E8",
+                        "T4J 4L3"
+                    ],
+                    "areacodes": [
+                        "403",
+                        "587",
+                        "825",
+                        "780",
+                        "403"
+                    ]
+                },
+                {
+                    "cityname": "Jasper",
+                    "zipcodes": [
+                        "T0E 1E0",
+                        "T0E 1H0",
+                        "T0E 2H0",
+                        "T0E 1N0",
+                        "T0E 1P5"
+                    ],
+                    "areacodes": [
+                        "780",
+                        "587",
+                        "825",
+                        "403",
+                        "780"
+                    ]
+                }
+            ],
+            "name": "Alberta"
+        },
+        "British Columbia": {
+            "cities": [
+                {
+                    "cityname": "Vancouver",
+                    "zipcodes": [
+                        "V5K 0A1",
+                        "V6A 1A2",
+                        "V7M 1L6",
+                        "V5T 1L1",
+                        "V6G 1A7"
+                    ],
+                    "areacodes": [
+                        "604",
+                        "778",
+                        "236",
+                        "672",
+                        "250"
+                    ]
+                },
+                {
+                    "cityname": "Victoria",
+                    "zipcodes": [
+                        "V8W 1P6",
+                        "V9A 7K9",
+                        "V8X 3W7",
+                        "V9C 1K5",
+                        "V8N 2N5"
+                    ],
+                    "areacodes": [
+                        "250",
+                        "778",
+                        "236"
+                    ]
+                },
+                {
+                    "cityname": "Burnaby",
+                    "zipcodes": [
+                        "V5A 1H5",
+                        "V5G 3Z6",
+                        "V5C 2L6",
+                        "V5B 4A2",
+                        "V5J 4R2"
+                    ],
+                    "areacodes": [
+                        "604",
+                        "778",
+                        "236"
+                    ]
+                },
+                {
+                    "cityname": "Richmond",
+                    "zipcodes": [
+                        "V6V 1A1",
+                        "V6X 2P3",
+                        "V7A 4V7",
+                        "V6Y 3A2",
+                        "V7E 4C4"
+                    ],
+                    "areacodes": [
+                        "604",
+                        "778",
+                        "236"
+                    ]
+                },
+                {
+                    "cityname": "Surrey",
+                    "zipcodes": [
+                        "V3T 1A3",
+                        "V3S 1M6",
+                        "V3W 6B4",
+                        "V4A 3G2",
+                        "V3X 1L4"
+                    ],
+                    "areacodes": [
+                        "604",
+                        "778",
+                        "236"
+                    ]
+                },
+                {
+                    "cityname": "Kelowna",
+                    "zipcodes": [
+                        "V1Y 6S4",
+                        "V1W 3C1",
+                        "V1Z 1B5",
+                        "V1V 1V7",
+                        "V1X 1P3"
+                    ],
+                    "areacodes": [
+                        "250",
+                        "778",
+                        "236"
+                    ]
+                },
+                {
+                    "cityname": "Abbotsford",
+                    "zipcodes": [
+                        "V2S 1Y7",
+                        "V2T 2X5",
+                        "V2W 3E8",
+                        "V2Z 1A4",
+                        "V3G 2P9"
+                    ],
+                    "areacodes": [
+                        "604",
+                        "778",
+                        "236"
+                    ]
+                },
+                {
+                    "cityname": "Coquitlam",
+                    "zipcodes": [
+                        "V3J 3B7",
+                        "V3K 6V7",
+                        "V3B 7A4",
+                        "V3C 2W8",
+                        "V3E 2M8"
+                    ],
+                    "areacodes": [
+                        "604",
+                        "778",
+                        "236"
+                    ]
+                },
+                {
+                    "cityname": "Nanaimo",
+                    "zipcodes": [
+                        "V9R 2S7",
+                        "V9T 5J9",
+                        "V9X 1Y2",
+                        "V9V 1A2",
+                        "V9S 4M6"
+                    ],
+                    "areacodes": [
+                        "250",
+                        "778",
+                        "236"
+                    ]
+                },
+                {
+                    "cityname": "Chilliwack",
+                    "zipcodes": [
+                        "V2P 4S3",
+                        "V2R 3Y7",
+                        "V2S 7L1",
+                        "V2T 5N3",
+                        "V2E 1H7"
+                    ],
+                    "areacodes": [
+                        "604",
+                        "778",
+                        "236"
+                    ]
+                },
+                {
+                    "cityname": "Langley",
+                    "zipcodes": [
+                        "V3A 0A5",
+                        "V2Y 3L7",
+                        "V3A 4M4",
+                        "V1M 1Z3",
+                        "V2Z 2B1"
+                    ],
+                    "areacodes": [
+                        "604",
+                        "778",
+                        "236"
+                    ]
+                },
+                {
+                    "cityname": "Kamloops",
+                    "zipcodes": [
+                        "V2C 1X1",
+                        "V2H 1B5",
+                        "V2B 3C5",
+                        "V2A 1E7",
+                        "V2R 1S6"
+                    ],
+                    "areacodes": [
+                        "250",
+                        "778",
+                        "236"
+                    ]
+                },
+                {
+                    "cityname": "North Vancouver",
+                    "zipcodes": [
+                        "V7M 1L6",
+                        "V7P 2V7",
+                        "V7R 1B3",
+                        "V7N 1A4",
+                        "V7K 3N3"
+                    ],
+                    "areacodes": [
+                        "604",
+                        "778",
+                        "236"
+                    ]
+                },
+                {
+                    "cityname": "West Vancouver",
+                    "zipcodes": [
+                        "V7W 1A1",
+                        "V7S 2X7",
+                        "V7T 1V3",
+                        "V7V 2P1",
+                        "V7Z 1B6"
+                    ],
+                    "areacodes": [
+                        "604",
+                        "778",
+                        "236"
+                    ]
+                },
+                {
+                    "cityname": "White Rock",
+                    "zipcodes": [
+                        "V4B 3Y3",
+                        "V4B 1C9",
+                        "V4B 3L5",
+                        "V4B 2C3",
+                        "V4B 4J3"
+                    ],
+                    "areacodes": [
+                        "604",
+                        "778",
+                        "236"
+                    ]
+                },
+                {
+                    "cityname": "Penticton",
+                    "zipcodes": [
+                        "V2A 1G6",
+                        "V2A 5B1",
+                        "V2A 7Y3",
+                        "V2A 6E2",
+                        "V2A 1E3"
+                    ],
+                    "areacodes": [
+                        "250",
+                        "778",
+                        "236"
+                    ]
+                },
+                {
+                    "cityname": "Port Coquitlam",
+                    "zipcodes": [
+                        "V3B 7A4",
+                        "V3B 5A6",
+                        "V3B 6Z8",
+                        "V3B 4Y8",
+                        "V3B 7S9"
+                    ],
+                    "areacodes": [
+                        "604",
+                        "778",
+                        "236"
+                    ]
+                },
+                {
+                    "cityname": "Burnaby",
+                    "zipcodes": [
+                        "V5A 2V3",
+                        "V5G 3C4",
+                        "V5J 3S5",
+                        "V5C 4H1",
+                        "V5E 3H6"
+                    ],
+                    "areacodes": [
+                        "604",
+                        "778",
+                        "236"
+                    ]
+                },
+                {
+                    "cityname": "Whistler",
+                    "zipcodes": [
+                        "V0N 1B1",
+                        "V8E 1M2",
+                        "V8E 3W5",
+                        "V0N 1P0",
+                        "V0N 1B4"
+                    ],
+                    "areacodes": [
+                        "604",
+                        "778",
+                        "236"
+                    ]
+                },
+                {
+                    "cityname": "Squamish",
+                    "zipcodes": [
+                        "V8B 0C7",
+                        "V8B 0A6",
+                        "V8B 0A1",
+                        "V8B 0H1",
+                        "V8B 0J2"
+                    ],
+                    "areacodes": [
+                        "604",
+                        "778",
+                        "236"
+                    ]
+                }
+            ],
+            "name": "British Columbia"
+        },
+        "Manitoba": {
+            "cities": [
+                {
+                    "cityname": "Winnipeg",
+                    "zipcodes": [
+                        "R2C 1A1",
+                        "R3T 1B7",
+                        "R2V 4G4",
+                        "R3A 1M4",
+                        "R2W 5H3"
+                    ],
+                    "areacodes": [
+                        "204",
+                        "431"
+                    ]
+                },
+                {
+                    "cityname": "Brandon",
+                    "zipcodes": [
+                        "R7A 1A5",
+                        "R7B 1K5",
+                        "R7A 2K7",
+                        "R7B 2T3",
+                        "R7A 4J3"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Steinbach",
+                    "zipcodes": [
+                        "R5G 1B1",
+                        "R5G 2G4",
+                        "R5G 3J6",
+                        "R5G 2J3",
+                        "R5G 1L9"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Thompson",
+                    "zipcodes": [
+                        "R8N 0C7",
+                        "R8N 1A2",
+                        "R8N 1Z3",
+                        "R8N 0J9",
+                        "R8N 1R7"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Morden",
+                    "zipcodes": [
+                        "R6M 1S2",
+                        "R6M 1B6",
+                        "R6M 1K4",
+                        "R6M 2B5",
+                        "R6M 3C1"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Portage la Prairie",
+                    "zipcodes": [
+                        "R1N 0X3",
+                        "R1N 2B6",
+                        "R1N 1S3",
+                        "R1N 3A7",
+                        "R1N 0H5"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Winkler",
+                    "zipcodes": [
+                        "R6W 1J1",
+                        "R6W 1L6",
+                        "R6W 4C2",
+                        "R6W 1T9",
+                        "R6W 3A3"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Selkirk",
+                    "zipcodes": [
+                        "R1A 1A1",
+                        "R1A 1A2",
+                        "R1A 2A2",
+                        "R1A 2C1",
+                        "R1A 2A7"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Dauphin",
+                    "zipcodes": [
+                        "R7N 1B6",
+                        "R7N 1S4",
+                        "R7N 3E2",
+                        "R7N 2E5",
+                        "R7N 1C2"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Garden City",
+                    "zipcodes": [
+                        "R2V 2C1",
+                        "R2V 3A4",
+                        "R2V 3J2",
+                        "R2V 4Y6",
+                        "R2V 2H9"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Gimli",
+                    "zipcodes": [
+                        "R0C 1B0",
+                        "R0C 1P0",
+                        "R0C 1W0",
+                        "R0C 1M2",
+                        "R0C 1A4"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Carman",
+                    "zipcodes": [
+                        "R0G 0J0",
+                        "R0G 0B1",
+                        "R0G 0C5",
+                        "R0G 0P0",
+                        "R0G 0Y0"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Winkler",
+                    "zipcodes": [
+                        "R6W 1J1",
+                        "R6W 1L6",
+                        "R6W 4C2",
+                        "R6W 1T9",
+                        "R6W 3A3"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Virden",
+                    "zipcodes": [
+                        "R0M 2C0",
+                        "R0M 2A6",
+                        "R0M 1S0",
+                        "R0M 1T7",
+                        "R0M 2S1"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Russell",
+                    "zipcodes": [
+                        "R0J 1W0",
+                        "R0J 1P0",
+                        "R0J 1S0",
+                        "R0J 1L0",
+                        "R0J 1M0"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Killarney",
+                    "zipcodes": [
+                        "R0K 1G0",
+                        "R0K 1A2",
+                        "R0K 1J2",
+                        "R0K 1K0",
+                        "R0K 1B3"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Boissevain",
+                    "zipcodes": [
+                        "R0K 0E0",
+                        "R0K 0A1",
+                        "R0K 0B2",
+                        "R0K 0C3",
+                        "R0K 0D4"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Teulon",
+                    "zipcodes": [
+                        "R0C 3B0",
+                        "R0C 3C1",
+                        "R0C 3C2",
+                        "R0C 3A3",
+                        "R0C 3H5"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Swan River",
+                    "zipcodes": [
+                        "R0L 1Z0",
+                        "R0L 1C0",
+                        "R0L 1P1",
+                        "R0L 1M2",
+                        "R0L 1G5"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "The Pas",
+                    "zipcodes": [
+                        "R9A 1K6",
+                        "R9A 1B5",
+                        "R9A 1A8",
+                        "R9A 1T7",
+                        "R9A 1S3"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Flin Flon",
+                    "zipcodes": [
+                        "R8A 1C3",
+                        "R8A 1B6",
+                        "R8A 1J2",
+                        "R8A 1L2",
+                        "R8A 1E5"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Dauphin",
+                    "zipcodes": [
+                        "R7N 1B6",
+                        "R7N 1S4",
+                        "R7N 3E2",
+                        "R7N 2E5",
+                        "R7N 1C2"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Lorette",
+                    "zipcodes": [
+                        "R5K 0T5",
+                        "R5K 0M5",
+                        "R5K 0V0",
+                        "R5K 0L6",
+                        "R5K 0P4"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Pinawa",
+                    "zipcodes": [
+                        "R0E 1L0",
+                        "R0E 1P0",
+                        "R0E 1A5",
+                        "R0E 1T3",
+                        "R0E 1M2"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "La Broquerie",
+                    "zipcodes": [
+                        "R0A 0W0",
+                        "R0A 0L2",
+                        "R0A 0M5",
+                        "R0A 0E4",
+                        "R0A 0H7"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Winkler",
+                    "zipcodes": [
+                        "R6W 1J1",
+                        "R6W 1L6",
+                        "R6W 4C2",
+                        "R6W 1T9",
+                        "R6W 3A3"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "St. Adolphe",
+                    "zipcodes": [
+                        "R5A 1A2",
+                        "R5A 2A5",
+                        "R5A 1P9",
+                        "R5A 1B0",
+                        "R5A 1D7"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Rockwood",
+                    "zipcodes": [
+                        "R0C 1N0",
+                        "R0C 2E0",
+                        "R0C 0B0",
+                        "R0C 2S4",
+                        "R0C 2E7"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Kelsey",
+                    "zipcodes": [
+                        "R0J 1C1",
+                        "R0J 1A6",
+                        "R0J 1M0",
+                        "R0J 1S5",
+                        "R0J 1B3"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Birtle",
+                    "zipcodes": [
+                        "R0M 0C0",
+                        "R0M 0H7",
+                        "R0M 0N0",
+                        "R0M 0P3",
+                        "R0M 0X0"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Killarney",
+                    "zipcodes": [
+                        "R0K 1G0",
+                        "R0K 1A2",
+                        "R0K 1J2",
+                        "R0K 1K0",
+                        "R0K 1B3"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Virden",
+                    "zipcodes": [
+                        "R0M 2C0",
+                        "R0M 2A6",
+                        "R0M 1S0",
+                        "R0M 1T7",
+                        "R0M 2S1"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                },
+                {
+                    "cityname": "Baldur",
+                    "zipcodes": [
+                        "R0K 0B0",
+                        "R0K 0C1",
+                        "R0K 0E3",
+                        "R0K 0G2",
+                        "R0K 0F7"
+                    ],
+                    "areacodes": [
+                        "204"
+                    ]
+                }
+            ],
+            "name": "Manitoba"
+        },
+        "New Brunswick": {
+            "cities": [
+                {
+                    "cityname": "Fredericton",
+                    "zipcodes": [
+                        "E3B 1A1",
+                        "E3B 4K3",
+                        "E3B 6L6",
+                        "E3B 5E8",
+                        "E3B 4P5"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Moncton",
+                    "zipcodes": [
+                        "E1C 1A1",
+                        "E1E 1C4",
+                        "E1C 5J4",
+                        "E1A 1M4",
+                        "E1B 3K5"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Saint John",
+                    "zipcodes": [
+                        "E2L 3X6",
+                        "E2M 4G4",
+                        "E2K 4T1",
+                        "E2M 5P2",
+                        "E2R 2X7"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Bathurst",
+                    "zipcodes": [
+                        "E2A 1A2",
+                        "E2A 1G5",
+                        "E2A 1T5",
+                        "E2A 3Z8",
+                        "E2A 2S2"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Edmundston",
+                    "zipcodes": [
+                        "E3V 3Y5",
+                        "E3V 1A5",
+                        "E3V 1P6",
+                        "E3V 1M4",
+                        "E3V 2B7"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Dieppe",
+                    "zipcodes": [
+                        "E1A 1V4",
+                        "E1A 6X1",
+                        "E1A 3B9",
+                        "E1A 4E9",
+                        "E1A 5M4"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Miramichi",
+                    "zipcodes": [
+                        "E1N 1H9",
+                        "E1N 3E9",
+                        "E1N 2T2",
+                        "E1N 3A7",
+                        "E1N 2M4"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Woodstock",
+                    "zipcodes": [
+                        "E7M 1A4",
+                        "E7M 2P4",
+                        "E7M 4H3",
+                        "E7M 2B5",
+                        "E7M 3C6"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Rothesay",
+                    "zipcodes": [
+                        "E2E 2B9",
+                        "E2E 2S7",
+                        "E2E 3B7",
+                        "E2E 3M7",
+                        "E2E 4K1"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Quispamsis",
+                    "zipcodes": [
+                        "E2E 4W7",
+                        "E2E 4P6",
+                        "E2E 5J7",
+                        "E2E 6J4",
+                        "E2E 6S8"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Grand Bay-Westfield",
+                    "zipcodes": [
+                        "E5K 1A1",
+                        "E5K 3B7",
+                        "E5K 4R9",
+                        "E5K 2V6",
+                        "E5K 1S3"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Sackville",
+                    "zipcodes": [
+                        "E4L 1E1",
+                        "E4L 1H2",
+                        "E4L 3M5",
+                        "E4L 2M9",
+                        "E4L 3J1"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Campbellton",
+                    "zipcodes": [
+                        "E3N 1S9",
+                        "E3N 1H7",
+                        "E3N 2L5",
+                        "E3N 2H3",
+                        "E3N 3B8"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Dalhousie",
+                    "zipcodes": [
+                        "E8C 1B5",
+                        "E8C 1A2",
+                        "E8C 1L2",
+                        "E8C 1M1",
+                        "E8C 1C3"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Plaster Rock",
+                    "zipcodes": [
+                        "E7G 2H2",
+                        "E7G 2T2",
+                        "E7G 3B1",
+                        "E7G 2B6",
+                        "E7G 2P5"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "St. Stephen",
+                    "zipcodes": [
+                        "E3L 2B3",
+                        "E3L 1L5",
+                        "E3L 3K4",
+                        "E3L 3C6",
+                        "E3L 1V4"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Richibucto",
+                    "zipcodes": [
+                        "E4W 1L3",
+                        "E4W 1B1",
+                        "E4W 1C4",
+                        "E4W 1R9",
+                        "E4W 1E3"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Shippagan",
+                    "zipcodes": [
+                        "E8S 1K1",
+                        "E8S 1B2",
+                        "E8S 1J5",
+                        "E8S 1P8",
+                        "E8S 1N7"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Caraquet",
+                    "zipcodes": [
+                        "E1W 1A3",
+                        "E1W 1P3",
+                        "E1W 1L8",
+                        "E1W 1S4",
+                        "E1W 1T7"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Grand Falls",
+                    "zipcodes": [
+                        "E3Y 1C1",
+                        "E3Y 1B4",
+                        "E3Y 1L3",
+                        "E3Y 1T6",
+                        "E3Y 2B9"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Lamèque",
+                    "zipcodes": [
+                        "E8T 1M1",
+                        "E8T 1H5",
+                        "E8T 1J6",
+                        "E8T 1R8",
+                        "E8T 1X7"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Cap-Pele",
+                    "zipcodes": [
+                        "E4N 1B7",
+                        "E4N 1S9",
+                        "E4N 1R1",
+                        "E4N 1P5",
+                        "E4N 1Z7"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Harvey",
+                    "zipcodes": [
+                        "E6K 2K5",
+                        "E6K 2R8",
+                        "E6K 2H1",
+                        "E6K 2L5",
+                        "E6K 2S2"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "St. George",
+                    "zipcodes": [
+                        "E5C 3E1",
+                        "E5C 1E8",
+                        "E5C 1P4",
+                        "E5C 1N7",
+                        "E5C 1S9"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Petit-Rocher",
+                    "zipcodes": [
+                        "E8J 1T1",
+                        "E8J 1V2",
+                        "E8J 1R3",
+                        "E8J 1K6",
+                        "E8J 1C4"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Beresford",
+                    "zipcodes": [
+                        "E8K 1A9",
+                        "E8K 1R8",
+                        "E8K 1V4",
+                        "E8K 1N6",
+                        "E8K 1B4"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Neguac",
+                    "zipcodes": [
+                        "E9G 1J7",
+                        "E9G 1P6",
+                        "E9G 1E2",
+                        "E9G 1L8",
+                        "E9G 1R7"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Pokemouche",
+                    "zipcodes": [
+                        "E8P 2C5",
+                        "E8P 2L3",
+                        "E8P 2M4",
+                        "E8P 2S9",
+                        "E8P 2B1"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Saint-Quentin",
+                    "zipcodes": [
+                        "E8A 1H5",
+                        "E8A 1P4",
+                        "E8A 1V1",
+                        "E8A 1K6",
+                        "E8A 1R7"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Aroostook",
+                    "zipcodes": [
+                        "E7C 3J6",
+                        "E7C 1B7",
+                        "E7C 2R5",
+                        "E7C 3B5",
+                        "E7C 3P2"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Tobique Narrows",
+                    "zipcodes": [
+                        "E7H 1L5",
+                        "E7H 1J4",
+                        "E7H 1P1",
+                        "E7H 1V5",
+                        "E7H 2S4"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Grand Manan",
+                    "zipcodes": [
+                        "E5G 1E4",
+                        "E5G 1C9",
+                        "E5G 1X3",
+                        "E5G 1T2",
+                        "E5G 1M4"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Murray Corner",
+                    "zipcodes": [
+                        "E4P 2H4",
+                        "E4P 1V9",
+                        "E4P 1T2",
+                        "E4P 1S5",
+                        "E4P 1L6"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Port Elgin",
+                    "zipcodes": [
+                        "E4M 2Z6",
+                        "E4M 2H3",
+                        "E4M 1M9",
+                        "E4M 1P3",
+                        "E4M 2J1"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Shédiac",
+                    "zipcodes": [
+                        "E4P 2G9",
+                        "E4P 2H3",
+                        "E4P 1V7",
+                        "E4P 2Y5",
+                        "E4P 1N4"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Baie-Sainte-Anne",
+                    "zipcodes": [
+                        "E8B 1H5",
+                        "E8B 2T2",
+                        "E8B 1C7",
+                        "E8B 2L6",
+                        "E8B 1B3"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Rivière-du-Portage",
+                    "zipcodes": [
+                        "E5R 1T3",
+                        "E5R 1V9",
+                        "E5R 1J6",
+                        "E5R 1Z5",
+                        "E5R 1K1"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Miscou",
+                    "zipcodes": [
+                        "E8A 1A2",
+                        "E8A 1K1",
+                        "E8A 1B7",
+                        "E8A 1T4",
+                        "E8A 1E5"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Bouctouche",
+                    "zipcodes": [
+                        "E4S 3G9",
+                        "E4S 1L8",
+                        "E4S 2G1",
+                        "E4S 2B3",
+                        "E4S 1P2"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Tracadie",
+                    "zipcodes": [
+                        "E1X 1M9",
+                        "E1X 1S5",
+                        "E1X 1P8",
+                        "E1X 2H3",
+                        "E1X 2B4"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Saint-Louis-de-Kent",
+                    "zipcodes": [
+                        "E4X 1C6",
+                        "E4X 1B7",
+                        "E4X 1T5",
+                        "E4X 2S1",
+                        "E4X 2P3"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Grande-Digue",
+                    "zipcodes": [
+                        "E4R 4J9",
+                        "E4R 4K6",
+                        "E4R 4H7",
+                        "E4R 4L5",
+                        "E4R 4M3"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Memramcook",
+                    "zipcodes": [
+                        "E4K 3C1",
+                        "E4K 3C3",
+                        "E4K 3H4",
+                        "E4K 3N9",
+                        "E4K 3R7"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                },
+                {
+                    "cityname": "Grande-Baie",
+                    "zipcodes": [
+                        "E2G 2R9",
+                        "E2G 2M7",
+                        "E2G 3S6",
+                        "E2G 3B5",
+                        "E2G 2Z5"
+                    ],
+                    "areacodes": [
+                        "506"
+                    ]
+                }
+            ]
+        },
+        "Newfoundland and Labrador": {
+            "cities": [
+                {
+                    "cityname": "St. John's",
+                    "zipcodes": [
+                        "A1A 1A1",
+                        "A1A 1B2",
+                        "A1A 1K5",
+                        "A1A 1M8",
+                        "A1A 1N9"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "Mount Pearl",
+                    "zipcodes": [
+                        "A1N 1B4",
+                        "A1N 1J2",
+                        "A1N 1P7",
+                        "A1N 4B5",
+                        "A1N 5Y1"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "Conception Bay South",
+                    "zipcodes": [
+                        "A1X 4A5",
+                        "A1X 5B2",
+                        "A1X 6E8",
+                        "A1X 7J5",
+                        "A1X 8D2"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "Corner Brook",
+                    "zipcodes": [
+                        "A2H 1A1",
+                        "A2H 1B4",
+                        "A2H 1N5",
+                        "A2H 3Y9",
+                        "A2H 4X7"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "Gander",
+                    "zipcodes": [
+                        "A1V 1P9",
+                        "A1V 1A2",
+                        "A1V 1C6",
+                        "A1V 1K4",
+                        "A1V 1B5"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "Grand Falls-Windsor",
+                    "zipcodes": [
+                        "A2A 1A4",
+                        "A2A 2S4",
+                        "A2A 3C1",
+                        "A2A 3J2",
+                        "A2A 1V8"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "Happy Valley-Goose Bay",
+                    "zipcodes": [
+                        "A0P 1C0",
+                        "A0P 1B9",
+                        "A0P 1A4",
+                        "A0P 1E8",
+                        "A0P 1K5"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "Labrador City",
+                    "zipcodes": [
+                        "A2V 2K2",
+                        "A2V 1M4",
+                        "A2V 1S5",
+                        "A2V 2H8",
+                        "A2V 2W7"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "Paradise",
+                    "zipcodes": [
+                        "A1L 1A7",
+                        "A1L 0P8",
+                        "A1L 0V6",
+                        "A1L 3A1",
+                        "A1L 3N8"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "Bay Roberts",
+                    "zipcodes": [
+                        "A0E 1G0",
+                        "A0E 1Z4",
+                        "A0E 2S0",
+                        "A0E 2B5",
+                        "A0E 1X7"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "Placentia",
+                    "zipcodes": [
+                        "A0E 2M0",
+                        "A0E 1S0",
+                        "A0E 1Y7",
+                        "A0E 1J9",
+                        "A0E 1Z2"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "Carbonear",
+                    "zipcodes": [
+                        "A1Y 1B2",
+                        "A1Y 1A6",
+                        "A1Y 2L8",
+                        "A1Y 3G3",
+                        "A1Y 3Z9"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "Portugal Cove-St. Philip's",
+                    "zipcodes": [
+                        "A1M 1A3",
+                        "A1M 1C5",
+                        "A1M 1B6",
+                        "A1M 1J8",
+                        "A1M 1S7"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "Springdale",
+                    "zipcodes": [
+                        "A0E 1J0",
+                        "A0E 1B6",
+                        "A0E 1C1",
+                        "A0E 1E7",
+                        "A0E 1Z5"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "Botwood",
+                    "zipcodes": [
+                        "A0E 1E1",
+                        "A0E 1B9",
+                        "A0E 1S2",
+                        "A0E 1T1",
+                        "A0E 1L8"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "L'Anse-au-Loup",
+                    "zipcodes": [
+                        "A0K 3K0",
+                        "A0K 3A5",
+                        "A0K 3Z6",
+                        "A0K 3B7",
+                        "A0K 3C8"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "Twillingate",
+                    "zipcodes": [
+                        "A0E 4M0",
+                        "A0E 4J6",
+                        "A0E 4W5",
+                        "A0E 4V2",
+                        "A0E 4L4"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "Bonavista",
+                    "zipcodes": [
+                        "A0E 1M0",
+                        "A0E 1B9",
+                        "A0E 1Y7",
+                        "A0E 1N3",
+                        "A0E 1C2"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "Grand Bank",
+                    "zipcodes": [
+                        "A0E 1W0",
+                        "A0E 1A2",
+                        "A0E 1E8",
+                        "A0E 1Y6",
+                        "A0E 1C1"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "St. Mary's",
+                    "zipcodes": [
+                        "A0E 2Y0",
+                        "A0E 1Z9",
+                        "A0E 1A9",
+                        "A0E 1J3",
+                        "A0E 1R1"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "Kelligrews",
+                    "zipcodes": [
+                        "A1W 4S2",
+                        "A1W 2M4",
+                        "A1W 4B1",
+                        "A1W 5Z9",
+                        "A1W 3A4"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "Dildo",
+                    "zipcodes": [
+                        "A0E 1P0",
+                        "A0E 1E1",
+                        "A0E 1C9",
+                        "A0E 1Y2",
+                        "A0E 1N1"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "Winterton",
+                    "zipcodes": [
+                        "A0E 1P7",
+                        "A0E 1M3",
+                        "A0E 1K5",
+                        "A0E 1B9",
+                        "A0E 1W3"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "Greenspond",
+                    "zipcodes": [
+                        "A0E 1M8",
+                        "A0E 1K1",
+                        "A0E 1P5",
+                        "A0E 1V6",
+                        "A0E 1R2"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "Little Harbour",
+                    "zipcodes": [
+                        "A0E 1E3",
+                        "A0E 1B6",
+                        "A0E 1J8",
+                        "A0E 1C5",
+                        "A0E 1A2"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                },
+                {
+                    "cityname": "Carter's Cove",
+                    "zipcodes": [
+                        "A0E 2V2",
+                        "A0E 2C4",
+                        "A0E 1X8",
+                        "A0E 1N3",
+                        "A0E 2Z9"
+                    ],
+                    "areacodes": [
+                        "709"
+                    ]
+                }
+            ],
+            "name": "Newfoundland and Labrador"
+        },
+        "Nova Scotia": {
+            "cities": [
+                {
+                    "cityname": "Halifax",
+                    "zipcodes": [
+                        "B3H 0A1",
+                        "B3J 1R9",
+                        "B3K 2X6",
+                        "B3M 1A5",
+                        "B3L 2A2"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Sydney",
+                    "zipcodes": [
+                        "B1P 1S9",
+                        "B1P 5T9",
+                        "B1P 2Y3",
+                        "B1P 1A2",
+                        "B1P 2H6"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Dartmouth",
+                    "zipcodes": [
+                        "B2Y 1C5",
+                        "B2W 3X4",
+                        "B2V 2E5",
+                        "B2Z 4A1",
+                        "B2X 1M4"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Truro",
+                    "zipcodes": [
+                        "B2N 2P6",
+                        "B2N 5Z5",
+                        "B2N 3X3",
+                        "B2N 4C1",
+                        "B2N 1H9"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "New Glasgow",
+                    "zipcodes": [
+                        "B2H 1G3",
+                        "B2H 4C4",
+                        "B2H 3P9",
+                        "B2H 5H1",
+                        "B2H 3M5"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Yarmouth",
+                    "zipcodes": [
+                        "B5A 1Z1",
+                        "B5A 4A7",
+                        "B5A 1B2",
+                        "B5A 1L1",
+                        "B5A 4N8"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Antigonish",
+                    "zipcodes": [
+                        "B2G 2E3",
+                        "B2G 1B4",
+                        "B2G 1V5",
+                        "B2G 2J8",
+                        "B2G 1X9"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Glace Bay",
+                    "zipcodes": [
+                        "B1A 1M6",
+                        "B1A 2C4",
+                        "B1A 2Z1",
+                        "B1A 1N9",
+                        "B1A 2L8"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Bridgewater",
+                    "zipcodes": [
+                        "B4V 1X7",
+                        "B4V 2V3",
+                        "B4V 3J8",
+                        "B4V 2G4",
+                        "B4V 3G5"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Kentville",
+                    "zipcodes": [
+                        "B4N 2C2",
+                        "B4N 3V3",
+                        "B4N 1S7",
+                        "B4N 2S5",
+                        "B4N 2J9"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Wolfville",
+                    "zipcodes": [
+                        "B4P 1S2",
+                        "B4P 1X6",
+                        "B4P 2J7",
+                        "B4P 1H1",
+                        "B4P 2S3"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Digby",
+                    "zipcodes": [
+                        "B0V 1A0",
+                        "B0V 1E0",
+                        "B0V 1G6",
+                        "B0V 1A9",
+                        "B0V 1R2"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Shelburne",
+                    "zipcodes": [
+                        "B0T 1W0",
+                        "B0T 1L0",
+                        "B0T 1R7",
+                        "B0T 1C9",
+                        "B0T 1Y9"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Lunenburg",
+                    "zipcodes": [
+                        "B0J 2C0",
+                        "B0J 2Y0",
+                        "B0J 1E0",
+                        "B0J 1E8",
+                        "B0J 2J0"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Mahone Bay",
+                    "zipcodes": [
+                        "B0J 2E0",
+                        "B0J 2G0",
+                        "B0J 1X0",
+                        "B0J 2W0",
+                        "B0J 1R9"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Baddeck",
+                    "zipcodes": [
+                        "B0E 1B0",
+                        "B0E 1X0",
+                        "B0E 1G5",
+                        "B0E 1C9",
+                        "B0E 1K4"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Cheticamp",
+                    "zipcodes": [
+                        "B0E 1H0",
+                        "B0E 1K1",
+                        "B0E 1M0",
+                        "B0E 1X3",
+                        "B0E 1N8"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Pictou",
+                    "zipcodes": [
+                        "B0K 1H0",
+                        "B0K 1V0",
+                        "B0K 1H3",
+                        "B0K 1X0",
+                        "B0K 1C9"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Port Hawkesbury",
+                    "zipcodes": [
+                        "B9A 1S3",
+                        "B9A 1X0",
+                        "B9A 1B2",
+                        "B9A 1Z4",
+                        "B9A 1K7"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Louisbourg",
+                    "zipcodes": [
+                        "B1C 1S4",
+                        "B1C 1H5",
+                        "B1C 1M8",
+                        "B1C 1P7",
+                        "B1C 1K9"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "East Hants",
+                    "zipcodes": [
+                        "B2T 1A9",
+                        "B2T 1S5",
+                        "B2T 1K3",
+                        "B2T 1G1",
+                        "B2T 1X7"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Inverness",
+                    "zipcodes": [
+                        "B0E 1N0",
+                        "B0E 1E8",
+                        "B0E 1T3",
+                        "B0E 1Z1",
+                        "B0E 1X6"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Margaree",
+                    "zipcodes": [
+                        "B0E 1X0",
+                        "B0E 1G5",
+                        "B0E 1V2",
+                        "B0E 1R9",
+                        "B0E 1M4"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Whycocomagh",
+                    "zipcodes": [
+                        "B0E 3M0",
+                        "B0E 3C6",
+                        "B0E 3K1",
+                        "B0E 3A7",
+                        "B0E 3J5"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Antigonish",
+                    "zipcodes": [
+                        "B2G 2E3",
+                        "B2G 1B4",
+                        "B2G 1V5",
+                        "B2G 2J8",
+                        "B2G 1X9"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                }
+            ],
+            "name": "Nova Scotia"
+        },
+        "Ontario": {
+            "cities": [
+                {
+                    "cityname": "Toronto",
+                    "zipcodes": [
+                        "M5A 1A1",
+                        "M5B 2K3",
+                        "M5C 2C4",
+                        "M5E 1V8",
+                        "M5H 2N2"
+                    ],
+                    "areacodes": [
+                        "416",
+                        "647"
+                    ]
+                },
+                {
+                    "cityname": "Ottawa",
+                    "zipcodes": [
+                        "K1A 0B1",
+                        "K1A 1A2",
+                        "K1A 1L2",
+                        "K2P 1A5",
+                        "K2J 4R2"
+                    ],
+                    "areacodes": [
+                        "613",
+                        "343"
+                    ]
+                },
+                {
+                    "cityname": "Mississauga",
+                    "zipcodes": [
+                        "L5A 1A1",
+                        "L5B 2T3",
+                        "L5M 1A4",
+                        "L5N 1P6",
+                        "L5R 3K8"
+                    ],
+                    "areacodes": [
+                        "905",
+                        "289"
+                    ]
+                },
+                {
+                    "cityname": "Brampton",
+                    "zipcodes": [
+                        "L6P 0A1",
+                        "L6R 2W3",
+                        "L6V 1N1",
+                        "L6X 1J9",
+                        "L6S 5B3"
+                    ],
+                    "areacodes": [
+                        "905",
+                        "289"
+                    ]
+                },
+                {
+                    "cityname": "Hamilton",
+                    "zipcodes": [
+                        "L8N 1A1",
+                        "L8L 3E1",
+                        "L8W 3V6",
+                        "L9C 1T4",
+                        "L9G 1X3"
+                    ],
+                    "areacodes": [
+                        "905",
+                        "289"
+                    ]
+                },
+                {
+                    "cityname": "London",
+                    "zipcodes": [
+                        "N5V 2M8",
+                        "N5Y 1A1",
+                        "N6A 5K7",
+                        "N6C 1E5",
+                        "N6G 2P5"
+                    ],
+                    "areacodes": [
+                        "519"
+                    ]
+                },
+                {
+                    "cityname": "Kitchener",
+                    "zipcodes": [
+                        "N2B 2A2",
+                        "N2C 1V1",
+                        "N2E 2X2",
+                        "N2G 1A2",
+                        "N2H 1H1"
+                    ],
+                    "areacodes": [
+                        "519",
+                        "226"
+                    ]
+                },
+                {
+                    "cityname": "Windsor",
+                    "zipcodes": [
+                        "N8X 1S7",
+                        "N9A 1A1",
+                        "N9B 3L4",
+                        "N8Y 4X2",
+                        "N8T 1B5"
+                    ],
+                    "areacodes": [
+                        "519"
+                    ]
+                },
+                {
+                    "cityname": "Oshawa",
+                    "zipcodes": [
+                        "L1G 1S5",
+                        "L1H 7P1",
+                        "L1K 2X3",
+                        "L1J 4A3",
+                        "L1L 0A1"
+                    ],
+                    "areacodes": [
+                        "905",
+                        "289"
+                    ]
+                },
+                {
+                    "cityname": "Barrie",
+                    "zipcodes": [
+                        "L4M 5W4",
+                        "L4N 5V4",
+                        "L4M 2C3",
+                        "L4N 7T6",
+                        "L4M 4V5"
+                    ],
+                    "areacodes": [
+                        "705"
+                    ]
+                },
+                {
+                    "cityname": "St. Catharines",
+                    "zipcodes": [
+                        "L2M 6P6",
+                        "L2R 2M3",
+                        "L2S 1X6",
+                        "L2T 3A7",
+                        "L2P 1B5"
+                    ],
+                    "areacodes": [
+                        "905"
+                    ]
+                },
+                {
+                    "cityname": "Sudbury",
+                    "zipcodes": [
+                        "P3A 1A5",
+                        "P3B 4X4",
+                        "P3C 2J8",
+                        "P3E 5K1",
+                        "P3B 1M5"
+                    ],
+                    "areacodes": [
+                        "705"
+                    ]
+                },
+                {
+                    "cityname": "Thunder Bay",
+                    "zipcodes": [
+                        "P7B 3A3",
+                        "P7C 2K1",
+                        "P7A 1A4",
+                        "P7E 5M5",
+                        "P7B 6E3"
+                    ],
+                    "areacodes": [
+                        "807"
+                    ]
+                },
+                {
+                    "cityname": "Ajax",
+                    "zipcodes": [
+                        "L1S 1G5",
+                        "L1T 1Y1",
+                        "L1Z 1J7",
+                        "L1S 2J4",
+                        "L1S 3V5"
+                    ],
+                    "areacodes": [
+                        "905"
+                    ]
+                },
+                {
+                    "cityname": "Pickering",
+                    "zipcodes": [
+                        "L1V 1G1",
+                        "L1X 1G6",
+                        "L1Y 1S1",
+                        "L1Z 1H3",
+                        "L1W 3V9"
+                    ],
+                    "areacodes": [
+                        "905"
+                    ]
+                },
+                {
+                    "cityname": "Milton",
+                    "zipcodes": [
+                        "L9T 1P5",
+                        "L9T 6P7",
+                        "L9T 4Z1",
+                        "L9T 0A7",
+                        "L9T 2J6"
+                    ],
+                    "areacodes": [
+                        "905"
+                    ]
+                },
+                {
+                    "cityname": "York",
+                    "zipcodes": [
+                        "M6A 1Z4",
+                        "M6E 3P6",
+                        "M6K 2L5",
+                        "M6J 1Y2",
+                        "M6N 3N4"
+                    ],
+                    "areacodes": [
+                        "416",
+                        "647"
+                    ]
+                },
+                {
+                    "cityname": "Kingston",
+                    "zipcodes": [
+                        "K7L 1A1",
+                        "K7M 2E9",
+                        "K7P 2Y5",
+                        "K7K 1S4",
+                        "K7L 3X5"
+                    ],
+                    "areacodes": [
+                        "613"
+                    ]
+                },
+                {
+                    "cityname": "Cornwall",
+                    "zipcodes": [
+                        "K6H 1G1",
+                        "K6J 5S7",
+                        "K6K 1Y7",
+                        "K6H 5X9",
+                        "K6J 4C3"
+                    ],
+                    "areacodes": [
+                        "613"
+                    ]
+                },
+                {
+                    "cityname": "Niagara Falls",
+                    "zipcodes": [
+                        "L2E 1H3",
+                        "L2G 3Y3",
+                        "L2H 1G5",
+                        "L2E 6X8",
+                        "L2J 3X4"
+                    ],
+                    "areacodes": [
+                        "905"
+                    ]
+                },
+                {
+                    "cityname": "Guelph",
+                    "zipcodes": [
+                        "N1G 1E9",
+                        "N1H 5T6",
+                        "N1G 2X7",
+                        "N1E 4A4",
+                        "N1K 1B4"
+                    ],
+                    "areacodes": [
+                        "519"
+                    ]
+                },
+                {
+                    "cityname": "Waterloo",
+                    "zipcodes": [
+                        "N2L 3G1",
+                        "N2J 4T1",
+                        "N2K 3C7",
+                        "N2V 2S9",
+                        "N2L 6J1"
+                    ],
+                    "areacodes": [
+                        "519"
+                    ]
+                },
+                {
+                    "cityname": "Burlington",
+                    "zipcodes": [
+                        "L7R 1X1",
+                        "L7L 4V6",
+                        "L7M 4X6",
+                        "L7N 2M7",
+                        "L7P 5A1"
+                    ],
+                    "areacodes": [
+                        "905"
+                    ]
+                },
+                {
+                    "cityname": "Richmond Hill",
+                    "zipcodes": [
+                        "L4C 4K3",
+                        "L4B 3K1",
+                        "L4C 5G1",
+                        "L4S 1Y5",
+                        "L4E 1A6"
+                    ],
+                    "areacodes": [
+                        "905"
+                    ]
+                },
+                {
+                    "cityname": "Scarborough",
+                    "zipcodes": [
+                        "M1B 3S4",
+                        "M1C 1N4",
+                        "M1G 1Z4",
+                        "M1H 3E3",
+                        "M1J 1X3"
+                    ],
+                    "areacodes": [
+                        "416",
+                        "647"
+                    ]
+                },
+                {
+                    "cityname": "Vaughan",
+                    "zipcodes": [
+                        "L4H 1B8",
+                        "L4K 5S7",
+                        "L4J 8X4",
+                        "L4K 2R5",
+                        "L4J 1G2"
+                    ],
+                    "areacodes": [
+                        "905"
+                    ]
+                },
+                {
+                    "cityname": "Aurora",
+                    "zipcodes": [
+                        "L4G 1G3",
+                        "L4G 1M4",
+                        "L4G 3G4",
+                        "L4G 6H1",
+                        "L4G 7X3"
+                    ],
+                    "areacodes": [
+                        "905"
+                    ]
+                },
+                {
+                    "cityname": "Newmarket",
+                    "zipcodes": [
+                        "L3Y 1K1",
+                        "L3Y 3Y9",
+                        "L3Y 2M5",
+                        "L3Y 5E2",
+                        "L3X 2J1"
+                    ],
+                    "areacodes": [
+                        "905"
+                    ]
+                },
+                {
+                    "cityname": "Caledon",
+                    "zipcodes": [
+                        "L7C 1J3",
+                        "L7C 3X7",
+                        "L7C 2X2",
+                        "L7C 1N9",
+                        "L7K 2E4"
+                    ],
+                    "areacodes": [
+                        "905"
+                    ]
+                },
+                {
+                    "cityname": "Georgina",
+                    "zipcodes": [
+                        "L4P 3C4",
+                        "L4P 1P2",
+                        "L4P 3B7",
+                        "L4P 2T1",
+                        "L4P 1G5"
+                    ],
+                    "areacodes": [
+                        "905"
+                    ]
+                },
+                {
+                    "cityname": "Simcoe",
+                    "zipcodes": [
+                        "N3Y 1P6",
+                        "N3Y 1C5",
+                        "N3Y 2A7",
+                        "N3Y 4A6",
+                        "N3Y 2N1"
+                    ],
+                    "areacodes": [
+                        "519"
+                    ]
+                },
+                {
+                    "cityname": "Chatham-Kent",
+                    "zipcodes": [
+                        "N7M 1L8",
+                        "N7M 2B7",
+                        "N7M 3X3",
+                        "N7M 3V5",
+                        "N7M 4A5"
+                    ],
+                    "areacodes": [
+                        "519"
+                    ]
+                },
+                {
+                    "cityname": "Peterborough",
+                    "zipcodes": [
+                        "K9H 1E1",
+                        "K9J 1T7",
+                        "K9L 1P8",
+                        "K9J 3N5",
+                        "K9J 6X4"
+                    ],
+                    "areacodes": [
+                        "705"
+                    ]
+                },
+                {
+                    "cityname": "Sault Ste. Marie",
+                    "zipcodes": [
+                        "P6A 1A3",
+                        "P6B 1B2",
+                        "P6C 3J2",
+                        "P6A 4V1",
+                        "P6B 2P5"
+                    ],
+                    "areacodes": [
+                        "705"
+                    ]
+                },
+                {
+                    "cityname": "Timmins",
+                    "zipcodes": [
+                        "P4N 7C6",
+                        "P4N 2A7",
+                        "P4N 1E3",
+                        "P4N 6A2",
+                        "P4N 1P7"
+                    ],
+                    "areacodes": [
+                        "705"
+                    ]
+                },
+                {
+                    "cityname": "North Bay",
+                    "zipcodes": [
+                        "P1B 8J5",
+                        "P1B 7W8",
+                        "P1B 4M6",
+                        "P1B 5H1",
+                        "P1B 6X5"
+                    ],
+                    "areacodes": [
+                        "705"
+                    ]
+                },
+                {
+                    "cityname": "Bracebridge",
+                    "zipcodes": [
+                        "P1L 1S4",
+                        "P1L 1L9",
+                        "P1L 1G1",
+                        "P1L 1A5",
+                        "P1L 1C2"
+                    ],
+                    "areacodes": [
+                        "705"
+                    ]
+                },
+                {
+                    "cityname": "Collingwood",
+                    "zipcodes": [
+                        "L9Y 4S3",
+                        "L9Y 4E2",
+                        "L9Y 3Z5",
+                        "L9Y 5H5",
+                        "L9Y 3X3"
+                    ],
+                    "areacodes": [
+                        "705"
+                    ]
+                }
+            ],
+            "name": "Ontario"
+        },
+        "Prince Edward Island": {
+            "cities": [
+                {
+                    "cityname": "Charlottetown",
+                    "zipcodes": [
+                        "C1A 1A1",
+                        "C1A 4P1",
+                        "C1E 1E7",
+                        "C1A 3P3",
+                        "C1A 2P5"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Summerside",
+                    "zipcodes": [
+                        "C1N 1E9",
+                        "C1N 4V2",
+                        "C1N 5K7",
+                        "C1N 1V5",
+                        "C1N 2Z5"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Cornwall",
+                    "zipcodes": [
+                        "C0A 1H0",
+                        "C0A 1J0",
+                        "C0A 1B0",
+                        "C0A 1C0",
+                        "C0A 1L0"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Stratford",
+                    "zipcodes": [
+                        "C1B 2V3",
+                        "C1B 2S6",
+                        "C1B 2N7",
+                        "C1B 2M9",
+                        "C1B 1P4"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Montague",
+                    "zipcodes": [
+                        "C0A 1R0",
+                        "C0A 1P0",
+                        "C0A 1M0",
+                        "C0A 1S0",
+                        "C0A 1K0"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Tignish",
+                    "zipcodes": [
+                        "C0B 2B0",
+                        "C0B 2E0",
+                        "C0B 2J0",
+                        "C0B 2C0",
+                        "C0B 2D0"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Borden-Carleton",
+                    "zipcodes": [
+                        "C0B 1X0",
+                        "C0B 1W0",
+                        "C0B 1Y0",
+                        "C0B 1Z0",
+                        "C0B 1P0"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Kensington",
+                    "zipcodes": [
+                        "C0B 1M0",
+                        "C0B 1K0",
+                        "C0B 1G0",
+                        "C0B 1F0",
+                        "C0B 1D0"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Souris",
+                    "zipcodes": [
+                        "C0A 2B0",
+                        "C0A 2A0",
+                        "C0A 2C0",
+                        "C0A 2D0",
+                        "C0A 2E0"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Clyde River",
+                    "zipcodes": [
+                        "C0A 1H1",
+                        "C0A 1J1",
+                        "C0A 1G1",
+                        "C0A 1F1",
+                        "C0A 1E1"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Georgetown",
+                    "zipcodes": [
+                        "C0A 1P0",
+                        "C0A 1S0",
+                        "C0A 1B0",
+                        "C0A 1C0",
+                        "C0A 1D0"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Albion",
+                    "zipcodes": [
+                        "C0A 1T0",
+                        "C0A 1R0",
+                        "C0A 1Q0",
+                        "C0A 1P0",
+                        "C0A 1V0"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Hunter River",
+                    "zipcodes": [
+                        "C0A 1G0",
+                        "C0A 1H0",
+                        "C0A 1F0",
+                        "C0A 1B0",
+                        "C0A 1C0"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Cumberland",
+                    "zipcodes": [
+                        "C0A 1Y0",
+                        "C0A 1X0",
+                        "C0A 1W0",
+                        "C0A 1Z0",
+                        "C0A 1V0"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Murray River",
+                    "zipcodes": [
+                        "C0A 1R1",
+                        "C0A 1T1",
+                        "C0A 1S1",
+                        "C0A 1V1",
+                        "C0A 1U1"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Victoria",
+                    "zipcodes": [
+                        "C0A 1B1",
+                        "C0A 1C1",
+                        "C0A 1D1",
+                        "C0A 1E1",
+                        "C0A 1F1"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Brudenell",
+                    "zipcodes": [
+                        "C0A 1Z1",
+                        "C0A 1Y1",
+                        "C0A 1X1",
+                        "C0A 1W1",
+                        "C0A 1V1"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Morell",
+                    "zipcodes": [
+                        "C0A 1H1",
+                        "C0A 1G1",
+                        "C0A 1F1",
+                        "C0A 1E1",
+                        "C0A 1D1"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Crapaud",
+                    "zipcodes": [
+                        "C0A 1J0",
+                        "C0A 1K0",
+                        "C0A 1L0",
+                        "C0A 1M0",
+                        "C0A 1N0"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Avonlea",
+                    "zipcodes": [
+                        "C0A 1V0",
+                        "C0A 1U0",
+                        "C0A 1W0",
+                        "C0A 1X0",
+                        "C0A 1Y0"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Tignish",
+                    "zipcodes": [
+                        "C0B 2A0",
+                        "C0B 2B0",
+                        "C0B 2C0",
+                        "C0B 2D0",
+                        "C0B 2E0"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Indian River",
+                    "zipcodes": [
+                        "C0A 1L0",
+                        "C0A 1M0",
+                        "C0A 1N0",
+                        "C0A 1O0",
+                        "C0A 1P0"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "York",
+                    "zipcodes": [
+                        "C0A 1G0",
+                        "C0A 1F0",
+                        "C0A 1E0",
+                        "C0A 1D0",
+                        "C0A 1C0"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Souris",
+                    "zipcodes": [
+                        "C0A 2A0",
+                        "C0A 2B0",
+                        "C0A 2C0",
+                        "C0A 2D0",
+                        "C0A 2E0"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                },
+                {
+                    "cityname": "Greenwich",
+                    "zipcodes": [
+                        "C0A 1V0",
+                        "C0A 1W0",
+                        "C0A 1X0",
+                        "C0A 1Y0",
+                        "C0A 1Z0"
+                    ],
+                    "areacodes": [
+                        "902"
+                    ]
+                }
+            ],
+            "name": "Prince Edward Island"
+        },
+        "Quebec": {
+            "cities": [
+                {
+                    "cityname": "Quebec City",
+                    "zipcodes": [
+                        "G1A 1A1",
+                        "G1A 2A1",
+                        "G1A 3A1",
+                        "G1A 4A1",
+                        "G1A 5A1"
+                    ],
+                    "areacodes": [
+                        "418"
+                    ]
+                },
+                {
+                    "cityname": "Montreal",
+                    "zipcodes": [
+                        "H1A 1A1",
+                        "H1A 2A1",
+                        "H1A 3A1",
+                        "H1A 4A1",
+                        "H1A 5A1"
+                    ],
+                    "areacodes": [
+                        "514",
+                        "438"
+                    ]
+                },
+                {
+                    "cityname": "Laval",
+                    "zipcodes": [
+                        "H7A 1A1",
+                        "H7A 2A1",
+                        "H7A 3A1",
+                        "H7A 4A1",
+                        "H7A 5A1"
+                    ],
+                    "areacodes": [
+                        "450",
+                        "514"
+                    ]
+                },
+                {
+                    "cityname": "Gatineau",
+                    "zipcodes": [
+                        "J8T 1A1",
+                        "J8T 2A1",
+                        "J8T 3A1",
+                        "J8T 4A1",
+                        "J8T 5A1"
+                    ],
+                    "areacodes": [
+                        "819"
+                    ]
+                },
+                {
+                    "cityname": "Sherbrooke",
+                    "zipcodes": [
+                        "J1E 1A1",
+                        "J1E 2A1",
+                        "J1E 3A1",
+                        "J1E 4A1",
+                        "J1E 5A1"
+                    ],
+                    "areacodes": [
+                        "819"
+                    ]
+                },
+                {
+                    "cityname": "Trois-Rivières",
+                    "zipcodes": [
+                        "G9A 1A1",
+                        "G9A 2A1",
+                        "G9A 3A1",
+                        "G9A 4A1",
+                        "G9A 5A1"
+                    ],
+                    "areacodes": [
+                        "819"
+                    ]
+                },
+                {
+                    "cityname": "Quebec City",
+                    "zipcodes": [
+                        "G1A 1A1",
+                        "G1A 1B1",
+                        "G1A 2A2",
+                        "G1A 3B1",
+                        "G1A 4C2"
+                    ],
+                    "areacodes": [
+                        "418"
+                    ]
+                },
+                {
+                    "cityname": "Drummondville",
+                    "zipcodes": [
+                        "J2C 1A1",
+                        "J2C 2A1",
+                        "J2C 3A1",
+                        "J2C 4A1",
+                        "J2C 5A1"
+                    ],
+                    "areacodes": [
+                        "819"
+                    ]
+                },
+                {
+                    "cityname": "Saint-Jean-sur-Richelieu",
+                    "zipcodes": [
+                        "J3B 1A1",
+                        "J3B 2A1",
+                        "J3B 3A1",
+                        "J3B 4A1",
+                        "J3B 5A1"
+                    ],
+                    "areacodes": [
+                        "450"
+                    ]
+                },
+                {
+                    "cityname": "Brossard",
+                    "zipcodes": [
+                        "J4Z 1A1",
+                        "J4Z 2A1",
+                        "J4Z 3A1",
+                        "J4Z 4A1",
+                        "J4Z 5A1"
+                    ],
+                    "areacodes": [
+                        "450"
+                    ]
+                },
+                {
+                    "cityname": "Saguenay",
+                    "zipcodes": [
+                        "G7H 1A1",
+                        "G7H 2A1",
+                        "G7H 3A1",
+                        "G7H 4A1",
+                        "G7H 5A1"
+                    ],
+                    "areacodes": [
+                        "418"
+                    ]
+                },
+                {
+                    "cityname": "Rouyn-Noranda",
+                    "zipcodes": [
+                        "J9X 1A1",
+                        "J9X 2A1",
+                        "J9X 3A1",
+                        "J9X 4A1",
+                        "J9X 5A1"
+                    ],
+                    "areacodes": [
+                        "819"
+                    ]
+                },
+                {
+                    "cityname": "Chicoutimi",
+                    "zipcodes": [
+                        "G7J 1A1",
+                        "G7J 2A1",
+                        "G7J 3A1",
+                        "G7J 4A1",
+                        "G7J 5A1"
+                    ],
+                    "areacodes": [
+                        "418"
+                    ]
+                },
+                {
+                    "cityname": "Shawinigan",
+                    "zipcodes": [
+                        "G9N 1A1",
+                        "G9N 2A1",
+                        "G9N 3A1",
+                        "G9N 4A1",
+                        "G9N 5A1"
+                    ],
+                    "areacodes": [
+                        "819"
+                    ]
+                },
+                {
+                    "cityname": "Magog",
+                    "zipcodes": [
+                        "J1X 1A1",
+                        "J1X 2A1",
+                        "J1X 3A1",
+                        "J1X 4A1",
+                        "J1X 5A1"
+                    ],
+                    "areacodes": [
+                        "819"
+                    ]
+                },
+                {
+                    "cityname": "Lévis",
+                    "zipcodes": [
+                        "G6V 1A1",
+                        "G6V 2A1",
+                        "G6V 3A1",
+                        "G6V 4A1",
+                        "G6V 5A1"
+                    ],
+                    "areacodes": [
+                        "418"
+                    ]
+                },
+                {
+                    "cityname": "Val-d'Or",
+                    "zipcodes": [
+                        "J9P 1A1",
+                        "J9P 2A1",
+                        "J9P 3A1",
+                        "J9P 4A1",
+                        "J9P 5A1"
+                    ],
+                    "areacodes": [
+                        "819"
+                    ]
+                },
+                {
+                    "cityname": "Boisbriand",
+                    "zipcodes": [
+                        "J7G 1A1",
+                        "J7G 2A1",
+                        "J7G 3A1",
+                        "J7G 4A1",
+                        "J7G 5A1"
+                    ],
+                    "areacodes": [
+                        "450"
+                    ]
+                },
+                {
+                    "cityname": "Blainville",
+                    "zipcodes": [
+                        "J7C 1A1",
+                        "J7C 2A1",
+                        "J7C 3A1",
+                        "J7C 4A1",
+                        "J7C 5A1"
+                    ],
+                    "areacodes": [
+                        "450"
+                    ]
+                },
+                {
+                    "cityname": "Longueuil",
+                    "zipcodes": [
+                        "J4K 1A1",
+                        "J4K 2A1",
+                        "J4K 3A1",
+                        "J4K 4A1",
+                        "J4K 5A1"
+                    ],
+                    "areacodes": [
+                        "450",
+                        "514"
+                    ]
+                },
+                {
+                    "cityname": "Saint-Jérôme",
+                    "zipcodes": [
+                        "J7Z 1A1",
+                        "J7Z 2A1",
+                        "J7Z 3A1",
+                        "J7Z 4A1",
+                        "J7Z 5A1"
+                    ],
+                    "areacodes": [
+                        "450"
+                    ]
+                },
+                {
+                    "cityname": "Repentigny",
+                    "zipcodes": [
+                        "J5Y 1A1",
+                        "J5Y 2A1",
+                        "J5Y 3A1",
+                        "J5Y 4A1",
+                        "J5Y 5A1"
+                    ],
+                    "areacodes": [
+                        "450"
+                    ]
+                },
+                {
+                    "cityname": "Pointe-Claire",
+                    "zipcodes": [
+                        "H9R 1A1",
+                        "H9R 2A1",
+                        "H9R 3A1",
+                        "H9R 4A1",
+                        "H9R 5A1"
+                    ],
+                    "areacodes": [
+                        "514"
+                    ]
+                },
+                {
+                    "cityname": "Bécancour",
+                    "zipcodes": [
+                        "G9H 1A1",
+                        "G9H 2A1",
+                        "G9H 3A1",
+                        "G9H 4A1",
+                        "G9H 5A1"
+                    ],
+                    "areacodes": [
+                        "819"
+                    ]
+                },
+                {
+                    "cityname": "Châteauguay",
+                    "zipcodes": [
+                        "J6K 1A1",
+                        "J6K 2A1",
+                        "J6K 3A1",
+                        "J6K 4A1",
+                        "J6K 5A1"
+                    ],
+                    "areacodes": [
+                        "450"
+                    ]
+                },
+                {
+                    "cityname": "Côte-Saint-Luc",
+                    "zipcodes": [
+                        "H4W 1A1",
+                        "H4W 2A1",
+                        "H4W 3A1",
+                        "H4W 4A1",
+                        "H4W 5A1"
+                    ],
+                    "areacodes": [
+                        "514"
+                    ]
+                },
+                {
+                    "cityname": "Vaudreuil-Dorion",
+                    "zipcodes": [
+                        "J7V 1A1",
+                        "J7V 2A1",
+                        "J7V 3A1",
+                        "J7V 4A1",
+                        "J7V 5A1"
+                    ],
+                    "areacodes": [
+                        "450"
+                    ]
+                },
+                {
+                    "cityname": "Saint-Lambert",
+                    "zipcodes": [
+                        "J4P 1A1",
+                        "J4P 2A1",
+                        "J4P 3A1",
+                        "J4P 4A1",
+                        "J4P 5A1"
+                    ],
+                    "areacodes": [
+                        "450"
+                    ]
+                },
+                {
+                    "cityname": "Aylmer",
+                    "zipcodes": [
+                        "J9H 1A1",
+                        "J9H 2A1",
+                        "J9H 3A1",
+                        "J9H 4A1",
+                        "J9H 5A1"
+                    ],
+                    "areacodes": [
+                        "819"
+                    ]
+                },
+                {
+                    "cityname": "Sainte-Thérèse",
+                    "zipcodes": [
+                        "J7E 1A1",
+                        "J7E 2A1",
+                        "J7E 3A1",
+                        "J7E 4A1",
+                        "J7E 5A1"
+                    ],
+                    "areacodes": [
+                        "450"
+                    ]
+                },
+                {
+                    "cityname": "Lachute",
+                    "zipcodes": [
+                        "J8H 1A1",
+                        "J8H 2A1",
+                        "J8H 3A1",
+                        "J8H 4A1",
+                        "J8H 5A1"
+                    ],
+                    "areacodes": [
+                        "450"
+                    ]
+                },
+                {
+                    "cityname": "Hull",
+                    "zipcodes": [
+                        "J8X 1A1",
+                        "J8X 2A1",
+                        "J8X 3A1",
+                        "J8X 4A1",
+                        "J8X 5A1"
+                    ],
+                    "areacodes": [
+                        "819"
+                    ]
+                },
+                {
+                    "cityname": "Lachenaie",
+                    "zipcodes": [
+                        "J6W 1A1",
+                        "J6W 2A1",
+                        "J6W 3A1",
+                        "J6W 4A1",
+                        "J6W 5A1"
+                    ],
+                    "areacodes": [
+                        "450"
+                    ]
+                },
+                {
+                    "cityname": "Saint-Bruno-de-Montarville",
+                    "zipcodes": [
+                        "J3V 1A1",
+                        "J3V 2A1",
+                        "J3V 3A1",
+                        "J3V 4A1",
+                        "J3V 5A1"
+                    ],
+                    "areacodes": [
+                        "450"
+                    ]
+                },
+                {
+                    "cityname": "L'Assomption",
+                    "zipcodes": [
+                        "J5W 1A1",
+                        "J5W 2A1",
+                        "J5W 3A1",
+                        "J5W 4A1",
+                        "J5W 5A1"
+                    ],
+                    "areacodes": [
+                        "450"
+                    ]
+                },
+                {
+                    "cityname": "Cowansville",
+                    "zipcodes": [
+                        "J2K 1A1",
+                        "J2K 2A1",
+                        "J2K 3A1",
+                        "J2K 4A1",
+                        "J2K 5A1"
+                    ],
+                    "areacodes": [
+                        "450"
+                    ]
+                },
+                {
+                    "cityname": "Saint-Hyacinthe",
+                    "zipcodes": [
+                        "J2S 1A1",
+                        "J2S 2A1",
+                        "J2S 3A1",
+                        "J2S 4A1",
+                        "J2S 5A1"
+                    ],
+                    "areacodes": [
+                        "450"
+                    ]
+                }
+            ],
+            "name": "Quebec"
+        },
+        "Saskatchewan": {
+            "cities": [
+                {
+                    "cityname": "Saskatoon",
+                    "zipcodes": [
+                        "S7K 1A1",
+                        "S7K 2A1",
+                        "S7K 3A1",
+                        "S7K 4A1",
+                        "S7K 5A1"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Regina",
+                    "zipcodes": [
+                        "S4P 1A1",
+                        "S4P 2A1",
+                        "S4P 3A1",
+                        "S4P 4A1",
+                        "S4P 5A1"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Prince Albert",
+                    "zipcodes": [
+                        "S6V 1A1",
+                        "S6V 2A1",
+                        "S6V 3A1",
+                        "S6V 4A1",
+                        "S6V 5A1"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Moose Jaw",
+                    "zipcodes": [
+                        "S6H 1A1",
+                        "S6H 2A1",
+                        "S6H 3A1",
+                        "S6H 4A1",
+                        "S6H 5A1"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Yorkton",
+                    "zipcodes": [
+                        "S3N 1A1",
+                        "S3N 2A1",
+                        "S3N 3A1",
+                        "S3N 4A1",
+                        "S3N 5A1"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Swift Current",
+                    "zipcodes": [
+                        "S9H 1A1",
+                        "S9H 2A1",
+                        "S9H 3A1",
+                        "S9H 4A1",
+                        "S9H 5A1"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Estevan",
+                    "zipcodes": [
+                        "S4A 1A1",
+                        "S4A 2A1",
+                        "S4A 3A1",
+                        "S4A 4A1",
+                        "S4A 5A1"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "North Battleford",
+                    "zipcodes": [
+                        "S9A 1A1",
+                        "S9A 2A1",
+                        "S9A 3A1",
+                        "S9A 4A1",
+                        "S9A 5A1"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Kindersley",
+                    "zipcodes": [
+                        "S0L 1S0",
+                        "S0L 1S1",
+                        "S0L 1S2",
+                        "S0L 1S3",
+                        "S0L 1S4"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Weyburn",
+                    "zipcodes": [
+                        "S4H 1A1",
+                        "S4H 2A1",
+                        "S4H 3A1",
+                        "S4H 4A1",
+                        "S4H 5A1"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Prince Albert",
+                    "zipcodes": [
+                        "S6V 1A1",
+                        "S6V 2A1",
+                        "S6V 3A1",
+                        "S6V 4A1",
+                        "S6V 5A1"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Lanigan",
+                    "zipcodes": [
+                        "S0K 2M0",
+                        "S0K 2M1",
+                        "S0K 2M2",
+                        "S0K 2M3",
+                        "S0K 2M4"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Melfort",
+                    "zipcodes": [
+                        "S0E 1A0",
+                        "S0E 1A1",
+                        "S0E 1A2",
+                        "S0E 1A3",
+                        "S0E 1A4"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Humboldt",
+                    "zipcodes": [
+                        "S0K 2A0",
+                        "S0K 2A1",
+                        "S0K 2A2",
+                        "S0K 2A3",
+                        "S0K 2A4"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Tisdale",
+                    "zipcodes": [
+                        "S0E 1T0",
+                        "S0E 1T1",
+                        "S0E 1T2",
+                        "S0E 1T3",
+                        "S0E 1T4"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Shellbrook",
+                    "zipcodes": [
+                        "S0J 2E0",
+                        "S0J 2E1",
+                        "S0J 2E2",
+                        "S0J 2E3",
+                        "S0J 2E4"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Creighton",
+                    "zipcodes": [
+                        "S0P 0A0",
+                        "S0P 0A1",
+                        "S0P 0A2",
+                        "S0P 0A3",
+                        "S0P 0A4"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Carlyle",
+                    "zipcodes": [
+                        "S0C 0R0",
+                        "S0C 0R1",
+                        "S0C 0R2",
+                        "S0C 0R3",
+                        "S0C 0R4"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Lumsden",
+                    "zipcodes": [
+                        "S0G 3C0",
+                        "S0G 3C1",
+                        "S0G 3C2",
+                        "S0G 3C3",
+                        "S0G 3C4"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Regina Beach",
+                    "zipcodes": [
+                        "S0G 4C0",
+                        "S0G 4C1",
+                        "S0G 4C2",
+                        "S0G 4C3",
+                        "S0G 4C4"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Hodgeville",
+                    "zipcodes": [
+                        "S0H 2A0",
+                        "S0H 2A1",
+                        "S0H 2A2",
+                        "S0H 2A3",
+                        "S0H 2A4"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Nipawin",
+                    "zipcodes": [
+                        "S0E 1E0",
+                        "S0E 1E1",
+                        "S0E 1E2",
+                        "S0E 1E3",
+                        "S0E 1E4"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Wadena",
+                    "zipcodes": [
+                        "S0A 4J0",
+                        "S0A 4J1",
+                        "S0A 4J2",
+                        "S0A 4J3",
+                        "S0A 4J4"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Redvers",
+                    "zipcodes": [
+                        "S0C 2H0",
+                        "S0C 2H1",
+                        "S0C 2H2",
+                        "S0C 2H3",
+                        "S0C 2H4"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Biggar",
+                    "zipcodes": [
+                        "S0K 0M0",
+                        "S0K 0M1",
+                        "S0K 0M2",
+                        "S0K 0M3",
+                        "S0K 0M4"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Leroy",
+                    "zipcodes": [
+                        "S0K 2P0",
+                        "S0K 2P1",
+                        "S0K 2P2",
+                        "S0K 2P3",
+                        "S0K 2P4"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Assiniboia",
+                    "zipcodes": [
+                        "S0H 0B0",
+                        "S0H 0B1",
+                        "S0H 0B2",
+                        "S0H 0B3",
+                        "S0H 0B4"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Wynyard",
+                    "zipcodes": [
+                        "S0A 4T0",
+                        "S0A 4T1",
+                        "S0A 4T2",
+                        "S0A 4T3",
+                        "S0A 4T4"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Waldheim",
+                    "zipcodes": [
+                        "S0K 4B0",
+                        "S0K 4B1",
+                        "S0K 4B2",
+                        "S0K 4B3",
+                        "S0K 4B4"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Raymore",
+                    "zipcodes": [
+                        "S0A 3J0",
+                        "S0A 3J1",
+                        "S0A 3J2",
+                        "S0A 3J3",
+                        "S0A 3J4"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Colonsay",
+                    "zipcodes": [
+                        "S0K 0Z0",
+                        "S0K 0Z1",
+                        "S0K 0Z2",
+                        "S0K 0Z3",
+                        "S0K 0Z4"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                },
+                {
+                    "cityname": "Cudworth",
+                    "zipcodes": [
+                        "S0K 1B0",
+                        "S0K 1B1",
+                        "S0K 1B2",
+                        "S0K 1B3",
+                        "S0K 1B4"
+                    ],
+                    "areacodes": [
+                        "306"
+                    ]
+                }
+            ]
+        }
+    },
+    "territories": {
+        "Northwest Territories": {
+            "cities": [
+                {
+                    "cityname": "Yellowknife",
+                    "zipcodes": [
+                        "X1A 1A1",
+                        "X1A 1B1",
+                        "X1A 1C1",
+                        "X1A 1D1",
+                        "X1A 1E1"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Inuvik",
+                    "zipcodes": [
+                        "X0E 0T0",
+                        "X0E 0T1",
+                        "X0E 0T2",
+                        "X0E 0T3",
+                        "X0E 0T4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Fort Smith",
+                    "zipcodes": [
+                        "X0E 0P0",
+                        "X0E 0P1",
+                        "X0E 0P2",
+                        "X0E 0P3",
+                        "X0E 0P4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Hay River",
+                    "zipcodes": [
+                        "X0E 1G0",
+                        "X0E 1G1",
+                        "X0E 1G2",
+                        "X0E 1G3",
+                        "X0E 1G4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Behchoko",
+                    "zipcodes": [
+                        "X0E 0Y0",
+                        "X0E 0Y1",
+                        "X0E 0Y2",
+                        "X0E 0Y3",
+                        "X0E 0Y4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Tuktoyaktuk",
+                    "zipcodes": [
+                        "X0E 1C0",
+                        "X0E 1C1",
+                        "X0E 1C2",
+                        "X0E 1C3",
+                        "X0E 1C4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Fort Simpson",
+                    "zipcodes": [
+                        "X0E 0N0",
+                        "X0E 0N1",
+                        "X0E 0N2",
+                        "X0E 0N3",
+                        "X0E 0N4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Wrigley",
+                    "zipcodes": [
+                        "X0E 1A0",
+                        "X0E 1A1",
+                        "X0E 1A2",
+                        "X0E 1A3",
+                        "X0E 1A4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Lutselk'e",
+                    "zipcodes": [
+                        "X0E 1J0",
+                        "X0E 1J1",
+                        "X0E 1J2",
+                        "X0E 1J3",
+                        "X0E 1J4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Deline",
+                    "zipcodes": [
+                        "X0E 1P0",
+                        "X0E 1P1",
+                        "X0E 1P2",
+                        "X0E 1P3",
+                        "X0E 1P4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Fort Good Hope",
+                    "zipcodes": [
+                        "X0E 0H0",
+                        "X0E 0H1",
+                        "X0E 0H2",
+                        "X0E 0H3",
+                        "X0E 0H4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Paulatuk",
+                    "zipcodes": [
+                        "X0E 1B0",
+                        "X0E 1B1",
+                        "X0E 1B2",
+                        "X0E 1B3",
+                        "X0E 1B4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Arctic Bay",
+                    "zipcodes": [
+                        "X0A 0K0",
+                        "X0A 0K1",
+                        "X0A 0K2",
+                        "X0A 0K3",
+                        "X0A 0K4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Gjoa Haven",
+                    "zipcodes": [
+                        "X0A 1B0",
+                        "X0A 1B1",
+                        "X0A 1B2",
+                        "X0A 1B3",
+                        "X0A 1B4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Iqaluit",
+                    "zipcodes": [
+                        "X0A 0H0",
+                        "X0A 0H1",
+                        "X0A 0H2",
+                        "X0A 0H3",
+                        "X0A 0H4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Baker Lake",
+                    "zipcodes": [
+                        "X0C 0A0",
+                        "X0C 0A1",
+                        "X0C 0A2",
+                        "X0C 0A3",
+                        "X0C 0A4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Kugluktuk",
+                    "zipcodes": [
+                        "X0C 0E0",
+                        "X0C 0E1",
+                        "X0C 0E2",
+                        "X0C 0E3",
+                        "X0C 0E4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Cambridge Bay",
+                    "zipcodes": [
+                        "X0E 0C0",
+                        "X0E 0C1",
+                        "X0E 0C2",
+                        "X0E 0C3",
+                        "X0E 0C4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Pond Inlet",
+                    "zipcodes": [
+                        "X0A 0S0",
+                        "X0A 0S1",
+                        "X0A 0S2",
+                        "X0A 0S3",
+                        "X0A 0S4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Rankin Inlet",
+                    "zipcodes": [
+                        "X0C 0G0",
+                        "X0C 0G1",
+                        "X0C 0G2",
+                        "X0C 0G3",
+                        "X0C 0G4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Kimmirut",
+                    "zipcodes": [
+                        "X0A 0N0",
+                        "X0A 0N1",
+                        "X0A 0N2",
+                        "X0A 0N3",
+                        "X0A 0N4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Igloolik",
+                    "zipcodes": [
+                        "X0A 0L0",
+                        "X0A 0L1",
+                        "X0A 0L2",
+                        "X0A 0L3",
+                        "X0A 0L4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Chesterfield Inlet",
+                    "zipcodes": [
+                        "X0C 0Y0",
+                        "X0C 0Y1",
+                        "X0C 0Y2",
+                        "X0C 0Y3",
+                        "X0C 0Y4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Repulse Bay",
+                    "zipcodes": [
+                        "X0C 0S0",
+                        "X0C 0S1",
+                        "X0C 0S2",
+                        "X0C 0S3",
+                        "X0C 0S4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                }
+            ],
+            "name": "Northwest Territories"
+        },
+        "Nunavut": {
+            "cities": [
+                {
+                    "cityname": "Iqaluit",
+                    "zipcodes": [
+                        "X0A 0H0",
+                        "X0A 0H1",
+                        "X0A 0H2",
+                        "X0A 0H3",
+                        "X0A 0H4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Baker Lake",
+                    "zipcodes": [
+                        "X0C 0A0",
+                        "X0C 0A1",
+                        "X0C 0A2",
+                        "X0C 0A3",
+                        "X0C 0A4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Kugluktuk",
+                    "zipcodes": [
+                        "X0C 0E0",
+                        "X0C 0E1",
+                        "X0C 0E2",
+                        "X0C 0E3",
+                        "X0C 0E4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Cambridge Bay",
+                    "zipcodes": [
+                        "X0E 0C0",
+                        "X0E 0C1",
+                        "X0E 0C2",
+                        "X0E 0C3",
+                        "X0E 0C4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Pond Inlet",
+                    "zipcodes": [
+                        "X0A 0S0",
+                        "X0A 0S1",
+                        "X0A 0S2",
+                        "X0A 0S3",
+                        "X0A 0S4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Rankin Inlet",
+                    "zipcodes": [
+                        "X0C 0G0",
+                        "X0C 0G1",
+                        "X0C 0G2",
+                        "X0C 0G3",
+                        "X0C 0G4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Kimmirut",
+                    "zipcodes": [
+                        "X0A 0N0",
+                        "X0A 0N1",
+                        "X0A 0N2",
+                        "X0A 0N3",
+                        "X0A 0N4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Igloolik",
+                    "zipcodes": [
+                        "X0A 0L0",
+                        "X0A 0L1",
+                        "X0A 0L2",
+                        "X0A 0L3",
+                        "X0A 0L4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Chesterfield Inlet",
+                    "zipcodes": [
+                        "X0C 0Y0",
+                        "X0C 0Y1",
+                        "X0C 0Y2",
+                        "X0C 0Y3",
+                        "X0C 0Y4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Repulse Bay",
+                    "zipcodes": [
+                        "X0C 0S0",
+                        "X0C 0S1",
+                        "X0C 0S2",
+                        "X0C 0S3",
+                        "X0C 0S4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Arctic Bay",
+                    "zipcodes": [
+                        "X0A 0K0",
+                        "X0A 0K1",
+                        "X0A 0K2",
+                        "X0A 0K3",
+                        "X0A 0K4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Gjoa Haven",
+                    "zipcodes": [
+                        "X0A 1B0",
+                        "X0A 1B1",
+                        "X0A 1B2",
+                        "X0A 1B3",
+                        "X0A 1B4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Iqaluit",
+                    "zipcodes": [
+                        "X0A 0H0",
+                        "X0A 0H1",
+                        "X0A 0H2",
+                        "X0A 0H3",
+                        "X0A 0H4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Baker Lake",
+                    "zipcodes": [
+                        "X0C 0A0",
+                        "X0C 0A1",
+                        "X0C 0A2",
+                        "X0C 0A3",
+                        "X0C 0A4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Kugluktuk",
+                    "zipcodes": [
+                        "X0C 0E0",
+                        "X0C 0E1",
+                        "X0C 0E2",
+                        "X0C 0E3",
+                        "X0C 0E4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Cambridge Bay",
+                    "zipcodes": [
+                        "X0E 0C0",
+                        "X0E 0C1",
+                        "X0E 0C2",
+                        "X0E 0C3",
+                        "X0E 0C4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Pond Inlet",
+                    "zipcodes": [
+                        "X0A 0S0",
+                        "X0A 0S1",
+                        "X0A 0S2",
+                        "X0A 0S3",
+                        "X0A 0S4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Rankin Inlet",
+                    "zipcodes": [
+                        "X0C 0G0",
+                        "X0C 0G1",
+                        "X0C 0G2",
+                        "X0C 0G3",
+                        "X0C 0G4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Kimmirut",
+                    "zipcodes": [
+                        "X0A 0N0",
+                        "X0A 0N1",
+                        "X0A 0N2",
+                        "X0A 0N3",
+                        "X0A 0N4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Igloolik",
+                    "zipcodes": [
+                        "X0A 0L0",
+                        "X0A 0L1",
+                        "X0A 0L2",
+                        "X0A 0L3",
+                        "X0A 0L4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Chesterfield Inlet",
+                    "zipcodes": [
+                        "X0C 0Y0",
+                        "X0C 0Y1",
+                        "X0C 0Y2",
+                        "X0C 0Y3",
+                        "X0C 0Y4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Repulse Bay",
+                    "zipcodes": [
+                        "X0C 0S0",
+                        "X0C 0S1",
+                        "X0C 0S2",
+                        "X0C 0S3",
+                        "X0C 0S4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                }
+            ],
+            "name": "Nunavut"
+        },
+        "Yukon": {
+            "cities": [
+                {
+                    "cityname": "Whitehorse",
+                    "zipcodes": [
+                        "Y1A 1A1",
+                        "Y1A 1A2",
+                        "Y1A 1A3",
+                        "Y1A 1A4",
+                        "Y1A 1A5"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Dawson City",
+                    "zipcodes": [
+                        "Y0B 1G0",
+                        "Y0B 1G1",
+                        "Y0B 1G2",
+                        "Y0B 1G3",
+                        "Y0B 1G4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Haines Junction",
+                    "zipcodes": [
+                        "Y0B 1L0",
+                        "Y0B 1L1",
+                        "Y0B 1L2",
+                        "Y0B 1L3",
+                        "Y0B 1L4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Watson Lake",
+                    "zipcodes": [
+                        "Y0A 1C0",
+                        "Y0A 1C1",
+                        "Y0A 1C2",
+                        "Y0A 1C3",
+                        "Y0A 1C4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Mayo",
+                    "zipcodes": [
+                        "Y0B 1M0",
+                        "Y0B 1M1",
+                        "Y0B 1M2",
+                        "Y0B 1M3",
+                        "Y0B 1M4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Pelly Crossing",
+                    "zipcodes": [
+                        "Y0B 1N0",
+                        "Y0B 1N1",
+                        "Y0B 1N2",
+                        "Y0B 1N3",
+                        "Y0B 1N4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Ross River",
+                    "zipcodes": [
+                        "Y0B 1P0",
+                        "Y0B 1P1",
+                        "Y0B 1P2",
+                        "Y0B 1P3",
+                        "Y0B 1P4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Beaver Creek",
+                    "zipcodes": [
+                        "Y0B 1L0",
+                        "Y0B 1L1",
+                        "Y0B 1L2",
+                        "Y0B 1L3",
+                        "Y0B 1L4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Burwash Landing",
+                    "zipcodes": [
+                        "Y0B 1A0",
+                        "Y0B 1A1",
+                        "Y0B 1A2",
+                        "Y0B 1A3",
+                        "Y0B 1A4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Faro",
+                    "zipcodes": [
+                        "Y0B 1K0",
+                        "Y0B 1K1",
+                        "Y0B 1K2",
+                        "Y0B 1K3",
+                        "Y0B 1K4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Carcross",
+                    "zipcodes": [
+                        "Y0B 1B0",
+                        "Y0B 1B1",
+                        "Y0B 1B2",
+                        "Y0B 1B3",
+                        "Y0B 1B4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Tagish",
+                    "zipcodes": [
+                        "Y0B 1T0",
+                        "Y0B 1T1",
+                        "Y0B 1T2",
+                        "Y0B 1T3",
+                        "Y0B 1T4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Carmacks",
+                    "zipcodes": [
+                        "Y0B 1E0",
+                        "Y0B 1E1",
+                        "Y0B 1E2",
+                        "Y0B 1E3",
+                        "Y0B 1E4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "McCrae",
+                    "zipcodes": [
+                        "Y0B 1G0",
+                        "Y0B 1G1",
+                        "Y0B 1G2",
+                        "Y0B 1G3",
+                        "Y0B 1G4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Destruction Bay",
+                    "zipcodes": [
+                        "Y0B 1S0",
+                        "Y0B 1S1",
+                        "Y0B 1S2",
+                        "Y0B 1S3",
+                        "Y0B 1S4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Burwash Landing",
+                    "zipcodes": [
+                        "Y0B 1P0",
+                        "Y0B 1P1",
+                        "Y0B 1P2",
+                        "Y0B 1P3",
+                        "Y0B 1P4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Carmacks",
+                    "zipcodes": [
+                        "Y0B 1B0",
+                        "Y0B 1B1",
+                        "Y0B 1B2",
+                        "Y0B 1B3",
+                        "Y0B 1B4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Haines Junction",
+                    "zipcodes": [
+                        "Y0B 1L0",
+                        "Y0B 1L1",
+                        "Y0B 1L2",
+                        "Y0B 1L3",
+                        "Y0B 1L4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Ross River",
+                    "zipcodes": [
+                        "Y0B 1P0",
+                        "Y0B 1P1",
+                        "Y0B 1P2",
+                        "Y0B 1P3",
+                        "Y0B 1P4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                },
+                {
+                    "cityname": "Mayo",
+                    "zipcodes": [
+                        "Y0B 1M0",
+                        "Y0B 1M1",
+                        "Y0B 1M2",
+                        "Y0B 1M3",
+                        "Y0B 1M4"
+                    ],
+                    "areacodes": [
+                        "867"
+                    ]
+                }
+            ],
+            "name": "Yukon"
+        }
+    },
+    "citycontainers": [
+        "provinces",
+        "territories"
     ]
 }

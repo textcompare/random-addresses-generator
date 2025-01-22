@@ -33,7 +33,7 @@ The address generator can generate the following fields:
 
 ### Address Type
 
-- **Commerical**: Commercial addresses such as office buildings or business premises (default).
+- **Resedential**: Residential addresses (default).
 - **Corporate**: Corporate addresses such as company headquarters.
 - **Industrial**: Industrial addresses like factories, warehouses.
 
@@ -106,7 +106,7 @@ Generates a specified number of random addresses with the given configuration.
 - **count**: The number of addresses to generate.
 - **info** (optional): A configuration object with the following optional properties:
   - `country`: The country to generate addresses for (default is "United States").
-  - `addressType`: The type of address to generate (options: "Commerical", "Corporate", "Industrial", default is "Commerical").
+  - `addressType`: The type of address to generate (options: "Resedential", "Corporate", "Industrial", default is "Resedential").
   - `states`: An array of state codes (e.g., `["CA", "MN"]`), default is `["all"]`, which generates from all states.
   - `addressFormat`: A custom format for the address (default is `['buildingNo', 'buildingName', 'streetNumber', 'streetName', 'neighborhood', 'landmark', 'city', 'state', 'zipCode', 'firstName', 'lastName', 'phone', 'email']`).
   - `addon`: Custom fields to be added to each address.
@@ -121,7 +121,7 @@ const { generateAddress } = require('random-addresses-generator');
 
 const addressData = generateAddress(5, {
   country: 'USA', 
-  addressType: 'Commerical', 
+  addressType: 'Resedential', 
   format: 'json'
 });
 
@@ -164,21 +164,32 @@ console.log(addressData);
 
 The package supports generating random addresses for the following countries:
 
-#### Popular Countries:
+#### Available Countries:
 
-1. **United States (USA)**
-2. **United Kingdom (UK)**
-3. **Canada**
-4. **Germany**
-5. **France**
-6. **Australia**
-7. **India**
-8. **Brazil**
-9. **China**
-10. **Mexico**
+- **United States (USA)**
+- **Canada**
+- **Germany**
+- **Argentina**
+- **Australia**
+- **Belgium**
+- **Brazil**
+- **Canada**
+- **China**
+- **Egypt**
+- **France**
+- **Germany**
+- **Greece**
+- **India**
+- **Indonesia**
 
-#### Other Supported Countries:
-
+#### Coming Soon Countries:
+- France
+- Australia
+- United Kingdom
+- India
+- Brazil
+- China
+- Mexico
 - Argentina
 - Belgium
 - Egypt

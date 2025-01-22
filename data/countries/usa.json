@@ -22,7 +22,7 @@
     "Dogwood Drive"
   ],
   "neighborhoods": {
-    "commerical": [
+    "residential": [
       "Downtown",
       "Midtown",
       "Chinatown",
@@ -680,7 +680,7 @@
           ]
         }
       ],
-      "state": "Alabama"
+      "name": "Alabama"
     },
     "AK": {
       "cities": [
@@ -1135,7 +1135,7 @@
           ]
         }
       ],
-      "state": "Alaska"
+      "name": "Alaska"
     },
     "AZ": {
       "cities": [
@@ -1343,7 +1343,7 @@
           ]
         }
       ],
-      "state": "Arizona"
+      "name": "Arizona"
     },
     "AR": {
       "cities": [
@@ -1551,7 +1551,7 @@
           ]
         }
       ],
-      "state": "Arkansas"
+      "name": "Arkansas"
     },
     "CA": {
       "cities": [
@@ -2143,7 +2143,7 @@
           ]
         }
       ],
-      "state": "California"
+      "name": "California"
     },
     "CO": {
       "cities": [
@@ -2688,7 +2688,7 @@
           ]
         }
       ],
-      "state": "Colorado"
+      "name": "Colorado"
     },
     "CT": {
       "cities": [
@@ -3175,7 +3175,7 @@
           ]
         }
       ],
-      "state": "Connecticut"
+      "name": "Connecticut"
     },
     "DE": {
       "cities": [
@@ -3590,7 +3590,7 @@
           ]
         }
       ],
-      "state": "Delaware"
+      "name": "Delaware"
     },
     "FL": {
       "cities": [
@@ -4088,7 +4088,7 @@
           ]
         }
       ],
-      "state": "Florida"
+      "name": "Florida"
     },
     "GA": {
       "cities": [
@@ -4557,7 +4557,7 @@
           ]
         }
       ],
-      "state": "Georgia"
+      "name": "Georgia"
     },
     "HI": {
       "cities": [
@@ -5008,7 +5008,7 @@
           ]
         }
       ],
-      "state": "Hawaii"
+      "name": "Hawaii"
     },
     "ID": {
       "cities": [
@@ -5439,7 +5439,7 @@
           ]
         }
       ],
-      "state": "Idaho"
+      "name": "Idaho"
     },
     "IL": {
       "cities": [
@@ -5943,7 +5943,7 @@
           ]
         }
       ],
-      "state": "Illinois"
+      "name": "Illinois"
     },
     "IN": {
       "cities": [
@@ -6398,7 +6398,7 @@
           ]
         }
       ],
-      "state": "Indiana"
+      "name": "Indiana"
     },
     "KS": {
       "cities": [
@@ -6850,7 +6850,7 @@
           ]
         }
       ],
-      "state": "Kansas"
+      "name": "Kansas"
     },
     "KY": {
       "cities": [
@@ -7299,7 +7299,7 @@
           ]
         }
       ],
-      "state": "Kentucky"
+      "name": "Kentucky"
     },
     "LA": {
       "cities": [
@@ -7716,7 +7716,7 @@
           ]
         }
       ],
-      "state": "Louisiana"
+      "name": "Louisiana"
     },
     "ME": {
       "cities": [
@@ -8131,7 +8131,7 @@
           ]
         }
       ],
-      "state": "Maine"
+      "name": "Maine"
     },
     "MD": {
       "cities": [
@@ -8587,7 +8587,7 @@
           ]
         }
       ],
-      "state": "Maryland"
+      "name": "Maryland"
     },
     "MA": {
       "cities": [
@@ -9053,7 +9053,7 @@
           ]
         }
       ],
-      "state": "Massachusetts"
+      "name": "Massachusetts"
     },
     "MI": {
       "cities": [
@@ -9520,7 +9520,7 @@
           ]
         }
       ],
-      "state": "Michigan"
+      "name": "Michigan"
     },
     "MN": {
       "cities": [
@@ -9975,7 +9975,7 @@
           ]
         }
       ],
-      "state": "Minnesota"
+      "name": "Minnesota"
     },
     "MS": {
       "cities": [
@@ -10416,7 +10416,7 @@
           ]
         }
       ],
-      "state": "Mississippi"
+      "name": "Mississippi"
     },
     "MO": {
       "cities": [
@@ -10854,7 +10854,7 @@
           ]
         }
       ],
-      "state": "Missouri"
+      "name": "Missouri"
     },
     "MT": {
       "cities": [
@@ -11239,7 +11239,7 @@
           ]
         }
       ],
-      "state": "Montana"
+      "name": "Montana"
     },
     "NE": {
       "cities": [
@@ -11661,7 +11661,7 @@
           ]
         }
       ],
-      "state": "Nebraska"
+      "name": "Nebraska"
     },
     "NV": {
       "cities": [
@@ -12058,7 +12058,7 @@
           ]
         }
       ],
-      "state": "Nevada"
+      "name": "Nevada"
     },
     "NH": {
       "cities": [
@@ -12480,7 +12480,7 @@
           ]
         }
       ],
-      "state": "New Hampshire"
+      "name": "New Hampshire"
     },
     "NJ": {
       "cities": [
@@ -12929,7 +12929,7 @@
           ]
         }
       ],
-      "state": "New Jersey"
+      "name": "New Jersey"
     },
     "NM": {
       "cities": [
@@ -13346,7 +13346,7 @@
           ]
         }
       ],
-      "state": "New Mexico"
+      "name": "New Mexico"
     },
     "OK": {
       "cities": [
@@ -13801,7 +13801,7 @@
           ]
         }
       ],
-      "state": "Oklahoma"
+      "name": "Oklahoma"
     },
     "OR": {
       "cities": [
@@ -14247,7 +14247,7 @@
           ]
         }
       ],
-      "state": "Oregon"
+      "name": "Oregon"
     },
     "PA": {
       "cities": [
@@ -14687,7 +14687,7 @@
           ]
         }
       ],
-      "state": "Pennsylvania"
+      "name": "Pennsylvania"
     },
     "RI": {
       "cities": [
@@ -15107,7 +15107,7 @@
           ]
         }
       ],
-      "state": "Rhode Island"
+      "name": "Rhode Island"
     },
     "SC": {
       "cities": [
@@ -15552,7 +15552,7 @@
           ]
         }
       ],
-      "state": "South Carolina"
+      "name": "South Carolina"
     },
     "SD": {
       "cities": [
@@ -15959,7 +15959,7 @@
           ]
         }
       ],
-      "state": "South Dakota"
+      "name": "South Dakota"
     },
     "TN": {
       "cities": [
@@ -16407,7 +16407,7 @@
           ]
         }
       ],
-      "state": "Tennessee"
+      "name": "Tennessee"
     },
     "TX": {
       "cities": [
@@ -16944,7 +16944,7 @@
           ]
         }
       ],
-      "state": "Texas"
+      "name": "Texas"
     },
     "UT": {
       "cities": [
@@ -17443,7 +17443,7 @@
           ]
         }
       ],
-      "state": "Utah"
+      "name": "Utah"
     },
     "VT": {
       "cities": [
@@ -17869,7 +17869,7 @@
           ]
         }
       ],
-      "state": "Vermont"
+      "name": "Vermont"
     },
     "VA": {
       "cities": [
@@ -18341,7 +18341,7 @@
           ]
         }
       ],
-      "state": "Virginia"
+      "name": "Virginia"
     },
     "WA": {
       "cities": [
@@ -18831,7 +18831,7 @@
           ]
         }
       ],
-      "state": "Washington"
+      "name": "Washington"
     },
     "WV": {
       "cities": [
@@ -19275,7 +19275,7 @@
           ]
         }
       ],
-      "state": "West Virginia"
+      "name": "West Virginia"
     },
     "WI": {
       "cities": [
@@ -19736,7 +19736,7 @@
           ]
         }
       ],
-      "state": "Wisconsin"
+      "name": "Wisconsin"
     },
     "WY": {
       "cities": [
@@ -20120,10 +20120,13 @@
           ]
         }
       ],
-      "state": "Wyoming"
+      "name": "Wyoming"
     }
   },
   "countrycode": "+1",
   "phoneformat": "(A) XXX-XXXX",
-  "country": "United States"
+  "country": "United States",
+  "citycontainers": [
+    "states"
+  ]
 }

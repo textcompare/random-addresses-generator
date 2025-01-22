@@ -2,7 +2,12 @@
     "usa": [
         "united states",
         "united states of america",
-        "usa"
+        "usa",
+        "us"
+    ],
+    "uk": [
+        "United Kingdom",
+        "uk"
     ],
     "canada": [
         "canada",
