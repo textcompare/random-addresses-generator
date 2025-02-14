@@ -1,0 +1,4337 @@
+{
+    "name" : "Texas",
+    "capital" : "Austin",
+    "cities":[
+        {
+            "cityname" : "Houston",
+            "areacodes":[281,713,832],
+            "zipcodes" : [77001,77002,77003,77004,77005,77006,77007,77008,77009,77010]
+        },
+        {
+            "cityname" : "Abbott",
+            "areacodes":[254],
+            "zipcodes" : [76621]
+        },
+        {
+            "cityname" : "Abernathy",
+            "areacodes":[806],
+            "zipcodes" : [79311]
+        },
+        {
+            "cityname" : "Abilene",
+            "areacodes":[325],
+            "zipcodes" : [79601, 79602, 79603, 79604, 79605, 79606, 79607, 79608, 79697, 79698, 79699]
+        },
+        {
+            "cityname" : "Ackerly",
+            "areacodes":[432],
+            "zipcodes" : [79713]
+        },
+        {
+            "cityname" : "Addison",
+            "areacodes":[972, 214, 469],
+            "zipcodes" : [75001]
+        },
+        {
+            "cityname" : "Agua Dulce",
+            "areacodes":[361],
+            "zipcodes" : [78330]
+        },
+        {
+            "cityname" : "Alamo",
+            "areacodes":[956],
+            "zipcodes" : [78516]
+        },
+        {
+            "cityname" : "Alba",
+            "areacodes":[903],
+            "zipcodes" : [75410]
+        },
+        {
+            "cityname" : "Albany",
+            "areacodes":[325],
+            "zipcodes" : [76430]
+        },
+        {
+            "cityname" : "Aledo",
+            "areacodes":[817, 682],
+            "zipcodes" : [76008]
+        },
+        {
+            "cityname" : "Alice",
+            "areacodes":[361],
+            "zipcodes" : [78332, 78333]
+        },
+        {
+            "cityname" : "Allen",
+            "areacodes":[972, 214, 469],
+            "zipcodes" : [75002, 75013]
+        },
+        {
+            "cityname" : "Alpine",
+            "areacodes":[432],
+            "zipcodes" : [79830, 79831, 79832]
+        },
+        {
+            "cityname" : "Alto",
+            "areacodes":[936],
+            "zipcodes" : [75925]
+        },
+        {
+            "cityname" : "Alvarado",
+            "areacodes":[817, 682],
+            "zipcodes" : [76009]
+        },
+        {
+            "cityname" : "Alvin",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77511, 77512]
+        },
+        {
+            "cityname" : "Alvord",
+            "areacodes":[940],
+            "zipcodes" : [76225]
+        },
+        {
+            "cityname" : "Amarillo",
+            "areacodes":[806],
+            "zipcodes" : [79101, 79102, 79103, 79104, 79105, 79106, 79107, 79108, 79109, 79110, 79111, 79116, 79117, 79118, 79119, 79120, 79121, 79124, 79159, 79166, 79168, 79172, 79174, 79178, 79185, 79187, 79189]
+        },
+        {
+            "cityname" : "Amherst",
+            "areacodes":[806],
+            "zipcodes" : [79312]
+        },
+        {
+            "cityname" : "Anahuac",
+            "areacodes":[409],
+            "zipcodes" : [77514]
+        },
+        {
+            "cityname" : "Anderson",
+            "areacodes":[936],
+            "zipcodes" : [77830]
+        },
+        {
+            "cityname" : "Andrews",
+            "areacodes":[432],
+            "zipcodes" : [79714]
+        },
+        {
+            "cityname" : "Angleton",
+            "areacodes":[979],
+            "zipcodes" : [77515, 77516]
+        },
+        {
+            "cityname" : "Anna",
+            "areacodes":[972, 214, 469],
+            "zipcodes" : [75409]
+        },
+        {
+            "cityname" : "Annona",
+            "areacodes":[903],
+            "zipcodes" : [75550]
+        },
+        {
+            "cityname" : "Anson",
+            "areacodes":[325],
+            "zipcodes" : [79501]
+        },
+        {
+            "cityname" : "Anthony",
+            "areacodes":[915],
+            "zipcodes" : [79821]
+        },
+        {
+            "cityname" : "Anton",
+            "areacodes":[806],
+            "zipcodes" : [79313]
+        },
+        {
+            "cityname" : "Aransas Pass",
+            "areacodes":[361],
+            "zipcodes" : [78335, 78336]
+        },
+        {
+            "cityname" : "Archer City",
+            "areacodes":[940],
+            "zipcodes" : [76351]
+        },
+        {
+            "cityname" : "Argyle",
+            "areacodes":[940],
+            "zipcodes" : [76226]
+        },
+        {
+            "cityname" : "Arlington",
+            "areacodes":[817, 682],
+            "zipcodes" : [76001, 76002, 76003, 76004, 76005, 76006, 76007, 76010, 76011, 76012, 76013, 76014, 76015, 76016, 76017, 76018, 76019]
+        },
+        {
+            "cityname" : "Arp",
+            "areacodes":[903],
+            "zipcodes" : [75750]
+        },
+        {
+            "cityname" : "Asherton",
+            "areacodes":[830],
+            "zipcodes" : [78827]
+        },
+        {
+            "cityname" : "Aspermont",
+            "areacodes":[940],
+            "zipcodes" : [79502]
+        },
+        {
+            "cityname" : "Athens",
+            "areacodes":[903],
+            "zipcodes" : [75751, 75752]
+        },
+        {
+            "cityname" : "Atlanta",
+            "areacodes":[903],
+            "zipcodes" : [75551]
+        },
+        {
+            "cityname" : "Aubrey",
+            "areacodes":[940],
+            "zipcodes" : [76227]
+        },
+        {
+            "cityname" : "Austin",
+            "areacodes":[512, 737],
+            "zipcodes" : [73301, 73344, 78701, 78702, 78703, 78704, 78705, 78708, 78709, 78710, 78711, 78712, 78713, 78714, 78715, 78716, 78717, 78718, 78719, 78720, 78721, 78722, 78723, 78724, 78725, 78726, 78727, 78728, 78729, 78730, 78731, 78732, 78733, 78734, 78735, 78736, 78737, 78738, 78739, 78741, 78742, 78744, 78745, 78746, 78747, 78748, 78749, 78750, 78751, 78752, 78753, 78754, 78755, 78756, 78757, 78758, 78759, 78760, 78761, 78762, 78763, 78764, 78765, 78766, 78767, 78768, 78769, 78772, 78773, 78774, 78778, 78779, 78783, 78799]
+        },
+        {
+            "cityname" : "Avery",
+            "areacodes":[903],
+            "zipcodes" : [75554]
+        },
+        {
+            "cityname" : "Avinger",
+            "areacodes":[903],
+            "zipcodes" : [75630]
+        },
+        {
+            "cityname" : "Azle",
+            "areacodes":[817, 682],
+            "zipcodes" : [76020, 76098]
+        },
+        {
+            "cityname" : "Bacliff",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77518]
+        },
+        {
+            "cityname" : "Bailey",
+            "areacodes":[903],
+            "zipcodes" : [75413]
+        },
+        {
+            "cityname" : "Baird",
+            "areacodes":[325],
+            "zipcodes" : [79504]
+        },
+        {
+            "cityname" : "Ballinger",
+            "areacodes":[325],
+            "zipcodes" : [76821]
+        },
+        {
+            "cityname" : "Balmorhea",
+            "areacodes":[432],
+            "zipcodes" : [79718]
+        },
+        {
+            "cityname" : "Bandera",
+            "areacodes":[830],
+            "zipcodes" : [78003]
+        },
+        {
+            "cityname" : "Bangs",
+            "areacodes":[325],
+            "zipcodes" : [76823]
+        },
+        {
+            "cityname" : "Bardwell",
+            "areacodes":[972, 214, 469],
+            "zipcodes" : [75101]
+        },
+        {
+            "cityname" : "Barry",
+            "areacodes":[903],
+            "zipcodes" : [75102]
+        },
+        {
+            "cityname" : "Barstow",
+            "areacodes":[432],
+            "zipcodes" : [79719]
+        },
+        {
+            "cityname" : "Bartlett",
+            "areacodes":[254],
+            "zipcodes" : [76511]
+        },
+        {
+            "cityname" : "Bastrop",
+            "areacodes":[512, 737],
+            "zipcodes" : [78602]
+        },
+        {
+            "cityname" : "Batesville",
+            "areacodes":[830],
+            "zipcodes" : [78829]
+        },
+        {
+            "cityname" : "Bay City",
+            "areacodes":[979],
+            "zipcodes" : [77404, 77414]
+        },
+        {
+            "cityname" : "Bayside",
+            "areacodes":[361],
+            "zipcodes" : [78340]
+        },
+        {
+            "cityname" : "Baytown",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77520, 77521, 77522, 77523]
+        },
+        {
+            "cityname" : "Beasley",
+            "areacodes":[979],
+            "zipcodes" : [77417]
+        },
+        {
+            "cityname" : "Beaumont",
+            "areacodes":[409],
+            "zipcodes" : [77701, 77702, 77703, 77704, 77705, 77706, 77707, 77708, 77709, 77710, 77713, 77720, 77725, 77726]
+        },
+        {
+            "cityname" : "Beckville",
+            "areacodes":[903],
+            "zipcodes" : [75631]
+        },
+        {
+            "cityname" : "Bedford",
+            "areacodes":[817, 682],
+            "zipcodes" : [76021, 76022, 76095]
+        },
+        {
+            "cityname" : "Beeville",
+            "areacodes":[361],
+            "zipcodes" : [78102, 78104]
+        },
+        {
+            "cityname" : "Bellaire",
+            "areacodes":[713, 281, 346, 832],
+            "zipcodes" : [77401, 77402]
+        },
+        {
+            "cityname" : "Bellevue",
+            "areacodes":[940],
+            "zipcodes" : [76228]
+        },
+        {
+            "cityname" : "Bells",
+            "areacodes":[903],
+            "zipcodes" : [75414]
+        },
+        {
+            "cityname" : "Bellville",
+            "areacodes":[979],
+            "zipcodes" : [77418]
+        },
+        {
+            "cityname" : "Belton",
+            "areacodes":[254],
+            "zipcodes" : [76513]
+        },
+        {
+            "cityname" : "Benavides",
+            "areacodes":[361],
+            "zipcodes" : [78341]
+        },
+        {
+            "cityname" : "Benjamin",
+            "areacodes":[940],
+            "zipcodes" : [79505]
+        },
+        {
+            "cityname" : "Bertram",
+            "areacodes":[512, 737],
+            "zipcodes" : [78605]
+        },
+        {
+            "cityname" : "Big Lake",
+            "areacodes":[325],
+            "zipcodes" : [76932]
+        },
+        {
+            "cityname" : "Big Sandy",
+            "areacodes":[903],
+            "zipcodes" : [75755]
+        },
+        {
+            "cityname" : "Big Spring",
+            "areacodes":[432],
+            "zipcodes" : [79720, 79721]
+        },
+        {
+            "cityname" : "Big Wells",
+            "areacodes":[830],
+            "zipcodes" : [78830]
+        },
+        {
+            "cityname" : "Bigfoot",
+            "areacodes":[830],
+            "zipcodes" : [78005]
+        },
+        {
+            "cityname" : "Bishop",
+            "areacodes":[361],
+            "zipcodes" : [78343]
+        },
+        {
+            "cityname" : "Blackwell",
+            "areacodes":[325],
+            "zipcodes" : [79506]
+        },
+        {
+            "cityname" : "Blanco",
+            "areacodes":[830],
+            "zipcodes" : [78606]
+        },
+        {
+            "cityname" : "Blanket",
+            "areacodes":[325],
+            "zipcodes" : [76432]
+        },
+        {
+            "cityname" : "Blessing",
+            "areacodes":[361],
+            "zipcodes" : [77419]
+        },
+        {
+            "cityname" : "Bloomburg",
+            "areacodes":[903],
+            "zipcodes" : [75556]
+        },
+        {
+            "cityname" : "Blooming Grove",
+            "areacodes":[903],
+            "zipcodes" : [76626]
+        },
+        {
+            "cityname" : "Bloomington",
+            "areacodes":[361],
+            "zipcodes" : [77951]
+        },
+        {
+            "cityname" : "Blossom",
+            "areacodes":[903],
+            "zipcodes" : [75416]
+        },
+        {
+            "cityname" : "Blue Ridge",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75424]
+        },
+        {
+            "cityname" : "Blum",
+            "areacodes":[254],
+            "zipcodes" : [76627]
+        },
+        {
+            "cityname" : "Boerne",
+            "areacodes":[830],
+            "zipcodes" : [78006, 78015]
+        },
+        {
+            "cityname" : "Bogata",
+            "areacodes":[903],
+            "zipcodes" : [75417]
+        },
+        {
+            "cityname" : "Boling",
+            "areacodes":[979],
+            "zipcodes" : [77420]
+        },
+        {
+            "cityname" : "Bonham",
+            "areacodes":[903],
+            "zipcodes" : [75418]
+        },
+        {
+            "cityname" : "Booker",
+            "areacodes":[806],
+            "zipcodes" : [79005]
+        },
+        {
+            "cityname" : "Borger",
+            "areacodes":[806],
+            "zipcodes" : [79007, 79008]
+        },
+        {
+            "cityname" : "Bovina",
+            "areacodes":[806],
+            "zipcodes" : [79009]
+        },
+        {
+            "cityname" : "Bowie",
+            "areacodes":[940],
+            "zipcodes" : [76230]
+        },
+        {
+            "cityname" : "Boyd",
+            "areacodes":[940],
+            "zipcodes" : [76023]
+        },
+        {
+            "cityname" : "Brackettville",
+            "areacodes":[830],
+            "zipcodes" : [78832]
+        },
+        {
+            "cityname" : "Brady",
+            "areacodes":[325],
+            "zipcodes" : [76825]
+        },
+        {
+            "cityname" : "Brazoria",
+            "areacodes":[979],
+            "zipcodes" : [77422]
+        },
+        {
+            "cityname" : "Breckenridge",
+            "areacodes":[254],
+            "zipcodes" : [76424]
+        },
+        {
+            "cityname" : "Bremond",
+            "areacodes":[254],
+            "zipcodes" : [76629]
+        },
+        {
+            "cityname" : "Brenham",
+            "areacodes":[979],
+            "zipcodes" : [77833, 77834]
+        },
+        {
+            "cityname" : "Bridge City",
+            "areacodes":[409],
+            "zipcodes" : [77611]
+        },
+        {
+            "cityname" : "Bridgeport",
+            "areacodes":[940],
+            "zipcodes" : [76426]
+        },
+        {
+            "cityname" : "Bronte",
+            "areacodes":[325],
+            "zipcodes" : [76933]
+        },
+        {
+            "cityname" : "Brookshire",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77423]
+        },
+        {
+            "cityname" : "Brownfield",
+            "areacodes":[806],
+            "zipcodes" : [79316]
+        },
+        {
+            "cityname" : "Brownsboro",
+            "areacodes":[903],
+            "zipcodes" : [75756]
+        },
+        {
+            "cityname" : "Brownsville",
+            "areacodes":[956],
+            "zipcodes" : [78520, 78521, 78522, 78523, 78526]
+        },
+        {
+            "cityname" : "Brownwood",
+            "areacodes":[325],
+            "zipcodes" : [76801, 76802, 76803, 76804]
+        },
+        {
+            "cityname" : "Bruceville",
+            "areacodes":[254],
+            "zipcodes" : [76630]
+        },
+        {
+            "cityname" : "Bruni",
+            "areacodes":[361],
+            "zipcodes" : [78344]
+        },
+        {
+            "cityname" : "Bryan",
+            "areacodes":[979],
+            "zipcodes" : [77801, 77802, 77803, 77805, 77806, 77807, 77808]
+        },
+        {
+            "cityname" : "Bryson",
+            "areacodes":[940],
+            "zipcodes" : [76427]
+        },
+        {
+            "cityname" : "Buchanan Dam",
+            "areacodes":[512, 737],
+            "zipcodes" : [78609]
+        },
+        {
+            "cityname" : "Buckholts",
+            "areacodes":[254],
+            "zipcodes" : [76518]
+        },
+        {
+            "cityname" : "Buda",
+            "areacodes":[512, 737],
+            "zipcodes" : [78610]
+        },
+        {
+            "cityname" : "Buffalo Gap",
+            "areacodes":[325],
+            "zipcodes" : [79508]
+        },
+        {
+            "cityname" : "Buffalo",
+            "areacodes":[903],
+            "zipcodes" : [75831]
+        },
+        {
+            "cityname" : "Bullard",
+            "areacodes":[903],
+            "zipcodes" : [75757]
+        },
+        {
+            "cityname" : "Bulverde",
+            "areacodes":[830],
+            "zipcodes" : [78163]
+        },
+        {
+            "cityname" : "Buna",
+            "areacodes":[409],
+            "zipcodes" : [77612]
+        },
+        {
+            "cityname" : "Burkburnett",
+            "areacodes":[940],
+            "zipcodes" : [76354]
+        },
+        {
+            "cityname" : "Burkeville",
+            "areacodes":[409],
+            "zipcodes" : [75932]
+        },
+        {
+            "cityname" : "Burleson",
+            "areacodes":[817, 682],
+            "zipcodes" : [76028, 76097]
+        },
+        {
+            "cityname" : "Burnet",
+            "areacodes":[512, 737],
+            "zipcodes" : [78611]
+        },
+        {
+            "cityname" : "Burton",
+            "areacodes":[979],
+            "zipcodes" : [77835]
+        },
+        {
+            "cityname" : "Byers",
+            "areacodes":[940],
+            "zipcodes" : [76357]
+        },
+        {
+            "cityname" : "Bynum",
+            "areacodes":[254],
+            "zipcodes" : [76631]
+        },
+        {
+            "cityname" : "Daingerfield",
+            "areacodes":[903],
+            "zipcodes" : [75638]
+        },
+        {
+            "cityname" : "Daisetta",
+            "areacodes":[936],
+            "zipcodes" : [77533]
+        },
+        {
+            "cityname" : "Dalhart",
+            "areacodes":[806],
+            "zipcodes" : [79022]
+        },
+        {
+            "cityname" : "Dallas",
+            "areacodes":[214, 469, 972],
+            "zipcodes" : [75201, 75202, 75203, 75204, 75205, 75206, 75207, 75208, 75209, 75210, 75211, 75212, 75214, 75215, 75216, 75217, 75218, 75219, 75220, 75221, 75222, 75223, 75224, 75225, 75226, 75227, 75228, 75229, 75230, 75231, 75232, 75233, 75234, 75235, 75236, 75237, 75238, 75240, 75241, 75242, 75243, 75244, 75246, 75247, 75248, 75249, 75250, 75251, 75252, 75253, 75254, 75260, 75261, 75262, 75263, 75264, 75265, 75266, 75267, 75270, 75275, 75277, 75283, 75284, 75285, 75286, 75287, 75301, 75303, 75312, 75313, 75315, 75320, 75326, 75336, 75339, 75342, 75354, 75355, 75356, 75357, 75358, 75359, 75360, 75367, 75368, 75370, 75371, 75372, 75374, 75376, 75378, 75379, 75380, 75381, 75382, 75389, 75390, 75391, 75392, 75393, 75394, 75395, 75397, 75398]
+        },
+        {
+            "cityname" : "Damon",
+            "areacodes":[979],
+            "zipcodes" : [77430]
+        },
+        {
+            "cityname" : "Danbury",
+            "areacodes":[979],
+            "zipcodes" : [77534]
+        },
+        {
+            "cityname" : "Darrouzett",
+            "areacodes":[806],
+            "zipcodes" : [79024]
+        },
+        {
+            "cityname" : "Dawson",
+            "areacodes":[254],
+            "zipcodes" : [76639]
+        },
+        {
+            "cityname" : "Dayton",
+            "areacodes":[936],
+            "zipcodes" : [77535]
+        },
+        {
+            "cityname" : "De Kalb",
+            "areacodes":[903],
+            "zipcodes" : [75559]
+        },
+        {
+            "cityname" : "De Leon",
+            "areacodes":[254],
+            "zipcodes" : [76444]
+        },
+        {
+            "cityname" : "Deanville",
+            "areacodes":[979],
+            "zipcodes" : [77852]
+        },
+        {
+            "cityname" : "Decatur",
+            "areacodes":[940],
+            "zipcodes" : [76234]
+        },
+        {
+            "cityname" : "Deer Park",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77536]
+        },
+        {
+            "cityname" : "Del Rio",
+            "areacodes":[830],
+            "zipcodes" : [78840, 78841, 78842, 78847]
+        },
+        {
+            "cityname" : "Dell City",
+            "areacodes":[915],
+            "zipcodes" : [79837]
+        },
+        {
+            "cityname" : "Denison",
+            "areacodes":[903],
+            "zipcodes" : [75020, 75021]
+        },
+        {
+            "cityname" : "Denton",
+            "areacodes":[940],
+            "zipcodes" : [76201, 76202, 76203, 76204, 76205, 76206, 76207, 76208, 76209, 76210]
+        },
+        {
+            "cityname" : "Denver City",
+            "areacodes":[806],
+            "zipcodes" : [79323]
+        },
+        {
+            "cityname" : "Deport",
+            "areacodes":[903],
+            "zipcodes" : [75435]
+        },
+        {
+            "cityname" : "Desoto",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75115, 75123]
+        },
+        {
+            "cityname" : "Detroit",
+            "areacodes":[903],
+            "zipcodes" : [75436]
+        },
+        {
+            "cityname" : "Devers",
+            "areacodes":[936],
+            "zipcodes" : [77538]
+        },
+        {
+            "cityname" : "Devine",
+            "areacodes":[830],
+            "zipcodes" : [78016]
+        },
+        {
+            "cityname" : "Deweyville",
+            "areacodes":[409],
+            "zipcodes" : [77614]
+        },
+        {
+            "cityname" : "Diboll",
+            "areacodes":[936],
+            "zipcodes" : [75941]
+        },
+        {
+            "cityname" : "Dickens",
+            "areacodes":[806],
+            "zipcodes" : [79229]
+        },
+        {
+            "cityname" : "Dickinson",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77539]
+        },
+        {
+            "cityname" : "Dilley",
+            "areacodes":[830],
+            "zipcodes" : [78017]
+        },
+        {
+            "cityname" : "Dimmitt",
+            "areacodes":[806],
+            "zipcodes" : [79027]
+        },
+        {
+            "cityname" : "Dodd City",
+            "areacodes":[903],
+            "zipcodes" : [75438]
+        },
+        {
+            "cityname" : "Donna",
+            "areacodes":[956],
+            "zipcodes" : [78537]
+        },
+        {
+            "cityname" : "Driscoll",
+            "areacodes":[361],
+            "zipcodes" : [78351]
+        },
+        {
+            "cityname" : "Dublin",
+            "areacodes":[254],
+            "zipcodes" : [76446]
+        },
+        {
+            "cityname" : "Dumas",
+            "areacodes":[806],
+            "zipcodes" : [79029]
+        },
+        {
+            "cityname" : "Duncanville",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75116, 75137, 75138]
+        },
+        {
+            "cityname" : "Eagle Lake",
+            "areacodes":[979],
+            "zipcodes" : [77434]
+        },
+        {
+            "cityname" : "Eagle Pass",
+            "areacodes":[830],
+            "zipcodes" : [78852, 78853]
+        },
+        {
+            "cityname" : "Early",
+            "areacodes":[325],
+            "zipcodes" : [76802]
+        },
+        {
+            "cityname" : "Earth",
+            "areacodes":[806],
+            "zipcodes" : [79031]
+        },
+        {
+            "cityname" : "East Bernard",
+            "areacodes":[979],
+            "zipcodes" : [77435]
+        },
+        {
+            "cityname" : "Eastland",
+            "areacodes":[254],
+            "zipcodes" : [76448]
+        },
+        {
+            "cityname" : "Easton",
+            "areacodes":[903],
+            "zipcodes" : [75641]
+        },
+        {
+            "cityname" : "Ector",
+            "areacodes":[903],
+            "zipcodes" : [75439]
+        },
+        {
+            "cityname" : "Edcouch",
+            "areacodes":[956],
+            "zipcodes" : [78538]
+        },
+        {
+            "cityname" : "Eden",
+            "areacodes":[325],
+            "zipcodes" : [76837]
+        },
+        {
+            "cityname" : "Edgewood",
+            "areacodes":[903],
+            "zipcodes" : [75117]
+        },
+        {
+            "cityname" : "Edinburg",
+            "areacodes":[956],
+            "zipcodes" : [78539, 78540, 78541, 78542]
+        },
+        {
+            "cityname" : "Edna",
+            "areacodes":[361],
+            "zipcodes" : [77957]
+        },
+        {
+            "cityname" : "Edroy",
+            "areacodes":[361],
+            "zipcodes" : [78352]
+        },
+        {
+            "cityname" : "El Campo",
+            "areacodes":[979],
+            "zipcodes" : [77437]
+        },
+        {
+            "cityname" : "El Indio",
+            "areacodes":[830],
+            "zipcodes" : [78860]
+        },
+        {
+            "cityname" : "El Paso",
+            "areacodes":[915],
+            "zipcodes" : [79901, 79902, 79903, 79904, 79905, 79906, 79907, 79908, 79910, 79911, 79912, 79913, 79914, 79915, 79916, 79917, 79918, 79920, 79922, 79923, 79924, 79925, 79926, 79927, 79928, 79929, 79930, 79931, 79932, 79934, 79935, 79936, 79937, 79938, 79940, 79941, 79942, 79943, 79944, 79945, 79946, 79947, 79948, 79949, 79950, 79951, 79952, 79953, 79954, 79955, 79958, 79960, 79961, 79968, 79976, 79978, 79980, 79990, 79995, 79996, 79997, 79998, 79999]
+        },
+        {
+            "cityname" : "Eldorado",
+            "areacodes":[325],
+            "zipcodes" : [76936]
+        },
+        {
+            "cityname" : "Electra",
+            "areacodes":[940],
+            "zipcodes" : [76360]
+        },
+        {
+            "cityname" : "Elgin",
+            "areacodes":[512, 737],
+            "zipcodes" : [78621]
+        },
+        {
+            "cityname" : "Elkhart",
+            "areacodes":[903],
+            "zipcodes" : [75839]
+        },
+        {
+            "cityname" : "Elmendorf",
+            "areacodes":[210],
+            "zipcodes" : [78112]
+        },
+        {
+            "cityname" : "Elsa",
+            "areacodes":[956],
+            "zipcodes" : [78543]
+        },
+        {
+            "cityname" : "Emory",
+            "areacodes":[903],
+            "zipcodes" : [75440]
+        },
+        {
+            "cityname" : "Encinal",
+            "areacodes":[956],
+            "zipcodes" : [78019]
+        },
+        {
+            "cityname" : "Ennis",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75119, 75120]
+        },
+        {
+            "cityname" : "Euless",
+            "areacodes":[817, 682],
+            "zipcodes" : [76039, 76040]
+        },
+        {
+            "cityname" : "Eustace",
+            "areacodes":[903],
+            "zipcodes" : [75124]
+        },
+        {
+            "cityname" : "Evadale",
+            "areacodes":[409],
+            "zipcodes" : [77615]
+        },
+        {
+            "cityname" : "Evant",
+            "areacodes":[254],
+            "zipcodes" : [76525]
+        },
+        {
+            "cityname" : "Fabens",
+            "areacodes":[915],
+            "zipcodes" : [79838]
+        },
+        {
+            "cityname" : "Fairfield",
+            "areacodes":[903],
+            "zipcodes" : [75840]
+        },
+        {
+            "cityname" : "Falcon Heights",
+            "areacodes":[956],
+            "zipcodes" : [78545]
+        },
+        {
+            "cityname" : "Falfurrias",
+            "areacodes":[361],
+            "zipcodes" : [78355]
+        },
+        {
+            "cityname" : "Falls City",
+            "areacodes":[830],
+            "zipcodes" : [78113]
+        },
+        {
+            "cityname" : "Farmersville",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75442]
+        },
+        {
+            "cityname" : "Farwell",
+            "areacodes":[806],
+            "zipcodes" : [79325]
+        },
+        {
+            "cityname" : "Fate",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75132]
+        },
+        {
+            "cityname" : "Fayetteville",
+            "areacodes":[979],
+            "zipcodes" : [78940]
+        },
+        {
+            "cityname" : "Ferris",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75125]
+        },
+        {
+            "cityname" : "Flatonia",
+            "areacodes":[361],
+            "zipcodes" : [78941]
+        },
+        {
+            "cityname" : "Florence",
+            "areacodes":[254],
+            "zipcodes" : [76527]
+        },
+        {
+            "cityname" : "Floresville",
+            "areacodes":[830],
+            "zipcodes" : [78114]
+        },
+        {
+            "cityname" : "Flower Mound",
+            "areacodes":[972, 469, 214, 817, 682],
+            "zipcodes" : [75022, 75027, 75028]
+        },
+        {
+            "cityname" : "Floydada",
+            "areacodes":[806],
+            "zipcodes" : [79235]
+        },
+        {
+            "cityname" : "Forney",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75126]
+        },
+        {
+            "cityname" : "Forsan",
+            "areacodes":[432],
+            "zipcodes" : [79733]
+        },
+        {
+            "cityname" : "Fort Davis",
+            "areacodes":[432],
+            "zipcodes" : [79734]
+        },
+        {
+            "cityname" : "Fort Hancock",
+            "areacodes":[915],
+            "zipcodes" : [79839]
+        },
+        {
+            "cityname" : "Fort Stockton",
+            "areacodes":[432],
+            "zipcodes" : [79735]
+        },
+        {
+            "cityname" : "Fort Worth",
+            "areacodes":[817, 682],
+            "zipcodes" : [76101, 76102, 76103, 76104, 76105, 76106, 76107, 76108, 76109, 76110, 76111, 76112, 76113, 76114, 76115, 76116, 76118, 76119, 76120, 76121, 76122, 76123, 76124, 76126, 76127, 76129, 76130, 76131, 76132, 76133, 76134, 76135, 76136, 76137, 76140, 76147, 76148, 76150, 76155, 76161, 76162, 76163, 76164, 76166, 76177, 76179, 76181, 76185, 76191, 76192, 76193, 76195, 76196, 76197, 76198, 76199]
+        },
+        {
+            "cityname" : "Franklin",
+            "areacodes":[979],
+            "zipcodes" : [77856]
+        },
+        {
+            "cityname" : "Frankston",
+            "areacodes":[903],
+            "zipcodes" : [75763]
+        },
+        {
+            "cityname" : "Fredericksburg",
+            "areacodes":[830],
+            "zipcodes" : [78624]
+        },
+        {
+            "cityname" : "Freeport",
+            "areacodes":[979],
+            "zipcodes" : [77541]
+        },
+        {
+            "cityname" : "Freer",
+            "areacodes":[361],
+            "zipcodes" : [78357]
+        },
+        {
+            "cityname" : "Fresno",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77545]
+        },
+        {
+            "cityname" : "Friendswood",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77546, 77549]
+        },
+        {
+            "cityname" : "Friona",
+            "areacodes":[806],
+            "zipcodes" : [79035]
+        },
+        {
+            "cityname" : "Frisco",
+            "areacodes":[214, 469, 972],
+            "zipcodes" : [75033, 75034, 75035, 75036]
+        },
+        {
+            "cityname" : "Fritch",
+            "areacodes":[806],
+            "zipcodes" : [79036]
+        },
+        {
+            "cityname" : "Frost",
+            "areacodes":[903],
+            "zipcodes" : [76641]
+        },
+        {
+            "cityname" : "Fruitvale",
+            "areacodes":[903],
+            "zipcodes" : [75127]
+        },
+        {
+            "cityname" : "Fulshear",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77441]
+        },
+        {
+            "cityname" : "Fulton",
+            "areacodes":[361],
+            "zipcodes" : [78358]
+        },
+        {
+            "cityname" : "Gainesville",
+            "areacodes":[940],
+            "zipcodes" : [76240, 76241, 76250]
+        },
+        {
+            "cityname" : "Galena Park",
+            "areacodes":[713, 281, 346, 832],
+            "zipcodes" : [77547]
+        },
+        {
+            "cityname" : "Gallatin",
+            "areacodes":[903],
+            "zipcodes" : [75764]
+        },
+        {
+            "cityname" : "Galveston",
+            "areacodes":[409],
+            "zipcodes" : [77550, 77551, 77552, 77553, 77554, 77555]
+        },
+        {
+            "cityname" : "Ganado",
+            "areacodes":[361],
+            "zipcodes" : [77962]
+        },
+        {
+            "cityname" : "Gardendale",
+            "areacodes":[432],
+            "zipcodes" : [79758]
+        },
+        {
+            "cityname" : "Garland",
+            "areacodes":[214, 469, 972],
+            "zipcodes" : [75040, 75041, 75042, 75043, 75044, 75045, 75046, 75047, 75048, 75049]
+        },
+        {
+            "cityname" : "Garrison",
+            "areacodes":[936],
+            "zipcodes" : [75946]
+        },
+        {
+            "cityname" : "Gary",
+            "areacodes":[903],
+            "zipcodes" : [75643]
+        },
+        {
+            "cityname" : "Gatesville",
+            "areacodes":[254],
+            "zipcodes" : [76528, 76596, 76597, 76598, 76599]
+        },
+        {
+            "cityname" : "George West",
+            "areacodes":[361],
+            "zipcodes" : [78022]
+        },
+        {
+            "cityname" : "Georgetown",
+            "areacodes":[512, 737],
+            "zipcodes" : [78626, 78627, 78628, 78633]
+        },
+        {
+            "cityname" : "Geronimo",
+            "areacodes":[830],
+            "zipcodes" : [78115]
+        },
+        {
+            "cityname" : "Giddings",
+            "areacodes":[979],
+            "zipcodes" : [78942]
+        },
+        {
+            "cityname" : "Gilmer",
+            "areacodes":[903],
+            "zipcodes" : [75644, 75645]
+        },
+        {
+            "cityname" : "Gladewater",
+            "areacodes":[903],
+            "zipcodes" : [75647]
+        },
+        {
+            "cityname" : "Glen Rose",
+            "areacodes":[254],
+            "zipcodes" : [76043]
+        },
+        {
+            "cityname" : "Godley",
+            "areacodes":[817, 682],
+            "zipcodes" : [76044]
+        },
+        {
+            "cityname" : "Goldsmith",
+            "areacodes":[432],
+            "zipcodes" : [79741]
+        },
+        {
+            "cityname" : "Goldthwaite",
+            "areacodes":[325],
+            "zipcodes" : [76844]
+        },
+        {
+            "cityname" : "Goliad",
+            "areacodes":[361],
+            "zipcodes" : [77963]
+        },
+        {
+            "cityname" : "Gonzales",
+            "areacodes":[830],
+            "zipcodes" : [78629]
+        },
+        {
+            "cityname" : "Goodrich",
+            "areacodes":[936],
+            "zipcodes" : [77335]
+        },
+        {
+            "cityname" : "Gordon",
+            "areacodes":[254],
+            "zipcodes" : [76453]
+        },
+        {
+            "cityname" : "Goree",
+            "areacodes":[940],
+            "zipcodes" : [76363]
+        },
+        {
+            "cityname" : "Gorman",
+            "areacodes":[254],
+            "zipcodes" : [76454]
+        },
+        {
+            "cityname" : "Graford",
+            "areacodes":[940],
+            "zipcodes" : [76449]
+        },
+        {
+            "cityname" : "Graham",
+            "areacodes":[940],
+            "zipcodes" : [76450]
+        },
+        {
+            "cityname" : "Granbury",
+            "areacodes":[817, 682],
+            "zipcodes" : [76048, 76049]
+        },
+        {
+            "cityname" : "Grand Prairie",
+            "areacodes":[214, 469, 972],
+            "zipcodes" : [75050, 75051, 75052, 75053, 75054]
+        },
+        {
+            "cityname" : "Grand Saline",
+            "areacodes":[903],
+            "zipcodes" : [75140]
+        },
+        {
+            "cityname" : "Grandfalls",
+            "areacodes":[432],
+            "zipcodes" : [79742]
+        },
+        {
+            "cityname" : "Grandview",
+            "areacodes":[817, 682],
+            "zipcodes" : [76050]
+        },
+        {
+            "cityname" : "Granger",
+            "areacodes":[512, 737],
+            "zipcodes" : [76530]
+        },
+        {
+            "cityname" : "Grapeland",
+            "areacodes":[936],
+            "zipcodes" : [75844]
+        },
+        {
+            "cityname" : "Grapevine",
+            "areacodes":[817, 682, 214, 469, 972],
+            "zipcodes" : [76051, 76092, 76099]
+        },
+        {
+            "cityname" : "Greenville",
+            "areacodes":[903],
+            "zipcodes" : [75401, 75402, 75403, 75404]
+        },
+        {
+            "cityname" : "Gregory",
+            "areacodes":[361],
+            "zipcodes" : [78359]
+        },
+        {
+            "cityname" : "Groesbeck",
+            "areacodes":[254],
+            "zipcodes" : [76642]
+        },
+        {
+            "cityname" : "Groom",
+            "areacodes":[806],
+            "zipcodes" : [79039]
+        },
+        {
+            "cityname" : "Groves",
+            "areacodes":[409],
+            "zipcodes" : [77619]
+        },
+        {
+            "cityname" : "Groveton",
+            "areacodes":[936],
+            "zipcodes" : [75845]
+        },
+        {
+            "cityname" : "Gruver",
+            "areacodes":[806],
+            "zipcodes" : [79040]
+        },
+        {
+            "cityname" : "Gunter",
+            "areacodes":[903],
+            "zipcodes" : [75058]
+        },
+        {
+            "cityname" : "Gustine",
+            "areacodes":[325],
+            "zipcodes" : [76455]
+        },
+        {
+            "cityname" : "Hale Center",
+            "areacodes":[806],
+            "zipcodes" : [79041]
+        },
+        {
+            "cityname" : "Hallettsville",
+            "areacodes":[361],
+            "zipcodes" : [77964]
+        },
+        {
+            "cityname" : "Hallsville",
+            "areacodes":[903],
+            "zipcodes" : [75650]
+        },
+        {
+            "cityname" : "Hamilton",
+            "areacodes":[254],
+            "zipcodes" : [76531]
+        },
+        {
+            "cityname" : "Hamlin",
+            "areacodes":[325],
+            "zipcodes" : [79520]
+        },
+        {
+            "cityname" : "Happy",
+            "areacodes":[806],
+            "zipcodes" : [79042]
+        },
+        {
+            "cityname" : "Hardin",
+            "areacodes":[936],
+            "zipcodes" : [77561]
+        },
+        {
+            "cityname" : "Harker Heights",
+            "areacodes":[254],
+            "zipcodes" : [76548]
+        },
+        {
+            "cityname" : "Harlingen",
+            "areacodes":[956],
+            "zipcodes" : [78550, 78551, 78552, 78553]
+        },
+        {
+            "cityname" : "Harper",
+            "areacodes":[830],
+            "zipcodes" : [78631]
+        },
+        {
+            "cityname" : "Hart",
+            "areacodes":[806],
+            "zipcodes" : [79043]
+        },
+        {
+            "cityname" : "Hartley",
+            "areacodes":[806],
+            "zipcodes" : [79044]
+        },
+        {
+            "cityname" : "Haskell",
+            "areacodes":[940],
+            "zipcodes" : [79521]
+        },
+        {
+            "cityname" : "Haslet",
+            "areacodes":[817, 682],
+            "zipcodes" : [76052]
+        },
+        {
+            "cityname" : "Hawkins",
+            "areacodes":[903],
+            "zipcodes" : [75765]
+        },
+        {
+            "cityname" : "Hawley",
+            "areacodes":[325],
+            "zipcodes" : [79525]
+        },
+        {
+            "cityname" : "Hearne",
+            "areacodes":[979],
+            "zipcodes" : [77859]
+        },
+        {
+            "cityname" : "Hebbronville",
+            "areacodes":[361],
+            "zipcodes" : [78361]
+        },
+        {
+            "cityname" : "Hedley",
+            "areacodes":[806],
+            "zipcodes" : [79237]
+        },
+        {
+            "cityname" : "Helotes",
+            "areacodes":[210],
+            "zipcodes" : [78023]
+        },
+        {
+            "cityname" : "Hemphill",
+            "areacodes":[409],
+            "zipcodes" : [75948]
+        },
+        {
+            "cityname" : "Hempstead",
+            "areacodes":[979],
+            "zipcodes" : [77445]
+        },
+        {
+            "cityname" : "Henderson",
+            "areacodes":[903],
+            "zipcodes" : [75652, 75653, 75654]
+        },
+        {
+            "cityname" : "Henrietta",
+            "areacodes":[940],
+            "zipcodes" : [76365]
+        },
+        {
+            "cityname" : "Hereford",
+            "areacodes":[806],
+            "zipcodes" : [79045]
+        },
+        {
+            "cityname" : "Hermleigh",
+            "areacodes":[325],
+            "zipcodes" : [79526]
+        },
+        {
+            "cityname" : "Hewitt",
+            "areacodes":[254],
+            "zipcodes" : [76643]
+        },
+        {
+            "cityname" : "Hico",
+            "areacodes":[254],
+            "zipcodes" : [76457]
+        },
+        {
+            "cityname" : "Hidalgo",
+            "areacodes":[956],
+            "zipcodes" : [78557]
+        },
+        {
+            "cityname" : "Higgins",
+            "areacodes":[806],
+            "zipcodes" : [79046]
+        },
+        {
+            "cityname" : "Highlands",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77562]
+        },
+        {
+            "cityname" : "Hillsboro",
+            "areacodes":[254],
+            "zipcodes" : [76645]
+        },
+        {
+            "cityname" : "Hitchcock",
+            "areacodes":[409],
+            "zipcodes" : [77563]
+        },
+        {
+            "cityname" : "Holland",
+            "areacodes":[254],
+            "zipcodes" : [76534]
+        },
+        {
+            "cityname" : "Holliday",
+            "areacodes":[940],
+            "zipcodes" : [76366]
+        },
+        {
+            "cityname" : "Hondo",
+            "areacodes":[830],
+            "zipcodes" : [78861]
+        },
+        {
+            "cityname" : "Honey Grove",
+            "areacodes":[903],
+            "zipcodes" : [75446]
+        },
+        {
+            "cityname" : "Hooks",
+            "areacodes":[903],
+            "zipcodes" : [75561]
+        },
+        {
+            "cityname" : "Houston",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77001, 77002, 77003, 77004, 77005, 77006, 77007, 77008, 77009, 77010, 77011, 77012, 77013, 77014, 77015, 77016, 77017, 77018, 77019, 77020, 77021, 77022, 77023, 77024, 77025, 77026, 77027, 77028, 77029, 77030, 77031, 77032, 77033, 77034, 77035, 77036, 77037, 77038, 77039, 77040, 77041, 77042, 77043, 77044, 77045, 77046, 77047, 77048, 77049, 77050, 77051, 77052, 77053, 77054, 77055, 77056, 77057, 77058, 77059, 77060, 77061, 77062, 77063, 77064, 77065, 77066, 77067, 77068, 77069, 77070, 77071, 77072, 77073, 77074, 77075, 77076, 77077, 77078, 77079, 77080, 77081, 77082, 77083, 77084, 77085, 77086, 77087, 77088, 77089, 77090, 77091, 77092, 77093, 77094, 77095, 77096, 77097, 77098, 77099]
+        },
+        {
+            "cityname" : "Howe",
+            "areacodes":[903],
+            "zipcodes" : [75459]
+        },
+        {
+            "cityname" : "Hubbard",
+            "areacodes":[254],
+            "zipcodes" : [76648]
+        },
+        {
+            "cityname" : "Hughes Springs",
+            "areacodes":[903],
+            "zipcodes" : [75656]
+        },
+        {
+            "cityname" : "Humble",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77338, 77346, 77347, 77396]
+        },
+        {
+            "cityname" : "Hungerford",
+            "areacodes":[979],
+            "zipcodes" : [77448]
+        },
+        {
+            "cityname" : "Huntington",
+            "areacodes":[936],
+            "zipcodes" : [75949]
+        },
+        {
+            "cityname" : "Huntsville",
+            "areacodes":[936],
+            "zipcodes" : [77320, 77340, 77341, 77342, 77343, 77344, 77348, 77349]
+        },
+        {
+            "cityname" : "Hurst",
+            "areacodes":[817, 682],
+            "zipcodes" : [76053, 76054]
+        },
+        {
+            "cityname" : "Hutchins",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75141]
+        },
+        {
+            "cityname" : "Idalou",
+            "areacodes":[806],
+            "zipcodes" : [79329]
+        },
+        {
+            "cityname" : "Imperial",
+            "areacodes":[432],
+            "zipcodes" : [79743]
+        },
+        {
+            "cityname" : "Industry",
+            "areacodes":[979],
+            "zipcodes" : [78944]
+        },
+        {
+            "cityname" : "Inez",
+            "areacodes":[361],
+            "zipcodes" : [77968]
+        },
+        {
+            "cityname" : "Ingleside",
+            "areacodes":[361],
+            "zipcodes" : [78362]
+        },
+        {
+            "cityname" : "Ingram",
+            "areacodes":[830],
+            "zipcodes" : [78025]
+        },
+        {
+            "cityname" : "Iowa Park",
+            "areacodes":[940],
+            "zipcodes" : [76367]
+        },
+        {
+            "cityname" : "Iraan",
+            "areacodes":[432],
+            "zipcodes" : [79744]
+        },
+        {
+            "cityname" : "Iredell",
+            "areacodes":[254],
+            "zipcodes" : [76649]
+        },
+        {
+            "cityname" : "Irving",
+            "areacodes":[214, 469, 972],
+            "zipcodes" : [75014, 75015, 75016, 75017, 75038, 75039, 75060, 75061, 75062, 75063]
+        },
+        {
+            "cityname" : "Italy",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [76651]
+        },
+        {
+            "cityname" : "Itasca",
+            "areacodes":[254],
+            "zipcodes" : [76055]
+        },
+        {
+            "cityname" : "Jacksboro",
+            "areacodes":[940],
+            "zipcodes" : [76458]
+        },
+        {
+            "cityname" : "Jacksonville",
+            "areacodes":[903],
+            "zipcodes" : [75766]
+        },
+        {
+            "cityname" : "Jasper",
+            "areacodes":[409],
+            "zipcodes" : [75951]
+        },
+        {
+            "cityname" : "Jayton",
+            "areacodes":[806],
+            "zipcodes" : [79528]
+        },
+        {
+            "cityname" : "Jefferson",
+            "areacodes":[903],
+            "zipcodes" : [75657]
+        },
+        {
+            "cityname" : "Jewett",
+            "areacodes":[903],
+            "zipcodes" : [75846]
+        },
+        {
+            "cityname" : "Joaquin",
+            "areacodes":[936],
+            "zipcodes" : [75954]
+        },
+        {
+            "cityname" : "Johnson City",
+            "areacodes":[830],
+            "zipcodes" : [78636]
+        },
+        {
+            "cityname" : "Josephine",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75164]
+        },
+        {
+            "cityname" : "Joshua",
+            "areacodes":[817, 682],
+            "zipcodes" : [76058]
+        },
+        {
+            "cityname" : "Karnes City",
+            "areacodes":[830],
+            "zipcodes" : [78118]
+        },
+        {
+            "cityname" : "Kaufman",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75142]
+        },
+        {
+            "cityname" : "Keene",
+            "areacodes":[817, 682],
+            "zipcodes" : [76059]
+        },
+        {
+            "cityname" : "Kemah",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77565]
+        },
+        {
+            "cityname" : "Kemp",
+            "areacodes":[903],
+            "zipcodes" : [75143]
+        },
+        {
+            "cityname" : "Kempner",
+            "areacodes":[512, 737],
+            "zipcodes" : [76539]
+        },
+        {
+            "cityname" : "Kendleton",
+            "areacodes":[979],
+            "zipcodes" : [77451]
+        },
+        {
+            "cityname" : "Kenedy",
+            "areacodes":[830],
+            "zipcodes" : [78119]
+        },
+        {
+            "cityname" : "Kennard",
+            "areacodes":[936],
+            "zipcodes" : [75847]
+        },
+        {
+            "cityname" : "Kennedale",
+            "areacodes":[817, 682],
+            "zipcodes" : [76060]
+        },
+        {
+            "cityname" : "Kerens",
+            "areacodes":[903],
+            "zipcodes" : [75144]
+        },
+        {
+            "cityname" : "Kermit",
+            "areacodes":[432],
+            "zipcodes" : [79745]
+        },
+        {
+            "cityname" : "Kerrville",
+            "areacodes":[830],
+            "zipcodes" : [78028, 78029]
+        },
+        {
+            "cityname" : "Kilgore",
+            "areacodes":[903],
+            "zipcodes" : [75662, 75663]
+        },
+        {
+            "cityname" : "Killeen",
+            "areacodes":[254],
+            "zipcodes" : [76540, 76541, 76542, 76543, 76544, 76545, 76546, 76547, 76549]
+        },
+        {
+            "cityname" : "Kingsbury",
+            "areacodes":[830],
+            "zipcodes" : [78638]
+        },
+        {
+            "cityname" : "Kingsland",
+            "areacodes":[325],
+            "zipcodes" : [78639]
+        },
+        {
+            "cityname" : "Kingsville",
+            "areacodes":[361],
+            "zipcodes" : [78363, 78364]
+        },
+        {
+            "cityname" : "Kirbyville",
+            "areacodes":[409],
+            "zipcodes" : [75956]
+        },
+        {
+            "cityname" : "Knippa",
+            "areacodes":[830],
+            "zipcodes" : [78870]
+        },
+        {
+            "cityname" : "Knox City",
+            "areacodes":[940],
+            "zipcodes" : [79529]
+        },
+        {
+            "cityname" : "Kosse",
+            "areacodes":[254],
+            "zipcodes" : [76653]
+        },
+        {
+            "cityname" : "Kountze",
+            "areacodes":[409],
+            "zipcodes" : [77625]
+        },
+        {
+            "cityname" : "Kress",
+            "areacodes":[806],
+            "zipcodes" : [79052]
+        },
+        {
+            "cityname" : "Krum",
+            "areacodes":[940],
+            "zipcodes" : [76249]
+        },
+        {
+            "cityname" : "Kyle",
+            "areacodes":[512, 737],
+            "zipcodes" : [78640]
+        },
+        {
+            "cityname" : "La Blanca",
+            "areacodes":[956],
+            "zipcodes" : [78558]
+        },
+        {
+            "cityname" : "La Coste",
+            "areacodes":[830],
+            "zipcodes" : [78039]
+        },
+        {
+            "cityname" : "La Feria",
+            "areacodes":[956],
+            "zipcodes" : [78559]
+        },
+        {
+            "cityname" : "La Grange",
+            "areacodes":[979],
+            "zipcodes" : [78945]
+        },
+        {
+            "cityname" : "La Joya",
+            "areacodes":[956],
+            "zipcodes" : [78560]
+        },
+        {
+            "cityname" : "La Marque",
+            "areacodes":[409],
+            "zipcodes" : [77568]
+        },
+        {
+            "cityname" : "La Porte",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77571, 77572]
+        },
+        {
+            "cityname" : "La Pryor",
+            "areacodes":[830],
+            "zipcodes" : [78872]
+        },
+        {
+            "cityname" : "La Vernia",
+            "areacodes":[830],
+            "zipcodes" : [78121]
+        },
+        {
+            "cityname" : "La Villa",
+            "areacodes":[956],
+            "zipcodes" : [78562]
+        },
+        {
+            "cityname" : "Ladonia",
+            "areacodes":[903],
+            "zipcodes" : [75449]
+        },
+        {
+            "cityname" : "Lake Dallas",
+            "areacodes":[940],
+            "zipcodes" : [75065]
+        },
+        {
+            "cityname" : "Lake Jackson",
+            "areacodes":[979],
+            "zipcodes" : [77566]
+        },
+        {
+            "cityname" : "Lamesa",
+            "areacodes":[806],
+            "zipcodes" : [79331]
+        },
+        {
+            "cityname" : "Lampasas",
+            "areacodes":[512, 737],
+            "zipcodes" : [76550]
+        },
+        {
+            "cityname" : "Lancaster",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75134, 75146]
+        },
+        {
+            "cityname" : "Laredo",
+            "areacodes":[956],
+            "zipcodes" : [78040, 78041, 78042, 78043, 78044, 78045, 78046, 78049]
+        },
+        {
+            "cityname" : "Lasara",
+            "areacodes":[956],
+            "zipcodes" : [78561]
+        },
+        {
+            "cityname" : "Latexo",
+            "areacodes":[936],
+            "zipcodes" : [75849]
+        },
+        {
+            "cityname" : "Laughlin A F B",
+            "areacodes":[830],
+            "zipcodes" : [78843]
+        },
+        {
+            "cityname" : "Lavon",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75166]
+        },
+        {
+            "cityname" : "Lawn",
+            "areacodes":[325],
+            "zipcodes" : [79530]
+        },
+        {
+            "cityname" : "League City",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77573, 77574]
+        },
+        {
+            "cityname" : "Leakey",
+            "areacodes":[830],
+            "zipcodes" : [78873]
+        },
+        {
+            "cityname" : "Leander",
+            "areacodes":[512, 737],
+            "zipcodes" : [78641, 78645, 78646]
+        },
+        {
+            "cityname" : "Lefors",
+            "areacodes":[806],
+            "zipcodes" : [79054]
+        },
+        {
+            "cityname" : "Leonard",
+            "areacodes":[903],
+            "zipcodes" : [75452]
+        },
+        {
+            "cityname" : "Leroy",
+            "areacodes":[254],
+            "zipcodes" : [76654]
+        },
+        {
+            "cityname" : "Levelland",
+            "areacodes":[806],
+            "zipcodes" : [79336, 79338]
+        },
+        {
+            "cityname" : "Lewisville",
+            "areacodes":[214, 469, 972],
+            "zipcodes" : [75029, 75057, 75067, 75077]
+        },
+        {
+            "cityname" : "Lexington",
+            "areacodes":[979],
+            "zipcodes" : [78947]
+        },
+        {
+            "cityname" : "Liberty Hill",
+            "areacodes":[512, 737],
+            "zipcodes" : [78642]
+        },
+        {
+            "cityname" : "Liberty",
+            "areacodes":[936],
+            "zipcodes" : [77575]
+        },
+        {
+            "cityname" : "Lincoln",
+            "areacodes":[979],
+            "zipcodes" : [78948]
+        },
+        {
+            "cityname" : "Lindale",
+            "areacodes":[903],
+            "zipcodes" : [75771]
+        },
+        {
+            "cityname" : "Linden",
+            "areacodes":[903],
+            "zipcodes" : [75563]
+        },
+        {
+            "cityname" : "Lindsay",
+            "areacodes":[940],
+            "zipcodes" : [76250]
+        },
+        {
+            "cityname" : "Lipan",
+            "areacodes":[254],
+            "zipcodes" : [76462]
+        },
+        {
+            "cityname" : "Little Elm",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75068]
+        },
+        {
+            "cityname" : "Little River Academy",
+            "areacodes":[254],
+            "zipcodes" : [76554]
+        },
+        {
+            "cityname" : "Littlefield",
+            "areacodes":[806],
+            "zipcodes" : [79339]
+        },
+        {
+            "cityname" : "Liverpool",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77577]
+        },
+        {
+            "cityname" : "Livingston",
+            "areacodes":[936],
+            "zipcodes" : [77351]
+        },
+        {
+            "cityname" : "Llano",
+            "areacodes":[325],
+            "zipcodes" : [78643]
+        },
+        {
+            "cityname" : "Lockhart",
+            "areacodes":[512, 737],
+            "zipcodes" : [78644]
+        },
+        {
+            "cityname" : "Lockney",
+            "areacodes":[806],
+            "zipcodes" : [79241]
+        },
+        {
+            "cityname" : "Lolita",
+            "areacodes":[361],
+            "zipcodes" : [77971]
+        },
+        {
+            "cityname" : "Lometa",
+            "areacodes":[512, 737],
+            "zipcodes" : [76853]
+        },
+        {
+            "cityname" : "Lone Oak",
+            "areacodes":[903],
+            "zipcodes" : [75453]
+        },
+        {
+            "cityname" : "Lone Star",
+            "areacodes":[903],
+            "zipcodes" : [75668]
+        },
+        {
+            "cityname" : "Longview",
+            "areacodes":[903, 430],
+            "zipcodes" : [75601, 75602, 75603, 75604, 75605, 75606, 75607, 75608, 75615]
+        },
+        {
+            "cityname" : "Loraine",
+            "areacodes":[325],
+            "zipcodes" : [79532]
+        },
+        {
+            "cityname" : "Lorena",
+            "areacodes":[254],
+            "zipcodes" : [76655]
+        },
+        {
+            "cityname" : "Los Ebanos",
+            "areacodes":[956],
+            "zipcodes" : [78565]
+        },
+        {
+            "cityname" : "Los Fresnos",
+            "areacodes":[956],
+            "zipcodes" : [78566]
+        },
+        {
+            "cityname" : "Los Indios",
+            "areacodes":[956],
+            "zipcodes" : [78567]
+        },
+        {
+            "cityname" : "Lott",
+            "areacodes":[254],
+            "zipcodes" : [76656]
+        },
+        {
+            "cityname" : "Lozano",
+            "areacodes":[956],
+            "zipcodes" : [78568]
+        },
+        {
+            "cityname" : "Lubbock",
+            "areacodes":[806],
+            "zipcodes" : [79401, 79402, 79403, 79404, 79406, 79407, 79408, 79409, 79410, 79411, 79412, 79413, 79414, 79415, 79416, 79423, 79424, 79430, 79452, 79453, 79457, 79464, 79490, 79491, 79493, 79499]
+        },
+        {
+            "cityname" : "Lueders",
+            "areacodes":[325],
+            "zipcodes" : [79533]
+        },
+        {
+            "cityname" : "Lufkin",
+            "areacodes":[936],
+            "zipcodes" : [75901, 75902, 75903, 75904, 75915]
+        },
+        {
+            "cityname" : "Lumberton",
+            "areacodes":[409],
+            "zipcodes" : [77657]
+        },
+        {
+            "cityname" : "Lyford",
+            "areacodes":[956],
+            "zipcodes" : [78569]
+        },
+        {
+            "cityname" : "Lytle",
+            "areacodes":[830],
+            "zipcodes" : [78052]
+        },
+        {
+            "cityname" : "Mabank",
+            "areacodes":[903],
+            "zipcodes" : [75147, 75156]
+        },
+        {
+            "cityname" : "Madisonville",
+            "areacodes":[936],
+            "zipcodes" : [77864]
+        },
+        {
+            "cityname" : "Magnolia",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77353, 77354, 77355]
+        },
+        {
+            "cityname" : "Malakoff",
+            "areacodes":[903],
+            "zipcodes" : [75148]
+        },
+        {
+            "cityname" : "Malone",
+            "areacodes":[254],
+            "zipcodes" : [76660]
+        },
+        {
+            "cityname" : "Manor",
+            "areacodes":[512, 737],
+            "zipcodes" : [78653]
+        },
+        {
+            "cityname" : "Mansfield",
+            "areacodes":[817, 682],
+            "zipcodes" : [76063]
+        },
+        {
+            "cityname" : "Manvel",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77578]
+        },
+        {
+            "cityname" : "Marble Falls",
+            "areacodes":[830],
+            "zipcodes" : [78654]
+        },
+        {
+            "cityname" : "Marfa",
+            "areacodes":[432],
+            "zipcodes" : [79843]
+        },
+        {
+            "cityname" : "Marion",
+            "areacodes":[830],
+            "zipcodes" : [78124]
+        },
+        {
+            "cityname" : "Markham",
+            "areacodes":[979],
+            "zipcodes" : [77456]
+        },
+        {
+            "cityname" : "Marlin",
+            "areacodes":[254],
+            "zipcodes" : [76661]
+        },
+        {
+            "cityname" : "Marquez",
+            "areacodes":[903],
+            "zipcodes" : [77865]
+        },
+        {
+            "cityname" : "Marshall",
+            "areacodes":[903],
+            "zipcodes" : [75670, 75671, 75672]
+        },
+        {
+            "cityname" : "Mart",
+            "areacodes":[254],
+            "zipcodes" : [76664]
+        },
+        {
+            "cityname" : "Martindale",
+            "areacodes":[512, 737],
+            "zipcodes" : [78655]
+        },
+        {
+            "cityname" : "Mason",
+            "areacodes":[325],
+            "zipcodes" : [76856]
+        },
+        {
+            "cityname" : "Matador",
+            "areacodes":[806],
+            "zipcodes" : [79244]
+        },
+        {
+            "cityname" : "Mathis",
+            "areacodes":[361],
+            "zipcodes" : [78368]
+        },
+        {
+            "cityname" : "Maud",
+            "areacodes":[903],
+            "zipcodes" : [75567]
+        },
+        {
+            "cityname" : "Mauriceville",
+            "areacodes":[409],
+            "zipcodes" : [77626]
+        },
+        {
+            "cityname" : "Maypearl",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [76064]
+        },
+        {
+            "cityname" : "Mc Camey",
+            "areacodes":[432],
+            "zipcodes" : [79752]
+        },
+        {
+            "cityname" : "Mc Gregor",
+            "areacodes":[254],
+            "zipcodes" : [76657]
+        },
+        {
+            "cityname" : "Mc Kinney",
+            "areacodes":[214, 469, 972],
+            "zipcodes" : [75069, 75070, 75071]
+        },
+        {
+            "cityname" : "Mc Queeney",
+            "areacodes":[830],
+            "zipcodes" : [78123]
+        },
+        {
+            "cityname" : "Mcallen",
+            "areacodes":[956],
+            "zipcodes" : [78501, 78502, 78503, 78504, 78505]
+        },
+        {
+            "cityname" : "Mclean",
+            "areacodes":[806],
+            "zipcodes" : [79057]
+        },
+        {
+            "cityname" : "Meadow",
+            "areacodes":[806],
+            "zipcodes" : [79345]
+        },
+        {
+            "cityname" : "Medina",
+            "areacodes":[830],
+            "zipcodes" : [78055]
+        },
+        {
+            "cityname" : "Megargel",
+            "areacodes":[940],
+            "zipcodes" : [76370]
+        },
+        {
+            "cityname" : "Melissa",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75454]
+        },
+        {
+            "cityname" : "Memphis",
+            "areacodes":[806],
+            "zipcodes" : [79245]
+        },
+        {
+            "cityname" : "Menard",
+            "areacodes":[325],
+            "zipcodes" : [76859]
+        },
+        {
+            "cityname" : "Mercedes",
+            "areacodes":[956],
+            "zipcodes" : [78570]
+        },
+        {
+            "cityname" : "Meridian",
+            "areacodes":[254],
+            "zipcodes" : [76665]
+        },
+        {
+            "cityname" : "Merkel",
+            "areacodes":[325],
+            "zipcodes" : [79536]
+        },
+        {
+            "cityname" : "Mertzon",
+            "areacodes":[325],
+            "zipcodes" : [76941]
+        },
+        {
+            "cityname" : "Mesquite",
+            "areacodes":[214, 469, 972],
+            "zipcodes" : [75149, 75150, 75181, 75185, 75187]
+        },
+        {
+            "cityname" : "Mexia",
+            "areacodes":[254],
+            "zipcodes" : [76667]
+        },
+        {
+            "cityname" : "Miami",
+            "areacodes":[806],
+            "zipcodes" : [79059]
+        },
+        {
+            "cityname" : "Midland",
+            "areacodes":[432],
+            "zipcodes" : [79701, 79702, 79703, 79704, 79705, 79706, 79707, 79708, 79710, 79711, 79712]
+        },
+        {
+            "cityname" : "Midlothian",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [76065]
+        },
+        {
+            "cityname" : "Midway",
+            "areacodes":[936],
+            "zipcodes" : [75852]
+        },
+        {
+            "cityname" : "Milam",
+            "areacodes":[409],
+            "zipcodes" : [75959]
+        },
+        {
+            "cityname" : "Milano",
+            "areacodes":[512, 737],
+            "zipcodes" : [76556]
+        },
+        {
+            "cityname" : "Miles",
+            "areacodes":[325],
+            "zipcodes" : [76861]
+        },
+        {
+            "cityname" : "Milford",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [76670]
+        },
+        {
+            "cityname" : "Millsap",
+            "areacodes":[940],
+            "zipcodes" : [76066]
+        },
+        {
+            "cityname" : "Mineola",
+            "areacodes":[903],
+            "zipcodes" : [75773]
+        },
+        {
+            "cityname" : "Mineral Wells",
+            "areacodes":[940],
+            "zipcodes" : [76067, 76068]
+        },
+        {
+            "cityname" : "Mingus",
+            "areacodes":[254],
+            "zipcodes" : [76463]
+        },
+        {
+            "cityname" : "Mirando City",
+            "areacodes":[361],
+            "zipcodes" : [78369]
+        },
+        {
+            "cityname" : "Mission",
+            "areacodes":[956],
+            "zipcodes" : [78572, 78573, 78574]
+        },
+        {
+            "cityname" : "Missouri City",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77459, 77489]
+        },
+        {
+            "cityname" : "Monahans",
+            "areacodes":[432],
+            "zipcodes" : [79756]
+        },
+        {
+            "cityname" : "Mont Belvieu",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77580]
+        },
+        {
+            "cityname" : "Montgomery",
+            "areacodes":[936],
+            "zipcodes" : [77316, 77356]
+        },
+        {
+            "cityname" : "Moody",
+            "areacodes":[254],
+            "zipcodes" : [76557]
+        },
+        {
+            "cityname" : "Moore",
+            "areacodes":[830],
+            "zipcodes" : [78057]
+        },
+        {
+            "cityname" : "Moran",
+            "areacodes":[325],
+            "zipcodes" : [76464]
+        },
+        {
+            "cityname" : "Morgan",
+            "areacodes":[254],
+            "zipcodes" : [76671]
+        },
+        {
+            "cityname" : "Morton",
+            "areacodes":[806],
+            "zipcodes" : [79346]
+        },
+        {
+            "cityname" : "Moulton",
+            "areacodes":[361],
+            "zipcodes" : [77975]
+        },
+        {
+            "cityname" : "Mount Calm",
+            "areacodes":[254],
+            "zipcodes" : [76673]
+        },
+        {
+            "cityname" : "Mount Enterprise",
+            "areacodes":[903],
+            "zipcodes" : [75681]
+        },
+        {
+            "cityname" : "Mount Pleasant",
+            "areacodes":[903],
+            "zipcodes" : [75455, 75456]
+        },
+        {
+            "cityname" : "Mount Vernon",
+            "areacodes":[903],
+            "zipcodes" : [75457]
+        },
+        {
+            "cityname" : "Muenster",
+            "areacodes":[940],
+            "zipcodes" : [76252]
+        },
+        {
+            "cityname" : "Muleshoe",
+            "areacodes":[806],
+            "zipcodes" : [79347]
+        },
+        {
+            "cityname" : "Munday",
+            "areacodes":[940],
+            "zipcodes" : [76371]
+        },
+        {
+            "cityname" : "Murchison",
+            "areacodes":[903],
+            "zipcodes" : [75778]
+        },
+        {
+            "cityname" : "Nacogdoches",
+            "areacodes":[936],
+            "zipcodes" : [75961, 75962, 75963, 75964, 75965]
+        },
+        {
+            "cityname" : "Naples",
+            "areacodes":[903],
+            "zipcodes" : [75568]
+        },
+        {
+            "cityname" : "Nash",
+            "areacodes":[903],
+            "zipcodes" : [75569]
+        },
+        {
+            "cityname" : "Natalia",
+            "areacodes":[830],
+            "zipcodes" : [78059]
+        },
+        {
+            "cityname" : "Navasota",
+            "areacodes":[936],
+            "zipcodes" : [77868, 77869]
+        },
+        {
+            "cityname" : "Nazareth",
+            "areacodes":[806],
+            "zipcodes" : [79063]
+        },
+        {
+            "cityname" : "Nederland",
+            "areacodes":[409],
+            "zipcodes" : [77627]
+        },
+        {
+            "cityname" : "Needville",
+            "areacodes":[979],
+            "zipcodes" : [77461]
+        },
+        {
+            "cityname" : "Nevada",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75173]
+        },
+        {
+            "cityname" : "New Boston",
+            "areacodes":[903],
+            "zipcodes" : [75570]
+        },
+        {
+            "cityname" : "New Braunfels",
+            "areacodes":[830],
+            "zipcodes" : [78130, 78131, 78132, 78135]
+        },
+        {
+            "cityname" : "New Deal",
+            "areacodes":[806],
+            "zipcodes" : [79350]
+        },
+        {
+            "cityname" : "New Home",
+            "areacodes":[806],
+            "zipcodes" : [79383]
+        },
+        {
+            "cityname" : "New London",
+            "areacodes":[903],
+            "zipcodes" : [75682]
+        },
+        {
+            "cityname" : "New Summerfield",
+            "areacodes":[903],
+            "zipcodes" : [75780]
+        },
+        {
+            "cityname" : "New Waverly",
+            "areacodes":[936],
+            "zipcodes" : [77358]
+        },
+        {
+            "cityname" : "Newark",
+            "areacodes":[817, 682],
+            "zipcodes" : [76071]
+        },
+        {
+            "cityname" : "Newcastle",
+            "areacodes":[940],
+            "zipcodes" : [76372]
+        },
+        {
+            "cityname" : "Newton",
+            "areacodes":[409],
+            "zipcodes" : [75966]
+        },
+        {
+            "cityname" : "Nixon",
+            "areacodes":[830],
+            "zipcodes" : [78140]
+        },
+        {
+            "cityname" : "Nocona",
+            "areacodes":[940],
+            "zipcodes" : [76255]
+        },
+        {
+            "cityname" : "Nolanville",
+            "areacodes":[254],
+            "zipcodes" : [76559]
+        },
+        {
+            "cityname" : "Nome",
+            "areacodes":[409],
+            "zipcodes" : [77629]
+        },
+        {
+            "cityname" : "Nordheim",
+            "areacodes":[361],
+            "zipcodes" : [78141]
+        },
+        {
+            "cityname" : "Normangee",
+            "areacodes":[936],
+            "zipcodes" : [77871]
+        },
+        {
+            "cityname" : "North Richland Hills",
+            "areacodes":[817, 682],
+            "zipcodes" : [76180, 76182]
+        },
+        {
+            "cityname" : "Oakhurst",
+            "areacodes":[936],
+            "zipcodes" : [77359]
+        },
+        {
+            "cityname" : "Oakwood",
+            "areacodes":[903],
+            "zipcodes" : [75855]
+        },
+        {
+            "cityname" : "Odem",
+            "areacodes":[361],
+            "zipcodes" : [78370]
+        },
+        {
+            "cityname" : "Odessa",
+            "areacodes":[432],
+            "zipcodes" : [79760, 79761, 79762, 79763, 79764, 79765, 79766, 79768, 79769]
+        },
+        {
+            "cityname" : "Oglesby",
+            "areacodes":[254],
+            "zipcodes" : [76561]
+        },
+        {
+            "cityname" : "Oilton",
+            "areacodes":[361],
+            "zipcodes" : [78371]
+        },
+        {
+            "cityname" : "Olmito",
+            "areacodes":[956],
+            "zipcodes" : [78575]
+        },
+        {
+            "cityname" : "Olney",
+            "areacodes":[940],
+            "zipcodes" : [76374]
+        },
+        {
+            "cityname" : "Olton",
+            "areacodes":[806],
+            "zipcodes" : [79064]
+        },
+        {
+            "cityname" : "Omaha",
+            "areacodes":[903],
+            "zipcodes" : [75571]
+        },
+        {
+            "cityname" : "Onalaska",
+            "areacodes":[936],
+            "zipcodes" : [77360]
+        },
+        {
+            "cityname" : "Orange Grove",
+            "areacodes":[361],
+            "zipcodes" : [78372]
+        },
+        {
+            "cityname" : "Orange",
+            "areacodes":[409],
+            "zipcodes" : [77630, 77631, 77632]
+        },
+        {
+            "cityname" : "Orchard",
+            "areacodes":[979],
+            "zipcodes" : [77464]
+        },
+        {
+            "cityname" : "Ore City",
+            "areacodes":[903],
+            "zipcodes" : [75683]
+        },
+        {
+            "cityname" : "Overton",
+            "areacodes":[903],
+            "zipcodes" : [75684]
+        },
+        {
+            "cityname" : "Ozona",
+            "areacodes":[325],
+            "zipcodes" : [76943]
+        },
+        {
+            "cityname" : "Paducah",
+            "areacodes":[806],
+            "zipcodes" : [79248]
+        },
+        {
+            "cityname" : "Paint Rock",
+            "areacodes":[325],
+            "zipcodes" : [76866]
+        },
+        {
+            "cityname" : "Palacios",
+            "areacodes":[361],
+            "zipcodes" : [77465]
+        },
+        {
+            "cityname" : "Palestine",
+            "areacodes":[903],
+            "zipcodes" : [75801, 75802, 75803]
+        },
+        {
+            "cityname" : "Palmer",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75152]
+        },
+        {
+            "cityname" : "Pampa",
+            "areacodes":[806],
+            "zipcodes" : [79065, 79066]
+        },
+        {
+            "cityname" : "Panhandle",
+            "areacodes":[806],
+            "zipcodes" : [79068]
+        },
+        {
+            "cityname" : "Paradise",
+            "areacodes":[940],
+            "zipcodes" : [76073]
+        },
+        {
+            "cityname" : "Paris",
+            "areacodes":[903],
+            "zipcodes" : [75460, 75461, 75462]
+        },
+        {
+            "cityname" : "Pasadena",
+            "areacodes":[713, 281, 346, 832],
+            "zipcodes" : [77501, 77502, 77503, 77504, 77505, 77506, 77507, 77508]
+        },
+        {
+            "cityname" : "Pattison",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77466]
+        },
+        {
+            "cityname" : "Pawnee",
+            "areacodes":[361],
+            "zipcodes" : [78145]
+        },
+        {
+            "cityname" : "Pearland",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77581, 77584, 77588]
+        },
+        {
+            "cityname" : "Pearsall",
+            "areacodes":[830],
+            "zipcodes" : [78061]
+        },
+        {
+            "cityname" : "Pecan Gap",
+            "areacodes":[903],
+            "zipcodes" : [75469]
+        },
+        {
+            "cityname" : "Pecos",
+            "areacodes":[432],
+            "zipcodes" : [79772]
+        },
+        {
+            "cityname" : "Penelope",
+            "areacodes":[254],
+            "zipcodes" : [76676]
+        },
+        {
+            "cityname" : "Penitas",
+            "areacodes":[956],
+            "zipcodes" : [78576]
+        },
+        {
+            "cityname" : "Perryton",
+            "areacodes":[806],
+            "zipcodes" : [79070]
+        },
+        {
+            "cityname" : "Petersburg",
+            "areacodes":[806],
+            "zipcodes" : [79250]
+        },
+        {
+            "cityname" : "Petrolia",
+            "areacodes":[940],
+            "zipcodes" : [76377]
+        },
+        {
+            "cityname" : "Pettus",
+            "areacodes":[361],
+            "zipcodes" : [78146]
+        },
+        {
+            "cityname" : "Pflugerville",
+            "areacodes":[512, 737],
+            "zipcodes" : [78660, 78691]
+        },
+        {
+            "cityname" : "Pharr",
+            "areacodes":[956],
+            "zipcodes" : [78577]
+        },
+        {
+            "cityname" : "Pilot Point",
+            "areacodes":[940],
+            "zipcodes" : [76258]
+        },
+        {
+            "cityname" : "Pinehurst",
+            "areacodes":[409],
+            "zipcodes" : [77662]
+        },
+        {
+            "cityname" : "Pineland",
+            "areacodes":[409],
+            "zipcodes" : [75968]
+        },
+        {
+            "cityname" : "Pittsburg",
+            "areacodes":[903],
+            "zipcodes" : [75686]
+        },
+        {
+            "cityname" : "Plains",
+            "areacodes":[806],
+            "zipcodes" : [79355]
+        },
+        {
+            "cityname" : "Plainview",
+            "areacodes":[806],
+            "zipcodes" : [79072, 79073]
+        },
+        {
+            "cityname" : "Plano",
+            "areacodes":[214, 469, 972],
+            "zipcodes" : [75023, 75024, 75025, 75026, 75074, 75075, 75086, 75093, 75094]
+        },
+        {
+            "cityname" : "Pleasanton",
+            "areacodes":[830],
+            "zipcodes" : [78064]
+        },
+        {
+            "cityname" : "Plum",
+            "areacodes":[979],
+            "zipcodes" : [78952]
+        },
+        {
+            "cityname" : "Point Comfort",
+            "areacodes":[361],
+            "zipcodes" : [77978]
+        },
+        {
+            "cityname" : "Point",
+            "areacodes":[903],
+            "zipcodes" : [75472]
+        },
+        {
+            "cityname" : "Ponder",
+            "areacodes":[940],
+            "zipcodes" : [76259]
+        },
+        {
+            "cityname" : "Port Aransas",
+            "areacodes":[361],
+            "zipcodes" : [78373]
+        },
+        {
+            "cityname" : "Port Arthur",
+            "areacodes":[409],
+            "zipcodes" : [77640, 77641, 77642, 77643]
+        },
+        {
+            "cityname" : "Port Isabel",
+            "areacodes":[956],
+            "zipcodes" : [78578]
+        },
+        {
+            "cityname" : "Port Lavaca",
+            "areacodes":[361],
+            "zipcodes" : [77979]
+        },
+        {
+            "cityname" : "Port Mansfield",
+            "areacodes":[956],
+            "zipcodes" : [78598]
+        },
+        {
+            "cityname" : "Port Neches",
+            "areacodes":[409],
+            "zipcodes" : [77651]
+        },
+        {
+            "cityname" : "Porter",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77365]
+        },
+        {
+            "cityname" : "Portland",
+            "areacodes":[361],
+            "zipcodes" : [78374]
+        },
+        {
+            "cityname" : "Post",
+            "areacodes":[806],
+            "zipcodes" : [79356]
+        },
+        {
+            "cityname" : "Poteet",
+            "areacodes":[830],
+            "zipcodes" : [78065]
+        },
+        {
+            "cityname" : "Poth",
+            "areacodes":[830],
+            "zipcodes" : [78147]
+        },
+        {
+            "cityname" : "Pottsboro",
+            "areacodes":[903],
+            "zipcodes" : [75076]
+        },
+        {
+            "cityname" : "Poynor",
+            "areacodes":[903],
+            "zipcodes" : [75782]
+        },
+        {
+            "cityname" : "Prairie View",
+            "areacodes":[936],
+            "zipcodes" : [77446]
+        },
+        {
+            "cityname" : "Premont",
+            "areacodes":[361],
+            "zipcodes" : [78375]
+        },
+        {
+            "cityname" : "Presidio",
+            "areacodes":[432],
+            "zipcodes" : [79845]
+        },
+        {
+            "cityname" : "Princeton",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75407]
+        },
+        {
+            "cityname" : "Progreso",
+            "areacodes":[956],
+            "zipcodes" : [78579]
+        },
+        {
+            "cityname" : "Quanah",
+            "areacodes":[940],
+            "zipcodes" : [79252]
+        },
+        {
+            "cityname" : "Queen City",
+            "areacodes":[903],
+            "zipcodes" : [75572]
+        },
+        {
+            "cityname" : "Quemado",
+            "areacodes":[830],
+            "zipcodes" : [78877]
+        },
+        {
+            "cityname" : "Quinlan",
+            "areacodes":[903],
+            "zipcodes" : [75474]
+        },
+        {
+            "cityname" : "Quitaque",
+            "areacodes":[806],
+            "zipcodes" : [79255]
+        },
+        {
+            "cityname" : "Quitman",
+            "areacodes":[903],
+            "zipcodes" : [75783]
+        },
+        {
+            "cityname" : "Ralls",
+            "areacodes":[806],
+            "zipcodes" : [79357]
+        },
+        {
+            "cityname" : "Ranger",
+            "areacodes":[254],
+            "zipcodes" : [76470]
+        },
+        {
+            "cityname" : "Rankin",
+            "areacodes":[432],
+            "zipcodes" : [79778]
+        },
+        {
+            "cityname" : "Ransom Canyon",
+            "areacodes":[806],
+            "zipcodes" : [79366]
+        },
+        {
+            "cityname" : "Ravenna",
+            "areacodes":[903],
+            "zipcodes" : [75476]
+        },
+        {
+            "cityname" : "Raymondville",
+            "areacodes":[956],
+            "zipcodes" : [78580]
+        },
+        {
+            "cityname" : "Realitos",
+            "areacodes":[361],
+            "zipcodes" : [78376]
+        },
+        {
+            "cityname" : "Red Oak",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75154]
+        },
+        {
+            "cityname" : "Redwater",
+            "areacodes":[903],
+            "zipcodes" : [75573]
+        },
+        {
+            "cityname" : "Refugio",
+            "areacodes":[361],
+            "zipcodes" : [78377]
+        },
+        {
+            "cityname" : "Reklaw",
+            "areacodes":[936],
+            "zipcodes" : [75784]
+        },
+        {
+            "cityname" : "Rhome",
+            "areacodes":[817, 682],
+            "zipcodes" : [76078]
+        },
+        {
+            "cityname" : "Rice",
+            "areacodes":[903],
+            "zipcodes" : [75155]
+        },
+        {
+            "cityname" : "Richardson",
+            "areacodes":[214, 469, 972],
+            "zipcodes" : [75080, 75081, 75082, 75083, 75085]
+        },
+        {
+            "cityname" : "Richland Springs",
+            "areacodes":[325],
+            "zipcodes" : [76871]
+        },
+        {
+            "cityname" : "Richland",
+            "areacodes":[903],
+            "zipcodes" : [76681]
+        },
+        {
+            "cityname" : "Richmond",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77406, 77407, 77469]
+        },
+        {
+            "cityname" : "Riesel",
+            "areacodes":[254],
+            "zipcodes" : [76682]
+        },
+        {
+            "cityname" : "Rio Grande City",
+            "areacodes":[956],
+            "zipcodes" : [78582]
+        },
+        {
+            "cityname" : "Rio Hondo",
+            "areacodes":[956],
+            "zipcodes" : [78583]
+        },
+        {
+            "cityname" : "Rio Vista",
+            "areacodes":[817, 682],
+            "zipcodes" : [76093]
+        },
+        {
+            "cityname" : "Rising Star",
+            "areacodes":[254],
+            "zipcodes" : [76471]
+        },
+        {
+            "cityname" : "Roanoke",
+            "areacodes":[817, 682],
+            "zipcodes" : [76262, 76299]
+        },
+        {
+            "cityname" : "Roaring Springs",
+            "areacodes":[806],
+            "zipcodes" : [79256]
+        },
+        {
+            "cityname" : "Robert Lee",
+            "areacodes":[325],
+            "zipcodes" : [76945]
+        },
+        {
+            "cityname" : "Robstown",
+            "areacodes":[361],
+            "zipcodes" : [78380]
+        },
+        {
+            "cityname" : "Roby",
+            "areacodes":[325],
+            "zipcodes" : [79543]
+        },
+        {
+            "cityname" : "Rochester",
+            "areacodes":[940],
+            "zipcodes" : [79544]
+        },
+        {
+            "cityname" : "Rockdale",
+            "areacodes":[512, 737],
+            "zipcodes" : [76567]
+        },
+        {
+            "cityname" : "Rockport",
+            "areacodes":[361],
+            "zipcodes" : [78381, 78382]
+        },
+        {
+            "cityname" : "Rocksprings",
+            "areacodes":[830],
+            "zipcodes" : [78880]
+        },
+        {
+            "cityname" : "Rockwall",
+            "areacodes":[214, 469, 972],
+            "zipcodes" : [75032, 75087]
+        },
+        {
+            "cityname" : "Rogers",
+            "areacodes":[254],
+            "zipcodes" : [76569]
+        },
+        {
+            "cityname" : "Roma",
+            "areacodes":[956],
+            "zipcodes" : [78584]
+        },
+        {
+            "cityname" : "Ropesville",
+            "areacodes":[806],
+            "zipcodes" : [79358]
+        },
+        {
+            "cityname" : "Roscoe",
+            "areacodes":[325],
+            "zipcodes" : [79545]
+        },
+        {
+            "cityname" : "Rosebud",
+            "areacodes":[254],
+            "zipcodes" : [76570]
+        },
+        {
+            "cityname" : "Rosenberg",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77471]
+        },
+        {
+            "cityname" : "Ross",
+            "areacodes":[254],
+            "zipcodes" : [76684]
+        },
+        {
+            "cityname" : "Rosser",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75157]
+        },
+        {
+            "cityname" : "Rotan",
+            "areacodes":[325],
+            "zipcodes" : [79546]
+        },
+        {
+            "cityname" : "Round Rock",
+            "areacodes":[512, 737],
+            "zipcodes" : [78664, 78665, 78680, 78681, 78682, 78683]
+        },
+        {
+            "cityname" : "Rowlett",
+            "areacodes":[214, 469, 972],
+            "zipcodes" : [75030, 75088, 75089]
+        },
+        {
+            "cityname" : "Roxton",
+            "areacodes":[903],
+            "zipcodes" : [75477]
+        },
+        {
+            "cityname" : "Royse City",
+            "areacodes":[214, 469, 972],
+            "zipcodes" : [75189]
+        },
+        {
+            "cityname" : "Rule",
+            "areacodes":[940],
+            "zipcodes" : [79547]
+        },
+        {
+            "cityname" : "Runge",
+            "areacodes":[830],
+            "zipcodes" : [78151]
+        },
+        {
+            "cityname" : "Rusk",
+            "areacodes":[903],
+            "zipcodes" : [75785]
+        },
+        {
+            "cityname" : "Sabinal",
+            "areacodes":[830],
+            "zipcodes" : [78881]
+        },
+        {
+            "cityname" : "Sachse",
+            "areacodes":[214, 469, 972],
+            "zipcodes" : [75048]
+        },
+        {
+            "cityname" : "Sadler",
+            "areacodes":[903],
+            "zipcodes" : [76264]
+        },
+        {
+            "cityname" : "Saint Hedwig",
+            "areacodes":[210],
+            "zipcodes" : [78152]
+        },
+        {
+            "cityname" : "Saint Jo",
+            "areacodes":[940],
+            "zipcodes" : [76265]
+        },
+        {
+            "cityname" : "Salado",
+            "areacodes":[254],
+            "zipcodes" : [76571]
+        },
+        {
+            "cityname" : "Salineno",
+            "areacodes":[956],
+            "zipcodes" : [78585]
+        },
+        {
+            "cityname" : "San Angelo",
+            "areacodes":[325],
+            "zipcodes" : [76901, 76902, 76903, 76904, 76905, 76906, 76908, 76909]
+        },
+        {
+            "cityname" : "San Antonio",
+            "areacodes":[210, 726],
+            "zipcodes" : [78201, 78202, 78203, 78204, 78205, 78206, 78207, 78208, 78209, 78210, 78211, 78212, 78213, 78214, 78215, 78216, 78217, 78218, 78219, 78220, 78221, 78222, 78223, 78224, 78225, 78226, 78227, 78228, 78229, 78230, 78231, 78232, 78233, 78234, 78235, 78236, 78237, 78238, 78239, 78240, 78241, 78242, 78243, 78244, 78245, 78246, 78247, 78248, 78249, 78250, 78251, 78252, 78253, 78254, 78255, 78256, 78257, 78258, 78259, 78260, 78261, 78262, 78263, 78264, 78265, 78266, 78268, 78269, 78270, 78275, 78278, 78279, 78280, 78283, 78284, 78285, 78286, 78287, 78288, 78289, 78291, 78292, 78293, 78294, 78295, 78296, 78297, 78298, 78299]
+        },
+        {
+            "cityname" : "San Augustine",
+            "areacodes":[936],
+            "zipcodes" : [75972]
+        },
+        {
+            "cityname" : "San Benito",
+            "areacodes":[956],
+            "zipcodes" : [78586]
+        },
+        {
+            "cityname" : "San Diego",
+            "areacodes":[361],
+            "zipcodes" : [78384]
+        },
+        {
+            "cityname" : "San Elizario",
+            "areacodes":[915],
+            "zipcodes" : [79849]
+        },
+        {
+            "cityname" : "San Felipe",
+            "areacodes":[979],
+            "zipcodes" : [77473]
+        },
+        {
+            "cityname" : "San Isidro",
+            "areacodes":[956],
+            "zipcodes" : [78588]
+        },
+        {
+            "cityname" : "San Juan",
+            "areacodes":[956],
+            "zipcodes" : [78589]
+        },
+        {
+            "cityname" : "San Marcos",
+            "areacodes":[512, 737],
+            "zipcodes" : [78666, 78667]
+        },
+        {
+            "cityname" : "San Perlita",
+            "areacodes":[956],
+            "zipcodes" : [78590]
+        },
+        {
+            "cityname" : "San Saba",
+            "areacodes":[325],
+            "zipcodes" : [76877]
+        },
+        {
+            "cityname" : "Sanderson",
+            "areacodes":[432],
+            "zipcodes" : [79848]
+        },
+        {
+            "cityname" : "Sandia",
+            "areacodes":[361],
+            "zipcodes" : [78383]
+        },
+        {
+            "cityname" : "Sanford",
+            "areacodes":[806],
+            "zipcodes" : [79078]
+        },
+        {
+            "cityname" : "Sanger",
+            "areacodes":[940],
+            "zipcodes" : [76266]
+        },
+        {
+            "cityname" : "Santa Anna",
+            "areacodes":[325],
+            "zipcodes" : [76878]
+        },
+        {
+            "cityname" : "Santa Fe",
+            "areacodes":[409],
+            "zipcodes" : [77510, 77517]
+        },
+        {
+            "cityname" : "Santa Maria",
+            "areacodes":[956],
+            "zipcodes" : [78592]
+        },
+        {
+            "cityname" : "Santa Rosa",
+            "areacodes":[956],
+            "zipcodes" : [78593]
+        },
+        {
+            "cityname" : "Savoy",
+            "areacodes":[903],
+            "zipcodes" : [75479]
+        },
+        {
+            "cityname" : "Schertz",
+            "areacodes":[210, 830],
+            "zipcodes" : [78154]
+        },
+        {
+            "cityname" : "Schulenburg",
+            "areacodes":[979],
+            "zipcodes" : [78956]
+        },
+        {
+            "cityname" : "Scotland",
+            "areacodes":[940],
+            "zipcodes" : [76379]
+        },
+        {
+            "cityname" : "Scottsville",
+            "areacodes":[903],
+            "zipcodes" : [75688]
+        },
+        {
+            "cityname" : "Seabrook",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77586]
+        },
+        {
+            "cityname" : "Seadrift",
+            "areacodes":[361],
+            "zipcodes" : [77983]
+        },
+        {
+            "cityname" : "Seagoville",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75159]
+        },
+        {
+            "cityname" : "Seagraves",
+            "areacodes":[806],
+            "zipcodes" : [79359]
+        },
+        {
+            "cityname" : "Sealy",
+            "areacodes":[979],
+            "zipcodes" : [77474]
+        },
+        {
+            "cityname" : "Sebastian",
+            "areacodes":[956],
+            "zipcodes" : [78594]
+        },
+        {
+            "cityname" : "Seguin",
+            "areacodes":[830],
+            "zipcodes" : [78155, 78156]
+        },
+        {
+            "cityname" : "Seminole",
+            "areacodes":[432],
+            "zipcodes" : [79360]
+        },
+        {
+            "cityname" : "Seymour",
+            "areacodes":[940],
+            "zipcodes" : [76380]
+        },
+        {
+            "cityname" : "Shallowater",
+            "areacodes":[806],
+            "zipcodes" : [79363]
+        },
+        {
+            "cityname" : "Shamrock",
+            "areacodes":[806],
+            "zipcodes" : [79079]
+        },
+        {
+            "cityname" : "Shepherd",
+            "areacodes":[936],
+            "zipcodes" : [77371]
+        },
+        {
+            "cityname" : "Sherman",
+            "areacodes":[903],
+            "zipcodes" : [75090, 75091, 75092]
+        },
+        {
+            "cityname" : "Shiner",
+            "areacodes":[361],
+            "zipcodes" : [77984]
+        },
+        {
+            "cityname" : "Sierra Blanca",
+            "areacodes":[915],
+            "zipcodes" : [79851]
+        },
+        {
+            "cityname" : "Silsbee",
+            "areacodes":[409],
+            "zipcodes" : [77656]
+        },
+        {
+            "cityname" : "Silverton",
+            "areacodes":[806],
+            "zipcodes" : [79257]
+        },
+        {
+            "cityname" : "Simonton",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77476]
+        },
+        {
+            "cityname" : "Sinton",
+            "areacodes":[361],
+            "zipcodes" : [78387]
+        },
+        {
+            "cityname" : "Skellytown",
+            "areacodes":[806],
+            "zipcodes" : [79080]
+        },
+        {
+            "cityname" : "Skidmore",
+            "areacodes":[361],
+            "zipcodes" : [78389]
+        },
+        {
+            "cityname" : "Slaton",
+            "areacodes":[806],
+            "zipcodes" : [79364]
+        },
+        {
+            "cityname" : "Smiley",
+            "areacodes":[830],
+            "zipcodes" : [78159]
+        },
+        {
+            "cityname" : "Smithville",
+            "areacodes":[512, 737],
+            "zipcodes" : [78957]
+        },
+        {
+            "cityname" : "Smyer",
+            "areacodes":[806],
+            "zipcodes" : [79367]
+        },
+        {
+            "cityname" : "Snook",
+            "areacodes":[979],
+            "zipcodes" : [77878]
+        },
+        {
+            "cityname" : "Snyder",
+            "areacodes":[325],
+            "zipcodes" : [79549, 79550]
+        },
+        {
+            "cityname" : "Somerset",
+            "areacodes":[830],
+            "zipcodes" : [78069]
+        },
+        {
+            "cityname" : "Somerville",
+            "areacodes":[979],
+            "zipcodes" : [77879]
+        },
+        {
+            "cityname" : "Sonora",
+            "areacodes":[325],
+            "zipcodes" : [76950]
+        },
+        {
+            "cityname" : "Sour Lake",
+            "areacodes":[409],
+            "zipcodes" : [77659]
+        },
+        {
+            "cityname" : "South Houston",
+            "areacodes":[713, 281, 346, 832],
+            "zipcodes" : [77587]
+        },
+        {
+            "cityname" : "South Padre Island",
+            "areacodes":[956],
+            "zipcodes" : [78597]
+        },
+        {
+            "cityname" : "Southlake",
+            "areacodes":[817, 682],
+            "zipcodes" : [76092]
+        },
+        {
+            "cityname" : "Southmayd",
+            "areacodes":[903],
+            "zipcodes" : [76268]
+        },
+        {
+            "cityname" : "Spearman",
+            "areacodes":[806],
+            "zipcodes" : [79081]
+        },
+        {
+            "cityname" : "Splendora",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77372]
+        },
+        {
+            "cityname" : "Spring",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77373, 77379, 77380, 77381, 77382, 77383, 77386, 77387, 77388, 77389, 77391, 77393]
+        },
+        {
+            "cityname" : "Springtown",
+            "areacodes":[817, 682],
+            "zipcodes" : [76082]
+        },
+        {
+            "cityname" : "Spur",
+            "areacodes":[806],
+            "zipcodes" : [79370]
+        },
+        {
+            "cityname" : "Stafford",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77477, 77497]
+        },
+        {
+            "cityname" : "Stamford",
+            "areacodes":[325],
+            "zipcodes" : [79553]
+        },
+        {
+            "cityname" : "Stanton",
+            "areacodes":[432],
+            "zipcodes" : [79782]
+        },
+        {
+            "cityname" : "Star",
+            "areacodes":[325],
+            "zipcodes" : [76880]
+        },
+        {
+            "cityname" : "Stephenville",
+            "areacodes":[254],
+            "zipcodes" : [76401, 76402]
+        },
+        {
+            "cityname" : "Sterling City",
+            "areacodes":[325],
+            "zipcodes" : [76951]
+        },
+        {
+            "cityname" : "Stinnett",
+            "areacodes":[806],
+            "zipcodes" : [79083]
+        },
+        {
+            "cityname" : "Stockdale",
+            "areacodes":[830],
+            "zipcodes" : [78160]
+        },
+        {
+            "cityname" : "Stonewall",
+            "areacodes":[830],
+            "zipcodes" : [78671]
+        },
+        {
+            "cityname" : "Stowell",
+            "areacodes":[409],
+            "zipcodes" : [77661]
+        },
+        {
+            "cityname" : "Stratford",
+            "areacodes":[806],
+            "zipcodes" : [79084]
+        },
+        {
+            "cityname" : "Strawn",
+            "areacodes":[254],
+            "zipcodes" : [76475]
+        },
+        {
+            "cityname" : "Streetman",
+            "areacodes":[903],
+            "zipcodes" : [75859]
+        },
+        {
+            "cityname" : "Sudan",
+            "areacodes":[806],
+            "zipcodes" : [79371]
+        },
+        {
+            "cityname" : "Sugar Land",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77478, 77479, 77487, 77496, 77498]
+        },
+        {
+            "cityname" : "Sullivan City",
+            "areacodes":[956],
+            "zipcodes" : [78595]
+        },
+        {
+            "cityname" : "Sulphur Springs",
+            "areacodes":[903],
+            "zipcodes" : [75482, 75483]
+        },
+        {
+            "cityname" : "Sundown",
+            "areacodes":[806],
+            "zipcodes" : [79372]
+        },
+        {
+            "cityname" : "Sunnyvale",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75182]
+        },
+        {
+            "cityname" : "Sunray",
+            "areacodes":[806],
+            "zipcodes" : [79086]
+        },
+        {
+            "cityname" : "Sunset",
+            "areacodes":[940],
+            "zipcodes" : [76270]
+        },
+        {
+            "cityname" : "Sweeny",
+            "areacodes":[979],
+            "zipcodes" : [77480]
+        },
+        {
+            "cityname" : "Sweetwater",
+            "areacodes":[325],
+            "zipcodes" : [79556]
+        },
+        {
+            "cityname" : "Taft",
+            "areacodes":[361],
+            "zipcodes" : [78390]
+        },
+        {
+            "cityname" : "Tahoka",
+            "areacodes":[806],
+            "zipcodes" : [79373]
+        },
+        {
+            "cityname" : "Talco",
+            "areacodes":[903],
+            "zipcodes" : [75487]
+        },
+        {
+            "cityname" : "Tatum",
+            "areacodes":[903],
+            "zipcodes" : [75691]
+        },
+        {
+            "cityname" : "Taylor",
+            "areacodes":[512, 737],
+            "zipcodes" : [76574]
+        },
+        {
+            "cityname" : "Teague",
+            "areacodes":[254],
+            "zipcodes" : [75860]
+        },
+        {
+            "cityname" : "Tehuacana",
+            "areacodes":[254],
+            "zipcodes" : [76686]
+        },
+        {
+            "cityname" : "Temple",
+            "areacodes":[254],
+            "zipcodes" : [76501, 76502, 76503, 76504, 76505, 76508]
+        },
+        {
+            "cityname" : "Tenaha",
+            "areacodes":[936],
+            "zipcodes" : [75974]
+        },
+        {
+            "cityname" : "Terrell",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75160, 75161]
+        },
+        {
+            "cityname" : "Texarkana",
+            "areacodes":[903],
+            "zipcodes" : [75501, 75503, 75504, 75505, 75507, 75599]
+        },
+        {
+            "cityname" : "Texas City",
+            "areacodes":[409],
+            "zipcodes" : [77590, 77591, 77592]
+        },
+        {
+            "cityname" : "Texline",
+            "areacodes":[806],
+            "zipcodes" : [79087]
+        },
+        {
+            "cityname" : "The Colony",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75056]
+        },
+        {
+            "cityname" : "Thompsons",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77481]
+        },
+        {
+            "cityname" : "Thorndale",
+            "areacodes":[512, 737],
+            "zipcodes" : [76577]
+        },
+        {
+            "cityname" : "Thornton",
+            "areacodes":[254],
+            "zipcodes" : [76687]
+        },
+        {
+            "cityname" : "Thrall",
+            "areacodes":[512, 737],
+            "zipcodes" : [76578]
+        },
+        {
+            "cityname" : "Three Rivers",
+            "areacodes":[361],
+            "zipcodes" : [78071]
+        },
+        {
+            "cityname" : "Throckmorton",
+            "areacodes":[940],
+            "zipcodes" : [76483]
+        },
+        {
+            "cityname" : "Timpson",
+            "areacodes":[936],
+            "zipcodes" : [75975]
+        },
+        {
+            "cityname" : "Tioga",
+            "areacodes":[940],
+            "zipcodes" : [76271]
+        },
+        {
+            "cityname" : "Tolar",
+            "areacodes":[254],
+            "zipcodes" : [76476]
+        },
+        {
+            "cityname" : "Tom Bean",
+            "areacodes":[903],
+            "zipcodes" : [75489]
+        },
+        {
+            "cityname" : "Tomball",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77375, 77377]
+        },
+        {
+            "cityname" : "Tornillo",
+            "areacodes":[915],
+            "zipcodes" : [79853]
+        },
+        {
+            "cityname" : "Trent",
+            "areacodes":[325],
+            "zipcodes" : [79561]
+        },
+        {
+            "cityname" : "Trenton",
+            "areacodes":[903],
+            "zipcodes" : [75490]
+        },
+        {
+            "cityname" : "Trinidad",
+            "areacodes":[903],
+            "zipcodes" : [75163]
+        },
+        {
+            "cityname" : "Trinity",
+            "areacodes":[936],
+            "zipcodes" : [75862]
+        },
+        {
+            "cityname" : "Troup",
+            "areacodes":[903],
+            "zipcodes" : [75789]
+        },
+        {
+            "cityname" : "Troy",
+            "areacodes":[254],
+            "zipcodes" : [76579]
+        },
+        {
+            "cityname" : "Tuleta",
+            "areacodes":[361],
+            "zipcodes" : [78162]
+        },
+        {
+            "cityname" : "Tulia",
+            "areacodes":[806],
+            "zipcodes" : [79088]
+        },
+        {
+            "cityname" : "Turkey",
+            "areacodes":[806],
+            "zipcodes" : [79261]
+        },
+        {
+            "cityname" : "Tuscola",
+            "areacodes":[325],
+            "zipcodes" : [79562]
+        },
+        {
+            "cityname" : "Tye",
+            "areacodes":[325],
+            "zipcodes" : [79563]
+        },
+        {
+            "cityname" : "Tyler",
+            "areacodes":[903, 430],
+            "zipcodes" : [75701, 75702, 75703, 75704, 75705, 75706, 75707, 75708, 75709, 75710, 75711, 75712, 75713, 75798, 75799]
+        },
+        {
+            "cityname" : "Tynan",
+            "areacodes":[361],
+            "zipcodes" : [78391]
+        },
+        {
+            "cityname" : "Universal City",
+            "areacodes":[210],
+            "zipcodes" : [78148, 78150]
+        },
+        {
+            "cityname" : "Utopia",
+            "areacodes":[830],
+            "zipcodes" : [78884]
+        },
+        {
+            "cityname" : "Uvalde",
+            "areacodes":[830],
+            "zipcodes" : [78801, 78802]
+        },
+        {
+            "cityname" : "Valley Mills",
+            "areacodes":[254],
+            "zipcodes" : [76689]
+        },
+        {
+            "cityname" : "Valley View",
+            "areacodes":[940],
+            "zipcodes" : [76272]
+        },
+        {
+            "cityname" : "Van Alstyne",
+            "areacodes":[903],
+            "zipcodes" : [75495]
+        },
+        {
+            "cityname" : "Van Horn",
+            "areacodes":[432],
+            "zipcodes" : [79855]
+        },
+        {
+            "cityname" : "Van Vleck",
+            "areacodes":[979],
+            "zipcodes" : [77482]
+        },
+        {
+            "cityname" : "Van",
+            "areacodes":[903],
+            "zipcodes" : [75790]
+        },
+        {
+            "cityname" : "Vanderbilt",
+            "areacodes":[361],
+            "zipcodes" : [77991]
+        },
+        {
+            "cityname" : "Vega",
+            "areacodes":[806],
+            "zipcodes" : [79092]
+        },
+        {
+            "cityname" : "Venus",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [76084]
+        },
+        {
+            "cityname" : "Vernon",
+            "areacodes":[940],
+            "zipcodes" : [76384, 76385]
+        },
+        {
+            "cityname" : "Victoria",
+            "areacodes":[361],
+            "zipcodes" : [77901, 77902, 77903, 77904, 77905]
+        },
+        {
+            "cityname" : "Vidor",
+            "areacodes":[409],
+            "zipcodes" : [77662, 77670]
+        },
+        {
+            "cityname" : "Waco",
+            "areacodes":[254],
+            "zipcodes" : [76701, 76702, 76703, 76704, 76705, 76706, 76707, 76708, 76710, 76711, 76712, 76714, 76715, 76716, 76797, 76798, 76799]
+        },
+        {
+            "cityname" : "Waelder",
+            "areacodes":[830],
+            "zipcodes" : [78959]
+        },
+        {
+            "cityname" : "Waller",
+            "areacodes":[936],
+            "zipcodes" : [77484]
+        },
+        {
+            "cityname" : "Wallis",
+            "areacodes":[979],
+            "zipcodes" : [77485]
+        },
+        {
+            "cityname" : "Walnut Springs",
+            "areacodes":[254],
+            "zipcodes" : [76690]
+        },
+        {
+            "cityname" : "Warren",
+            "areacodes":[409],
+            "zipcodes" : [77664]
+        },
+        {
+            "cityname" : "Waskom",
+            "areacodes":[903],
+            "zipcodes" : [75692]
+        },
+        {
+            "cityname" : "Waxahachie",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75165, 75167, 75168]
+        },
+        {
+            "cityname" : "Weatherford",
+            "areacodes":[817, 682],
+            "zipcodes" : [76085, 76086, 76087, 76088]
+        },
+        {
+            "cityname" : "Webster",
+            "areacodes":[281, 346, 713, 832],
+            "zipcodes" : [77598]
+        },
+        {
+            "cityname" : "Weimar",
+            "areacodes":[979],
+            "zipcodes" : [78962]
+        },
+        {
+            "cityname" : "Weir",
+            "areacodes":[512, 737],
+            "zipcodes" : [78674]
+        },
+        {
+            "cityname" : "Wellington",
+            "areacodes":[806],
+            "zipcodes" : [79095]
+        },
+        {
+            "cityname" : "Wellman",
+            "areacodes":[806],
+            "zipcodes" : [79378]
+        },
+        {
+            "cityname" : "Wells",
+            "areacodes":[936],
+            "zipcodes" : [75976]
+        },
+        {
+            "cityname" : "Weslaco",
+            "areacodes":[956],
+            "zipcodes" : [78596, 78599]
+        },
+        {
+            "cityname" : "West Columbia",
+            "areacodes":[979],
+            "zipcodes" : [77486]
+        },
+        {
+            "cityname" : "West",
+            "areacodes":[254],
+            "zipcodes" : [76691]
+        },
+        {
+            "cityname" : "Westbrook",
+            "areacodes":[325],
+            "zipcodes" : [79565]
+        },
+        {
+            "cityname" : "Westminster",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75485]
+        },
+        {
+            "cityname" : "Weston",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75097]
+        },
+        {
+            "cityname" : "Wharton",
+            "areacodes":[979],
+            "zipcodes" : [77488]
+        },
+        {
+            "cityname" : "Wheeler",
+            "areacodes":[806],
+            "zipcodes" : [79096]
+        },
+        {
+            "cityname" : "White Deer",
+            "areacodes":[806],
+            "zipcodes" : [79097]
+        },
+        {
+            "cityname" : "White Oak",
+            "areacodes":[903],
+            "zipcodes" : [75693]
+        },
+        {
+            "cityname" : "Whiteface",
+            "areacodes":[806],
+            "zipcodes" : [79379]
+        },
+        {
+            "cityname" : "Whitehouse",
+            "areacodes":[903],
+            "zipcodes" : [75791]
+        },
+        {
+            "cityname" : "Whitesboro",
+            "areacodes":[903],
+            "zipcodes" : [76273]
+        },
+        {
+            "cityname" : "Whitewright",
+            "areacodes":[903],
+            "zipcodes" : [75491]
+        },
+        {
+            "cityname" : "Whitney",
+            "areacodes":[254],
+            "zipcodes" : [76692]
+        },
+        {
+            "cityname" : "Wichita Falls",
+            "areacodes":[940],
+            "zipcodes" : [76301, 76302, 76305, 76306, 76307, 76308, 76309, 76310, 76311]
+        },
+        {
+            "cityname" : "Wickett",
+            "areacodes":[432],
+            "zipcodes" : [79788]
+        },
+        {
+            "cityname" : "Willis",
+            "areacodes":[936],
+            "zipcodes" : [77318, 77378]
+        },
+        {
+            "cityname" : "Wills Point",
+            "areacodes":[903],
+            "zipcodes" : [75169]
+        },
+        {
+            "cityname" : "Wilmer",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75172]
+        },
+        {
+            "cityname" : "Wilson",
+            "areacodes":[806],
+            "zipcodes" : [79381]
+        },
+        {
+            "cityname" : "Wimberley",
+            "areacodes":[512, 737],
+            "zipcodes" : [78676]
+        },
+        {
+            "cityname" : "Windom",
+            "areacodes":[903],
+            "zipcodes" : [75492]
+        },
+        {
+            "cityname" : "Windthorst",
+            "areacodes":[940],
+            "zipcodes" : [76389]
+        },
+        {
+            "cityname" : "Winfield",
+            "areacodes":[903],
+            "zipcodes" : [75493]
+        },
+        {
+            "cityname" : "Wink",
+            "areacodes":[432],
+            "zipcodes" : [79789]
+        },
+        {
+            "cityname" : "Winnie",
+            "areacodes":[409],
+            "zipcodes" : [77665]
+        },
+        {
+            "cityname" : "Winona",
+            "areacodes":[903],
+            "zipcodes" : [75792]
+        },
+        {
+            "cityname" : "Winters",
+            "areacodes":[325],
+            "zipcodes" : [79567]
+        },
+        {
+            "cityname" : "Wolfe City",
+            "areacodes":[903],
+            "zipcodes" : [75496]
+        },
+        {
+            "cityname" : "Wolfforth",
+            "areacodes":[806],
+            "zipcodes" : [79382]
+        },
+        {
+            "cityname" : "Woodsboro",
+            "areacodes":[361],
+            "zipcodes" : [78393]
+        },
+        {
+            "cityname" : "Woodson",
+            "areacodes":[940],
+            "zipcodes" : [76491]
+        },
+        {
+            "cityname" : "Woodville",
+            "areacodes":[409],
+            "zipcodes" : [75979]
+        },
+        {
+            "cityname" : "Woodway",
+            "areacodes":[254],
+            "zipcodes" : [76712]
+        },
+        {
+            "cityname" : "Wortham",
+            "areacodes":[254],
+            "zipcodes" : [76693]
+        },
+        {
+            "cityname" : "Wylie",
+            "areacodes":[972, 469, 214],
+            "zipcodes" : [75098]
+        },
+        {
+            "cityname" : "Yantis",
+            "areacodes":[903],
+            "zipcodes" : [75497]
+        },
+        {
+            "cityname" : "Yoakum",
+            "areacodes":[361],
+            "zipcodes" : [77995]
+        },
+        {
+            "cityname" : "Yorktown",
+            "areacodes":[361],
+            "zipcodes" : [78164]
+        },
+        {
+            "cityname" : "Zapata",
+            "areacodes":[956],
+            "zipcodes" : [78076]
+        },
+        {
+            "cityname" : "Zavalla",
+            "areacodes":[936],
+            "zipcodes" : [75980]
+        }
+        
+    ]
+}

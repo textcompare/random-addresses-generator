@@ -26,5 +26,24 @@
     "germany": [
         "germany",
         "deutschland"
+    ],
+    "newzealand": [
+        "new zealand",
+        "newzealand"
+    ],
+    "saudi-arabia": [
+        "saudi arbia",
+        "saudi-arabia"
+    ],
+    "south-africa": [
+        "south africa",
+        "saudi-arabia"
+    ],
+    "south-korea": [
+        "south korea",
+        "saudi-korea"
+    ],
+    "uae": [
+        "United Arab Emirates"
     ]
 }

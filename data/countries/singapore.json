@@ -1,97 +1,741 @@
 {
-    "streetNames": [
-        "Orchard Road",
-        "Marine Parade",
-        "Victoria Street",
-        "Tanjong Pagar",
-        "Cecil Street",
-        "Bukit Timah Road",
-        "East Coast Road",
-        "Alexandra Road",
-        "Serangoon Road",
-        "Changi Road",
-        "Queen Street",
-        "Bencoolen Street",
-        "Raffles Place",
-        "Upper Thomson Road",
-        "Tanah Merah Kechil Avenue",
-        "Holland Road",
-        "Jalan Bukit Merah",
-        "Lornie Road",
-        "South Bridge Road",
-        "Ang Mo Kio Avenue"
+  "countrycode": "+65",
+  "phoneformat": "(A) XXXX XXXX",
+  "country": "Singapore",
+  "neighborhoods": {
+    "corporate": [
+      "Marina Bay",
+      "Raffles Place",
+      "Tanjong Pagar",
+      "Downtown Core",
+      "Cecil Street",
+      "Anson Road",
+      "Victoria Street",
+      "Shenton Way",
+      "One-North",
+      "Changi Business Park",
+      "Novena",
+      "One Raffles Quay",
+      "Bugis Junction",
+      "Suntec City",
+      "Robinson Road",
+      "Keppel Bay",
+      "Alexandra Road",
+      "Loyang",
+      "Harbourfront",
+      "Tampines Central",
+      "Woodlands Regional Centre",
+      "Jurong East",
+      "Mandai",
+      "Paya Lebar",
+      "Changi Business Hub",
+      "Bishan",
+      "East Coast Parkway",
+      "Thomson Road",
+      "Ubi Industrial Estate",
+      "Ang Mo Kio Hub",
+      "Toa Payoh",
+      "Redhill",
+      "Kallang Riverside",
+      "Seletar",
+      "Tampines North",
+      "Bedok Town Centre",
+      "Dover",
+      "Holland Village",
+      "Farrer Park",
+      "Bukit Merah",
+      "Lakeside",
+      "Clementi",
+      "Bukit Timah",
+      "Changi North",
+      "Boon Keng",
+      "Kovan",
+      "Queenstown",
+      "Serangoon"
     ],
-    "streetNumbers": [
-        "101",
-        "202",
-        "303",
-        "404",
-        "505",
-        "606",
-        "707",
-        "808",
-        "909",
-        "1234",
-        "4321",
-        "5678",
-        "6789",
-        "7890",
-        "8901",
-        "2345",
-        "3456",
-        "4567",
-        "5670",
-        "6781"
+    "industrial": [
+      "Tuas Industrial Estate",
+      "Changi Industrial Park",
+      "Boon Lay Industrial Estate",
+      "Senoko Industrial Park",
+      "Gul Circle",
+      "Kallang Industrial Area",
+      "Woodlands Industrial Park",
+      "Tuas View Walk",
+      "Pandan Loop",
+      "Alexandra Industrial Estate",
+      "Jalan Besar Industrial Area",
+      "Tagore Industrial Estate",
+      "Eunos TechPark",
+      "Loyang Industrial Estate",
+      "Yishun Industrial Park",
+      "Sungei Kadut Industrial Estate",
+      "Tampines Industrial Park",
+      "Jurong Industrial Estate",
+      "Pasir Panjang",
+      "Woodlands North Industrial Park",
+      "Pioneer Road",
+      "Ubi Industrial Estate",
+      "Tagore Lane",
+      "Boon Lay Drive",
+      "Mandai Estate",
+      "Jalan Pemimpin",
+      "Upp Changi Road North",
+      "Aljunied Industrial Estate",
+      "Balestier Industrial Area",
+      "Bukit Batok Industrial Park",
+      "MacPherson Industrial Estate",
+      "Eunos Avenue",
+      "Upper Thomson Road",
+      "Simei Industrial Park",
+      "Jalan Lam Huat",
+      "Kranji",
+      "Boon Keng Industrial Area",
+      "Lim Chu Kang Industrial Estate",
+      "Kallang Bahru",
+      "Tampines Industrial Estate",
+      "Tuas Road",
+      "Bedok Industrial Park",
+      "Geylang East Industrial Zone"
     ],
-    "cities": [
-        "Singapore",
-        "Jurong",
-        "Bedok",
-        "Bukit Batok",
-        "Ang Mo Kio",
-        "Pasir Ris",
-        "Tampines",
-        "Yishun",
-        "Woodlands",
-        "Sengkang",
-        "Punggol",
-        "Clementi",
-        "Toa Payoh",
-        "Queenstown",
-        "Bishan",
-        "Choa Chu Kang",
-        "Bukit Panjang",
-        "Serangoon",
-        "Hougang",
-        "Novena"
-    ],
-    "states": [
-        "Central",
-        "North-East",
-        "North",
-        "West",
-        "East"
-    ],
-    "zipCodes": [
-        "018975",
-        "429409",
-        "237992",
-        "078997",
-        "238885",
-        "518235",
-        "609512",
-        "467775",
-        "607453",
-        "604124",
-        "125625",
-        "510100",
-        "347698",
-        "524254",
-        "599005",
-        "659701",
-        "548179",
-        "639379",
-        "438751",
-        "437935"
+    "residential": [
+      "Orchard Road",
+      "Holland Village",
+      "Bukit Timah",
+      "Ang Mo Kio",
+      "Jurong East",
+      "Tampines",
+      "Bedok",
+      "Toa Payoh",
+      "Pasir Ris",
+      "Punggol",
+      "Woodlands",
+      "Yishun",
+      "Queenstown",
+      "Bishan",
+      "Serangoon",
+      "Kovan",
+      "Sengkang",
+      "Novena",
+      "Clementi",
+      "Bukit Merah",
+      "Redhill",
+      "Seletar",
+      "Paya Lebar",
+      "Upper Bukit Timah",
+      "Marine Parade",
+      "Tiong Bahru",
+      "Changi",
+      "Pioneer",
+      "Lakeside",
+      "Mandai",
+      "Clementi Woods",
+      "Kallang",
+      "MacPherson",
+      "Tuas",
+      "Lorong Chuan",
+      "Bishan North",
+      "Sims Drive",
+      "Upper East Coast",
+      "Novena Hill",
+      "Telok Blangah",
+      "Dover Road",
+      "Kampong Glam",
+      "Serangoon Gardens",
+      "Whampoa",
+      "Tampines North",
+      "Harbourfront",
+      "Farrer Park",
+      "Marine Drive",
+      "Moulmein",
+      "Yio Chu Kang",
+      "Telok Kurau",
+      "Bedok Reservoir"
     ]
+  },
+  "streetnames": {
+    "corporate": [
+      "Raffles Place",
+      "Shenton Way",
+      "Cecil Street",
+      "Victoria Street",
+      "Anson Road",
+      "Marina Boulevard",
+      "Telok Ayer Street",
+      "Chulia Street",
+      "Finlayson Green",
+      "Suntec City Mall",
+      "Bencoolen Street",
+      "Keppel Road",
+      "Alexandra Road",
+      "Bishan Road",
+      "Sungei Kadut Loop",
+      "Robinson Road",
+      "Tanjong Pagar Road",
+      "Tampines Central",
+      "Kallang Road",
+      "Kovan Road",
+      "Aljunied Road",
+      "Changi South Avenue",
+      "Bukit Timah Road",
+      "Paya Lebar Road",
+      "Novena Road",
+      "Upper Serangoon Road",
+      "Mountbatten Road",
+      "Queensway",
+      "Kaki Bukit Road",
+      "Bedok North Road",
+      "Tuas South Avenue",
+      "Dover Road",
+      "Holland Road",
+      "Jalan Bukit Merah",
+      "Jalan Besar",
+      "Serangoon Road",
+      "Loyang Avenue",
+      "Upper Thomson Road",
+      "Upper Bukit Timah Road",
+      "Simei Street",
+      "East Coast Road",
+      "Marine Parade Road",
+      "Tanglin Road",
+      "Rochor Road",
+      "Pioneer Road",
+      "Jalan Pemimpin",
+      "Aljunied Avenue",
+      "Kallang Bahru",
+      "Tiong Bahru Road",
+      "Sengkang East Way"
+    ],
+    "industrial": [
+      "Tuas Industrial Park",
+      "Senoko Road",
+      "Yishun Industrial Street",
+      "Gul Circle",
+      "Tampines Industrial Avenue",
+      "Jalan Lam Huat",
+      "Tagore Industrial Avenue",
+      "MacPherson Road",
+      "Ubi Avenue",
+      "Bedok North Avenue",
+      "Boon Lay Drive",
+      "Bishan Road",
+      "Boon Keng Road",
+      "Pioneer Road",
+      "Sungei Kadut Avenue",
+      "Tuas Road",
+      "Mandai Road",
+      "Kranji Way",
+      "Jalan Besar",
+      "Aljunied Road",
+      "Upp Changi Road North",
+      "Pandan Loop",
+      "Tagore Lane",
+      "Jurong Town Hall Road",
+      "Jalan Pemimpin",
+      "Simei Avenue",
+      "Kallang Bahru",
+      "Changi South Avenue",
+      "Upp Changi Road East",
+      "Lim Chu Kang Road",
+      "Balestier Road",
+      "Jurong East Street",
+      "Tuas South Avenue",
+      "Redhill Street",
+      "Loyang Lane",
+      "Aljunied Avenue",
+      "MacPherson Lane",
+      "Geylang East Avenue",
+      "Upper Thomson Road"
+    ],
+    "residential": [
+      "Orchard Road",
+      "Bukit Timah Road",
+      "Holland Road",
+      "Serangoon Road",
+      "Ang Mo Kio Avenue",
+      "Tampines Road",
+      "Bishan Road",
+      "Toa Payoh Lorong",
+      "Marine Parade Road",
+      "Changi Road",
+      "Jalan Besar",
+      "Farrer Road",
+      "Redhill Road",
+      "Novena Road",
+      "Yishun Avenue",
+      "Kovan Road",
+      "Punggol Drive",
+      "Bedok Reservoir Road",
+      "Queenstown Road",
+      "Sengkang West Way",
+      "Lakeside Drive",
+      "Paya Lebar Road",
+      "Upper Bukit Timah Road",
+      "Clementi Road",
+      "Boon Keng Road",
+      "Woodlands Road",
+      "Bukit Batok West",
+      "Whampoa Drive",
+      "Sims Drive",
+      "Ang Mo Kio Street",
+      "Mandai Road",
+      "Tampines North",
+      "Kampong Glam",
+      "Telok Blangah Road",
+      "Dover Road",
+      "Bishan East",
+      "Thomson Road",
+      "Pasir Ris Drive",
+      "Tiong Bahru Street",
+      "Upper East Coast Road",
+      "Farrer Park Road",
+      "Yio Chu Kang Road",
+      "Jalan Bukit Merah",
+      "Mountbatten Road",
+      "Geylang Road"
+    ]
+  },
+  "regions": {
+    "Central Region": {
+      "cities": [
+        {
+          "cityname": "Singapore",
+          "zipcodes": [
+            "018",
+            "019",
+            "020",
+            "021",
+            "022"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        },
+        {
+          "cityname": "Bukit Timah",
+          "zipcodes": [
+            "589",
+            "590",
+            "591",
+            "592",
+            "593"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        },
+        {
+          "cityname": "Marina Bay",
+          "zipcodes": [
+            "018",
+            "019",
+            "020",
+            "021",
+            "022"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        },
+        {
+          "cityname": "Orchard",
+          "zipcodes": [
+            "238",
+            "239",
+            "240",
+            "241",
+            "242"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        },
+        {
+          "cityname": "Clementi",
+          "zipcodes": [
+            "120",
+            "121",
+            "122",
+            "123",
+            "124"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        }
+      ],
+      "name": "Central Region"
+    },
+    "East Region": {
+      "cities": [
+        {
+          "cityname": "Bedok",
+          "zipcodes": [
+            "460",
+            "461",
+            "462",
+            "463",
+            "464"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        },
+        {
+          "cityname": "Pasir Ris",
+          "zipcodes": [
+            "510",
+            "511",
+            "512",
+            "513",
+            "514"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        },
+        {
+          "cityname": "Tampines",
+          "zipcodes": [
+            "520",
+            "521",
+            "522",
+            "523",
+            "524"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        },
+        {
+          "cityname": "Simei",
+          "zipcodes": [
+            "529",
+            "530",
+            "531",
+            "532",
+            "533"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        },
+        {
+          "cityname": "Changi",
+          "zipcodes": [
+            "509",
+            "510",
+            "511",
+            "512",
+            "513"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        }
+      ],
+      "name": "East Region"
+    },
+    "North Region": {
+      "cities": [
+        {
+          "cityname": "Woodlands",
+          "zipcodes": [
+            "730",
+            "731",
+            "732",
+            "733",
+            "734"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        },
+        {
+          "cityname": "Sembawang",
+          "zipcodes": [
+            "750",
+            "751",
+            "752",
+            "753",
+            "754"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        },
+        {
+          "cityname": "Yishun",
+          "zipcodes": [
+            "760",
+            "761",
+            "762",
+            "763",
+            "764"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        },
+        {
+          "cityname": "Khatib",
+          "zipcodes": [
+            "769",
+            "770",
+            "771",
+            "772",
+            "773"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        },
+        {
+          "cityname": "Admiralty",
+          "zipcodes": [
+            "765",
+            "766",
+            "767",
+            "768",
+            "769"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        }
+      ],
+      "name": "North Region"
+    },
+    "North-East Region": {
+      "cities": [
+        {
+          "cityname": "Punggol",
+          "zipcodes": [
+            "820",
+            "821",
+            "822",
+            "823",
+            "824"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        },
+        {
+          "cityname": "Sengkang",
+          "zipcodes": [
+            "540",
+            "541",
+            "542",
+            "543",
+            "544"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        },
+        {
+          "cityname": "Hougang",
+          "zipcodes": [
+            "530",
+            "531",
+            "532",
+            "533",
+            "534"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        },
+        {
+          "cityname": "Kovan",
+          "zipcodes": [
+            "550",
+            "551",
+            "552",
+            "553",
+            "554"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        },
+        {
+          "cityname": "Serangoon",
+          "zipcodes": [
+            "550",
+            "551",
+            "552",
+            "553",
+            "554"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        }
+      ],
+      "name": "North-East Region"
+    },
+    "West Region": {
+      "cities": [
+        {
+          "cityname": "Jurong East",
+          "zipcodes": [
+            "600",
+            "601",
+            "602",
+            "603",
+            "604"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        },
+        {
+          "cityname": "Jurong West",
+          "zipcodes": [
+            "640",
+            "641",
+            "642",
+            "643",
+            "644"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        },
+        {
+          "cityname": "Clementi",
+          "zipcodes": [
+            "120",
+            "121",
+            "122",
+            "123",
+            "124"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        },
+        {
+          "cityname": "Bukit Panjang",
+          "zipcodes": [
+            "670",
+            "671",
+            "672",
+            "673",
+            "674"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        },
+        {
+          "cityname": "Choa Chu Kang",
+          "zipcodes": [
+            "680",
+            "681",
+            "682",
+            "683",
+            "684"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        }
+      ],
+      "name": "West Region"
+    }
+  },
+  "citycontainers": [
+    "regions"
+  ],
+  "firstnames": [
+    "Aiden",
+    "Noah",
+    "Ethan",
+    "Mason",
+    "Lucas",
+    "Jayden",
+    "Ryan",
+    "Zane",
+    "Caleb",
+    "Daniel",
+    "Elijah",
+    "Isaiah",
+    "Benjamin",
+    "Logan",
+    "Luke",
+    "Jaden",
+    "Dylan",
+    "Nathan",
+    "Seth",
+    "Aaron",
+    "Levi",
+    "Owen",
+    "Kai",
+    "Jasper",
+    "Max",
+    "Tyler",
+    "Lucas",
+    "Adam",
+    "Samuel",
+    "David",
+    "Avery",
+    "Liam",
+    "Isaac",
+    "Gavin",
+    "Nicolas",
+    "Gabriel",
+    "Joshua",
+    "Luca",
+    "Lenny",
+    "Tristan",
+    "Evan",
+    "Oliver"
+  ],
+  "lastnames": [
+    "Tan",
+    "Lim",
+    "Ng",
+    "Lee",
+    "Chong",
+    "Wong",
+    "Yeo",
+    "Teo",
+    "Koh",
+    "Goh",
+    "Ho",
+    "Sim",
+    "Foo",
+    "Lui",
+    "Chia",
+    "Poh",
+    "Tan",
+    "Soh",
+    "Ong",
+    "Chua",
+    "Neo",
+    "Chong",
+    "Quek",
+    "Ang",
+    "Tay",
+    "Lim",
+    "Soh",
+    "Yang",
+    "Chong",
+    "Leong",
+    "Loh",
+    "Lian",
+    "Tan",
+    "Koh",
+    "Teo",
+    "Teng",
+    "Tan",
+    "Huang",
+    "Fong",
+    "Heng",
+    "Lui",
+    "Kwek"
+  ]
 }

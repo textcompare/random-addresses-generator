@@ -1,0 +1,365 @@
+{
+    "name": "Maine",
+    "capital": "Augusta",
+    "cities": [
+        {
+            "cityname": "Auburn",
+            "zipcodes": [
+                "04210",
+                "04211",
+                "04212"
+            ],
+            "areacodes": [
+                "207"
+            ]
+        },
+        {
+            "cityname": "Augusta",
+            "zipcodes": [
+                "04330",
+                "04332",
+                "04333",
+                "04336"
+            ],
+            "areacodes": [
+                "207"
+            ]
+        },
+        {
+            "cityname": "Bangor",
+            "zipcodes": [
+                "04401",
+                "04402"
+            ],
+            "areacodes": [
+                "207"
+            ]
+        },
+        {
+            "cityname": "Bath",
+            "zipcodes": [
+                "04530"
+            ],
+            "areacodes": [
+                "207"
+            ]
+        },
+        {
+            "cityname": "Belfast",
+            "zipcodes": [
+                "04915"
+            ],
+            "areacodes": [
+                "207"
+            ]
+        },
+        {
+            "cityname": "Biddeford",
+            "zipcodes": [
+                "04005",
+                "04007"
+            ],
+            "areacodes": [
+                "207"
+            ]
+        },
+        {
+            "cityname": "Boothbay Harbor",
+            "zipcodes": [
+                "04538"
+            ],
+            "areacodes": [
+                "207"
+            ]
+        },
+        {
+            "cityname": "Brewer",
+            "zipcodes": [
+                "04412"
+            ],
+            "areacodes": [
+                "207"
+            ]
+        },
+        {
+            "cityname": "Brunswick",
+            "zipcodes": [
+                "04011"
+            ],
+            "areacodes": [
+                "207"
+            ]
+        },
+        {
+            "cityname": "Calais",
+            "zipcodes": [
+                "04619"
+            ],
+            "areacodes": [
+                "207"
+            ]
+        },
+        {
+            "cityname": "Cape Elizabeth",
+            "zipcodes": [
+            "04107"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Caribou",
+            "zipcodes": [
+            "04736"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Ellsworth",
+            "zipcodes": [
+            "04605"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Falmouth",
+            "zipcodes": [
+            "04105"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Farmington",
+            "zipcodes": [
+            "04938"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Freeport",
+            "zipcodes": [
+            "04032",
+            "04033",
+            "04034"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Gardiner",
+            "zipcodes": [
+            "04345"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Gorham",
+            "zipcodes": [
+            "04038"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Hallowell",
+            "zipcodes": [
+            "04347"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Kennebunk",
+            "zipcodes": [
+            "04043"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Kittery",
+            "zipcodes": [
+            "03904"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Lewiston",
+            "zipcodes": [
+            "04240",
+            "04241",
+            "04243"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Old Orchard Beach",
+            "zipcodes": [
+            "04064"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Orono",
+            "zipcodes": [
+            "04469",
+            "04473"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Portland",
+            "zipcodes": [
+            "04101",
+            "04102",
+            "04103",
+            "04104",
+            "04108",
+            "04109",
+            "04112",
+            "04116",
+            "04122",
+            "04123",
+            "04124"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Presque Isle",
+            "zipcodes": [
+            "04769"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Rockland",
+            "zipcodes": [
+            "04841"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Rumford",
+            "zipcodes": [
+            "04276"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Saco",
+            "zipcodes": [
+            "04072"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Sanford",
+            "zipcodes": [
+            "04073"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Scarborough",
+            "zipcodes": [
+            "04070",
+            "04074"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "South Portland",
+            "zipcodes": [
+            "04106",
+            "04116"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Waterville",
+            "zipcodes": [
+            "04901",
+            "04903"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Westbrook",
+            "zipcodes": [
+            "04092",
+            "04098"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Windham",
+            "zipcodes": [
+            "04062"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Winslow",
+            "zipcodes": [
+            "04901"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        },
+        {
+            "cityname": "Yarmouth",
+            "zipcodes": [
+            "04096"
+            ],
+            "areacodes": [
+            "207"
+            ]
+        }
+    ]
+}

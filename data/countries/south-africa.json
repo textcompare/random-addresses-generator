@@ -1,101 +1,1029 @@
 {
-    "streetNames": [
-        "Long Street",
-        "Main Road",
-        "Church Street",
-        "Bree Street",
-        "Lombard Street",
-        "Adelaide Tambo Road",
-        "Jan Smuts Avenue",
-        "Nelson Mandela Drive",
-        "Durban Road",
-        "Victoria Embankment",
-        "Voortrekker Road",
-        "Woolworths Avenue",
-        "De Villiers Street",
-        "The Strand",
-        "Pine Street",
-        "Orchard Road",
-        "Cecil Morgan Avenue",
-        "Oxford Road",
-        "Waterkant Street",
-        "Simon Street"
+  "countrycode": "+27",
+  "phoneformat": "(A) XXX XXX XXXX",
+  "country": "South Africa",
+  "neighborhoods": {
+    "corporate": [
+      "Sandton",
+      "Cape Town City Bowl",
+      "Durban Central",
+      "Centurion",
+      "Menlyn Maine",
+      "Umhlanga Ridge",
+      "Waterfall City",
+      "Rosebank",
+      "Woodmead",
+      "Rivonia",
+      "Pretoria CBD",
+      "Burgundy Estate",
+      "Newtown",
+      "Durban North",
+      "Braamfontein",
+      "East Rand",
+      "Ballito",
+      "Greenstone Hill",
+      "Claremont",
+      "Greenwich Park",
+      "Stellenbosch",
+      "Parktown",
+      "V&A Waterfront",
+      "Bellville",
+      "Cape Quarter",
+      "Somerset West",
+      "Rondebosch",
+      "Fourways",
+      "Bryanston",
+      "Randburg",
+      "Hillcrest",
+      "Benoni",
+      "Killarney",
+      "Woodstock",
+      "Sea Point",
+      "Constantia",
+      "Brooklyn",
+      "Burgers Park",
+      "Bloubergstrand",
+      "Westville",
+      "Roodepoort",
+      "Houghton Estate",
+      "Illovo",
+      "Wynberg",
+      "Auckland Park",
+      "Morningside",
+      "Boksburg",
+      "Parkhurst",
+      "Montague Gardens",
+      "The Willows",
+      "Melrose Arch",
+      "Wynberg Park"
     ],
-    "streetNumbers": [
-        "101",
-        "202",
-        "303",
-        "404",
-        "505",
-        "606",
-        "707",
-        "808",
-        "909",
-        "1234",
-        "4321",
-        "5678",
-        "6789",
-        "7890",
-        "8901",
-        "2345",
-        "3456",
-        "4567",
-        "5670",
-        "6781"
+    "industrial": [
+      "Tambo Springs",
+      "Isando",
+      "Durban Industrial Zone",
+      "Kyalami Business Park",
+      "Modderfontein",
+      "O.R. Tambo International Airport Industrial Zone",
+      "Sasolburg",
+      "Mthatha Industrial Zone",
+      "East Rand Industrial Park",
+      "Boksburg Industrial Area",
+      "Port Elizabeth Industrial Park",
+      "Mossel Bay Industrial Zone",
+      "Rustenburg Industrial Park",
+      "Pretoria Industrial Area",
+      "Nelspruit Industrial Zone",
+      "Kimberley Industrial Park",
+      "Vanderbijlpark",
+      "Alberton Industrial Area",
+      "George Industrial Park",
+      "Booysens",
+      "Cato Ridge",
+      "Welkom Industrial Area",
+      "Saldanha Bay Industrial Park",
+      "Ceres Industrial Zone",
+      "Bellville South Industrial Area",
+      "Port Shepstone Industrial Zone",
+      "Tshwane Industrial District",
+      "Midrand Industrial Park",
+      "Wadeville",
+      "Northgate Business Park",
+      "Rivonia Industrial Area",
+      "Cape Town Port Industrial Zone",
+      "Randfontein Industrial Estate",
+      "Vanderbijlpark Industrial Zone",
+      "Wolmaransstad",
+      "Hartbeespoort Industrial Park",
+      "Jeffreys Bay Industrial Zone",
+      "Hermanus Industrial Estate",
+      "Hazyview Industrial Park",
+      "Middelburg Industrial Zone",
+      "Burgersfort Industrial Park",
+      "Pretoria North Industrial Area",
+      "South Coast Industrial Zone",
+      "Secunda Industrial Area",
+      "Polokwane Industrial Estate",
+      "Durban South Industrial Zone",
+      "Ceres Valley Industrial Park"
     ],
-    "cities": [
-        "Johannesburg",
-        "Cape Town",
-        "Durban",
-        "Pretoria",
-        "Port Elizabeth",
-        "Bloemfontein",
-        "East London",
-        "Polokwane",
-        "Pietermaritzburg",
-        "Nelspruit",
-        "Kimberley",
-        "Vereeniging",
-        "Soweto",
-        "Mthatha",
-        "George",
-        "Rustenburg",
-        "Welkom",
-        "Harrismith",
-        "Springbok",
-        "Ladysmith"
-    ],
-    "states": [
-        "Gauteng",
-        "Western Cape",
-        "KwaZulu-Natal",
-        "Eastern Cape",
-        "Limpopo",
-        "Free State",
-        "North West",
-        "Northern Cape",
-        "Mpumalanga"
-    ],
-    "zipCodes": [
-        "2000",
-        "8000",
-        "4000",
-        "0001",
-        "6001",
-        "9300",
-        "5200",
-        "0700",
-        "3200",
-        "1200",
-        "8301",
-        "2940",
-        "2200",
-        "7764",
-        "3500",
-        "7100",
-        "1620",
-        "1625",
-        "0280",
-        "6730"
+    "residential": [
+      "Sandton",
+      "Cape Town",
+      "Durban",
+      "Pretoria",
+      "Centurion",
+      "Umhlanga",
+      "Stellenbosch",
+      "Fourways",
+      "Bryanston",
+      "Randburg",
+      "Woodstock",
+      "Johannesburg",
+      "Rosebank",
+      "Greenstone Hill",
+      "Rivonia",
+      "Durban North",
+      "Somerset West",
+      "Burgundy Estate",
+      "Ballito",
+      "Houghton Estate",
+      "Hillcrest",
+      "Claremont",
+      "Melrose Arch",
+      "Bellville",
+      "Pinetown",
+      "Killarney",
+      "Rondebosch",
+      "Constantia",
+      "Bloubergstrand",
+      "Westville",
+      "Morningside",
+      "Sea Point",
+      "Riviera",
+      "Alberton",
+      "Roodepoort",
+      "Greenwich Park",
+      "Auckland Park",
+      "Brackenfell",
+      "Boksburg",
+      "V&A Waterfront",
+      "Hartebeespoort",
+      "Lynnwood",
+      "Morningside",
+      "Parys",
+      "Randfontein",
+      "Newlands",
+      "Parys",
+      "Hillcrest",
+      "Bryanston West",
+      "Melville",
+      "Fordsburg",
+      "Krugersdorp",
+      "Burgers Park",
+      "Ormonde",
+      "Blue Hills"
     ]
+  },
+  "streetnames": {
+    "corporate": [
+      "Nelson Mandela Square",
+      "Katherine Street",
+      "Wierda Road East",
+      "Jan Smuts Avenue",
+      "Rivonia Road",
+      "Cedar Road",
+      "Grayston Drive",
+      "Main Road",
+      "William Nicol Drive",
+      "Greenstone Hill",
+      "Burgundy Estate Drive",
+      "Garsfontein Road",
+      "Pretoria Street",
+      "Johannesburg Road",
+      "West Street",
+      "Albermarle Road",
+      "Middelburg Road",
+      "Waterkloof Ridge",
+      "Sandton Drive",
+      "William Nicol Drive",
+      "Park Lane",
+      "Cape Road",
+      "Beach Road",
+      "Tenth Avenue",
+      "Kloof Road",
+      "Parktown Street",
+      "Plaza Road",
+      "Burgers Park Road",
+      "Long Street",
+      "Pleasantville Street",
+      "Charles Road",
+      "Hillcrest Avenue",
+      "Port Road",
+      "De Waterkant",
+      "Outspan Road",
+      "Sunset Avenue",
+      "Pretoria Road",
+      "Park Street",
+      "Riverton Road",
+      "Constantia Road",
+      "Ysterplaat Road",
+      "Blouberg Road",
+      "Bayside Drive",
+      "Auckland Road",
+      "Cecil Road",
+      "Pine Street",
+      "Main Street"
+    ],
+    "industrial": [
+      "Mooifontein Road",
+      "Tambo Springs Road",
+      "Wadeville Road",
+      "Wolmarans Road",
+      "Solomon Mahlangu Drive",
+      "Burgersfort Road",
+      "Pinetown Road",
+      "Ormonde Road",
+      "Delmas Road",
+      "Secunda Road",
+      "Strijdompark Road",
+      "Cape Town Harbour Road",
+      "Germiston Industrial Road",
+      "Alberton Road",
+      "Boksburg Industrial Road",
+      "Tshwane Industrial Road",
+      "Port Elizabeth Industrial Road",
+      "Randfontein Industrial Road",
+      "Pretoria North Road",
+      "Durban Industrial Road",
+      "Gauteng Industrial Road",
+      "Cato Ridge Industrial Road",
+      "Saldanha Bay Industrial Road",
+      "Rivonia Road",
+      "Hartbeespoort Industrial Road",
+      "Ballito Industrial Road",
+      "Nelspruit Industrial Road",
+      "Secunda Industrial Road",
+      "Ceres Valley Road",
+      "Alberton North Road",
+      "Mossel Bay Industrial Road",
+      "East Rand Industrial Road",
+      "Tagore Industrial Road",
+      "Macpherson Road",
+      "Vanderbijlpark Road",
+      "Northgate Road",
+      "Ekurhuleni Road",
+      "Polokwane Industrial Road",
+      "Newlands Industrial Road"
+    ],
+    "residential": [
+      "Main Street",
+      "North Road",
+      "Boulevard Road",
+      "Vanderschieff Road",
+      "Long Avenue",
+      "Kloof Street",
+      "Stern Road",
+      "Riverton Drive",
+      "Church Street",
+      "Albertina Sisulu Street",
+      "Houghton Road",
+      "Pretoria Road",
+      "Constantia Drive",
+      "Durban Road",
+      "Beach Road",
+      "West Park Street",
+      "Plaza Street",
+      "Hillside Drive",
+      "St. George's Road",
+      "Mountain View Road",
+      "Lower Road",
+      "Eden Road",
+      "Wilhelmina Road",
+      "Country Road",
+      "Parklands Road",
+      "Comet Street",
+      "Heather Street",
+      "Oak Road",
+      "Serenity Road",
+      "Olive Road",
+      "Blackberry Lane",
+      "Apple Road",
+      "Redwood Road",
+      "Daisy Avenue",
+      "Shady Grove Lane",
+      "Highway Road",
+      "Seaview Street",
+      "Alberton Road",
+      "Cedar Grove",
+      "Waterford Road",
+      "Sunset Drive",
+      "Shaw Road",
+      "Marlborough Avenue",
+      "Randburg Road",
+      "Belvedere Road",
+      "Hillcrest Avenue"
+    ]
+  },
+  "provinces": {
+    "Eastern Cape": {
+      "cities": [
+        {
+          "cityname": "Port Elizabeth",
+          "zipcodes": [
+            "6000",
+            "6001",
+            "6002",
+            "6003",
+            "6004"
+          ],
+          "areacodes": [
+            "41"
+          ]
+        },
+        {
+          "cityname": "East London",
+          "zipcodes": [
+            "5200",
+            "5201",
+            "5202",
+            "5203",
+            "5204"
+          ],
+          "areacodes": [
+            "43"
+          ]
+        },
+        {
+          "cityname": "Mthatha",
+          "zipcodes": [
+            "5100",
+            "5101",
+            "5102",
+            "5103",
+            "5104"
+          ],
+          "areacodes": [
+            "47"
+          ]
+        },
+        {
+          "cityname": "Queenstown",
+          "zipcodes": [
+            "5319",
+            "5320",
+            "5321",
+            "5322",
+            "5323"
+          ],
+          "areacodes": [
+            "45"
+          ]
+        },
+        {
+          "cityname": "Grahamstown",
+          "zipcodes": [
+            "6139",
+            "6140",
+            "6141",
+            "6142",
+            "6143"
+          ],
+          "areacodes": [
+            "46"
+          ]
+        }
+      ],
+      "name": "Eastern Cape"
+    },
+    "Free State": {
+      "cities": [
+        {
+          "cityname": "Bloemfontein",
+          "zipcodes": [
+            "9301",
+            "9302",
+            "9303",
+            "9304",
+            "9305"
+          ],
+          "areacodes": [
+            "51"
+          ]
+        },
+        {
+          "cityname": "Sasolburg",
+          "zipcodes": [
+            "1947",
+            "1948",
+            "1949",
+            "1950",
+            "1951"
+          ],
+          "areacodes": [
+            "16"
+          ]
+        },
+        {
+          "cityname": "Welkom",
+          "zipcodes": [
+            "9460",
+            "9461",
+            "9462",
+            "9463",
+            "9464"
+          ],
+          "areacodes": [
+            "57"
+          ]
+        },
+        {
+          "cityname": "Bethlehem",
+          "zipcodes": [
+            "9700",
+            "9701",
+            "9702",
+            "9703",
+            "9704"
+          ],
+          "areacodes": [
+            "58"
+          ]
+        },
+        {
+          "cityname": "Kroonstad",
+          "zipcodes": [
+            "9500",
+            "9501",
+            "9502",
+            "9503",
+            "9504"
+          ],
+          "areacodes": [
+            "56"
+          ]
+        }
+      ],
+      "name": "Free State"
+    },
+    "Gauteng": {
+      "cities": [
+        {
+          "cityname": "Johannesburg",
+          "zipcodes": [
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004"
+          ],
+          "areacodes": [
+            "11"
+          ]
+        },
+        {
+          "cityname": "Pretoria",
+          "zipcodes": [
+            "0001",
+            "0002",
+            "0003",
+            "0004",
+            "0005"
+          ],
+          "areacodes": [
+            "12"
+          ]
+        },
+        {
+          "cityname": "Ekurhuleni",
+          "zipcodes": [
+            "1401",
+            "1402",
+            "1403",
+            "1404",
+            "1405"
+          ],
+          "areacodes": [
+            "11"
+          ]
+        },
+        {
+          "cityname": "Sandton",
+          "zipcodes": [
+            "2196",
+            "2197",
+            "2198",
+            "2199",
+            "2200"
+          ],
+          "areacodes": [
+            "11"
+          ]
+        },
+        {
+          "cityname": "Vanderbijlpark",
+          "zipcodes": [
+            "1900",
+            "1901",
+            "1902",
+            "1903",
+            "1904"
+          ],
+          "areacodes": [
+            "16"
+          ]
+        }
+      ],
+      "name": "Gauteng"
+    },
+    "KwaZulu-Natal": {
+      "cities": [
+        {
+          "cityname": "Durban",
+          "zipcodes": [
+            "4000",
+            "4001",
+            "4002",
+            "4003",
+            "4004"
+          ],
+          "areacodes": [
+            "31"
+          ]
+        },
+        {
+          "cityname": "Pietermaritzburg",
+          "zipcodes": [
+            "3200",
+            "3201",
+            "3202",
+            "3203",
+            "3204"
+          ],
+          "areacodes": [
+            "33"
+          ]
+        },
+        {
+          "cityname": "Richards Bay",
+          "zipcodes": [
+            "3900",
+            "3901",
+            "3902",
+            "3903",
+            "3904"
+          ],
+          "areacodes": [
+            "35"
+          ]
+        },
+        {
+          "cityname": "Newcastle",
+          "zipcodes": [
+            "2940",
+            "2941",
+            "2942",
+            "2943",
+            "2944"
+          ],
+          "areacodes": [
+            "34"
+          ]
+        },
+        {
+          "cityname": "Umlazi",
+          "zipcodes": [
+            "4031",
+            "4032",
+            "4033",
+            "4034",
+            "4035"
+          ],
+          "areacodes": [
+            "31"
+          ]
+        }
+      ],
+      "name": "KwaZulu-Natal"
+    },
+    "Limpopo": {
+      "cities": [
+        {
+          "cityname": "Polokwane",
+          "zipcodes": [
+            "0699",
+            "0700",
+            "0701",
+            "0702",
+            "0703"
+          ],
+          "areacodes": [
+            "15"
+          ]
+        },
+        {
+          "cityname": "Tzaneen",
+          "zipcodes": [
+            "0850",
+            "0851",
+            "0852",
+            "0853",
+            "0854"
+          ],
+          "areacodes": [
+            "15"
+          ]
+        },
+        {
+          "cityname": "Burgersfort",
+          "zipcodes": [
+            "1150",
+            "1151",
+            "1152",
+            "1153",
+            "1154"
+          ],
+          "areacodes": [
+            "13"
+          ]
+        },
+        {
+          "cityname": "Lephalale",
+          "zipcodes": [
+            "0555",
+            "0556",
+            "0557",
+            "0558",
+            "0559"
+          ],
+          "areacodes": [
+            "14"
+          ]
+        },
+        {
+          "cityname": "Makhado",
+          "zipcodes": [
+            "0920",
+            "0921",
+            "0922",
+            "0923",
+            "0924"
+          ],
+          "areacodes": [
+            "15"
+          ]
+        }
+      ],
+      "name": "Limpopo"
+    },
+    "Mpumalanga": {
+      "cities": [
+        {
+          "cityname": "Nelspruit",
+          "zipcodes": [
+            "1200",
+            "1201",
+            "1202",
+            "1203",
+            "1204"
+          ],
+          "areacodes": [
+            "13"
+          ]
+        },
+        {
+          "cityname": "Witbank",
+          "zipcodes": [
+            "1034",
+            "1035",
+            "1036",
+            "1037",
+            "1038"
+          ],
+          "areacodes": [
+            "13"
+          ]
+        },
+        {
+          "cityname": "Middelburg",
+          "zipcodes": [
+            "1050",
+            "1051",
+            "1052",
+            "1053",
+            "1054"
+          ],
+          "areacodes": [
+            "13"
+          ]
+        },
+        {
+          "cityname": "Secunda",
+          "zipcodes": [
+            "2302",
+            "2303",
+            "2304",
+            "2305",
+            "2306"
+          ],
+          "areacodes": [
+            "17"
+          ]
+        },
+        {
+          "cityname": "Lydenburg",
+          "zipcodes": [
+            "1120",
+            "1121",
+            "1122",
+            "1123",
+            "1124"
+          ],
+          "areacodes": [
+            "13"
+          ]
+        }
+      ],
+      "name": "Mpumalanga"
+    },
+    "North West": {
+      "cities": [
+        {
+          "cityname": "Mahikeng",
+          "zipcodes": [
+            "2745",
+            "2746",
+            "2747",
+            "2748",
+            "2749"
+          ],
+          "areacodes": [
+            "18"
+          ]
+        },
+        {
+          "cityname": "Rustenburg",
+          "zipcodes": [
+            "0300",
+            "0301",
+            "0302",
+            "0303",
+            "0304"
+          ],
+          "areacodes": [
+            "14"
+          ]
+        },
+        {
+          "cityname": "Klerksdorp",
+          "zipcodes": [
+            "2570",
+            "2571",
+            "2572",
+            "2573",
+            "2574"
+          ],
+          "areacodes": [
+            "18"
+          ]
+        },
+        {
+          "cityname": "Potchefstroom",
+          "zipcodes": [
+            "2520",
+            "2521",
+            "2522",
+            "2523",
+            "2524"
+          ],
+          "areacodes": [
+            "18"
+          ]
+        },
+        {
+          "cityname": "Zeerust",
+          "zipcodes": [
+            "2865",
+            "2866",
+            "2867",
+            "2868",
+            "2869"
+          ],
+          "areacodes": [
+            "18"
+          ]
+        }
+      ],
+      "name": "North West"
+    },
+    "Northern Cape": {
+      "cities": [
+        {
+          "cityname": "Kimberley",
+          "zipcodes": [
+            "8300",
+            "8301",
+            "8302",
+            "8303",
+            "8304"
+          ],
+          "areacodes": [
+            "53"
+          ]
+        },
+        {
+          "cityname": "Upington",
+          "zipcodes": [
+            "8800",
+            "8801",
+            "8802",
+            "8803",
+            "8804"
+          ],
+          "areacodes": [
+            "54"
+          ]
+        },
+        {
+          "cityname": "Springbok",
+          "zipcodes": [
+            "8240",
+            "8241",
+            "8242",
+            "8243",
+            "8244"
+          ],
+          "areacodes": [
+            "27"
+          ]
+        },
+        {
+          "cityname": "Postmasburg",
+          "zipcodes": [
+            "8420",
+            "8421",
+            "8422",
+            "8423",
+            "8424"
+          ],
+          "areacodes": [
+            "53"
+          ]
+        },
+        {
+          "cityname": "De Aar",
+          "zipcodes": [
+            "7000",
+            "7001",
+            "7002",
+            "7003",
+            "7004"
+          ],
+          "areacodes": [
+            "53"
+          ]
+        }
+      ],
+      "name": "Northern Cape"
+    },
+    "Western Cape": {
+      "cities": [
+        {
+          "cityname": "Cape Town",
+          "zipcodes": [
+            "8000",
+            "8001",
+            "8002",
+            "8003",
+            "8004"
+          ],
+          "areacodes": [
+            "21"
+          ]
+        },
+        {
+          "cityname": "Stellenbosch",
+          "zipcodes": [
+            "7600",
+            "7601",
+            "7602",
+            "7603",
+            "7604"
+          ],
+          "areacodes": [
+            "21"
+          ]
+        },
+        {
+          "cityname": "Paternoster",
+          "zipcodes": [
+            "7381",
+            "7382",
+            "7383",
+            "7384",
+            "7385"
+          ],
+          "areacodes": [
+            "22"
+          ]
+        },
+        {
+          "cityname": "George",
+          "zipcodes": [
+            "6530",
+            "6531",
+            "6532",
+            "6533",
+            "6534"
+          ],
+          "areacodes": [
+            "44"
+          ]
+        },
+        {
+          "cityname": "Mossel Bay",
+          "zipcodes": [
+            "6500",
+            "6501",
+            "6502",
+            "6503",
+            "6504"
+          ],
+          "areacodes": [
+            "44"
+          ]
+        }
+      ],
+      "name": "Western Cape"
+    }
+  },
+  "citycontainers": [
+    "provinces"
+  ],
+  "firstnames": [
+    "Liam",
+    "Noah",
+    "Aiden",
+    "Lucas",
+    "Mason",
+    "Elijah",
+    "James",
+    "Logan",
+    "Benjamin",
+    "Oliver",
+    "William",
+    "Jacob",
+    "Michael",
+    "Alexander",
+    "Ethan",
+    "Daniel",
+    "Matthew",
+    "Henry",
+    "Samuel",
+    "David",
+    "Joseph",
+    "Jackson",
+    "Luke",
+    "Gabriel",
+    "Matthew",
+    "Caleb",
+    "Isaiah",
+    "Jack",
+    "Charles",
+    "Zane",
+    "Evan",
+    "Isaiah",
+    "Ryan",
+    "Levi",
+    "Owen",
+    "Christian",
+    "Tyler",
+    "Maverick",
+    "Nathan",
+    "Asher",
+    "Dominic",
+    "Adam"
+  ],
+  "lastnames": [
+    "Smith",
+    "Johnson",
+    "Williams",
+    "Brown",
+    "Jones",
+    "Miller",
+    "Davis",
+    "García",
+    "Rodriguez",
+    "Martínez",
+    "Hernández",
+    "Lopez",
+    "González",
+    "Wilson",
+    "Anderson",
+    "Thomas",
+    "Taylor",
+    "Moore",
+    "Jackson",
+    "Martin",
+    "Lee",
+    "Perez",
+    "White",
+    "Harris",
+    "Sánchez",
+    "Clark",
+    "Ramírez",
+    "Lewis",
+    "Roberts",
+    "Walker",
+    "Young",
+    "Allen",
+    "King",
+    "Scott",
+    "Green",
+    "Adams",
+    "Baker",
+    "Nelson",
+    "Carter",
+    "Mitchell",
+    "Perez"
+  ]
 }

@@ -1,112 +1,1800 @@
 {
-    "streetNames": [
-        "Bahnhofstrasse",
-        "Zurichstrasse",
-        "Avenue des Champs-Elysées",
-        "Rue de la Republique",
-        "Rathausstrasse",
-        "Limmatstrasse",
-        "Klingentalstrasse",
-        "Freie Strasse",
-        "Geneva Road",
-        "Via Nassa",
-        "Luzernerstrasse",
-        "Marktgasse",
-        "Münsterplatz",
-        "Jelmoli",
-        "Grabenstrasse",
-        "Hauptstrasse",
-        "Müllerstrasse",
-        "Pfluggasse",
-        "Schulstrasse",
-        "Alpenstrasse"
+  "countrycode": "+41",
+  "phoneformat": "(A) XX XXX XX XX",
+  "country": "Switzerland",
+  "neighborhoods": {
+    "corporate": [
+      "Zurich City Center",
+      "Geneva City Center",
+      "Basel City Center",
+      "Bern City Center",
+      "Lucerne City Center",
+      "Lausanne",
+      "Zurich West",
+      "Zurich Oerlikon",
+      "Geneva Plainpalais",
+      "Zurich Enge",
+      "St. Moritz",
+      "Basel St. Johanns",
+      "Zurich Altstadt",
+      "Geneva Eaux-Vives",
+      "Basel St. Alban",
+      "Zurich Seefeld",
+      "Zurich Wollishofen",
+      "Zurich Wiedikon",
+      "Lausanne City Center",
+      "Zurich Hardplatz",
+      "Zurich Flughafen",
+      "Bern Wabern",
+      "Lausanne Ouchy",
+      "Geneva Carouge",
+      "Zurich Altstetten",
+      "Zurich Schwamendingen",
+      "Basel Munster",
+      "Zurich Wipkingen",
+      "Zurich Oberstrass",
+      "Zurich Zurichberg",
+      "Zurich Kreis 5",
+      "Zurich Kreis 6",
+      "Zurich Kreis 7",
+      "Geneva Nations",
+      "Zurich Unterstrass",
+      "Zurich Sihlquai",
+      "Basel Liestal",
+      "Zurich Altstadt",
+      "Zurich Bahnhofstrasse",
+      "Bern Bahnhofplatz",
+      "Zurich Muenchhalde",
+      "Zurich Langstrasse"
     ],
-    "streetNumbers": [
-        "101",
-        "202",
-        "303",
-        "404",
-        "505",
-        "606",
-        "707",
-        "808",
-        "909",
-        "1234",
-        "4321",
-        "5678",
-        "6789",
-        "7890",
-        "8901",
-        "2345",
-        "3456",
-        "4567",
-        "5670",
-        "6781"
+    "industrial": [
+      "Zurich Industriequartier",
+      "Basel St. Jakob",
+      "Geneva Grand-Saconnex",
+      "Lausanne Malley",
+      "Bern Wabern",
+      "Zurich Oerlikon Industrial Park",
+      "Zurich Glattpark",
+      "Basel Pratteln",
+      "Zurich Limmattal",
+      "Basel Industriepark",
+      "Zurich Zuerichberg",
+      "Zurich Regensdorf",
+      "Lausanne Renens",
+      "Zurich Seebach",
+      "Geneva Plan-Les-Ouates",
+      "Zurich Dietikon",
+      "Bern Biel Industrial Park",
+      "Zurich Horgen",
+      "Lausanne Pully",
+      "Zurich North District",
+      "Zurich Badenerstrasse",
+      "Geneva Meyrin",
+      "Zurich Altstetten",
+      "Lausanne Ecublens",
+      "Zurich Limmatquai",
+      "Zurich Unterstrass Industrial Area",
+      "Zurich Schwamendingen",
+      "Zurich Neufeld",
+      "Basel Binningen",
+      "Zurich Horgen",
+      "Geneva Acacias",
+      "Zurich Enge Industrial Park",
+      "Lausanne Montchoisi",
+      "Bern Allmend",
+      "Basel St. Johanns",
+      "Zurich Wipkingen Industrial Zone",
+      "Zurich Affoltern",
+      "Zurich Zurich-West",
+      "Zurich Uetliberg",
+      "Zurich Hardplatz",
+      "Zurich Klusplatz",
+      "Zurich Hauptbahnhof"
     ],
-    "cities": [
-        "Zurich",
-        "Geneva",
-        "Basel",
-        "Bern",
-        "Lucerne",
-        "Lausanne",
-        "St. Moritz",
-        "Zurich",
-        "Winterthur",
-        "Lugano",
-        "Lucerne",
-        "Biel",
-        "Thun",
-        "Chur",
-        "Zurich",
-        "Sion",
-        "Montreux",
-        "Solothurn",
-        "Aarau",
-        "Zug"
-    ],
-    "states": [
-        "Zurich",
-        "Geneva",
-        "Basel-Stadt",
-        "Bern",
-        "Lucerne",
-        "Thurgau",
-        "Aargau",
-        "St. Gallen",
-        "Graubünden",
-        "Valais",
-        "Vaud",
-        "Ticino",
-        "Schwyz",
-        "Fribourg",
-        "Solothurn",
-        "Zug",
-        "Uri",
-        "Appenzell Innerrhoden",
-        "Appenzell Ausserrhoden",
-        "Nidwalden"
-    ],
-    "zipCodes": [
-        "8000",
-        "1200",
-        "4000",
-        "3011",
-        "6000",
-        "1000",
-        "7500",
-        "8001",
-        "8400",
-        "6900",
-        "6002",
-        "2500",
-        "3600",
-        "7000",
-        "1000",
-        "1820",
-        "4500",
-        "5000",
-        "6300",
-        "6302"
+    "residential": [
+      "Zurich Seefeld",
+      "Zurich Altstadt",
+      "Geneva Plainpalais",
+      "Zurich Oerlikon",
+      "Lausanne Ouchy",
+      "Zurich Wiedikon",
+      "Zurich West",
+      "Zurich Kreis 5",
+      "Basel St. Alban",
+      "Zurich Unterstrass",
+      "Zurich Altstetten",
+      "Zurich Kreis 6",
+      "Geneva Carouge",
+      "Lausanne Pully",
+      "Zurich Wollishofen",
+      "Zurich Langstrasse",
+      "Zurich Oberstrass",
+      "Geneva Eaux-Vives",
+      "Zurich Enge",
+      "Zurich Kreis 7",
+      "Zurich Zurichberg",
+      "Zurich Sihlquai",
+      "Zurich Muenchhalde",
+      "Zurich Limmattal",
+      "Zurich Bahnhofstrasse",
+      "Lausanne Ecublens",
+      "Basel Liestal",
+      "Zurich Flughafen",
+      "Zurich Schwamendingen",
+      "Zurich Zurich-West",
+      "Zurich Neufeld",
+      "Zurich Seebach",
+      "Zurich Sihlstrasse",
+      "Zurich Wipkingen",
+      "Basel St. Johanns",
+      "Zurich Kreise 4 and 5",
+      "Zurich Albisrieden",
+      "Geneva Nations",
+      "Zurich Uetliberg",
+      "Zurich Kreis 3",
+      "Zurich Rümlang",
+      "Zurich Hardplatz",
+      "Zurich Klusplatz",
+      "Zurich Hauptbahnhof",
+      "Zurich Dietikon",
+      "Zurich West Central",
+      "Zurich Waidberg",
+      "Zurich Altstetten"
     ]
+  },
+  "streetnames": {
+    "corporate": [
+      "Bahnhofstrasse",
+      "Münsterhof",
+      "Schiffbaustrasse",
+      "Kunsthausstrasse",
+      "Hochstrasse",
+      "Werdstrasse",
+      "Talstrasse",
+      "Limmatstrasse",
+      "Kreisstrasse",
+      "Rindermarkt",
+      "Flughafenstrasse",
+      "Aeschenplatz",
+      "Uetlibergstrasse",
+      "Langstrasse",
+      "Königsstrasse",
+      "Gessnerallee",
+      "Pfingstweidstrasse",
+      "Industriestrasse",
+      "Birmensdorferstrasse",
+      "Stauffacherstrasse",
+      "Rieterstrasse",
+      "Sihlstrasse",
+      "Winkelstrasse",
+      "Zentrumstrasse",
+      "Bernstrasse",
+      "Sihlquai",
+      "Rümlangstrasse",
+      "Birmensdorfstrasse",
+      "Weinbergstrasse",
+      "Albisstrasse",
+      "Eichenstrasse",
+      "Banhofstrasse",
+      "Limmatquai",
+      "Parkstrasse",
+      "Gerberstrasse",
+      "Bärenplatz",
+      "Seebahnstrasse",
+      "Dufourstrasse",
+      "St. Alban-Graben",
+      "Zürcherstrasse",
+      "Kraftstrasse",
+      "Korbstrasse",
+      "Zürcherplatz",
+      "Viktoriastrasse",
+      "Adligenswilerstrasse",
+      "Kreuzstrasse",
+      "Hürlimannstrasse"
+    ],
+    "industrial": [
+      "Industriestrasse",
+      "Baslerstrasse",
+      "Sihlquai",
+      "Frankenstrasse",
+      "Glattparkstrasse",
+      "Hohstrasse",
+      "Zurichstrasse",
+      "Geissweidstrasse",
+      "Eichwattstrasse",
+      "Lindenplatzstrasse",
+      "Buchrainstrasse",
+      "Wehrstrasse",
+      "Industrieplatzstrasse",
+      "Fabrikstrasse",
+      "Buchseestrasse",
+      "Wasserstrasse",
+      "Buchenstrasse",
+      "Viktoriastrasse",
+      "Waldstrasse",
+      "Gartenstrasse",
+      "Rheinstrasse",
+      "Weststrasse",
+      "Gipsstrasse",
+      "Neue Marktstrasse",
+      "Rieterstrasse",
+      "Zürcherstrasse",
+      "Gewerbeparkstrasse",
+      "Westfeldstrasse",
+      "Rheinparkstrasse",
+      "Dorfstrasse",
+      "Pfäffikerstrasse",
+      "Hochstrasse",
+      "Dürrstrasse",
+      "Zentrumstrasse",
+      "Dorfstrasse",
+      "Husstrasse",
+      "Königsstrasse",
+      "Winkelstrasse",
+      "Dufourstrasse",
+      "Niederdorfstrasse",
+      "Parkstrasse",
+      "Limmatstrasse",
+      "Lindenstrasse",
+      "Bürglenstrasse"
+    ],
+    "residential": [
+      "Zürcherstrasse",
+      "Langstrasse",
+      "Kreisstrasse",
+      "Limmatquai",
+      "Ostring",
+      "Friesstrasse",
+      "Neugasse",
+      "Grossestrasse",
+      "Schwandenstrasse",
+      "Kirchstrasse",
+      "Zeughausstrasse",
+      "Amthausstrasse",
+      "Viktoriastrasse",
+      "Heuelstrasse",
+      "Dorfstrasse",
+      "Alte Landstrasse",
+      "Sonnenbergstrasse",
+      "Hofstrasse",
+      "Aeschenstrasse",
+      "Grosserstrasse",
+      "Weststrasse",
+      "Industriestrasse",
+      "Brunnenstrasse",
+      "Kirchstrasse",
+      "Gartenstrasse",
+      "Grosse Marktstrasse",
+      "Waldstrasse",
+      "Schönbühlstrasse",
+      "Hirschenplatz",
+      "Weinbergstrasse",
+      "Freiburgstrasse",
+      "Kreuzstrasse",
+      "Weidenstrasse",
+      "Birkenstrasse",
+      "Albisstrasse",
+      "St. Albanstrasse",
+      "Lindenstrasse",
+      "Pfaffikerstrasse",
+      "Rudolfsstrasse",
+      "Kronenstrasse",
+      "Berlinerstrasse",
+      "Rheinstrasse",
+      "Lindenhofstrasse",
+      "Wiesenstrasse",
+      "Meierstrasse",
+      "Bürglenstrasse",
+      "Müllerstrasse"
+    ]
+  },
+  "regions": {
+    "Zurich": {
+      "name": "Zurich",
+      "cities": [
+        {
+          "cityname": "Zurich",
+          "zipcodes": [
+            "8000",
+            "8001",
+            "8002",
+            "8003",
+            "8004"
+          ],
+          "areacodes": [
+            "044"
+          ]
+        },
+        {
+          "cityname": "Kloten",
+          "zipcodes": [
+            "8302",
+            "8303",
+            "8304",
+            "8305",
+            "8306"
+          ],
+          "areacodes": [
+            "044"
+          ]
+        },
+        {
+          "cityname": "Uetliberg",
+          "zipcodes": [
+            "8041",
+            "8042",
+            "8043",
+            "8044",
+            "8045"
+          ],
+          "areacodes": [
+            "044"
+          ]
+        },
+        {
+          "cityname": "Winterthur",
+          "zipcodes": [
+            "8400",
+            "8401",
+            "8402",
+            "8403",
+            "8404"
+          ],
+          "areacodes": [
+            "052"
+          ]
+        },
+        {
+          "cityname": "Zollikon",
+          "zipcodes": [
+            "8702",
+            "8703",
+            "8704",
+            "8705",
+            "8706"
+          ],
+          "areacodes": [
+            "044"
+          ]
+        }
+      ]
+    },
+    "Bern": {
+      "name": "Bern",
+      "cities": [
+        {
+          "cityname": "Bern",
+          "zipcodes": [
+            "3000",
+            "3001",
+            "3002",
+            "3003",
+            "3004"
+          ],
+          "areacodes": [
+            "031"
+          ]
+        },
+        {
+          "cityname": "Thun",
+          "zipcodes": [
+            "3600",
+            "3601",
+            "3602",
+            "3603",
+            "3604"
+          ],
+          "areacodes": [
+            "033"
+          ]
+        },
+        {
+          "cityname": "Biel/Bienne",
+          "zipcodes": [
+            "2500",
+            "2501",
+            "2502",
+            "2503",
+            "2504"
+          ],
+          "areacodes": [
+            "032"
+          ]
+        },
+        {
+          "cityname": "Langenthal",
+          "zipcodes": [
+            "4900",
+            "4901",
+            "4902",
+            "4903",
+            "4904"
+          ],
+          "areacodes": [
+            "062"
+          ]
+        },
+        {
+          "cityname": "Muri bei Bern",
+          "zipcodes": [
+            "3074",
+            "3075",
+            "3076",
+            "3077",
+            "3078"
+          ],
+          "areacodes": [
+            "031"
+          ]
+        }
+      ]
+    },
+    "Lucerne": {
+      "name": "Lucerne",
+      "cities": [
+        {
+          "cityname": "Lucerne",
+          "zipcodes": [
+            "6000",
+            "6001",
+            "6002",
+            "6003",
+            "6004"
+          ],
+          "areacodes": [
+            "041"
+          ]
+        },
+        {
+          "cityname": "Emmen",
+          "zipcodes": [
+            "6032",
+            "6033",
+            "6034",
+            "6035",
+            "6036"
+          ],
+          "areacodes": [
+            "041"
+          ]
+        },
+        {
+          "cityname": "Horw",
+          "zipcodes": [
+            "6048",
+            "6049",
+            "6050",
+            "6051",
+            "6052"
+          ],
+          "areacodes": [
+            "041"
+          ]
+        },
+        {
+          "cityname": "Kriens",
+          "zipcodes": [
+            "6010",
+            "6011",
+            "6012",
+            "6013",
+            "6014"
+          ],
+          "areacodes": [
+            "041"
+          ]
+        },
+        {
+          "cityname": "Sursee",
+          "zipcodes": [
+            "6210",
+            "6211",
+            "6212",
+            "6213",
+            "6214"
+          ],
+          "areacodes": [
+            "041"
+          ]
+        }
+      ]
+    },
+    "Aargau": {
+      "name": "Aargau",
+      "cities": [
+        {
+          "cityname": "Aarau",
+          "zipcodes": [
+            "5000",
+            "5001",
+            "5002",
+            "5003",
+            "5004"
+          ],
+          "areacodes": [
+            "062"
+          ]
+        },
+        {
+          "cityname": "Zofingen",
+          "zipcodes": [
+            "4800",
+            "4801",
+            "4802",
+            "4803",
+            "4804"
+          ],
+          "areacodes": [
+            "062"
+          ]
+        },
+        {
+          "cityname": "Brugg",
+          "zipcodes": [
+            "5200",
+            "5201",
+            "5202",
+            "5203",
+            "5204"
+          ],
+          "areacodes": [
+            "056"
+          ]
+        },
+        {
+          "cityname": "Bad Zurzach",
+          "zipcodes": [
+            "5330",
+            "5331",
+            "5332",
+            "5333",
+            "5334"
+          ],
+          "areacodes": [
+            "056"
+          ]
+        },
+        {
+          "cityname": "Baden",
+          "zipcodes": [
+            "5400",
+            "5401",
+            "5402",
+            "5403",
+            "5404"
+          ],
+          "areacodes": [
+            "056"
+          ]
+        }
+      ]
+    },
+    "St. Gallen": {
+      "name": "St. Gallen",
+      "cities": [
+        {
+          "cityname": "St. Gallen",
+          "zipcodes": [
+            "9000",
+            "9001",
+            "9002",
+            "9003",
+            "9004"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        },
+        {
+          "cityname": "Rorschach",
+          "zipcodes": [
+            "9400",
+            "9401",
+            "9402",
+            "9403",
+            "9404"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        },
+        {
+          "cityname": "Appenzell",
+          "zipcodes": [
+            "9050",
+            "9051",
+            "9052",
+            "9053",
+            "9054"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        },
+        {
+          "cityname": "Flawil",
+          "zipcodes": [
+            "1300",
+            "1301",
+            "1302",
+            "1303",
+            "1304"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        },
+        {
+          "cityname": "Buchs",
+          "zipcodes": [
+            "9470",
+            "9471",
+            "9472",
+            "9473",
+            "9474"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        }
+      ]
+    },
+    "Basel-Landschaft": {
+      "name": "Basel-Landschaft",
+      "cities": [
+        {
+          "cityname": "Liestal",
+          "zipcodes": [
+            "4410",
+            "4411",
+            "4412",
+            "4413",
+            "4414"
+          ],
+          "areacodes": [
+            "061"
+          ]
+        },
+        {
+          "cityname": "Basel",
+          "zipcodes": [
+            "4000",
+            "4001",
+            "4002",
+            "4003",
+            "4004"
+          ],
+          "areacodes": [
+            "061"
+          ]
+        },
+        {
+          "cityname": "Muttenz",
+          "zipcodes": [
+            "4132",
+            "4133",
+            "4134",
+            "4135",
+            "4136"
+          ],
+          "areacodes": [
+            "061"
+          ]
+        },
+        {
+          "cityname": "Biel-Bienne",
+          "zipcodes": [
+            "2500",
+            "2501",
+            "2502",
+            "2503",
+            "2504"
+          ],
+          "areacodes": [
+            "032"
+          ]
+        },
+        {
+          "cityname": "Riehen",
+          "zipcodes": [
+            "4125",
+            "4126",
+            "4127",
+            "4128",
+            "4129"
+          ],
+          "areacodes": [
+            "061"
+          ]
+        }
+      ]
+    },
+    "Vaud": {
+      "name": "Vaud",
+      "cities": [
+        {
+          "cityname": "Lausanne",
+          "zipcodes": [
+            "1000",
+            "1001",
+            "1002",
+            "1003",
+            "1004"
+          ],
+          "areacodes": [
+            "021"
+          ]
+        },
+        {
+          "cityname": "Vevey",
+          "zipcodes": [
+            "1800",
+            "1801",
+            "1802",
+            "1803",
+            "1804"
+          ],
+          "areacodes": [
+            "021"
+          ]
+        },
+        {
+          "cityname": "Montreux",
+          "zipcodes": [
+            "1820",
+            "1821",
+            "1822",
+            "1823",
+            "1824"
+          ],
+          "areacodes": [
+            "021"
+          ]
+        },
+        {
+          "cityname": "Nyon",
+          "zipcodes": [
+            "1260",
+            "1261",
+            "1262",
+            "1263",
+            "1264"
+          ],
+          "areacodes": [
+            "022"
+          ]
+        },
+        {
+          "cityname": "Payerne",
+          "zipcodes": [
+            "1530",
+            "1531",
+            "1532",
+            "1533",
+            "1534"
+          ],
+          "areacodes": [
+            "026"
+          ]
+        }
+      ]
+    },
+    "Ticino": {
+      "name": "Ticino",
+      "cities": [
+        {
+          "cityname": "Lugano",
+          "zipcodes": [
+            "6900",
+            "6901",
+            "6902",
+            "6903",
+            "6904"
+          ],
+          "areacodes": [
+            "091"
+          ]
+        },
+        {
+          "cityname": "Bellinzona",
+          "zipcodes": [
+            "6500",
+            "6501",
+            "6502",
+            "6503",
+            "6504"
+          ],
+          "areacodes": [
+            "091"
+          ]
+        },
+        {
+          "cityname": "Mendrisio",
+          "zipcodes": [
+            "6850",
+            "6851",
+            "6852",
+            "6853",
+            "6854"
+          ],
+          "areacodes": [
+            "091"
+          ]
+        },
+        {
+          "cityname": "Locarno",
+          "zipcodes": [
+            "6600",
+            "6601",
+            "6602",
+            "6603",
+            "6604"
+          ],
+          "areacodes": [
+            "091"
+          ]
+        },
+        {
+          "cityname": "Tenero",
+          "zipcodes": [
+            "6598",
+            "6599",
+            "6600",
+            "6601",
+            "6602"
+          ],
+          "areacodes": [
+            "091"
+          ]
+        }
+      ]
+    },
+    "Thurgau": {
+      "name": "Thurgau",
+      "cities": [
+        {
+          "cityname": "Frauenfeld",
+          "zipcodes": [
+            "8500",
+            "8501",
+            "8502",
+            "8503",
+            "8504"
+          ],
+          "areacodes": [
+            "052"
+          ]
+        },
+        {
+          "cityname": "Weinfelden",
+          "zipcodes": [
+            "8570",
+            "8571",
+            "8572",
+            "8573",
+            "8574"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        },
+        {
+          "cityname": "Arbon",
+          "zipcodes": [
+            "9320",
+            "9321",
+            "9322",
+            "9323",
+            "9324"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        },
+        {
+          "cityname": "Kreuzlingen",
+          "zipcodes": [
+            "8280",
+            "8281",
+            "8282",
+            "8283",
+            "8284"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        },
+        {
+          "cityname": "Romanshorn",
+          "zipcodes": [
+            "8590",
+            "8591",
+            "8592",
+            "8593",
+            "8594"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        }
+      ]
+    },
+    "Geneva": {
+      "name": "Geneva",
+      "cities": [
+        {
+          "cityname": "Geneva",
+          "zipcodes": [
+            "1200",
+            "1201",
+            "1202",
+            "1203",
+            "1204"
+          ],
+          "areacodes": [
+            "022"
+          ]
+        },
+        {
+          "cityname": "Carouge",
+          "zipcodes": [
+            "1227",
+            "1228",
+            "1229",
+            "1230",
+            "1231"
+          ],
+          "areacodes": [
+            "022"
+          ]
+        },
+        {
+          "cityname": "Lancy",
+          "zipcodes": [
+            "1212",
+            "1213",
+            "1214",
+            "1215",
+            "1216"
+          ],
+          "areacodes": [
+            "022"
+          ]
+        },
+        {
+          "cityname": "Meyrin",
+          "zipcodes": [
+            "1217",
+            "1218",
+            "1219",
+            "1220",
+            "1221"
+          ],
+          "areacodes": [
+            "022"
+          ]
+        },
+        {
+          "cityname": "Onex",
+          "zipcodes": [
+            "1213",
+            "1214",
+            "1215",
+            "1216",
+            "1217"
+          ],
+          "areacodes": [
+            "022"
+          ]
+        }
+      ]
+    },
+    "Fribourg": {
+      "name": "Fribourg",
+      "cities": [
+        {
+          "cityname": "Fribourg",
+          "zipcodes": [
+            "1700",
+            "1701",
+            "1702",
+            "1703",
+            "1704"
+          ],
+          "areacodes": [
+            "026"
+          ]
+        },
+        {
+          "cityname": "Bulle",
+          "zipcodes": [
+            "1630",
+            "1631",
+            "1632",
+            "1633",
+            "1634"
+          ],
+          "areacodes": [
+            "026"
+          ]
+        },
+        {
+          "cityname": "Morat",
+          "zipcodes": [
+            "3280",
+            "3281",
+            "3282",
+            "3283",
+            "3284"
+          ],
+          "areacodes": [
+            "026"
+          ]
+        },
+        {
+          "cityname": "Château-d'Oex",
+          "zipcodes": [
+            "1660",
+            "1661",
+            "1662",
+            "1663",
+            "1664"
+          ],
+          "areacodes": [
+            "026"
+          ]
+        },
+        {
+          "cityname": "Villarson",
+          "zipcodes": [
+            "1680",
+            "1681",
+            "1682",
+            "1683",
+            "1684"
+          ],
+          "areacodes": [
+            "026"
+          ]
+        }
+      ]
+    },
+    "Solothurn": {
+      "name": "Solothurn",
+      "cities": [
+        {
+          "cityname": "Solothurn",
+          "zipcodes": [
+            "4500",
+            "4501",
+            "4502",
+            "4503",
+            "4504"
+          ],
+          "areacodes": [
+            "032"
+          ]
+        },
+        {
+          "cityname": "Zuchwil",
+          "zipcodes": [
+            "4528",
+            "4529",
+            "4530",
+            "4531",
+            "4532"
+          ],
+          "areacodes": [
+            "032"
+          ]
+        },
+        {
+          "cityname": "Olten",
+          "zipcodes": [
+            "4600",
+            "4601",
+            "4602",
+            "4603",
+            "4604"
+          ],
+          "areacodes": [
+            "062"
+          ]
+        },
+        {
+          "cityname": "Bettlach",
+          "zipcodes": [
+            "2544",
+            "2545",
+            "2546",
+            "2547",
+            "2548"
+          ],
+          "areacodes": [
+            "032"
+          ]
+        },
+        {
+          "cityname": "Balsthal",
+          "zipcodes": [
+            "4710",
+            "4711",
+            "4712",
+            "4713",
+            "4714"
+          ],
+          "areacodes": [
+            "062"
+          ]
+        }
+      ]
+    },
+    "Valais": {
+      "name": "Valais",
+      "cities": [
+        {
+          "cityname": "Sion",
+          "zipcodes": [
+            "1950",
+            "1951",
+            "1952",
+            "1953",
+            "1954"
+          ],
+          "areacodes": [
+            "027"
+          ]
+        },
+        {
+          "cityname": "Monthey",
+          "zipcodes": [
+            "1870",
+            "1871",
+            "1872",
+            "1873",
+            "1874"
+          ],
+          "areacodes": [
+            "024"
+          ]
+        },
+        {
+          "cityname": "Brigue",
+          "zipcodes": [
+            "3900",
+            "3901",
+            "3902",
+            "3903",
+            "3904"
+          ],
+          "areacodes": [
+            "027"
+          ]
+        },
+        {
+          "cityname": "Visp",
+          "zipcodes": [
+            "3930",
+            "3931",
+            "3932",
+            "3933",
+            "3934"
+          ],
+          "areacodes": [
+            "027"
+          ]
+        },
+        {
+          "cityname": "Martigny",
+          "zipcodes": [
+            "1920",
+            "1921",
+            "1922",
+            "1923",
+            "1924"
+          ],
+          "areacodes": [
+            "027"
+          ]
+        }
+      ]
+    },
+    "Basel-Stadt": {
+      "name": "Basel-Stadt",
+      "cities": [
+        {
+          "cityname": "Basel",
+          "zipcodes": [
+            "4000",
+            "4001",
+            "4002",
+            "4003",
+            "4004"
+          ],
+          "areacodes": [
+            "061"
+          ]
+        },
+        {
+          "cityname": "Riehen",
+          "zipcodes": [
+            "4125",
+            "4126",
+            "4127",
+            "4128",
+            "4129"
+          ],
+          "areacodes": [
+            "061"
+          ]
+        },
+        {
+          "cityname": "Bettingen",
+          "zipcodes": [
+            "4126",
+            "4127",
+            "4128",
+            "4129",
+            "4130"
+          ],
+          "areacodes": [
+            "061"
+          ]
+        },
+        {
+          "cityname": "Pratteln",
+          "zipcodes": [
+            "4133",
+            "4134",
+            "4135",
+            "4136",
+            "4137"
+          ],
+          "areacodes": [
+            "061"
+          ]
+        },
+        {
+          "cityname": "Liestal",
+          "zipcodes": [
+            "4410",
+            "4411",
+            "4412",
+            "4413",
+            "4414"
+          ],
+          "areacodes": [
+            "061"
+          ]
+        }
+      ]
+    },
+    "Schwyz": {
+      "name": "Schwyz",
+      "cities": [
+        {
+          "cityname": "Schwyz",
+          "zipcodes": [
+            "6430",
+            "6431",
+            "6432",
+            "6433",
+            "6434"
+          ],
+          "areacodes": [
+            "041"
+          ]
+        },
+        {
+          "cityname": "Einsiedeln",
+          "zipcodes": [
+            "8840",
+            "8841",
+            "8842",
+            "8843",
+            "8844"
+          ],
+          "areacodes": [
+            "055"
+          ]
+        },
+        {
+          "cityname": "Küssnacht",
+          "zipcodes": [
+            "6403",
+            "6404",
+            "6405",
+            "6406",
+            "6407"
+          ],
+          "areacodes": [
+            "041"
+          ]
+        },
+        {
+          "cityname": "Lachen",
+          "zipcodes": [
+            "8853",
+            "8854",
+            "8855",
+            "8856",
+            "8857"
+          ],
+          "areacodes": [
+            "055"
+          ]
+        },
+        {
+          "cityname": "Brunnen",
+          "zipcodes": [
+            "6440",
+            "6441",
+            "6442",
+            "6443",
+            "6444"
+          ],
+          "areacodes": [
+            "041"
+          ]
+        }
+      ]
+    },
+    "Appenzell Ausserrhoden": {
+      "name": "Appenzell Ausserrhoden",
+      "cities": [
+        {
+          "cityname": "Herisau",
+          "zipcodes": [
+            "9100",
+            "9101",
+            "9102",
+            "9103",
+            "9104"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        },
+        {
+          "cityname": "Appenzell",
+          "zipcodes": [
+            "9050",
+            "9051",
+            "9052",
+            "9053",
+            "9054"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        },
+        {
+          "cityname": "Teufen",
+          "zipcodes": [
+            "9053",
+            "9054",
+            "9055",
+            "9056",
+            "9057"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        },
+        {
+          "cityname": "Trogen",
+          "zipcodes": [
+            "9043",
+            "9044",
+            "9045",
+            "9046",
+            "9047"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        },
+        {
+          "cityname": "Ebenalp",
+          "zipcodes": [
+            "9057",
+            "9058",
+            "9059",
+            "9060",
+            "9061"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        }
+      ]
+    },
+    "Appenzell Innerrhoden": {
+      "name": "Appenzell Innerrhoden",
+      "cities": [
+        {
+          "cityname": "Appenzell",
+          "zipcodes": [
+            "9050",
+            "9051",
+            "9052",
+            "9053",
+            "9054"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        },
+        {
+          "cityname": "Schwende",
+          "zipcodes": [
+            "9050",
+            "9051",
+            "9052",
+            "9053",
+            "9054"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        },
+        {
+          "cityname": "Rüte",
+          "zipcodes": [
+            "9052",
+            "9053",
+            "9054",
+            "9055",
+            "9056"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        },
+        {
+          "cityname": "Gonten",
+          "zipcodes": [
+            "9053",
+            "9054",
+            "9055",
+            "9056",
+            "9057"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        },
+        {
+          "cityname": "Jakobsbad",
+          "zipcodes": [
+            "9054",
+            "9055",
+            "9056",
+            "9057",
+            "9058"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        }
+      ]
+    },
+    "Zug": {
+      "name": "Zug",
+      "cities": [
+        {
+          "cityname": "Zug",
+          "zipcodes": [
+            "6300",
+            "6301",
+            "6302",
+            "6303",
+            "6304"
+          ],
+          "areacodes": [
+            "041"
+          ]
+        },
+        {
+          "cityname": "Cham",
+          "zipcodes": [
+            "6330",
+            "6331",
+            "6332",
+            "6333",
+            "6334"
+          ],
+          "areacodes": [
+            "041"
+          ]
+        },
+        {
+          "cityname": "Steinhausen",
+          "zipcodes": [
+            "6312",
+            "6313",
+            "6314",
+            "6315",
+            "6316"
+          ],
+          "areacodes": [
+            "041"
+          ]
+        },
+        {
+          "cityname": "Menzingen",
+          "zipcodes": [
+            "6313",
+            "6314",
+            "6315",
+            "6316",
+            "6317"
+          ],
+          "areacodes": [
+            "041"
+          ]
+        },
+        {
+          "cityname": "Baar",
+          "zipcodes": [
+            "6340",
+            "6341",
+            "6342",
+            "6343",
+            "6344"
+          ],
+          "areacodes": [
+            "041"
+          ]
+        }
+      ]
+    },
+    "Neuchâtel": {
+      "name": "Neuchâtel",
+      "cities": [
+        {
+          "cityname": "Neuchâtel",
+          "zipcodes": [
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004"
+          ],
+          "areacodes": [
+            "032"
+          ]
+        },
+        {
+          "cityname": "La Chaux-de-Fonds",
+          "zipcodes": [
+            "2300",
+            "2301",
+            "2302",
+            "2303",
+            "2304"
+          ],
+          "areacodes": [
+            "032"
+          ]
+        },
+        {
+          "cityname": "Le Locle",
+          "zipcodes": [
+            "2400",
+            "2401",
+            "2402",
+            "2403",
+            "2404"
+          ],
+          "areacodes": [
+            "032"
+          ]
+        },
+        {
+          "cityname": "Biel/Bienne",
+          "zipcodes": [
+            "2500",
+            "2501",
+            "2502",
+            "2503",
+            "2504"
+          ],
+          "areacodes": [
+            "032"
+          ]
+        },
+        {
+          "cityname": "Cernier",
+          "zipcodes": [
+            "2034",
+            "2035",
+            "2036",
+            "2037",
+            "2038"
+          ],
+          "areacodes": [
+            "032"
+          ]
+        }
+      ]
+    },
+    "Uri": {
+      "name": "Uri",
+      "cities": [
+        {
+          "cityname": "Altdorf",
+          "zipcodes": [
+            "6460",
+            "6461",
+            "6462",
+            "6463",
+            "6464"
+          ],
+          "areacodes": [
+            "041"
+          ]
+        },
+        {
+          "cityname": "Andermatt",
+          "zipcodes": [
+            "6490",
+            "6491",
+            "6492",
+            "6493",
+            "6494"
+          ],
+          "areacodes": [
+            "041"
+          ]
+        },
+        {
+          "cityname": "Schattdorf",
+          "zipcodes": [
+            "6467",
+            "6468",
+            "6469",
+            "6470",
+            "6471"
+          ],
+          "areacodes": [
+            "041"
+          ]
+        },
+        {
+          "cityname": "Attinghausen",
+          "zipcodes": [
+            "6462",
+            "6463",
+            "6464",
+            "6465",
+            "6466"
+          ],
+          "areacodes": [
+            "041"
+          ]
+        },
+        {
+          "cityname": "Flüelen",
+          "zipcodes": [
+            "6454",
+            "6455",
+            "6456",
+            "6457",
+            "6458"
+          ],
+          "areacodes": [
+            "041"
+          ]
+        }
+      ]
+    }
+  },
+  "citycontainers": [
+    "regions"
+  ],
+  "firstnames": [
+    "Luca",
+    "Noah",
+    "Liam",
+    "Matteo",
+    "Leon",
+    "Elias",
+    "Julian",
+    "Gabriel",
+    "David",
+    "Samuel",
+    "Raphael",
+    "Jonas",
+    "Nico",
+    "Benjamin",
+    "Felix",
+    "Simon",
+    "Maxim",
+    "Tim",
+    "Tobias",
+    "Finn",
+    "Jan",
+    "Marc",
+    "Robin",
+    "Andrin",
+    "Florian",
+    "Fabian",
+    "Dario",
+    "Alexander",
+    "Bastian",
+    "Dominic",
+    "Leandro",
+    "Adrian",
+    "Mauro",
+    "Cedric",
+    "Silvan",
+    "Sandro",
+    "Rafael",
+    "Lorenz",
+    "Joel",
+    "Damian",
+    "Yannick",
+    "Kevin",
+    "Aaron",
+    "Fabio",
+    "Mario",
+    "Nils",
+    "Patrick",
+    "Roman",
+    "Stefan",
+    "Valentin"
+  ],
+  "lastnames": [
+    "Müller",
+    "Meier",
+    "Schmid",
+    "Keller",
+    "Weber",
+    "Huber",
+    "Schneider",
+    "Fischer",
+    "Zimmermann",
+    "Brunner",
+    "Baumann",
+    "Gerber",
+    "Hofer",
+    "Roth",
+    "Zürcher",
+    "Bachmann",
+    "Gasser",
+    "Lüscher",
+    "Steiner",
+    "Lang",
+    "Wüthrich",
+    "Baumgartner",
+    "Stadelmann",
+    "Maurer",
+    "Bühler",
+    "Burkhard",
+    "Dubois",
+    "Jost",
+    "Kunz",
+    "Frei",
+    "Vogel",
+    "Benz",
+    "Blum",
+    "Egger",
+    "Fankhauser",
+    "Guggenbühl",
+    "Hauser",
+    "Hofmann",
+    "Kälin",
+    "Lehmann",
+    "Marti",
+    "Moser",
+    "Niederhauser",
+    "Schwarz",
+    "Sieber",
+    "Tanner",
+    "Vogt",
+    "Walser",
+    "Zbinden",
+    "Zwahlen"
+  ]
 }

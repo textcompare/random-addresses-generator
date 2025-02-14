@@ -3116,5 +3116,20 @@
     },
     "citycontainers": [
         "regions"
-    ]
+    ],
+    "firstnames": [
+  "Giannis", "Nikos", "Dimitris", "Yannis", "Vasilis", "Giorgos", "Panagiotis", "Kostas", "Alexandros", "Michalis",
+  "Andreas", "Christos", "Nikolaos", "Spyridon", "Theodoros", "Evangelos", "Stavros", "Antonios", "Filippos", "Sotirios",
+  "Ilias", "Anastasios", "Manolis", "Efstathios", "Aristides", "Petros", "Markos", "Marios", "Vaggelis", "Kyrillos",
+  "Leonidas", "Kiriakos", "Achilleas", "Simeon", "Konstantinos", "Dimitra", "Maria", "Eleni", "Katerina", "Sophia",
+  "Nefeli", "Paraskevi"
+],
+"lastnames": [
+  "Papadopoulos", "Nikolaidis", "Georgiou", "Katsaros", "Papageorgiou", "Papanikolaou", "Margaritis", "Vassilakis", "Zervas", "Ioannidis",
+  "Kouros", "Tsoukalas", "Christodoulou", "Antonopoulos", "Kouvelas", "Panagiotopoulos", "Sotiriou", "Sideris", "Petrakis", "Tsiolis",
+  "Andreadis", "Kyriakidis", "Karagiannis", "Kokkinos", "Lazaridis", "Mavridis", "Karalis", "Dimitriadis", "Bakalakis", "Theodoridis",
+  "Stamatopoulos", "Markopoulos", "Xenakis", "Giannakopoulos", "Christakis", "Zafeiriou", "Katsoulis", "Papavasiliou", "Papadakis", "Kiriakidis",
+  "Savvas"
+]
+
 }

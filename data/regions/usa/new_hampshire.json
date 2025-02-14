@@ -1,0 +1,189 @@
+{
+    "name": "New Hampshire",
+    "capital": "Concord",
+    "cities": [
+        {
+            "cityname": "Berlin",
+            "zipcodes": [
+                "03570"
+            ],
+            "areacodes": [
+                "603"
+            ]
+        },
+        {
+            "cityname": "Claremont",
+            "zipcodes": [
+                "03743"
+            ],
+            "areacodes": [
+                "603"
+            ]
+        },
+        {
+            "cityname": "Concord",
+            "zipcodes": [
+                "03301",
+                "03302"
+            ],
+            "areacodes": [
+                "603"
+            ]
+        },
+        {
+            "cityname": "Derry",
+            "zipcodes": [
+                "03038"
+            ],
+            "areacodes": [
+                "603"
+            ]
+        },
+        {
+            "cityname": "Dover",
+            "zipcodes": [
+                "03820",
+                "03821"
+            ],
+            "areacodes": [
+                "603"
+            ]
+        },
+        {
+            "cityname": "Franklin",
+            "zipcodes": [
+                "03235"
+            ],
+            "areacodes": [
+                "603"
+            ]
+        },
+        {
+            "cityname": "Keene",
+            "zipcodes": [
+                "03431"
+            ],
+            "areacodes": [
+                "603"
+            ]
+        },
+        {
+            "cityname": "Laconia",
+            "zipcodes": [
+            "03246"
+            ],
+            "areacodes": [
+            "603"
+            ]
+        },
+        {
+            "cityname": "Lebanon",
+            "zipcodes": [
+            "03766"
+            ],
+            "areacodes": [
+            "603"
+            ]
+        },
+        {
+            "cityname": "Londonderry",
+            "zipcodes": [
+            "03053"
+            ],
+            "areacodes": [
+            "603"
+            ]
+        },
+        {
+            "cityname": "Manchester",
+            "zipcodes": [
+            "03101",
+            "03102",
+            "03103",
+            "03104",
+            "03109"
+            ],
+            "areacodes": [
+            "603"
+            ]
+        },
+        {
+            "cityname": "Merrimack",
+            "zipcodes": [
+            "03054"
+            ],
+            "areacodes": [
+            "603"
+            ]
+        },
+        {
+            "cityname": "Nashua",
+            "zipcodes": [
+            "03060",
+            "03062",
+            "03063",
+            "03064"
+            ],
+            "areacodes": [
+            "603"
+            ]
+        },
+        {
+            "cityname": "Pelham",
+            "zipcodes": [
+            "03076"
+            ],
+            "areacodes": [
+            "603"
+            ]
+        },
+        {
+            "cityname": "Portsmouth",
+            "zipcodes": [
+            "03801",
+            "03802"
+            ],
+            "areacodes": [
+            "603"
+            ]
+        },
+        {
+            "cityname": "Rochester",
+            "zipcodes": [
+            "03839",
+            "03867",
+            "03868"
+            ],
+            "areacodes": [
+            "603"
+            ]
+        },
+        {
+            "cityname": "Salem",
+            "zipcodes": [
+            "03079"
+            ],
+            "areacodes": [
+            "603"
+            ]
+        },
+        {
+            "cityname": "Somersworth",
+            "zipcodes": [
+            "03878"
+            ],
+            "areacodes": [
+            "603"
+            ]
+        },
+        {
+            "cityname": "Windham",
+            "zipcodes": [
+            "03087"
+            ],
+            "areacodes": [
+            "603"
+            ]
+        }
+    ]
+}

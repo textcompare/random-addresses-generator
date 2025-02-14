@@ -1,0 +1,894 @@
+{
+    "name": "Arizona",
+    "capital": "Phoenix",
+    "cities": [
+        {
+            "cityname": "Apache Junction",
+            "zipcodes": [
+                "85119",
+                "85120"
+            ],
+            "areacodes": [
+                "480"
+            ]
+        },
+        {
+            "cityname": "Avondale",
+            "zipcodes": [
+                "85323",
+                "85392"
+            ],
+            "areacodes": [
+                "623"
+            ]
+        },
+        {
+            "cityname": "Benson",
+            "zipcodes": [
+                "85602"
+            ],
+            "areacodes": [
+                "520"
+            ]
+        },
+        {
+            "cityname": "Bisbee",
+            "zipcodes": [
+                "85603"
+            ],
+            "areacodes": [
+                "520"
+            ]
+        },
+        {
+            "cityname": "Buckeye",
+            "zipcodes": [
+                "85326",
+                "85396"
+            ],
+            "areacodes": [
+                "623"
+            ]
+        },
+        {
+            "cityname": "Bullhead City",
+            "zipcodes": [
+                "86429",
+                "86442"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Camp Verde",
+            "zipcodes": [
+                "86322"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Casa Grande",
+            "zipcodes": [
+                "85122",
+                "85130",
+                "85193",
+                "85194"
+            ],
+            "areacodes": [
+                "520"
+            ]
+        },
+        {
+            "cityname": "Cave Creek",
+            "zipcodes": [
+                "85327",
+                "85331"
+            ],
+            "areacodes": [
+                "480"
+            ]
+        },
+        {
+            "cityname": "Chandler",
+            "zipcodes": [
+                "85224",
+                "85225",
+                "85226",
+                "85248",
+                "85249",
+                "85286"
+            ],
+            "areacodes": [
+                "480"
+            ]
+        },
+        {
+            "cityname": "Chino Valley",
+            "zipcodes": [
+                "86323"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Clarkdale",
+            "zipcodes": [
+                "86324"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Clifton",
+            "zipcodes": [
+                "85533"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Colorado City",
+            "zipcodes": [
+                "86021"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Coolidge",
+            "zipcodes": [
+                "85128"
+            ],
+            "areacodes": [
+                "520"
+            ]
+        },
+        {
+            "cityname": "Cottonwood",
+            "zipcodes": [
+                "86326"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Douglas",
+            "zipcodes": [
+                "85607",
+                "85608",
+                "85655"
+            ],
+            "areacodes": [
+                "520"
+            ]
+        },
+        {
+            "cityname": "Eagar",
+            "zipcodes": [
+                "85925"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "El Mirage",
+            "zipcodes": [
+                "85335"
+            ],
+            "areacodes": [
+                "623"
+            ]
+        },
+        {
+            "cityname": "Eloy",
+            "zipcodes": [
+                "85131"
+            ],
+            "areacodes": [
+                "520"
+            ]
+        },
+        {
+            "cityname": "Flagstaff",
+            "zipcodes": [
+                "86001",
+                "86004",
+                "86011"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Florence",
+            "zipcodes": [
+                "85132"
+            ],
+            "areacodes": [
+                "520"
+            ]
+        },
+        {
+            "cityname": "Fountain Hills",
+            "zipcodes": [
+                "85268",
+                "85269"
+            ],
+            "areacodes": [
+                "480"
+            ]
+        },
+        {
+            "cityname": "Fredonia",
+            "zipcodes": [
+                "86022"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Gila Bend",
+            "zipcodes": [
+                "85337"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Gilbert",
+            "zipcodes": [
+                "85233",
+                "85234",
+                "85295",
+                "85296",
+                "85297",
+                "85298",
+                "85299"
+            ],
+            "areacodes": [
+                "480"
+            ]
+        },
+        {
+            "cityname": "Glendale",
+            "zipcodes": [
+                "85301",
+                "85302",
+                "85303",
+                "85304",
+                "85305",
+                "85306",
+                "85307",
+                "85308",
+                "85310"
+            ],
+            "areacodes": [
+                "623"
+            ]
+        },
+        {
+            "cityname": "Globe",
+            "zipcodes": [
+                "85501",
+                "85502"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Goodyear",
+            "zipcodes": [
+                "85338",
+                "85395"
+            ],
+            "areacodes": [
+                "623"
+            ]
+        },
+        {
+            "cityname": "Green Valley",
+            "zipcodes": [
+                "85614",
+                "85622"
+            ],
+            "areacodes": [
+                "520"
+            ]
+        },
+        {
+            "cityname": "Holbrook",
+            "zipcodes": [
+                "86025"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Kingman",
+            "zipcodes": [
+                "86401",
+                "86409"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Lake Havasu City",
+            "zipcodes": [
+                "86403",
+                "86404",
+                "86406"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Litchfield Park",
+            "zipcodes": [
+                "85340"
+            ],
+            "areacodes": [
+                "623"
+            ]
+        },
+        {
+            "cityname": "Marana",
+            "zipcodes": [
+                "85653",
+                "85658"
+            ],
+            "areacodes": [
+                "520"
+            ]
+        },
+        {
+            "cityname": "Maricopa",
+            "zipcodes": [
+                "85138",
+                "85139"
+            ],
+            "areacodes": [
+                "520"
+            ]
+        },
+        {
+            "cityname": "Mesa",
+            "zipcodes": [
+                "85201",
+                "85202",
+                "85203",
+                "85204",
+                "85205",
+                "85206",
+                "85207",
+                "85208",
+                "85209",
+                "85210",
+                "85212",
+                "85213",
+                "85215"
+            ],
+            "areacodes": [
+                "480"
+            ]
+        },
+        {
+            "cityname": "Nogales",
+            "zipcodes": [
+                "85621",
+                "85628",
+                "85662"
+            ],
+            "areacodes": [
+                "520"
+            ]
+        },
+        {
+            "cityname": "Oro Valley",
+            "zipcodes": [
+                "85704",
+                "85737",
+                "85742",
+                "85755"
+            ],
+            "areacodes": [
+                "520"
+            ]
+        },
+        {
+            "cityname": "Page",
+            "zipcodes": [
+                "86040"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Paradise Valley",
+            "zipcodes": [
+                "85253"
+            ],
+            "areacodes": [
+                "480"
+            ]
+        },
+        {
+            "cityname": "Parker",
+            "zipcodes": [
+                "85344"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Patagonia",
+            "zipcodes": [
+                "85624"
+            ],
+            "areacodes": [
+                "520"
+            ]
+        },
+        {
+            "cityname": "Payson",
+            "zipcodes": [
+                "85541",
+                "85547"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Peoria",
+            "zipcodes": [
+                "85345",
+                "85381",
+                "85382",
+                "85383",
+                "85385"
+            ],
+            "areacodes": [
+                "623"
+            ]
+        },
+        {
+            "cityname": "Phoenix",
+            "zipcodes": [
+                "85001",
+                "85002",
+                "85003",
+                "85004",
+                "85006",
+                "85007",
+                "85008",
+                "85009",
+                "85012",
+                "85013",
+                "85014",
+                "85015",
+                "85016",
+                "85017",
+                "85018",
+                "85019",
+                "85020",
+                "85021",
+                "85022",
+                "85023",
+                "85024",
+                "85027",
+                "85028",
+                "85029",
+                "85031",
+                "85032",
+                "85033",
+                "85034",
+                "85035",
+                "85037",
+                "85040",
+                "85041",
+                "85042",
+                "85043",
+                "85044",
+                "85045",
+                "85048",
+                "85050",
+                "85051",
+                "85053",
+                "85054",
+                "85083",
+                "85085",
+                "85086",
+                "85087"
+            ],
+            "areacodes": [
+                "602",
+                "480",
+                "623"
+            ]
+        },
+        {
+            "cityname": "Pima",
+            "zipcodes": [
+                "85543"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Pine",
+            "zipcodes": [
+                "85544"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Prescott",
+            "zipcodes": [
+                "86301",
+                "86303",
+                "86305"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Prescott Valley",
+            "zipcodes": [
+                "86314",
+                "86315"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Quartzsite",
+            "zipcodes": [
+                "85346",
+                "85359"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Queen Creek",
+            "zipcodes": [
+                "85142",
+                "85143"
+            ],
+            "areacodes": [
+                "480"
+            ]
+        },
+        {
+            "cityname": "Safford",
+            "zipcodes": [
+                "85546",
+                "85548"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "San Luis",
+            "zipcodes": [
+                "85349"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Scottsdale",
+            "zipcodes": [
+                "85250",
+                "85251",
+                "85254",
+                "85255",
+                "85257",
+                "85258",
+                "85259",
+                "85260",
+                "85262",
+                "85266",
+                "85267",
+                "85268",
+                "85271"
+            ],
+            "areacodes": [
+                "480"
+            ]
+        },
+        {
+            "cityname": "Sedona",
+            "zipcodes": [
+                "86336",
+                "86339",
+                "86340",
+                "86341",
+                "86351"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Show Low",
+            "zipcodes": [
+                "85901",
+                "85902"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Sierra Vista",
+            "zipcodes": [
+                "85613",
+                "85635",
+                "85636",
+                "85650",
+                "85671"
+            ],
+            "areacodes": [
+                "520"
+            ]
+        },
+        {
+            "cityname": "Snowflake",
+            "zipcodes": [
+                "85937"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Somerton",
+            "zipcodes": [
+                "85350"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Springerville",
+            "zipcodes": [
+                "85938"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "St. Johns",
+            "zipcodes": [
+                "85936"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Superior",
+            "zipcodes": [
+                "85173"
+            ],
+            "areacodes": [
+                "520"
+            ]
+        },
+        {
+            "cityname": "Surprise",
+            "zipcodes": [
+                "85374",
+                "85378",
+                "85379",
+                "85387",
+                "85388"
+            ],
+            "areacodes": [
+                "623"
+            ]
+        },
+        {
+            "cityname": "Tempe",
+            "zipcodes": [
+                "85280",
+                "85281",
+                "85282",
+                "85283",
+                "85284",
+                "85285",
+                "85287"
+            ],
+            "areacodes": [
+                "480"
+            ]
+        },
+        {
+            "cityname": "Tolleson",
+            "zipcodes": [
+                "85353"
+            ],
+            "areacodes": [
+                "623"
+            ]
+        },
+        {
+            "cityname": "Tombstone",
+            "zipcodes": [
+                "85638"
+            ],
+            "areacodes": [
+                "520"
+            ]
+        },
+        {
+            "cityname": "Tucson",
+            "zipcodes": [
+                "85701",
+                "85702",
+                "85703",
+                "85704",
+                "85705",
+                "85706",
+                "85707",
+                "85708",
+                "85709",
+                "85710",
+                "85711",
+                "85712",
+                "85713",
+                "85714",
+                "85715",
+                "85716",
+                "85717",
+                "85718",
+                "85719",
+                "85720",
+                "85721",
+                "85722",
+                "85723",
+                "85724",
+                "85725",
+                "85726",
+                "85728",
+                "85730",
+                "85731",
+                "85732",
+                "85733",
+                "85734",
+                "85735",
+                "85736",
+                "85737",
+                "85738",
+                "85739",
+                "85740",
+                "85741",
+                "85742",
+                "85743",
+                "85744",
+                "85745",
+                "85746",
+                "85747",
+                "85748",
+                "85749",
+                "85750",
+                "85751",
+                "85752",
+                "85754",
+                "85755",
+                "85756",
+                "85757"
+            ],
+            "areacodes": [
+                "520"
+            ]
+        },
+        {
+            "cityname": "Wellton",
+            "zipcodes": [
+                "85356"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Wickenburg",
+            "zipcodes": [
+                "85358",
+                "85390"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Willcox",
+            "zipcodes": [
+                "85643",
+                "85644"
+            ],
+            "areacodes": [
+                "520"
+            ]
+        },
+        {
+            "cityname": "Williams",
+            "zipcodes": [
+                "86046"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Winkelman",
+            "zipcodes": [
+                "85192"
+            ],
+            "areacodes": [
+                "520"
+            ]
+        },
+        {
+            "cityname": "Winslow",
+            "zipcodes": [
+                "86047"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        },
+        {
+            "cityname": "Youngtown",
+            "zipcodes": [
+                "85363"
+            ],
+            "areacodes": [
+                "623"
+            ]
+        },
+        {
+            "cityname": "Yuma",
+            "zipcodes": [
+                "85364",
+                "85365",
+                "85366",
+                "85367",
+                "85369"
+            ],
+            "areacodes": [
+                "928"
+            ]
+        }
+    ]
+}

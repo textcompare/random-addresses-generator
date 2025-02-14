@@ -1,0 +1,436 @@
+{
+    "name" : "Wyoming",
+    "capital": "Cheyenne",
+    "cities":[
+        {
+            "cityname" : "Cheyenne",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82001", "82002", "82003", "82006", "82007", "82008", "82009", "82010", "82070", "82071", "82072", "82073", "82083"]
+        },
+        {
+            "cityname" : "Afton",
+            "areacodes" : ["307"],
+            "zipcodes" : ["83110"]
+        },
+        {
+            "cityname" : "Alpine",
+            "areacodes" : ["307"],
+            "zipcodes" : ["83128"]
+        },
+        {
+            "cityname" : "Alta",
+            "areacodes" : ["307"],
+            "zipcodes" : ["83414"]
+        },
+        {
+            "cityname" : "Arapahoe",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82510"]
+        },
+        {
+            "cityname" : "Auburn",
+            "areacodes" : ["307"],
+            "zipcodes" : ["83111"]
+        },
+        {
+            "cityname" : "Baggs",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82321"]
+        },
+        {
+            "cityname" : "Basin",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82410"]
+        },
+        {
+            "cityname" : "Big Piney",
+            "areacodes" : ["307"],
+            "zipcodes" : ["83113"]
+        },
+        {
+            "cityname" : "Boulder",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82923"]
+        },
+        {
+            "cityname" : "Buffalo",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82834"]
+        },
+        {
+            "cityname" : "Burlington",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82411"]
+        },
+        {
+            "cityname" : "Burns",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82053"]
+        },
+        {
+            "cityname" : "Byron",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82412"]
+        },
+        {
+            "cityname" : "Casper",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82601", "82602", "82604", "82605", "82609"]
+        },
+        {
+            "cityname" : "Chugwater",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82210"]
+        },
+        {
+            "cityname" : "Cody",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82414"]
+        },
+        {
+            "cityname" : "Cokeville",
+            "areacodes" : ["307"],
+            "zipcodes" : ["83114"]
+        },
+        {
+            "cityname" : "Cowley",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82420"]
+        },
+        {
+            "cityname" : "Dayton",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82836"]
+        },
+        {
+            "cityname" : "Diamondville",
+            "areacodes" : ["307"],
+            "zipcodes" : ["83116"]
+        },
+        {
+            "cityname" : "Douglas",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82633"]
+        },
+        {
+            "cityname" : "Dubois",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82513"]
+        },
+        {
+            "cityname" : "Evanston",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82930", "82931"]
+        },
+        {
+            "cityname" : "Evansville",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82636"]
+        },
+        {
+            "cityname" : "Fairview",
+            "areacodes" : ["307"],
+            "zipcodes" : ["83119"]
+        },
+        {
+            "cityname" : "Farson",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82932"]
+        },
+        {
+            "cityname" : "Fort Bridger",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82933"]
+        },
+        {
+            "cityname" : "Fort Laramie",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82212"]
+        },
+        {
+            "cityname" : "Fort Washakie",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82514"]
+        },
+        {
+            "cityname" : "Frannie",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82423"]
+        },
+        {
+            "cityname" : "Gillette",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82716", "82717", "82718"]
+        },
+        {
+            "cityname" : "Glendo",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82213"]
+        },
+        {
+            "cityname" : "Glenrock",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82637"]
+        },
+        {
+            "cityname" : "Green River",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82935", "82938"]
+        },
+        {
+            "cityname" : "Greybull",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82426"]
+        },
+        {
+            "cityname" : "Guernsey",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82214"]
+        },
+        {
+            "cityname" : "Hanna",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82327"]
+        },
+        {
+            "cityname" : "Hudson",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82515"]
+        },
+        {
+            "cityname" : "Hulett",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82720"]
+        },
+        {
+            "cityname" : "Jackson",
+            "areacodes" : ["307"],
+            "zipcodes" : ["83001", "83002"]
+        },
+        {
+            "cityname" : "Kaycee",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82639"]
+        },
+        {
+            "cityname" : "Kemmerer",
+            "areacodes" : ["307"],
+            "zipcodes" : ["83101"]
+        },
+        {
+            "cityname" : "La Barge",
+            "areacodes" : ["307"],
+            "zipcodes" : ["83123"]
+        },
+        {
+            "cityname" : "Lagrange",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82221"]
+        },
+        {
+            "cityname" : "Lander",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82520"]
+        },
+        {
+            "cityname" : "Laramie",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82070", "82071", "82072", "82073"]
+        },
+        {
+            "cityname" : "Lingle",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82223"]
+        },
+        {
+            "cityname" : "Lovell",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82431"]
+        },
+        {
+            "cityname" : "Lusk",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82225"]
+        },
+        {
+            "cityname" : "Lyman",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82937"]
+        },
+        {
+            "cityname" : "Medicine Bow",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82329"]
+        },
+        {
+            "cityname" : "Meeteetse",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82433"]
+        },
+        {
+            "cityname" : "Midwest",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82643"]
+        },
+        {
+            "cityname" : "Mills",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82644"]
+        },
+        {
+            "cityname" : "Moorcroft",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82721"]
+        },
+        {
+            "cityname" : "Moose",
+            "areacodes" : ["307"],
+            "zipcodes" : ["83012"]
+        },
+        {
+            "cityname" : "Mountain View",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82939"]
+        },
+        {
+            "cityname" : "Newcastle",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82701"]
+        },
+        {
+            "cityname" : "Osage",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82723"]
+        },
+        {
+            "cityname" : "Pine Bluffs",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82082"]
+        },
+        {
+            "cityname" : "Pinedale",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82941"]
+        },
+        {
+            "cityname" : "Powell",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82435"]
+        },
+        {
+            "cityname" : "Ralston",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82440"]
+        },
+        {
+            "cityname" : "Ranchester",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82839"]
+        },
+        {
+            "cityname" : "Rawlins",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82301"]
+        },
+        {
+            "cityname" : "Reliance",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82943"]
+        },
+        {
+            "cityname" : "Riverton",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82501"]
+        },
+        {
+            "cityname" : "Rock River",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82083"]
+        },
+        {
+            "cityname" : "Rock Springs",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82901", "82902"]
+        },
+        {
+            "cityname" : "Saratoga",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82331"]
+        },
+        {
+            "cityname" : "Sheridan",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82801"]
+        },
+        {
+            "cityname" : "Shoshoni",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82649"]
+        },
+        {
+            "cityname" : "Sinclair",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82334"]
+        },
+        {
+            "cityname" : "Story",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82842"]
+        },
+        {
+            "cityname" : "Sundance",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82729"]
+        },
+        {
+            "cityname" : "Superior",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82945"]
+        },
+        {
+            "cityname" : "Ten Sleep",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82442"]
+        },
+        {
+            "cityname" : "Thayne",
+            "areacodes" : ["307"],
+            "zipcodes" : ["83127"]
+        },
+        {
+            "cityname" : "Thermopolis",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82443"]
+        },
+        {
+            "cityname" : "Torrington",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82240"]
+        },
+        {
+            "cityname" : "Upton",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82730"]
+        },
+        {
+            "cityname" : "Wamsutter",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82336"]
+        },
+        {
+            "cityname" : "Wheatland",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82201"]
+        },
+        {
+            "cityname" : "Wilson",
+            "areacodes" : ["307"],
+            "zipcodes" : ["83014"]
+        },
+        {
+            "cityname" : "Worland",
+            "areacodes" : ["307"],
+            "zipcodes" : ["82401"]
+        }
+    ]
+}

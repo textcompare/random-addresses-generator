@@ -1,0 +1,951 @@
+{
+    "name": "Vermont",
+    "capital" : "Montpelier",
+    "cities" : [
+        {
+            "cityname" : "Burlington",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05401", "05402", "05405", "05406", "05408"]
+        },
+        {
+            "cityname" : "Albany",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05820"]
+        },
+        {
+            "cityname" : "Alburg",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05440"]
+        },
+        {
+            "cityname" : "Arlington",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05250"]
+        },
+        {
+            "cityname" : "Bakersfield",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05441"]
+        },
+        {
+            "cityname" : "Barnard",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05031"]
+        },
+        {
+            "cityname" : "Barnet",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05821"]
+        },
+        {
+            "cityname" : "Barre",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05641"]
+        },
+        {
+            "cityname" : "Barton",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05822"]
+        },
+        {
+            "cityname" : "Bellows Falls",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05101"]
+        },
+        {
+            "cityname" : "Belvidere Center",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05442"]
+        },
+        {
+            "cityname" : "Bennington",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05201"]
+        },
+        {
+            "cityname" : "Benson",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05731"]
+        },
+        {
+            "cityname" : "Bethel",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05032"]
+        },
+        {
+            "cityname" : "Bradford",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05033"]
+        },
+        {
+            "cityname" : "Brandon",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05733"]
+        },
+        {
+            "cityname" : "Brattleboro",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05301"]
+        },
+        {
+            "cityname" : "Bridgewater",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05034"]
+        },
+        {
+            "cityname" : "Bridport",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05734"]
+        },
+        {
+            "cityname" : "Bristol",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05443"]
+        },
+        {
+            "cityname" : "Brookfield",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05036"]
+        },
+        {
+            "cityname" : "Cabot",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05647"]
+        },
+        {
+            "cityname" : "Calais",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05648"]
+        },
+        {
+            "cityname" : "Cambridge",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05444"]
+        },
+        {
+            "cityname" : "Canaan",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05903"]
+        },
+        {
+            "cityname" : "Castleton",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05735"]
+        },
+        {
+            "cityname" : "Cavendish",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05142"]
+        },
+        {
+            "cityname" : "Charlotte",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05445"]
+        },
+        {
+            "cityname" : "Chelsea",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05038"]
+        },
+        {
+            "cityname" : "Chester Depot",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05144"]
+        },
+        {
+            "cityname" : "Chester",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05143"]
+        },
+        {
+            "cityname" : "Chittenden",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05737"]
+        },
+        {
+            "cityname" : "Colchester",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05446"]
+        },
+        {
+            "cityname" : "Concord",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05824"]
+        },
+        {
+            "cityname" : "Corinth",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05039"]
+        },
+        {
+            "cityname" : "Coventry",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05825"]
+        },
+        {
+            "cityname" : "Craftsbury",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05826"]
+        },
+        {
+            "cityname" : "Danby",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05739"]
+        },
+        {
+            "cityname" : "Danville",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05828"]
+        },
+        {
+            "cityname" : "Derby Line",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05830"]
+        },
+        {
+            "cityname" : "Derby",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05829"]
+        },
+        {
+            "cityname" : "Dorset",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05251"]
+        },
+        {
+            "cityname" : "East Haven",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05837"]
+        },
+        {
+            "cityname" : "East Montpelier",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05651"]
+        },
+        {
+            "cityname" : "Eden",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05652"]
+        },
+        {
+            "cityname" : "Enosburg Falls",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05450"]
+        },
+        {
+            "cityname" : "Essex Junction",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05452"]
+        },
+        {
+            "cityname" : "Essex",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05451"]
+        },
+        {
+            "cityname" : "Fair Haven",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05743"]
+        },
+        {
+            "cityname" : "Fairfax",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05454"]
+        },
+        {
+            "cityname" : "Fairfield",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05455"]
+        },
+        {
+            "cityname" : "Fairlee",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05045"]
+        },
+        {
+            "cityname" : "Ferrisburg",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05456"]
+        },
+        {
+            "cityname" : "Franklin",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05457"]
+        },
+        {
+            "cityname" : "Glover",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05839"]
+        },
+        {
+            "cityname" : "Grafton",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05146"]
+        },
+        {
+            "cityname" : "Grand Isle",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05458"]
+        },
+        {
+            "cityname" : "Graniteville",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05654"]
+        },
+        {
+            "cityname" : "Granville",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05747"]
+        },
+        {
+            "cityname" : "Greensboro",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05841"]
+        },
+        {
+            "cityname" : "Groton",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05046"]
+        },
+        {
+            "cityname" : "Guildhall",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05905"]
+        },
+        {
+            "cityname" : "Hancock",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05748"]
+        },
+        {
+            "cityname" : "Hardwick",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05843"]
+        },
+        {
+            "cityname" : "Hartford",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05047"]
+        },
+        {
+            "cityname" : "Hartland",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05048"]
+        },
+        {
+            "cityname" : "Highgate Center",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05459"]
+        },
+        {
+            "cityname" : "Hinesburg",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05461"]
+        },
+        {
+            "cityname" : "Huntington",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05462"]
+        },
+        {
+            "cityname" : "Hyde Park",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05655"]
+        },
+        {
+            "cityname" : "Irasburg",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05845"]
+        },
+        {
+            "cityname" : "Island Pond",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05846"]
+        },
+        {
+            "cityname" : "Isle La Motte",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05463"]
+        },
+        {
+            "cityname" : "Jacksonville",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05342"]
+        },
+        {
+            "cityname" : "Jamaica",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05343"]
+        },
+        {
+            "cityname" : "Jeffersonville",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05464"]
+        },
+        {
+            "cityname" : "Jericho",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05465"]
+        },
+        {
+            "cityname" : "Johnson",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05656"]
+        },
+        {
+            "cityname" : "Killington",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05751"]
+        },
+        {
+            "cityname" : "Londonderry",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05148"]
+        },
+        {
+            "cityname" : "Lowell",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05847"]
+        },
+        {
+            "cityname" : "Ludlow",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05149"]
+        },
+        {
+            "cityname" : "Lunenburg",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05906"]
+        },
+        {
+            "cityname" : "Lyndon",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05849"]
+        },
+        {
+            "cityname" : "Lyndonville",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05851"]
+        },
+        {
+            "cityname" : "Manchester Center",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05255"]
+        },
+        {
+            "cityname" : "Manchester",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05254"]
+        },
+        {
+            "cityname" : "Marlboro",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05344"]
+        },
+        {
+            "cityname" : "Marshfield",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05658"]
+        },
+        {
+            "cityname" : "Middlebury",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05753"]
+        },
+        {
+            "cityname" : "Middletown Springs",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05757"]
+        },
+        {
+            "cityname" : "Milton",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05468"]
+        },
+        {
+            "cityname" : "Monkton",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05469"]
+        },
+        {
+            "cityname" : "Montgomery",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05470"]
+        },
+        {
+            "cityname" : "Montpelier",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05602"]
+        },
+        {
+            "cityname" : "Moretown",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05660"]
+        },
+        {
+            "cityname" : "Morgan",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05853"]
+        },
+        {
+            "cityname" : "Morrisville",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05661"]
+        },
+        {
+            "cityname" : "Mount Holly",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05758"]
+        },
+        {
+            "cityname" : "New Haven",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05472"]
+        },
+        {
+            "cityname" : "Newbury",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05051"]
+        },
+        {
+            "cityname" : "Newfane",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05345"]
+        },
+        {
+            "cityname" : "Newport",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05855"]
+        },
+        {
+            "cityname" : "North Bennington",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05257"]
+        },
+        {
+            "cityname" : "North Hero",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05474"]
+        },
+        {
+            "cityname" : "North Troy",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05859"]
+        },
+        {
+            "cityname" : "Northfield",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05663"]
+        },
+        {
+            "cityname" : "Norton",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05907"]
+        },
+        {
+            "cityname" : "Norwich",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05055"]
+        },
+        {
+            "cityname" : "Orleans",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05860"]
+        },
+        {
+            "cityname" : "Orwell",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05760"]
+        },
+        {
+            "cityname" : "Pawlet",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05761"]
+        },
+        {
+            "cityname" : "Peacham",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05862"]
+        },
+        {
+            "cityname" : "Peru",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05152"]
+        },
+        {
+            "cityname" : "Pittsfield",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05762"]
+        },
+        {
+            "cityname" : "Pittsford",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05763"]
+        },
+        {
+            "cityname" : "Plainfield",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05667"]
+        },
+        {
+            "cityname" : "Plymouth",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05056"]
+        },
+        {
+            "cityname" : "Poultney",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05764"]
+        },
+        {
+            "cityname" : "Pownal",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05261"]
+        },
+        {
+            "cityname" : "Proctor",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05765"]
+        },
+        {
+            "cityname" : "Putney",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05346"]
+        },
+        {
+            "cityname" : "Randolph",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05060"]
+        },
+        {
+            "cityname" : "Reading",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05062"]
+        },
+        {
+            "cityname" : "Readsboro",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05350"]
+        },
+        {
+            "cityname" : "Richford",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05476"]
+        },
+        {
+            "cityname" : "Richmond",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05477"]
+        },
+        {
+            "cityname" : "Ripton",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05766"]
+        },
+        {
+            "cityname" : "Rochester",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05767"]
+        },
+        {
+            "cityname" : "Roxbury",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05669"]
+        },
+        {
+            "cityname" : "Rupert",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05768"]
+        },
+        {
+            "cityname" : "Rutland",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05701"]
+        },
+        {
+            "cityname" : "Saint Albans",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05478"]
+        },
+        {
+            "cityname" : "Saint Johnsbury",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05819"]
+        },
+        {
+            "cityname" : "Salisbury",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05769"]
+        },
+        {
+            "cityname" : "Saxtons River",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05154"]
+        },
+        {
+            "cityname" : "Shaftsbury",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05262"]
+        },
+        {
+            "cityname" : "Sharon",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05065"]
+        },
+        {
+            "cityname" : "Sheffield",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05866"]
+        },
+        {
+            "cityname" : "Shelburne",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05482"]
+        },
+        {
+            "cityname" : "Sheldon",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05483"]
+        },
+        {
+            "cityname" : "Shoreham",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05770"]
+        },
+        {
+            "cityname" : "South Barre",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05670"]
+        },
+        {
+            "cityname" : "South Burlington",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05403"]
+        },
+        {
+            "cityname" : "South Hero",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05486"]
+        },
+        {
+            "cityname" : "Springfield",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05156"]
+        },
+        {
+            "cityname" : "Stamford",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05352"]
+        },
+        {
+            "cityname" : "Starksboro",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05487"]
+        },
+        {
+            "cityname" : "Stockbridge",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05772"]
+        },
+        {
+            "cityname" : "Stowe",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05672"]
+        },
+        {
+            "cityname" : "Strafford",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05072"]
+        },
+        {
+            "cityname" : "Sutton",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05867"]
+        },
+        {
+            "cityname" : "Swanton",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05488"]
+        },
+        {
+            "cityname" : "Thetford",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05074"]
+        },
+        {
+            "cityname" : "Topsham",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05076"]
+        },
+        {
+            "cityname" : "Townshend",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05353"]
+        },
+        {
+            "cityname" : "Troy",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05868"]
+        },
+        {
+            "cityname" : "Tunbridge",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05077"]
+        },
+        {
+            "cityname" : "Underhill",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05489"]
+        },
+        {
+            "cityname" : "Vergennes",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05491"]
+        },
+        {
+            "cityname" : "Vernon",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05354"]
+        },
+        {
+            "cityname" : "Vershire",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05079"]
+        },
+        {
+            "cityname" : "Waitsfield",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05673"]
+        },
+        {
+            "cityname" : "Wallingford",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05773"]
+        },
+        {
+            "cityname" : "Wardsboro",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05355"]
+        },
+        {
+            "cityname" : "Warren",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05674"]
+        },
+        {
+            "cityname" : "Washington",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05675"]
+        },
+        {
+            "cityname" : "Waterbury",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05676"]
+        },
+        {
+            "cityname" : "Waterville",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05492"]
+        },
+        {
+            "cityname" : "Wells River",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05081"]
+        },
+        {
+            "cityname" : "Wells",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05774"]
+        },
+        {
+            "cityname" : "West Burke",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05871"]
+        },
+        {
+            "cityname" : "West Fairlee",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05083"]
+        },
+        {
+            "cityname" : "West Rutland",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05777"]
+        },
+        {
+            "cityname" : "Westfield",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05874"]
+        },
+        {
+            "cityname" : "Westford",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05494"]
+        },
+        {
+            "cityname" : "Westminster",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05158"]
+        },
+        {
+            "cityname" : "Whiting",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05778"]
+        },
+        {
+            "cityname" : "Whitingham",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05361"]
+        },
+        {
+            "cityname" : "Wilder",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05088"]
+        },
+        {
+            "cityname" : "Williamstown",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05679"]
+        },
+        {
+            "cityname" : "Williston",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05495"]
+        },
+        {
+            "cityname" : "Wilmington",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05363"]
+        },
+        {
+            "cityname" : "Windsor",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05089"]
+        },
+        {
+            "cityname" : "Winooski",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05404"]
+        },
+        {
+            "cityname" : "Wolcott",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05680"]
+        },
+        {
+            "cityname" : "Woodbury",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05681"]
+        },
+        {
+            "cityname" : "Woodstock",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05091"]
+        },
+        {
+            "cityname" : "Worcester",
+            "areacodes" : ["802"],
+            "zipcodes" : ["05682"]
+        }
+    ]
+}

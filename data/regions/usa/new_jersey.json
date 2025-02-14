@@ -1,0 +1,399 @@
+{
+    "name": "New Jersey",
+    "capital": "Trenton",
+    "cities": [
+        {
+            "cityname": "Absecon",
+            "zipcodes": [
+                "08201"
+            ],
+            "areacodes": [
+                "609"
+            ]
+        },
+        {
+            "cityname": "Allendale",
+            "zipcodes": [
+                "07401"
+            ],
+            "areacodes": [
+                "201",
+                "551"
+            ]
+        },
+        {
+            "cityname": "Asbury Park",
+            "zipcodes": [
+                "07712"
+            ],
+            "areacodes": [
+                "732",
+                "848"
+            ]
+        },
+        {
+            "cityname": "Atlantic City",
+            "zipcodes": [
+                "08401",
+                "08404",
+                "08405"
+            ],
+            "areacodes": [
+                "609"
+            ]
+        },
+        {
+            "cityname": "Bayonne",
+            "zipcodes": [
+                "07002"
+            ],
+            "areacodes": [
+                "201",
+                "551"
+            ]
+        },
+        {
+            "cityname": "Bloomfield",
+            "zipcodes": [
+                "07003"
+            ],
+            "areacodes": [
+                "973",
+                "862"
+            ]
+        },
+        {
+            "cityname": "Camden",
+            "zipcodes": [
+                "08101",
+                "08102",
+                "08103",
+                "08104",
+                "08105"
+            ],
+            "areacodes": [
+                "856"
+            ]
+        },
+        {
+            "cityname": "Clifton",
+            "zipcodes": [
+                "07011",
+                "07012",
+                "07013",
+                "07014",
+                "07015"
+            ],
+            "areacodes": [
+                "973",
+                "862"
+            ]
+        },
+        {
+            "cityname": "Edison",
+            "zipcodes": [
+                "08817",
+                "08818",
+                "08820",
+                "08837",
+                "08899"
+            ],
+            "areacodes": [
+                "732",
+                "848"
+            ]
+        },
+        {
+            "cityname": "Elizabeth",
+            "zipcodes": [
+                "07201",
+                "07202",
+                "07206",
+                "07207",
+                "07208"
+            ],
+            "areacodes": [
+                "908"
+            ]
+        },
+        {
+            "cityname": "Hoboken",
+            "zipcodes": [
+                "07030"
+            ],
+            "areacodes": [
+                "201",
+                "551"
+            ]
+        },
+        {
+            "cityname": "Jersey City",
+            "zipcodes": [
+                "07097",
+                "07302",
+                "07304",
+                "07305",
+                "07306",
+                "07307",
+                "07310",
+                "07311"
+            ],
+            "areacodes": [
+                "201",
+                "551"
+            ]
+        },
+        {
+            "cityname": "Newark",
+            "zipcodes": [
+                "07102",
+                "07103",
+                "07104",
+                "07105",
+                "07106",
+                "07107",
+                "07108",
+                "07112",
+                "07114"
+            ],
+            "areacodes": [
+                "973",
+                "862"
+            ]
+        },
+        {
+            "cityname": "Paterson",
+            "zipcodes": [
+                "07501",
+                "07502",
+                "07503",
+                "07504",
+                "07505",
+                "07513",
+                "07514",
+                "07522",
+                "07524"
+            ],
+            "areacodes": [
+                "973",
+                "862"
+            ]
+        },
+        {
+            "cityname": "Rahway",
+            "zipcodes": [
+                "07065"
+            ],
+            "areacodes": [
+                "732",
+                "848"
+            ]
+        },
+        {
+            "cityname": "Ridgewood",
+            "zipcodes": [
+                "07450",
+                "07451"
+            ],
+            "areacodes": [
+                "201",
+                "551"
+            ]
+        },
+        {
+            "cityname": "Roselle",
+            "zipcodes": [
+                "07203"
+            ],
+            "areacodes": [
+                "908"
+            ]
+        },
+        {
+            "cityname": "Sayreville",
+            "zipcodes": [
+                "08871",
+                "08872"
+            ],
+            "areacodes": [
+                "732",
+                "848"
+            ]
+        },
+        {
+            "cityname": "Somerset",
+            "zipcodes": [
+                "08873",
+                "08875"
+            ],
+            "areacodes": [
+                "732",
+                "848"
+            ]
+        },
+        {
+            "cityname": "South Amboy",
+            "zipcodes": [
+                "08879"
+            ],
+            "areacodes": [
+                "732",
+                "848"
+            ]
+        },
+        {
+            "cityname": "South Plainfield",
+            "zipcodes": [
+                "07080"
+            ],
+            "areacodes": [
+                "908"
+            ]
+        },
+        {
+            "cityname": "Summit",
+            "zipcodes": [
+                "07901",
+                "07902"
+            ],
+            "areacodes": [
+                "908"
+            ]
+        },
+        {
+            "cityname": "Teaneck",
+            "zipcodes": [
+                "07666"
+            ],
+            "areacodes": [
+                "201",
+                "551"
+            ]
+        },
+        {
+            "cityname": "Toms River",
+            "zipcodes": [
+                "08753",
+                "08754",
+                "08755",
+                "08756",
+                "08757"
+            ],
+            "areacodes": [
+                "732",
+                "848"
+            ]
+        },
+        {
+            "cityname": "Union City",
+            "zipcodes": [
+                "07087"
+            ],
+            "areacodes": [
+                "201",
+                "551"
+            ]
+        },
+        {
+            "cityname": "Vineland",
+            "zipcodes": [
+                "08360",
+                "08361",
+                "08362"
+            ],
+            "areacodes": [
+                "856"
+            ]
+        },
+        {
+            "cityname": "Wayne",
+            "zipcodes": [
+                "07470",
+                "07474",
+                "07477"
+            ],
+            "areacodes": [
+                "973",
+                "862"
+            ]
+        },
+        {
+            "cityname": "West New York",
+            "zipcodes": [
+                "07093"
+            ],
+            "areacodes": [
+                "201",
+                "551"
+            ]
+        },
+        {
+            "cityname": "West Orange",
+            "zipcodes": [
+                "07052"
+            ],
+            "areacodes": [
+                "973",
+                "862"
+            ]
+        },
+        {
+            "cityname": "Willingboro",
+            "zipcodes": [
+                "08046"
+            ],
+            "areacodes": [
+                "609"
+            ]
+        },
+        {
+            "cityname": "Woodbridge",
+            "zipcodes": [
+                "07095"
+            ],
+            "areacodes": [
+                "732",
+                "848"
+            ]
+        },
+        {
+            "cityname": "Woodbury",
+            "zipcodes": [
+                "08096",
+                "08097"
+            ],
+            "areacodes": [
+                "856"
+            ]
+        },
+        {
+            "cityname": "Woodcliff Lake",
+            "zipcodes": [
+                "07677"
+            ],
+            "areacodes": [
+                "201",
+                "551"
+            ]
+        },
+        {
+            "cityname": "Woodstown",
+            "zipcodes": [
+                "08098"
+            ],
+            "areacodes": [
+                "856"
+            ]
+        },
+        {
+            "cityname": "Wyckoff",
+            "zipcodes": [
+                "07481"
+            ],
+            "areacodes": [
+                "201",
+                "551"
+            ]
+        }
+    ]
+}

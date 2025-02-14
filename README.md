@@ -12,6 +12,13 @@ To install the package, use npm:
 ```bash
 npm install random-addresses-generator
 ```
+**CDN:**
+```html
+<script type="module">
+        import { getAddress } from 'https://cdn.jsdelivr.net/npm/random-addresses-generator@1.1.0/src/index.js'; 
+        console.log(await getAddress(1));
+    </script>
+```
 
 ## Fields Generated
 
@@ -97,7 +104,7 @@ You can customize the format by passing an array of field names.
 
 ## Function Usage
 
-### `generateAddress(count, info)`
+### `getAddress(count, info)`
 
 Generates a specified number of random addresses with the given configuration.
 
@@ -117,9 +124,9 @@ Generates a specified number of random addresses with the given configuration.
 1. **Generate 5 Commercial Addresses from the United States:**
 
 ```js
-const { generateAddress } = require('random-addresses-generator');
+import { getAddress } from('random-addresses-generator');
 
-const addressData = generateAddress(5, {
+const addressData = getAddress(5, {
   country: 'USA', 
   addressType: 'Resedential', 
   format: 'json'
@@ -131,9 +138,9 @@ console.log(addressData);
 2. **Generate 3 addresses from specific states (California and Minnesota):**
 
 ```js
-const { generateAddress } = require('random-addresses-generator');
+import { getAddress } from "random-addresses-generator";
 
-const addressData = generateAddress(3, {
+const addressData = getAddress(3, {
   country: 'USA', 
   states: ['CA', 'MN'],
   addressFormat: ['firstName', 'lastName', 'streetName', 'city', 'state', 'zipCode'],
@@ -146,9 +153,9 @@ console.log(addressData);
 3. **Generate 2 addresses with custom addon field:**
 
 ```js
-const { generateAddress } = require('random-addresses-generator');
+import { getAddress } from "random-addresses-generator";
 
-const addressData = generateAddress(2, {
+const addressData = getAddress(2, {
   country: 'Canada',
   addressType: 'Corporate',
   addon: [{
@@ -181,37 +188,24 @@ The package supports generating random addresses for the following countries:
 - **Greece**
 - **India**
 - **Indonesia**
-
-#### Coming Soon Countries:
-- France
-- Australia
-- United Kingdom
-- India
-- Brazil
-- China
-- Mexico
-- Argentina
-- Belgium
-- Egypt
-- Greece
-- Indonesia
-- Italy
-- Japan
-- Netherlands
-- New Zealand
-- Nigeria
-- Norway
-- Poland
-- Portugal
-- Russia
-- Saudi Arabia
-- Singapore
-- South Africa
-- South Korea
-- Spain
-- Sweden
-- Switzerland
-- Thailand
-- Turkey
-- UAE
-- Vietnam
+- **United Kingdom**
+- **Mexico**
+- **Japan**
+- **Netherlands**
+- **New Zealand**
+- **Nigeria**
+- **Norway**
+- **Poland**
+- **Portugal**
+- **Russia**
+- **Saudi Arabia**
+- **Singapore**
+- **South Africa**
+- **South Korea**
+- **Spain**
+- **Sweden**
+- **Switzerland**
+- **Thailand**
+- **Turkey**
+- **UAE**
+- **Vietnam**

@@ -4287,5 +4287,20 @@
     },
     "citycontainers": [
         "provinces"
-    ]
+    ],
+    "firstnames": [
+  "Santiago", "Mateo", "Benjamín", "Tomás", "Facundo", "Luca", "Juan", "Martín", "Diego", "Lucas",
+  "Thiago", "Matías", "Gabriel", "Damián", "Agustín", "Emiliano", "Franco", "Ángel", "Alejo", "Pedro",
+  "Andrés", "Nicolás", "Ramiro", "Esteban", "Carlos", "Marcos", "Felipe", "Miguel", "Joaquín", "Julian",
+  "Valentín", "Rodrigo", "Pablo", "Maximiliano", "Iván", "Enzo", "Ricardo", "Raúl", "Carlos", "Mauro",
+  "Lautaro", "Florencia"
+],
+"lastnames": [
+  "González", "Rodríguez", "Pérez", "Fernández", "López", "García", "Martínez", "Sánchez", "Romero", "Díaz",
+  "Álvarez", "Hernández", "Luna", "Ruiz", "Ríos", "Giménez", "Flores", "Vega", "Morales", "Silva",
+  "Ortiz", "Sosa", "Ramírez", "Molina", "Jiménez", "Castro", "Torres", "Rivera", "Ibarra", "Gutiérrez",
+  "Cruz", "Guerrero", "Reyes", "Vargas", "Méndez", "Navarro", "Zárate", "López", "Vázquez", "Arias",
+  "Martín"
+]
+
 }

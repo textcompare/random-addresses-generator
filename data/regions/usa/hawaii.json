@@ -1,0 +1,830 @@
+{
+    "name": "Hawaii",
+    "capital": "Honolulu",
+    "cities": [
+        {
+            "cityname": "Aiea",
+            "zipcodes": [
+                "96701"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Anahola",
+            "zipcodes": [
+                "96703"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Captain Cook",
+            "zipcodes": [
+                "96704"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Eleele",
+            "zipcodes": [
+                "96705"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Ewa Beach",
+            "zipcodes": [
+                "96706"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Fort Shafter",
+            "zipcodes": [
+                "96858"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Haiku",
+            "zipcodes": [
+                "96708"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Hakalau",
+            "zipcodes": [
+                "96710"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Haleiwa",
+            "zipcodes": [
+                "96712"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Hana",
+            "zipcodes": [
+                "96713"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Hanalei",
+            "zipcodes": [
+                "96714"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Hanamaulu",
+            "zipcodes": [
+                "96715"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Hanapepe",
+            "zipcodes": [
+                "96716"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Hauula",
+            "zipcodes": [
+                "96717"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Hawaii National Park",
+            "zipcodes": [
+                "96718"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Hawi",
+            "zipcodes": [
+                "96719"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Hilo",
+            "zipcodes": [
+                "96720",
+                "96721"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Holualoa",
+            "zipcodes": [
+                "96725"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Honaunau",
+            "zipcodes": [
+                "96726"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Honokaa",
+            "zipcodes": [
+                "96727"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Honolulu",
+            "zipcodes": [
+                "96801",
+                "96802",
+                "96803",
+                "96804",
+                "96805",
+                "96806",
+                "96807",
+                "96808",
+                "96809",
+                "96810",
+                "96811",
+                "96812",
+                "96813",
+                "96814",
+                "96815",
+                "96816",
+                "96817",
+                "96818",
+                "96819",
+                "96820",
+                "96821",
+                "96822",
+                "96823",
+                "96824",
+                "96825",
+                "96826",
+                "96827",
+                "96828",
+                "96830",
+                "96835",
+                "96836",
+                "96837",
+                "96838",
+                "96839",
+                "96840",
+                "96841",
+                "96843",
+                "96844",
+                "96846",
+                "96847",
+                "96848",
+                "96849",
+                "96850",
+                "96853",
+                "96854",
+                "96857"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Honomu",
+            "zipcodes": [
+                "96728"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Hoolehua",
+            "zipcodes": [
+                "96729"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Kaaawa",
+            "zipcodes": [
+                "96730"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Kahuku",
+            "zipcodes": [
+                "96731"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Kahului",
+            "zipcodes": [
+                "96732",
+                "96733"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Kailua",
+            "zipcodes": [
+                "96734"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Kailua Kona",
+            "zipcodes": [
+                "96740",
+                "96745"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Kalaheo",
+            "zipcodes": [
+                "96741"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Kalaupapa",
+            "zipcodes": [
+                "96742"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Kamuela",
+            "zipcodes": [
+                "96743"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Kaneohe",
+            "zipcodes": [
+                "96744"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Kaneohe Station",
+            "zipcodes": [
+                "96863"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Kapaa",
+            "zipcodes": [
+                "96746"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Kapaau",
+            "zipcodes": [
+                "96755"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Kapolei",
+            "zipcodes": [
+                "96707",
+                "96709"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Kaumakani",
+            "zipcodes": [
+                "96747"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Keaau",
+            "zipcodes": [
+                "96749"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Kealakekua",
+            "zipcodes": [
+                "96750"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Kealia",
+            "zipcodes": [
+                "96751"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Keauhou",
+            "zipcodes": [
+                "96739"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Kekaha",
+            "zipcodes": [
+                "96752"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Kihei",
+            "zipcodes": [
+                "96753"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Kilauea",
+            "zipcodes": [
+                "96754"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Koloa",
+            "zipcodes": [
+                "96756"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Kualapuu",
+            "zipcodes": [
+                "96757"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Kula",
+            "zipcodes": [
+                "96790"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Kunia",
+            "zipcodes": [
+                "96759"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Kurtistown",
+            "zipcodes": [
+                "96760"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Lahaina",
+            "zipcodes": [
+                "96761",
+                "96767"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Laie",
+            "zipcodes": [
+                "96762"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Lanai City",
+            "zipcodes": [
+                "96763"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Laupahoehoe",
+            "zipcodes": [
+                "96764"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Lawai",
+            "zipcodes": [
+                "96765"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Lihue",
+            "zipcodes": [
+                "96766"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Makawao",
+            "zipcodes": [
+                "96768"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Makaweli",
+            "zipcodes": [
+                "96769"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Maunaloa",
+            "zipcodes": [
+                "96770"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Mililani",
+            "zipcodes": [
+                "96789"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Mountain View",
+            "zipcodes": [
+                "96771"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Naalehu",
+            "zipcodes": [
+                "96772"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Ninole",
+            "zipcodes": [
+                "96773"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Ookala",
+            "zipcodes": [
+                "96774"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Paauilo",
+            "zipcodes": [
+                "96776"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Pahala",
+            "zipcodes": [
+                "96777"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Pahoa",
+            "zipcodes": [
+                "96778"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Paia",
+            "zipcodes": [
+                "96779"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Papaaloa",
+            "zipcodes": [
+                "96780"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Papaikou",
+            "zipcodes": [
+                "96781"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Pearl City",
+            "zipcodes": [
+                "96782"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Pepeekeo",
+            "zipcodes": [
+                "96783"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Princeville",
+            "zipcodes": [
+                "96722"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Pukalani",
+            "zipcodes": [
+                "96788"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Puunene",
+            "zipcodes": [
+                "96784"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Schofield Barracks",
+            "zipcodes": [
+                "96857"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Tripler Army Medical Center",
+            "zipcodes": [
+                "96859"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Volcano",
+            "zipcodes": [
+                "96785"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Wahiawa",
+            "zipcodes": [
+                "96786"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Waialua",
+            "zipcodes": [
+                "96791"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Waianae",
+            "zipcodes": [
+                "96792"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Wailuku",
+            "zipcodes": [
+                "96793"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Waimanalo",
+            "zipcodes": [
+                "96795"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Waimea",
+            "zipcodes": [
+                "96796"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Waipahu",
+            "zipcodes": [
+                "96797"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Wake Island",
+            "zipcodes": [
+                "96898"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        },
+        {
+            "cityname": "Wheeler Army Airfield",
+            "zipcodes": [
+                "96854"
+            ],
+            "areacodes": [
+                "808"
+            ]
+        }
+    ]
+}

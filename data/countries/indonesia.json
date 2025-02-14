@@ -5612,5 +5612,20 @@
     },
     "citycontainers": [
         "provinces"
-    ]
+    ],
+    "firstnames": [
+  "Muhammad", "Ahmad", "Arif", "Budi", "Andi", "Hendra", "Rizky", "Dian", "Wawan", "Siti",
+  "Putri", "Rina", "Siti", "Dewi", "Eka", "Ratna", "Fitri", "Sri", "Ayu", "Indah",
+  "Tari", "Rika", "Anisa", "Nita", "Sari", "Rina", "Tuti", "Melati", "Intan", "Lina",
+  "Citra", "Yulia", "Maya", "Yanti", "Putri", "Novi", "Agus", "Bambang", "Lestari", "Nina",
+  "Vina", "Amanah"
+],
+"lastnames": [
+  "Setiawan", "Sukma", "Pratama", "Utama", "Putra", "Anggraini", "Julianto", "Wibowo", "Prabowo", "Hidayat",
+  "Santoso", "Sari", "Rachman", "Suharto", "Wijaya", "Sutrisno", "Saputra", "Wijayanto", "Gunawan", "Salim",
+  "Rahmawati", "Sari", "Kusuma", "Anggoro", "Budianto", "Nurhadi", "Bachtiar", "Kurniawan", "Dewantara", "Handoko",
+  "Lestari", "Haryanto", "Subhan", "Riawan", "Astuti", "Suhendar", "Indrawan", "Prasetyo", "Ginting", "Simamora",
+  "Suryanto"
+]
+
 }

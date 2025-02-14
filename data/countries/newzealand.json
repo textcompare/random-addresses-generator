@@ -1,0 +1,1528 @@
+{
+  "countrycode": "+64",
+  "phoneformat": "(A) XXXX XXXX",
+  "country": "New Zealand",
+  "neighborhoods": {
+    "corporate": [
+      "Auckland Central Business District",
+      "Wellington CBD",
+      "Christchurch Business District",
+      "Hamilton Corporate Area",
+      "Dunedin Business Zone",
+      "Tauranga Central",
+      "Napier Business Hub",
+      "Queenstown Corporate District",
+      "Wellington Waterfront",
+      "Auckland Viaduct",
+      "Auckland Airport Area",
+      "Wellington Parliamentary Zone",
+      "Christchurch Innovation District",
+      "Auckland Takapuna",
+      "Auckland North Shore",
+      "Hamilton CBD",
+      "Dunedin Central Business Zone",
+      "Napier City Center",
+      "Wellington Central",
+      "Auckland Greenlane",
+      "Tauranga Port Area",
+      "Christchurch Airport",
+      "Queenstown Resort Area",
+      "New Plymouth Central",
+      "Wellington Civic Center",
+      "Hastings Business District",
+      "Auckland Mt Eden",
+      "Hamilton East",
+      "Auckland Parnell",
+      "Dunedin Port Area",
+      "Wellington Thorndon",
+      "Auckland Wynyard Quarter",
+      "Wellington Victoria University",
+      "Auckland Ponsonby",
+      "Christchurch Addington",
+      "Wellington Lambton Quay",
+      "Auckland Eden Terrace",
+      "Auckland Grey Lynn",
+      "Wellington Newtown",
+      "Hamilton Hillcrest",
+      "Tauranga Mount Maunganui"
+    ],
+    "industrial": [
+      "Auckland Industrial Zone",
+      "Christchurch Industrial Area",
+      "Wellington Industrial Zone",
+      "Hamilton Industrial District",
+      "Dunedin Industrial Park",
+      "Tauranga Industrial Area",
+      "Napier Industrial District",
+      "Whangarei Industrial Zone",
+      "Palmerston North Industrial Area",
+      "Hamilton Free Trade Zone",
+      "Christchurch Industrial Park",
+      "Auckland Port Industrial Area",
+      "Wellington East Industrial Park",
+      "Dunedin Industrial Zone",
+      "Tauranga Port Industrial Area",
+      "Auckland South Industrial District",
+      "Napier Free Trade Zone",
+      "Christchurch Manufacturing District",
+      "Wellington Lower Hutt Industrial Area",
+      "Auckland West Industrial Zone",
+      "Whanganui Industrial District",
+      "Auckland East Industrial Park",
+      "Hamilton Central Industrial Zone",
+      "Napier Port Area",
+      "Auckland Airport Industrial Park",
+      "Dunedin Free Zone",
+      "Auckland North Industrial District",
+      "Wellington Newlands Industrial Park",
+      "Christchurch Heathcote Valley Industrial Zone",
+      "Auckland Beach Haven Industrial Zone",
+      "Hamilton North Industrial Park",
+      "Tauranga Free Trade Area",
+      "Auckland Pakuranga Industrial Park",
+      "Wellington Porirua Industrial District",
+      "Whangarei Port Industrial Zone",
+      "Tauranga Industrial Complex",
+      "Auckland Mt Wellington Industrial Area",
+      "Christchurch Hornby Industrial Park",
+      "Palmerston North Industrial Zone",
+      "Whakatane Industrial Zone",
+      "Auckland Manukau Industrial Park",
+      "Christchurch Sockburn Industrial Area",
+      "Napier Central Industrial Zone",
+      "Wellington Airport Industrial Area"
+    ],
+    "residential": [
+      "Auckland",
+      "Wellington",
+      "Christchurch",
+      "Hamilton",
+      "Dunedin",
+      "Tauranga",
+      "Napier",
+      "Queenstown",
+      "Hastings",
+      "Whangarei",
+      "Palmerston North",
+      "New Plymouth",
+      "Whakatane",
+      "Timaru",
+      "Invercargill",
+      "Rotorua",
+      "Gisborne",
+      "Napier-Hastings",
+      "Whanganui",
+      "Lower Hutt",
+      "Upper Hutt",
+      "Tauranga City",
+      "Auckland Central",
+      "Auckland North Shore",
+      "Wellington City",
+      "Christchurch City",
+      "Wellington East",
+      "Hamilton East",
+      "Dunedin Central",
+      "Queenstown Lakes District",
+      "Auckland Parnell",
+      "Auckland Ponsonby",
+      "Wellington Newtown",
+      "Tauranga Mt Maunganui",
+      "Napier City",
+      "Auckland Mt Eden",
+      "Auckland Grey Lynn",
+      "Christchurch Sumner",
+      "Hamilton Hillcrest",
+      "Whangarei City",
+      "Invercargill City",
+      "Rotorua Lakes Area",
+      "Gisborne City",
+      "Wellington Karori",
+      "Wellington Thorndon",
+      "Whakatane District",
+      "Palmerston North City",
+      "Auckland Remuera",
+      "Wellington Oriental Bay",
+      "Christchurch Cashmere",
+      "Queenstown Frankton",
+      "Auckland St Heliers",
+      "Hamilton Glenview",
+      "Dunedin Roslyn",
+      "New Plymouth City",
+      "Whanganui District",
+      "Auckland Mt Wellington"
+    ]
+  },
+  "streetnames": {
+    "corporate": [
+      "Queen Street",
+      "Victoria Street",
+      "Jervois Road",
+      "Courtenay Place",
+      "Lambton Quay",
+      "Shakespeare Road",
+      "Ponsonby Road",
+      "Karangahape Road",
+      "Wellington Road",
+      "Cambridge Terrace",
+      "Mt Eden Road",
+      "K Rd",
+      "Albert Street",
+      "Tamaki Drive",
+      "Symonds Street",
+      "Molesworth Street",
+      "Cuba Street",
+      "Pitt Street",
+      "Customs Street",
+      "Swansea Road",
+      "Te Ara Moana",
+      "Darby Street",
+      "Kitchener Street",
+      "Lorne Street",
+      "Britomart Place",
+      "High Street",
+      "Hobson Street",
+      "Lakeside Drive",
+      "Victoria Park Road",
+      "Clyde Road",
+      "Hamilton Road",
+      "Bridge Street",
+      "North Wharf",
+      "Vulcan Lane",
+      "Freeman's Bay",
+      "Ferry Road",
+      "Waterloo Road",
+      "Cable Street",
+      "Gladstone Road",
+      "Empress Drive",
+      "Halsey Street",
+      "Aotea Square",
+      "Parnell Road",
+      "Wellington Street",
+      "Mill Road",
+      "Pipitea Street"
+    ],
+    "industrial": [
+      "Harris Road",
+      "Port Road",
+      "Industry Road",
+      "Saleyards Road",
+      "Tidal Road",
+      "Kawau Road",
+      "Motorway Link Road",
+      "Coronation Road",
+      "Wharfs Road",
+      "Buckland Road",
+      "Ferry Road",
+      "Kirkbride Road",
+      "Cameron Road",
+      "Balmoral Road",
+      "Fitzherbert Avenue",
+      "Taharoto Road",
+      "Matangi Road",
+      "Waihou Road",
+      "McNab Road",
+      "Ohaupo Road",
+      "Station Road",
+      "Bush Road",
+      "North Road",
+      "Tauranga Road",
+      "Auckland Road",
+      "Manukau Road",
+      "Cunningham Road",
+      "Lunn Avenue",
+      "Pukekohe Industrial Road",
+      "Taranaki Street",
+      "Taipo Street",
+      "Rimu Road",
+      "Greenlane West",
+      "Horotiu Road",
+      "Main South Road",
+      "Mill Road",
+      "Waldronville",
+      "Blenheim Road",
+      "Waikato Expressway",
+      "Gordonton Road",
+      "Montgomery Street",
+      "Albion Street",
+      "Galway Street",
+      "Industrial Drive",
+      "Mount Eden Road",
+      "Wharfe Road",
+      "Karangahape Road",
+      "Otahuhu Road"
+    ],
+    "residential": [
+      "Oxford Street",
+      "King Street",
+      "Tainui Street",
+      "Union Street",
+      "Nelson Street",
+      "Bourke Street",
+      "Grey Street",
+      "Wakefield Street",
+      "Brooklyn Road",
+      "Elm Street",
+      "Lambton Quay",
+      "Victoria Road",
+      "Portsmouth Road",
+      "St Andrews Road",
+      "Tautari Street",
+      "Wellington Crescent",
+      "Seddon Street",
+      "Richmond Street",
+      "Manor Place",
+      "St John's Road",
+      "Clifton Terrace",
+      "Great North Road",
+      "Queens Road",
+      "Fitzherbert Street",
+      "Lake Road",
+      "Birch Street",
+      "Clarendon Street",
+      "White Street",
+      "Harris Street",
+      "Mangorei Road",
+      "College Street",
+      "Wellington Road",
+      "Hawkins Road",
+      "Chester Street",
+      "Johnson Street",
+      "Pioneer Street",
+      "Russell Street",
+      "Milford Road",
+      "Linton Road",
+      "Russell Terrace",
+      "Greenwood Drive",
+      "Smith Street",
+      "Tate Road",
+      "Hartford Street",
+      "Greenhithe Road",
+      "Wallace Street",
+      "Kingfisher Drive",
+      "Maidstone Road",
+      "Lyttleton Avenue",
+      "Barton Street"
+    ]
+  },
+  "regions": {
+    "Northland": {
+      "name": "Northland",
+      "cities": [
+        {
+          "cityname": "Whangarei",
+          "zipcodes": [
+            "0110",
+            "0112",
+            "0114",
+            "0118"
+          ],
+          "areacodes": [
+            "9"
+          ]
+        },
+        {
+          "cityname": "Kerikeri",
+          "zipcodes": [
+            "0230",
+            "0234",
+            "0293"
+          ],
+          "areacodes": [
+            "9"
+          ]
+        },
+        {
+          "cityname": "Paihia",
+          "zipcodes": [
+            "0200",
+            "0204"
+          ],
+          "areacodes": [
+            "9"
+          ]
+        },
+        {
+          "cityname": "Kaikohe",
+          "zipcodes": [
+            "0400",
+            "0405"
+          ],
+          "areacodes": [
+            "9"
+          ]
+        },
+        {
+          "cityname": "Dargaville",
+          "zipcodes": [
+            "0310",
+            "0371"
+          ],
+          "areacodes": [
+            "9"
+          ]
+        },
+        {
+          "cityname": "Kaitaia",
+          "zipcodes": [
+            "0410",
+            "0482"
+          ],
+          "areacodes": [
+            "9"
+          ]
+        }
+      ]
+    },
+    "Auckland": {
+      "name": "Auckland",
+      "cities": [
+        {
+          "cityname": "Auckland City",
+          "zipcodes": [
+            "1010",
+            "1011",
+            "1012",
+            "1013",
+            "1014"
+          ],
+          "areacodes": [
+            "9"
+          ]
+        },
+        {
+          "cityname": "Manukau",
+          "zipcodes": [
+            "2022",
+            "2102",
+            "2104",
+            "2112",
+            "2113"
+          ],
+          "areacodes": [
+            "9"
+          ]
+        },
+        {
+          "cityname": "North Shore",
+          "zipcodes": [
+            "0622",
+            "0626",
+            "0630",
+            "0632",
+            "0633"
+          ],
+          "areacodes": [
+            "9"
+          ]
+        },
+        {
+          "cityname": "Waitakere",
+          "zipcodes": [
+            "0610",
+            "0612",
+            "0614",
+            "0618",
+            "0620"
+          ],
+          "areacodes": [
+            "9"
+          ]
+        },
+        {
+          "cityname": "Papakura",
+          "zipcodes": [
+            "2110",
+            "2112",
+            "2113",
+            "2114",
+            "2115"
+          ],
+          "areacodes": [
+            "9"
+          ]
+        },
+        {
+          "cityname": "Pukekohe",
+          "zipcodes": [
+            "2120",
+            "2121",
+            "2122",
+            "2123",
+            "2124"
+          ],
+          "areacodes": [
+            "9"
+          ]
+        },
+        {
+          "cityname": "Waiheke Island",
+          "zipcodes": [
+            "1081",
+            "1082"
+          ],
+          "areacodes": [
+            "9"
+          ]
+        }
+      ]
+    },
+    "Waikato": {
+      "name": "Waikato",
+      "cities": [
+        {
+          "cityname": "Hamilton",
+          "zipcodes": [
+            "3200",
+            "3204",
+            "3210",
+            "3214",
+            "3240"
+          ],
+          "areacodes": [
+            "7"
+          ]
+        },
+        {
+          "cityname": "Taupo",
+          "zipcodes": [
+            "3330",
+            "3332",
+            "3334",
+            "3351",
+            "3377"
+          ],
+          "areacodes": [
+            "7"
+          ]
+        },
+        {
+          "cityname": "Cambridge",
+          "zipcodes": [
+            "3432",
+            "3450",
+            "3495",
+            "3496",
+            "3497"
+          ],
+          "areacodes": [
+            "7"
+          ]
+        },
+        {
+          "cityname": "Te Awamutu",
+          "zipcodes": [
+            "3800",
+            "3801",
+            "3802",
+            "3803",
+            "3804"
+          ],
+          "areacodes": [
+            "7"
+          ]
+        },
+        {
+          "cityname": "Matamata",
+          "zipcodes": [
+            "3400",
+            "3472",
+            "3473",
+            "3474",
+            "3475"
+          ],
+          "areacodes": [
+            "7"
+          ]
+        },
+        {
+          "cityname": "Raglan",
+          "zipcodes": [
+            "3225",
+            "3297",
+            "3298",
+            "3299",
+            "3300"
+          ],
+          "areacodes": [
+            "7"
+          ]
+        },
+        {
+          "cityname": "Thames",
+          "zipcodes": [
+            "3500",
+            "3540",
+            "3575",
+            "3576",
+            "3577"
+          ],
+          "areacodes": [
+            "7"
+          ]
+        },
+        {
+          "cityname": "Tokoroa",
+          "zipcodes": [
+            "3420",
+            "3421",
+            "3422",
+            "3423",
+            "3424"
+          ],
+          "areacodes": [
+            "7"
+          ]
+        }
+      ]
+    },
+    "Bay of Plenty": {
+      "name": "Bay of Plenty",
+      "cities": [
+        {
+          "cityname": "Tauranga",
+          "zipcodes": [
+            "3110",
+            "3112",
+            "3116",
+            "3118",
+            "3141"
+          ],
+          "areacodes": [
+            "7"
+          ]
+        },
+        {
+          "cityname": "Rotorua",
+          "zipcodes": [
+            "3010",
+            "3015",
+            "3020",
+            "3040",
+            "3074"
+          ],
+          "areacodes": [
+            "7"
+          ]
+        },
+        {
+          "cityname": "Whakatāne",
+          "zipcodes": [
+            "3120",
+            "3121",
+            "3158",
+            "3168",
+            "3192"
+          ],
+          "areacodes": [
+            "7"
+          ]
+        },
+        {
+          "cityname": "Te Puke",
+          "zipcodes": [
+            "3119",
+            "3186",
+            "3187",
+            "3188",
+            "3189"
+          ],
+          "areacodes": [
+            "7"
+          ]
+        },
+        {
+          "cityname": "Kawerau",
+          "zipcodes": [
+            "3127",
+            "3169",
+            "3170",
+            "3171",
+            "3191"
+          ],
+          "areacodes": [
+            "7"
+          ]
+        },
+        {
+          "cityname": "Opotiki",
+          "zipcodes": [
+            "3122",
+            "3197",
+            "3198",
+            "3199",
+            "3200"
+          ],
+          "areacodes": [
+            "7"
+          ]
+        },
+        {
+          "cityname": "Mount Maunganui",
+          "zipcodes": [
+            "3116",
+            "3150",
+            "3151",
+            "3152",
+            "3153"
+          ],
+          "areacodes": [
+            "7"
+          ]
+        },
+        {
+          "cityname": "Papamoa",
+          "zipcodes": [
+            "3118",
+            "3187",
+            "3189",
+            "3191",
+            "3192"
+          ],
+          "areacodes": [
+            "7"
+          ]
+        }
+      ]
+    },
+    "Hawke's Bay (Te Matau-a-Māui)": {
+      "name": "Hawke's Bay (Te Matau-a-Māui)",
+      "cities": [
+        {
+          "cityname": "Napier",
+          "zipcodes": [
+            "4110",
+            "4112",
+            "4113",
+            "4114",
+            "4116"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Hastings",
+          "zipcodes": [
+            "4120",
+            "4122",
+            "4123",
+            "4124",
+            "4126"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Wairoa",
+          "zipcodes": [
+            "4108",
+            "4109",
+            "4110",
+            "4111",
+            "4112"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Havelock North",
+          "zipcodes": [
+            "4130",
+            "4131",
+            "4132",
+            "4133",
+            "4134"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Waipukurau",
+          "zipcodes": [
+            "4200",
+            "4201",
+            "4202",
+            "4203",
+            "4204"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Waipawa",
+          "zipcodes": [
+            "4210",
+            "4211",
+            "4212",
+            "4213",
+            "4214"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Clive",
+          "zipcodes": [
+            "4102",
+            "4103",
+            "4104",
+            "4105",
+            "4106"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Porangahau",
+          "zipcodes": [
+            "4291",
+            "4292",
+            "4293",
+            "4294",
+            "4295"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        }
+      ]
+    },
+    "Gisborne (Tairāwhiti)": {
+      "name": "Gisborne (Tairāwhiti)",
+      "cities": [
+        {
+          "cityname": "Gisborne",
+          "zipcodes": [
+            "4010",
+            "4011",
+            "4012",
+            "4013",
+            "4014"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Tolaga Bay",
+          "zipcodes": [
+            "4077",
+            "4078",
+            "4079",
+            "4080",
+            "4081"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Ruatoria",
+          "zipcodes": [
+            "4032",
+            "4033",
+            "4034",
+            "4035",
+            "4036"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Te Karaka",
+          "zipcodes": [
+            "4022",
+            "4023",
+            "4024",
+            "4025",
+            "4026"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Tokomaru Bay",
+          "zipcodes": [
+            "4079",
+            "4080",
+            "4081",
+            "4082",
+            "4083"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Matawai",
+          "zipcodes": [
+            "4092",
+            "4093",
+            "4094",
+            "4095",
+            "4096"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Hicks Bay",
+          "zipcodes": [
+            "4054",
+            "4055",
+            "4056",
+            "4057",
+            "4058"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Patutahi",
+          "zipcodes": [
+            "4071",
+            "4072",
+            "4073",
+            "4074",
+            "4075"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        }
+      ]
+    },
+    "Taranaki": {
+      "name": "Taranaki",
+      "cities": [
+        {
+          "cityname": "New Plymouth",
+          "zipcodes": [
+            "4310",
+            "4312",
+            "4314",
+            "4316",
+            "4318"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Stratford",
+          "zipcodes": [
+            "4332",
+            "4333",
+            "4334",
+            "4335",
+            "4336"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Hāwera",
+          "zipcodes": [
+            "4610",
+            "4612",
+            "4614",
+            "4616",
+            "4618"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Waitara",
+          "zipcodes": [
+            "4320",
+            "4322",
+            "4324",
+            "4326",
+            "4328"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Inglewood",
+          "zipcodes": [
+            "4330",
+            "4331",
+            "4332",
+            "4333",
+            "4334"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Eltham",
+          "zipcodes": [
+            "4322",
+            "4323",
+            "4324",
+            "4325",
+            "4326"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Ōpunake",
+          "zipcodes": [
+            "4616",
+            "4617",
+            "4618",
+            "4619",
+            "4620"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Patea",
+          "zipcodes": [
+            "4520",
+            "4521",
+            "4522",
+            "4523",
+            "4524"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        }
+      ]
+    },
+    "Manawatū-Whanganui": {
+      "name": "Manawatū-Whanganui",
+      "cities": [
+        {
+          "cityname": "Palmerston North",
+          "zipcodes": [
+            "4410",
+            "4412",
+            "4414",
+            "4416",
+            "4418"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Whanganui",
+          "zipcodes": [
+            "4500",
+            "4501",
+            "4502",
+            "4503",
+            "4504"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Levin",
+          "zipcodes": [
+            "5510",
+            "5512",
+            "5514",
+            "5516",
+            "5518"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Feilding",
+          "zipcodes": [
+            "4702",
+            "4703",
+            "4704",
+            "4705",
+            "4706"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Dannevirke",
+          "zipcodes": [
+            "4930",
+            "4932",
+            "4934",
+            "4936",
+            "4938"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Taihape",
+          "zipcodes": [
+            "4720",
+            "4721",
+            "4722",
+            "4723",
+            "4724"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Marton",
+          "zipcodes": [
+            "4710",
+            "4711",
+            "4712",
+            "4713",
+            "4714"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Foxton",
+          "zipcodes": [
+            "4814",
+            "4815",
+            "4816",
+            "4817",
+            "4818"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        }
+      ]
+    },
+    "Wellington (Te Whanganui-a-Tara)": {
+      "name": "Wellington (Te Whanganui-a-Tara)",
+      "cities": [
+        {
+          "cityname": "Wellington",
+          "zipcodes": [
+            "6011",
+            "6012",
+            "6013",
+            "6014",
+            "6015"
+          ],
+          "areacodes": [
+            "4"
+          ]
+        },
+        {
+          "cityname": "Lower Hutt",
+          "zipcodes": [
+            "5010",
+            "5011",
+            "5012",
+            "5013",
+            "5014"
+          ],
+          "areacodes": [
+            "4"
+          ]
+        },
+        {
+          "cityname": "Upper Hutt",
+          "zipcodes": [
+            "5018",
+            "5019",
+            "5020",
+            "5021",
+            "5022"
+          ],
+          "areacodes": [
+            "4"
+          ]
+        },
+        {
+          "cityname": "Porirua",
+          "zipcodes": [
+            "5022",
+            "5023",
+            "5024",
+            "5025",
+            "5026"
+          ],
+          "areacodes": [
+            "4"
+          ]
+        },
+        {
+          "cityname": "Kapiti Coast",
+          "zipcodes": [
+            "5032",
+            "5033",
+            "5034",
+            "5035",
+            "5036"
+          ],
+          "areacodes": [
+            "4"
+          ]
+        },
+        {
+          "cityname": "Masterton",
+          "zipcodes": [
+            "5810",
+            "5811",
+            "5812",
+            "5813",
+            "5814"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Greytown",
+          "zipcodes": [
+            "5712",
+            "5713",
+            "5714",
+            "5715",
+            "5716"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        },
+        {
+          "cityname": "Featherston",
+          "zipcodes": [
+            "5771",
+            "5772",
+            "5773",
+            "5774",
+            "5775"
+          ],
+          "areacodes": [
+            "6"
+          ]
+        }
+      ]
+    },
+    "Tasman": {
+      "name": "Tasman",
+      "cities": [
+        {
+          "cityname": "Richmond",
+          "zipcodes": [
+            "7020",
+            "7021",
+            "7022",
+            "7023",
+            "7024"
+          ],
+          "areacodes": [
+            "3"
+          ]
+        },
+        {
+          "cityname": "Motueka",
+          "zipcodes": [
+            "7120",
+            "7121",
+            "7122",
+            "7123",
+            "7124"
+          ],
+          "areacodes": [
+            "3"
+          ]
+        },
+        {
+          "cityname": "Takaka",
+          "zipcodes": [
+            "7110",
+            "7111",
+            "7112",
+            "7113",
+            "7114"
+          ],
+          "areacodes": [
+            "3"
+          ]
+        },
+        {
+          "cityname": "Nelson",
+          "zipcodes": [
+            "7010",
+            "7011",
+            "7012",
+            "7013",
+            "7014"
+          ],
+          "areacodes": [
+            "3"
+          ]
+        }
+      ]
+    },
+    "Nelson (Whakatū)": {
+      "name": "Nelson (Whakatū)",
+      "cities": [
+        {
+          "cityname": "Nelson",
+          "zipcodes": [
+            "7010",
+            "7011",
+            "7012",
+            "7013",
+            "7014"
+          ],
+          "areacodes": [
+            "3"
+          ]
+        }
+      ]
+    },
+    "Marlborough (Te Tauihu-o-te-Waka)": {
+      "name": "Marlborough (Te Tauihu-o-te-Waka)",
+      "cities": [
+        {
+          "cityname": "Blenheim",
+          "zipcodes": [
+            "7201",
+            "7202",
+            "7203",
+            "7204"
+          ],
+          "areacodes": [
+            "3"
+          ]
+        },
+        {
+          "cityname": "Picton",
+          "zipcodes": [
+            "7220",
+            "7221",
+            "7222"
+          ],
+          "areacodes": [
+            "3"
+          ]
+        }
+      ]
+    },
+    "West Coast (Te Tai Poutini)": {
+      "name": "West Coast (Te Tai Poutini)",
+      "cities": [
+        {
+          "cityname": "Greymouth",
+          "zipcodes": [
+            "7801",
+            "7802"
+          ],
+          "areacodes": [
+            "3"
+          ]
+        },
+        {
+          "cityname": "Hokitika",
+          "zipcodes": [
+            "7810",
+            "7811"
+          ],
+          "areacodes": [
+            "3"
+          ]
+        },
+        {
+          "cityname": "Westport",
+          "zipcodes": [
+            "7825",
+            "7826"
+          ],
+          "areacodes": [
+            "3"
+          ]
+        }
+      ]
+    },
+    "Canterbury (Waitaha)": {
+      "name": "Canterbury (Waitaha)",
+      "cities": [
+        {
+          "cityname": "Christchurch",
+          "zipcodes": [
+            "8011",
+            "8012",
+            "8013",
+            "8014",
+            "8015"
+          ],
+          "areacodes": [
+            "3"
+          ]
+        },
+        {
+          "cityname": "Timaru",
+          "zipcodes": [
+            "7910",
+            "7911"
+          ],
+          "areacodes": [
+            "3"
+          ]
+        },
+        {
+          "cityname": "Ashburton",
+          "zipcodes": [
+            "7700",
+            "7701"
+          ],
+          "areacodes": [
+            "3"
+          ]
+        },
+        {
+          "cityname": "Kaiapoi",
+          "zipcodes": [
+            "7630",
+            "7631"
+          ],
+          "areacodes": [
+            "3"
+          ]
+        }
+      ]
+    },
+    "Otago (Ōtākou)": {
+      "name": "Otago (Ōtākou)",
+      "cities": [
+        {
+          "cityname": "Dunedin",
+          "zipcodes": [
+            "9010",
+            "9011",
+            "9012",
+            "9013",
+            "9014"
+          ],
+          "areacodes": [
+            "3"
+          ]
+        },
+        {
+          "cityname": "Queenstown",
+          "zipcodes": [
+            "9300",
+            "9301"
+          ],
+          "areacodes": [
+            "3"
+          ]
+        },
+        {
+          "cityname": "Invercargill",
+          "zipcodes": [
+            "9810",
+            "9812"
+          ],
+          "areacodes": [
+            "3"
+          ]
+        },
+        {
+          "cityname": "Oamaru",
+          "zipcodes": [
+            "9400",
+            "9401"
+          ],
+          "areacodes": [
+            "3"
+          ]
+        }
+      ]
+    },
+    "Southland (Murihiku)": {
+      "name": "Southland (Murihiku)",
+      "cities": [
+        {
+          "cityname": "Invercargill",
+          "zipcodes": [
+            "9810",
+            "9812"
+          ],
+          "areacodes": [
+            "3"
+          ]
+        },
+        {
+          "cityname": "Gore",
+          "zipcodes": [
+            "9710",
+            "9712"
+          ],
+          "areacodes": [
+            "3"
+          ]
+        },
+        {
+          "cityname": "Te Anau",
+          "zipcodes": [
+            "9600"
+          ],
+          "areacodes": [
+            "3"
+          ]
+        },
+        {
+          "cityname": "Riverton",
+          "zipcodes": [
+            "9812"
+          ],
+          "areacodes": [
+            "3"
+          ]
+        }
+      ]
+    }
+  },
+  "citycontainers":[
+    "regions"
+  ],
+  "firstnames": [
+  "James", "Liam", "Mason", "Lucas", "Oliver", "Jackson", "Jacob", "Noah", "Jack", "William",
+  "Charlie", "Ethan", "Thomas", "Max", "Benjamin", "Isaac", "Samuel", "Alexander", "Leo", "Daniel",
+  "Zachary", "Finn", "Joshua", "Ryan", "Hunter", "Henry", "Jacob", "George", "Lachlan", "Kai",
+  "Michael", "Matthew", "Samuel", "Joseph", "David", "Samuel", "William", "William", "Caleb", "Leo",
+  "Samuel", "Ollie"
+],
+"lastnames": [
+  "Smith", "Johnson", "Williams", "Brown", "Jones", "Taylor", "Wilson", "Roberts", "Walker", "Green",
+  "Harris", "Davies", "Clark", "Evans", "Thomas", "Lewis", "Baker", "Scott", "Adams", "Martin",
+  "King", "White", "Hill", "Allen", "Young", "Hughes", "Davis", "Wood", "Carter", "Morris",
+  "Cooper", "Mitchell", "Nelson", "Jackson", "Thomas", "Cook", "Murphy", "Moore", "Mills", "Campbell",
+  "Reid", "Gibson"
+]
+
+}

@@ -1,0 +1,686 @@
+{
+    "name": "Minnesota",
+    "capital": "Saint Paul",
+    "cities": [
+      {
+        "cityname": "Afton",
+        "zipcodes": ["55001"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Albert Lea",
+        "zipcodes": ["56007"],
+        "areacodes": ["507"]
+      },
+      {
+        "cityname": "Alexandria",
+        "zipcodes": ["56308"],
+        "areacodes": ["320"]
+      },
+      {
+        "cityname": "Andover",
+        "zipcodes": ["55304"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Anoka",
+        "zipcodes": ["55303"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Apple Valley",
+        "zipcodes": ["55124"],
+        "areacodes": ["952"]
+      },
+      {
+        "cityname": "Austin",
+        "zipcodes": ["55912"],
+        "areacodes": ["507"]
+      },
+      {
+        "cityname": "Baxter",
+        "zipcodes": ["56425"],
+        "areacodes": ["218"]
+      },
+      {
+        "cityname": "Bemidji",
+        "zipcodes": ["56601", "56619"],
+        "areacodes": ["218"]
+      },
+      {
+        "cityname": "Blaine",
+        "zipcodes": ["55434", "55449"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Bloomington",
+        "zipcodes": ["55420", "55425", "55431", "55435", "55437", "55438"],
+        "areacodes": ["952"]
+      },
+      {
+        "cityname": "Brainerd",
+        "zipcodes": ["56401"],
+        "areacodes": ["218"]
+      },
+      {
+        "cityname": "Brooklyn Center",
+        "zipcodes": ["55429", "55430"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Brooklyn Park",
+        "zipcodes": ["55428", "55429", "55443", "55444", "55445"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Buffalo",
+        "zipcodes": ["55313"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Burnsville",
+        "zipcodes": ["55306", "55337"],
+        "areacodes": ["952"]
+      },
+      {
+        "cityname": "Cambridge",
+        "zipcodes": ["55008"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Cannon Falls",
+        "zipcodes": ["55009"],
+        "areacodes": ["507"]
+      },
+      {
+        "cityname": "Champlin",
+        "zipcodes": ["55316"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Chanhassen",
+        "zipcodes": ["55317"],
+        "areacodes": ["952"]
+      },
+      {
+        "cityname": "Chaska",
+        "zipcodes": ["55318"],
+        "areacodes": ["952"]
+      },
+      {
+        "cityname": "Chisholm",
+        "zipcodes": ["55719"],
+        "areacodes": ["218"]
+      },
+      {
+        "cityname": "Circle Pines",
+        "zipcodes": ["55014"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Cloquet",
+        "zipcodes": ["55720"],
+        "areacodes": ["218"]
+      },
+      {
+        "cityname": "Cokato",
+        "zipcodes": ["55321"],
+        "areacodes": ["320"]
+      },
+      {
+        "cityname": "Columbia Heights",
+        "zipcodes": ["55421"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Coon Rapids",
+        "zipcodes": ["55433", "55448"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Cottage Grove",
+        "zipcodes": ["55016"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Crookston",
+        "zipcodes": ["56716"],
+        "areacodes": ["218"]
+      },
+      {
+        "cityname": "Crystal",
+        "zipcodes": ["55422", "55427", "55428"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Detroit Lakes",
+        "zipcodes": ["56501"],
+        "areacodes": ["218"]
+      },
+      {
+        "cityname": "Duluth",
+        "zipcodes": ["55802", "55803", "55804", "55805", "55806", "55807", "55808", "55810", "55811", "55812"],
+        "areacodes": ["218"]
+      },
+      {
+        "cityname": "Eagan",
+        "zipcodes": ["55121", "55122", "55123"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "East Bethel",
+        "zipcodes": ["55005", "55092"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Eden Prairie",
+        "zipcodes": ["55344", "55346", "55347"],
+        "areacodes": ["952"]
+      },
+      {
+        "cityname": "Edina",
+        "zipcodes": ["55410", "55416", "55424", "55435", "55436", "55439"],
+        "areacodes": ["952"]
+      },
+      {
+        "cityname": "Elk River",
+        "zipcodes": ["55330"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Ely",
+        "zipcodes": ["55731"],
+        "areacodes": ["218"]
+      },
+      {
+        "cityname": "Eveleth",
+        "zipcodes": ["55734"],
+        "areacodes": ["218"]
+      },
+      {
+        "cityname": "Excelsior",
+        "zipcodes": ["55331"],
+        "areacodes": ["952"]
+      },
+      {
+        "cityname": "Fairmont",
+        "zipcodes": ["56031"],
+        "areacodes": ["507"]
+      },
+      {
+        "cityname": "Falcon Heights",
+        "zipcodes": ["55108"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Faribault",
+        "zipcodes": ["55021"],
+        "areacodes": ["507"]
+      },
+      {
+        "cityname": "Farmington",
+        "zipcodes": ["55024"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Fergus Falls",
+        "zipcodes": ["56537"],
+        "areacodes": ["218"]
+      },
+      {
+        "cityname": "Forest Lake",
+        "zipcodes": ["55025"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Fridley",
+        "zipcodes": ["55421", "55432"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Glencoe",
+        "zipcodes": ["55336"],
+        "areacodes": ["320"]
+      },
+      {
+        "cityname": "Golden Valley",
+        "zipcodes": ["55416", "55422", "55427"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Grand Rapids",
+        "zipcodes": ["55744"],
+        "areacodes": ["218"]
+      },
+      {
+        "cityname": "Ham Lake",
+        "zipcodes": ["55304"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Hastings",
+        "zipcodes": ["55033"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Hibbing",
+        "zipcodes": ["55746"],
+        "areacodes": ["218"]
+      },
+      {
+        "cityname": "Hopkins",
+        "zipcodes": ["55305", "55343"],
+        "areacodes": ["952"]
+      },
+      {
+        "cityname": "Hugo",
+        "zipcodes": ["55038"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Hutchinson",
+        "zipcodes": ["55350"],
+        "areacodes": ["320"]
+      },
+      {
+        "cityname": "International Falls",
+        "zipcodes": ["56649"],
+        "areacodes": ["218"]
+      },
+      {
+        "cityname": "Inver Grove Heights",
+        "zipcodes": ["55076", "55077"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Isanti",
+        "zipcodes": ["55040"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Jordan",
+        "zipcodes": ["55352"],
+        "areacodes": ["952"]
+      },
+      {
+        "cityname": "Kasson",
+        "zipcodes": ["55944"],
+        "areacodes": ["507"]
+      },
+      {
+        "cityname": "La Crescent",
+        "zipcodes": ["55947"],
+        "areacodes": ["507"]
+      },
+      {
+        "cityname": "Lake City",
+        "zipcodes": ["55041"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Lake Elmo",
+        "zipcodes": ["55042"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Lakeville",
+        "zipcodes": ["55044"],
+        "areacodes": ["952"]
+      },
+      {
+        "cityname": "Lino Lakes",
+        "zipcodes": ["55014"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Litchfield",
+        "zipcodes": ["55355"],
+        "areacodes": ["320"]
+      },
+      {
+        "cityname": "Little Canada",
+        "zipcodes": ["55117"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Little Falls",
+        "zipcodes": ["56345"],
+        "areacodes": ["320"]
+      },
+      {
+        "cityname": "Mahtomedi",
+        "zipcodes": ["55115"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Mankato",
+        "zipcodes": ["56001", "56002"],
+        "areacodes": ["507"]
+      },
+      {
+        "cityname": "Maple Grove",
+        "zipcodes": ["55311", "55369"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Maplewood",
+        "zipcodes": ["55109", "55119"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Marshall",
+        "zipcodes": ["56258"],
+        "areacodes": ["507"]
+      },
+      {
+        "cityname": "Mendota Heights",
+        "zipcodes": ["55118", "55120"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Minneapolis",
+        "zipcodes": ["55401", "55402", "55403", "55404", "55405", "55406", "55407", "55408", "55409", "55410", "55411", "55412", "55413", "55414", "55415", "55416", "55417", "55418", "55419", "55420", "55421", "55422", "55423", "55424", "55425", "55426", "55427", "55428", "55429", "55430", "55431", "55432", "55433", "55434", "55435", "55436", "55437", "55438", "55439", "55440", "55441", "55442", "55443", "55444", "55445", "55446", "55447", "55448", "55449", "55450", "55454", "55455", "55458", "55459", "55460", "55467", "55470", "55472", "55473", "55474", "55478", "55479", "55480", "55483", "55484", "55485", "55486", "55487", "55488"],
+        "areacodes": ["612", "763", "952"]
+      },
+      {
+        "cityname": "Minnetonka",
+        "zipcodes": ["55305", "55343", "55345"],
+        "areacodes": ["952"]
+      },
+      {
+        "cityname": "Minnetrista",
+        "zipcodes": ["55364"],
+        "areacodes": ["952"]
+      },
+      {
+        "cityname": "Montevideo",
+        "zipcodes": ["56265"],
+        "areacodes": ["320"]
+      },
+      {
+        "cityname": "Monticello",
+        "zipcodes": ["55362"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Moorhead",
+        "zipcodes": ["56560"],
+        "areacodes": ["218"]
+      },
+      {
+        "cityname": "Mora",
+        "zipcodes": ["55051"],
+        "areacodes": ["320"]
+      },
+      {
+        "cityname": "Morris",
+        "zipcodes": ["56267"],
+        "areacodes": ["320"]
+      },
+      {
+        "cityname": "Mound",
+        "zipcodes": ["55364"],
+        "areacodes": ["952"]
+      },
+      {
+        "cityname": "Mounds View",
+        "zipcodes": ["55112"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "New Brighton",
+        "zipcodes": ["55112"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "New Hope",
+        "zipcodes": ["55427", "55428"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "New Prague",
+        "zipcodes": ["56071"],
+        "areacodes": ["952"]
+      },
+      {
+        "cityname": "New Ulm",
+        "zipcodes": ["56073"],
+        "areacodes": ["507"]
+      },
+      {
+        "cityname": "North Branch",
+        "zipcodes": ["55056"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "North Mankato",
+        "zipcodes": ["56003"],
+        "areacodes": ["507"]
+      },
+      {
+        "cityname": "North St. Paul",
+        "zipcodes": ["55109"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Northfield",
+        "zipcodes": ["55057"],
+        "areacodes": ["507"]
+      },
+      {
+        "cityname": "Oak Grove",
+        "zipcodes": ["55011"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Oakdale",
+        "zipcodes": ["55128"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Orono",
+        "zipcodes": ["55356"],
+        "areacodes": ["952"]
+      },
+      {
+        "cityname": "Otsego",
+        "zipcodes": ["55330"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Owatonna",
+        "zipcodes": ["55060"],
+        "areacodes": ["507"]
+      },
+      {
+        "cityname": "Plymouth",
+        "zipcodes": ["55441", "55442", "55446", "55447"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Prior Lake",
+        "zipcodes": ["55372"],
+        "areacodes": ["952"]
+      },
+      {
+        "cityname": "Ramsey",
+        "zipcodes": ["55303"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Red Wing",
+        "zipcodes": ["55066"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Richfield",
+        "zipcodes": ["55423"],
+        "areacodes": ["612"]
+      },
+      {
+        "cityname": "Robbinsdale",
+        "zipcodes": ["55422"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "Rochester",
+        "zipcodes": ["55901", "55902", "55903", "55904", "55905", "55906"],
+        "areacodes": ["507"]
+      },
+      {
+        "cityname": "Rosemount",
+        "zipcodes": ["55068"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Roseville",
+        "zipcodes": ["55113"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Sartell",
+        "zipcodes": ["56377"],
+        "areacodes": ["320"]
+      },
+      {
+        "cityname": "Sauk Rapids",
+        "zipcodes": ["56379"],
+        "areacodes": ["320"]
+      },
+      {
+        "cityname": "Savage",
+        "zipcodes": ["55378"],
+        "areacodes": ["952"]
+      },
+      {
+        "cityname": "Shakopee",
+        "zipcodes": ["55379"],
+        "areacodes": ["952"]
+      },
+      {
+        "cityname": "Shoreview",
+        "zipcodes": ["55126"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Shorewood",
+        "zipcodes": ["55331"],
+        "areacodes": ["952"]
+      },
+      {
+        "cityname": "South St. Paul",
+        "zipcodes": ["55075"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "St. Cloud",
+        "zipcodes": ["56301", "56303", "56304"],
+        "areacodes": ["320"]
+      },
+      {
+        "cityname": "St. Louis Park",
+        "zipcodes": ["55416", "55426"],
+        "areacodes": ["952"]
+      },
+      {
+        "cityname": "St. Michael",
+        "zipcodes": ["55376"],
+        "areacodes": ["763"]
+      },
+      {
+        "cityname": "St. Paul",
+        "zipcodes": ["55101", "55102", "55103", "55104", "55105", "55106", "55107", "55108", "55109", "55110", "55111", "55112", "55113", "55114", "55115", "55116", "55117", "55118", "55119", "55120", "55121", "55122", "55123", "55124", "55125", "55126", "55127", "55128", "55129", "55130", "55133", "55144", "55145", "55146", "55150", "55155", "55164", "55165", "55166", "55168", "55169", "55170", "55171", "55172", "55175", "55177", "55182", "55187", "55188"]
+      },
+      {
+        "cityname": "St. Peter",
+        "zipcodes": ["56082"],
+        "areacodes": ["507"]
+      },
+      {
+        "cityname": "Staples",
+        "zipcodes": ["56479"],
+        "areacodes": ["218"]
+      },
+      {
+        "cityname": "Stillwater",
+        "zipcodes": ["55082"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Thief River Falls",
+        "zipcodes": ["56701"],
+        "areacodes": ["218"]
+      },
+      {
+        "cityname": "Vadnais Heights",
+        "zipcodes": ["55127"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Victoria",
+        "zipcodes": ["55386"],
+        "areacodes": ["952"]
+      },
+      {
+        "cityname": "Virginia",
+        "zipcodes": ["55792"],
+        "areacodes": ["218"]
+      },
+      {
+        "cityname": "Waconia",
+        "zipcodes": ["55387"],
+        "areacodes": ["952"]
+      },
+      {
+        "cityname": "Waite Park",
+        "zipcodes": ["56387"],
+        "areacodes": ["320"]
+      },
+      {
+        "cityname": "Waseca",
+        "zipcodes": ["56093"],
+        "areacodes": ["507"]
+      },
+      {
+        "cityname": "West St. Paul",
+        "zipcodes": ["55118"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "White Bear Lake",
+        "zipcodes": ["55110"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Willmar",
+        "zipcodes": ["56201"],
+        "areacodes": ["320"]
+      },
+      {
+        "cityname": "Winona",
+        "zipcodes": ["55987"],
+        "areacodes": ["507"]
+      },
+      {
+        "cityname": "Woodbury",
+        "zipcodes": ["55125", "55129"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Worthington",
+        "zipcodes": ["56187"],
+        "areacodes": ["507"]
+      },
+      {
+        "cityname": "Wyoming",
+        "zipcodes": ["55092"],
+        "areacodes": ["651"]
+      },
+      {
+        "cityname": "Zimmerman",
+        "zipcodes": ["55398"],
+        "areacodes": ["763"]
+      }
+    ]
+  }
+  

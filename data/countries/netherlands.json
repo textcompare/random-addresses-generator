@@ -1,103 +1,1104 @@
 {
-    "streetNames": [
-        "Damstraat",
-        "Prins Hendriklaan",
-        "Keizersgracht",
-        "Kalverstraat",
-        "Westerstraat",
-        "Zuidas",
-        "Lange Vijverberg",
-        "Rokin",
-        "Van Baerlestraat",
-        "Herengracht",
-        "Vijzelstraat",
-        "Nieuwendijk",
-        "Brouwersgracht",
-        "Pieterstraat",
-        "Marnixstraat",
-        "Amstelveenseweg",
-        "Singel",
-        "Amstelstraat",
-        "Korte Leidsedwarsstraat",
-        "Rembrandtplein"
+  "countrycode": "+31",
+  "phoneformat": "(A) XXXX-XXXX",
+  "country": "Netherlands",
+  "neighborhoods": {
+    "corporate": [
+      "Amsterdam Business District",
+      "Rotterdam Business Hub",
+      "The Hague Corporate Zone",
+      "Utrecht Business Area",
+      "Eindhoven Business District",
+      "Groningen Business Center",
+      "Haarlem Corporate Area",
+      "Maastricht Business Zone",
+      "Arnhem Central Business District",
+      "Leiden Business Area",
+      "Delft Business District",
+      "Almere Corporate Zone",
+      "Zwolle Business Area",
+      "Tilburg Business District",
+      "Breda Business District",
+      "Den Bosch Corporate Zone",
+      "Haarlem Business Hub",
+      "Dordrecht Corporate Area",
+      "Amersfoort Business Zone",
+      "Gouda Business District",
+      "Rotterdam Harbor Business District",
+      "Eindhoven Technology Hub",
+      "Amsterdam Zuidas",
+      "The Hague International Zone",
+      "Leiden Science Park",
+      "Rotterdam Central Business Zone",
+      "Hilversum Media District",
+      "Maastricht International Business Area",
+      "Den Haag Central District",
+      "Utrecht Science Park",
+      "Amsterdam West Business Zone",
+      "Groningen Industrial Area",
+      "Eindhoven High-Tech Business District",
+      "Zwolle Business Hub",
+      "Ede Business Zone",
+      "Almere Central Business Area",
+      "Delft University Campus",
+      "Amsterdam East Business District",
+      "Rotterdam Innovation Hub",
+      "Haarlem Downtown",
+      "Arnhem Central Area",
+      "Tilburg Business Zone"
     ],
-    "streetNumbers": [
-        "101",
-        "202",
-        "303",
-        "404",
-        "505",
-        "606",
-        "707",
-        "808",
-        "909",
-        "1234",
-        "4321",
-        "5678",
-        "6789",
-        "7890",
-        "8901",
-        "2345",
-        "3456",
-        "4567",
-        "5670",
-        "6781"
+    "industrial": [
+      "Rotterdam Port Industrial District",
+      "Amsterdam Industrial Zone",
+      "Eindhoven Industrial Complex",
+      "Groningen Industrial Area",
+      "The Hague Industrial Park",
+      "Utrecht Industrial Zone",
+      "Delft Industrial District",
+      "Haarlem Industrial Area",
+      "Almere Industrial Park",
+      "Breda Industrial Complex",
+      "Maastricht Industrial Zone",
+      "Leiden Industrial District",
+      "Zwolle Industrial Park",
+      "Arnhem Industrial Zone",
+      "Den Bosch Industrial Area",
+      "Tilburg Industrial Complex",
+      "Gouda Industrial Zone",
+      "Bussum Industrial Park",
+      "Sassenheim Industrial District",
+      "Almere Industrial Complex",
+      "Rotterdam Chemical Park",
+      "Beverwijk Industrial Park",
+      "Velsen Industrial District",
+      "Hoofddorp Industrial Area",
+      "Haarlem Logistics Zone",
+      "Venlo Industrial Zone",
+      "Maastricht Industrial Park",
+      "Eindhoven Free Zone",
+      "Enschede Industrial District",
+      "Dordrecht Industrial Park",
+      "Leiden Industrial Park",
+      "Hilversum Industrial Complex",
+      "Groningen Free Zone",
+      "Zaanstad Industrial Zone",
+      "Tilburg Industrial Park",
+      "Delft Free Zone",
+      "Amersfoort Industrial Zone",
+      "Alphen aan den Rijn Industrial Complex",
+      "Assen Industrial Area",
+      "Utrecht Industrial Complex",
+      "Haarlem Business District",
+      "Rotterdam Logistics Zone",
+      "Den Bosch Industrial Complex",
+      "Leiden Technology Park",
+      "Rotterdam Manufacturing Hub"
     ],
-    "cities": [
-        "Amsterdam",
-        "Rotterdam",
-        "The Hague",
-        "Utrecht",
-        "Eindhoven",
-        "Groningen",
-        "Tilburg",
-        "Almere",
-        "Breda",
-        "Nijmegen",
-        "Haarlem",
-        "Arnhem",
-        "Zaanstad",
-        "Amersfoort",
-        "Dordrecht",
-        "Leiden",
-        "Maastricht",
-        "Zwolle",
-        "Gouda",
-        "Apeldoorn"
-    ],
-    "states": [
-        "Drenthe",
-        "Flevoland",
-        "Friesland",
-        "Gelderland",
-        "Groningen",
-        "Limburg",
-        "Noord-Brabant",
-        "Noord-Holland",
-        "Overijssel",
-        "Utrecht",
-        "Zeeland",
-        "Zuid-Holland"
-    ],
-    "zipCodes": [
-        "1000",
-        "2000",
-        "3000",
-        "4000",
-        "5000",
-        "6000",
-        "7000",
-        "8000",
-        "9000",
-        "1234",
-        "2345",
-        "3456",
-        "4567",
-        "5678",
-        "6789",
-        "7890",
-        "8901",
-        "9012",
-        "2123"
+    "residential": [
+      "Amsterdam",
+      "Rotterdam",
+      "The Hague",
+      "Utrecht",
+      "Eindhoven",
+      "Groningen",
+      "Maastricht",
+      "Haarlem",
+      "Almere",
+      "Breda",
+      "Tilburg",
+      "Leiden",
+      "Delft",
+      "Zwolle",
+      "Den Bosch",
+      "Arnhem",
+      "Gouda",
+      "Amersfoort",
+      "Dordrecht",
+      "Hilversum",
+      "Bussum",
+      "Sassenheim",
+      "Hoofddorp",
+      "Velsen",
+      "Venlo",
+      "Enschede",
+      "Alphen aan den Rijn",
+      "Assen",
+      "Apeldoorn",
+      "Rotterdam-West",
+      "Groningen City",
+      "Amsterdam-Noord",
+      "Haarlem-Zuid",
+      "Den Haag-Centrum",
+      "Eindhoven-West",
+      "Utrecht-Centrum",
+      "Maastricht-City Center",
+      "Leiden-Centrum",
+      "Amersfoort-City Center",
+      "Breda-City Center",
+      "Sittard",
+      "Zaandam",
+      "Alkmaar",
+      "Den Bosch-Centrum",
+      "Middelburg",
+      "Assen Residential Zone",
+      "Utrecht-South",
+      "Haarlem-Centrum",
+      "Venlo-City",
+      "Rotterdam-North",
+      "Zwolle-Centrum",
+      "Lelystad",
+      "Tiel",
+      "Dordrecht-City",
+      "Veldhoven",
+      "Eindhoven-East",
+      "Gouda Residential Area"
     ]
+  },
+  "streetnames": {
+    "corporate": [
+      "Herengracht",
+      "Keizersgracht",
+      "Damstraat",
+      "Leidsestraat",
+      "Rokin",
+      "Prinsengracht",
+      "Singel",
+      "Vondelstraat",
+      "Wibautstraat",
+      "Spuistraat",
+      "Reguliersdwarsstraat",
+      "Damrak",
+      "Stadhouderskade",
+      "Nieuwendijk",
+      "Zuidas",
+      "Pieter de Hoochstraat",
+      "Marnixstraat",
+      "Amstelveenseweg",
+      "Leliegracht",
+      "Kalverstraat",
+      "Van Baerlestraat",
+      "Sarphatistraat",
+      "Haarlemmerdijk",
+      "Westerstraat",
+      "Nieuwezijds Voorburgwal",
+      "Vijzelstraat",
+      "Wibautstraat",
+      "Korte Leidsedwarsstraat",
+      "Pijp",
+      "Sophie Charlotte",
+      "Boerhaavestraat",
+      "Herengracht",
+      "Spaarndammerstraat",
+      "Lauriergracht",
+      "Havenstraat",
+      "Apollolaan",
+      "Vondelpark",
+      "Grachtengordel",
+      "Keizersgracht",
+      "Prinsengracht",
+      "Amstelveenseweg",
+      "Amsterdam-Noord",
+      "Zuidas Boulevard",
+      "Zeeburgerdijk"
+    ],
+    "industrial": [
+      "Havenstraat",
+      "Industrieweg",
+      "Hogeweg",
+      "Westhavenweg",
+      "Laan van Ypenburg",
+      "Kromme Zandweg",
+      "Korte Havenstraat",
+      "Molenstraat",
+      "Hoofdstraat",
+      "Grote Havenstraat",
+      "Handelskade",
+      "Oosthavenweg",
+      "Lelystad Industrial Road",
+      "Nieuwendijk",
+      "Zuid-Willemsvaart",
+      "Lange Haven",
+      "Transportweg",
+      "Magazijnstraat",
+      "Geldersekade",
+      "Heuvelstraat",
+      "Oranje Nassaulaan",
+      "Bovenhavenstraat",
+      "Grote Markt",
+      "Almere Industrial Road",
+      "Westerkade",
+      "Dijkstraat",
+      "Lijnbaansgracht",
+      "Witte de Withstraat",
+      "Voorstraat",
+      "Stationsplein",
+      "Dordrecht Industrial Avenue",
+      "Amersfoort Industrial Lane",
+      "Hoofddorp Industrial Street",
+      "Venlo Industrial Drive",
+      "Rotterdam Port Avenue",
+      "Bovenstraat",
+      "Van Dijkstraat",
+      "Haasweg",
+      "Parkweg",
+      "Emmastraat",
+      "Bovenweg",
+      "Spoorstraat",
+      "Molenstraat",
+      "Eindhoven Road"
+    ],
+    "residential": [
+      "Damstraat",
+      "Vondelstraat",
+      "Haarlemmerstraat",
+      "Geldersekade",
+      "Javastraat",
+      "Grote Houtstraat",
+      "Lange Leidsedwarsstraat",
+      "Korte Leidsedwarsstraat",
+      "Pieter de Hoochstraat",
+      "Kruisstraat",
+      "Westerstraat",
+      "Kloosterplein",
+      "Dreef",
+      "Laan van Meerdervoort",
+      "Pijpenstraat",
+      "Havenstraat",
+      "Vondelparklaan",
+      "Singelstraat",
+      "Pijpstraat",
+      "Wagenstraat",
+      "Kalverstraat",
+      "Biltstraat",
+      "Frans Halsstraat",
+      "Zuidasweg",
+      "Karel Doormanstraat",
+      "Bovenkarspel",
+      "Apollolaan",
+      "Statenlaan",
+      "Westkade",
+      "Kloosterweg",
+      "Dam",
+      "Ceresstraat",
+      "Gerard Doustraat",
+      "Amstelveenseweg",
+      "Grachtenpad",
+      "Bovenhavenstraat",
+      "Haarlemmerdijk",
+      "Wibautstraat",
+      "Eikenlaan",
+      "Piet Mondriaanstraat",
+      "Nederhorst",
+      "Geuzenstraat",
+      "Reguliersgracht",
+      "Hoogstraat",
+      "Molenweg"
+    ]
+  },
+  "provinces": {
+    "Drenthe": {
+      "cities": [
+        {
+          "cityname": "Assen",
+          "zipcodes": [
+            "9400",
+            "9401",
+            "9402",
+            "9403",
+            "9404"
+          ],
+          "areacodes": [
+            "0592"
+          ]
+        },
+        {
+          "cityname": "Emmen",
+          "zipcodes": [
+            "7800",
+            "7801",
+            "7802",
+            "7803",
+            "7804"
+          ],
+          "areacodes": [
+            "0591"
+          ]
+        },
+        {
+          "cityname": "Hoogeveen",
+          "zipcodes": [
+            "7900",
+            "7901",
+            "7902",
+            "7903",
+            "7904"
+          ],
+          "areacodes": [
+            "0528"
+          ]
+        },
+        {
+          "cityname": "Meppel",
+          "zipcodes": [
+            "7940",
+            "7941",
+            "7942",
+            "7943",
+            "7944"
+          ],
+          "areacodes": [
+            "0522"
+          ]
+        },
+        {
+          "cityname": "Coevorden",
+          "zipcodes": [
+            "7740",
+            "7741",
+            "7742",
+            "7743",
+            "7744"
+          ],
+          "areacodes": [
+            "0524"
+          ]
+        },
+        {
+          "cityname": "Beilen",
+          "zipcodes": [
+            "9411",
+            "9412",
+            "9413",
+            "9414",
+            "9415"
+          ],
+          "areacodes": [
+            "0593"
+          ]
+        },
+        {
+          "cityname": "Zuidwolde",
+          "zipcodes": [
+            "7921",
+            "7922",
+            "7923",
+            "7924",
+            "7925"
+          ],
+          "areacodes": [
+            "0528"
+          ]
+        },
+        {
+          "cityname": "Pekela",
+          "zipcodes": [
+            "9665",
+            "9666",
+            "9667",
+            "9668",
+            "9669"
+          ],
+          "areacodes": [
+            "0597"
+          ]
+        },
+        {
+          "cityname": "Rolde",
+          "zipcodes": [
+            "9441",
+            "9442",
+            "9443",
+            "9444",
+            "9445"
+          ],
+          "areacodes": [
+            "0592"
+          ]
+        },
+        {
+          "cityname": "Sleen",
+          "zipcodes": [
+            "7840",
+            "7841",
+            "7842",
+            "7843",
+            "7844"
+          ],
+          "areacodes": [
+            "0591"
+          ]
+        }
+      ],
+      "name": "Drenthe"
+    },
+    "Flevoland": {
+      "cities": [
+        {
+          "cityname": "Lelystad",
+          "zipcodes": [
+            "8200",
+            "8201",
+            "8202",
+            "8203",
+            "8204"
+          ],
+          "areacodes": [
+            "0320"
+          ]
+        },
+        {
+          "cityname": "Almere",
+          "zipcodes": [
+            "1300",
+            "1301",
+            "1302",
+            "1303",
+            "1304"
+          ],
+          "areacodes": [
+            "036"
+          ]
+        },
+        {
+          "cityname": "Dronten",
+          "zipcodes": [
+            "8250",
+            "8251",
+            "8252",
+            "8253",
+            "8254"
+          ],
+          "areacodes": [
+            "0321"
+          ]
+        },
+        {
+          "cityname": "Zeewolde",
+          "zipcodes": [
+            "3890",
+            "3891",
+            "3892",
+            "3893",
+            "3894"
+          ],
+          "areacodes": [
+            "036"
+          ]
+        },
+        {
+          "cityname": "Urk",
+          "zipcodes": [
+            "8320",
+            "8321",
+            "8322",
+            "8323",
+            "8324"
+          ],
+          "areacodes": [
+            "0527"
+          ]
+        }
+      ],
+      "name": "Flevoland"
+    },
+    "Friesland": {
+      "cities": [
+        {
+          "cityname": "Leeuwarden",
+          "zipcodes": [
+            "8911",
+            "8912",
+            "8913",
+            "8914",
+            "8915"
+          ],
+          "areacodes": [
+            "058"
+          ]
+        },
+        {
+          "cityname": "Heerenveen",
+          "zipcodes": [
+            "8441",
+            "8442",
+            "8443",
+            "8444",
+            "8445"
+          ],
+          "areacodes": [
+            "0513"
+          ]
+        },
+        {
+          "cityname": "Drachten",
+          "zipcodes": [
+            "9201",
+            "9202",
+            "9203",
+            "9204",
+            "9205"
+          ],
+          "areacodes": [
+            "0512"
+          ]
+        },
+        {
+          "cityname": "Sneek",
+          "zipcodes": [
+            "8601",
+            "8602",
+            "8603",
+            "8604",
+            "8605"
+          ],
+          "areacodes": [
+            "0515"
+          ]
+        },
+        {
+          "cityname": "Harlingen",
+          "zipcodes": [
+            "8861",
+            "8862",
+            "8863",
+            "8864",
+            "8865"
+          ],
+          "areacodes": [
+            "0517"
+          ]
+        },
+        {
+          "cityname": "Frjentsjer",
+          "zipcodes": [
+            "8801",
+            "8802",
+            "8803",
+            "8804",
+            "8805"
+          ],
+          "areacodes": [
+            "0517"
+          ]
+        }
+      ],
+      "name": "Friesland"
+    },
+    "Gelderland": {
+      "cities": [
+        {
+          "cityname": "Arnhem",
+          "zipcodes": [
+            "6811",
+            "6812",
+            "6813",
+            "6814",
+            "6815"
+          ],
+          "areacodes": [
+            "026"
+          ]
+        },
+        {
+          "cityname": "Nijmegen",
+          "zipcodes": [
+            "6511",
+            "6512",
+            "6513",
+            "6514",
+            "6515"
+          ],
+          "areacodes": [
+            "024"
+          ]
+        },
+        {
+          "cityname": "Apeldoorn",
+          "zipcodes": [
+            "7311",
+            "7312",
+            "7313",
+            "7314",
+            "7315"
+          ],
+          "areacodes": [
+            "055"
+          ]
+        },
+        {
+          "cityname": "Ede",
+          "zipcodes": [
+            "6711",
+            "6712",
+            "6713",
+            "6714",
+            "6715"
+          ],
+          "areacodes": [
+            "0318"
+          ]
+        },
+        {
+          "cityname": "Veenendaal",
+          "zipcodes": [
+            "3901",
+            "3902",
+            "3903",
+            "3904",
+            "3905"
+          ],
+          "areacodes": [
+            "0318"
+          ]
+        },
+        {
+          "cityname": "Zutphen",
+          "zipcodes": [
+            "7201",
+            "7202",
+            "7203",
+            "7204",
+            "7205"
+          ],
+          "areacodes": [
+            "0575"
+          ]
+        }
+      ],
+      "name": "Gelderland"
+    },
+    "Groningen": {
+      "cities": [
+        {
+          "cityname": "Groningen",
+          "zipcodes": [
+            "9711",
+            "9712",
+            "9713",
+            "9714",
+            "9715"
+          ],
+          "areacodes": [
+            "050"
+          ]
+        },
+        {
+          "cityname": "Delfzijl",
+          "zipcodes": [
+            "9931",
+            "9932",
+            "9933",
+            "9934",
+            "9935"
+          ],
+          "areacodes": [
+            "0590"
+          ]
+        },
+        {
+          "cityname": "Veendam",
+          "zipcodes": [
+            "9641",
+            "9642",
+            "9643",
+            "9644",
+            "9645"
+          ],
+          "areacodes": [
+            "0598"
+          ]
+        },
+        {
+          "cityname": "Stadskanaal",
+          "zipcodes": [
+            "9501",
+            "9502",
+            "9503",
+            "9504",
+            "9505"
+          ],
+          "areacodes": [
+            "0599"
+          ]
+        },
+        {
+          "cityname": "Haren",
+          "zipcodes": [
+            "9751",
+            "9752",
+            "9753",
+            "9754",
+            "9755"
+          ],
+          "areacodes": [
+            "050"
+          ]
+        },
+        {
+          "cityname": "Appingedam",
+          "zipcodes": [
+            "9901",
+            "9902",
+            "9903",
+            "9904",
+            "9905"
+          ],
+          "areacodes": [
+            "0596"
+          ]
+        }
+      ],
+      "name": "Groningen"
+    },
+    "Limburg": {
+      "cities": [
+        {
+          "cityname": "Maastricht",
+          "zipcodes": [
+            "6211",
+            "6212",
+            "6213",
+            "6214",
+            "6215"
+          ],
+          "areacodes": [
+            "043"
+          ]
+        },
+        {
+          "cityname": "Venlo",
+          "zipcodes": [
+            "5911",
+            "5912",
+            "5913",
+            "5914",
+            "5915"
+          ],
+          "areacodes": [
+            "077"
+          ]
+        },
+        {
+          "cityname": "Roermond",
+          "zipcodes": [
+            "6041",
+            "6042",
+            "6043",
+            "6044",
+            "6045"
+          ],
+          "areacodes": [
+            "0475"
+          ]
+        },
+        {
+          "cityname": "Sittard",
+          "zipcodes": [
+            "6131",
+            "6132",
+            "6133",
+            "6134",
+            "6135"
+          ],
+          "areacodes": [
+            "046"
+          ]
+        },
+        {
+          "cityname": "Geleen",
+          "zipcodes": [
+            "6161",
+            "6162",
+            "6163",
+            "6164",
+            "6165"
+          ],
+          "areacodes": [
+            "046"
+          ]
+        },
+        {
+          "cityname": "Heerlen",
+          "zipcodes": [
+            "6401",
+            "6402",
+            "6403",
+            "6404",
+            "6405"
+          ],
+          "areacodes": [
+            "045"
+          ]
+        }
+      ],
+      "name": "Limburg"
+    },
+    "North Holland": {
+      "cities": [
+        {
+          "cityname": "Amsterdam",
+          "zipcodes": [
+            "1011",
+            "1012",
+            "1013",
+            "1014",
+            "1015"
+          ],
+          "areacodes": [
+            "020"
+          ]
+        },
+        {
+          "cityname": "Haarlem",
+          "zipcodes": [
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015"
+          ],
+          "areacodes": [
+            "023"
+          ]
+        },
+        {
+          "cityname": "Zaandam",
+          "zipcodes": [
+            "1501",
+            "1502",
+            "1503",
+            "1504",
+            "1505"
+          ],
+          "areacodes": [
+            "075"
+          ]
+        },
+        {
+          "cityname": "Alkmaar",
+          "zipcodes": [
+            "1811",
+            "1812",
+            "1813",
+            "1814",
+            "1815"
+          ],
+          "areacodes": [
+            "072"
+          ]
+        },
+        {
+          "cityname": "Hilversum",
+          "zipcodes": [
+            "1211",
+            "1212",
+            "1213",
+            "1214",
+            "1215"
+          ],
+          "areacodes": [
+            "035"
+          ]
+        },
+        {
+          "cityname": "Amstelveen",
+          "zipcodes": [
+            "1181",
+            "1182",
+            "1183",
+            "1184",
+            "1185"
+          ],
+          "areacodes": [
+            "020"
+          ]
+        }
+      ],
+      "name": "North Holland"
+    },
+    "North Brabant": {
+      "cities": [
+        {
+          "cityname": "Eindhoven",
+          "zipcodes": [
+            "5611",
+            "5612",
+            "5613",
+            "5614",
+            "5615"
+          ],
+          "areacodes": [
+            "040"
+          ]
+        },
+        {
+          "cityname": "Tilburg",
+          "zipcodes": [
+            "5011",
+            "5012",
+            "5013",
+            "5014",
+            "5015"
+          ],
+          "areacodes": [
+            "013"
+          ]
+        },
+        {
+          "cityname": "Breda",
+          "zipcodes": [
+            "4811",
+            "4812",
+            "4813",
+            "4814",
+            "4815"
+          ],
+          "areacodes": [
+            "076"
+          ]
+        },
+        {
+          "cityname": "Den Bosch",
+          "zipcodes": [
+            "5211",
+            "5212",
+            "5213",
+            "5214",
+            "5215"
+          ],
+          "areacodes": [
+            "073"
+          ]
+        },
+        {
+          "cityname": "Helmond",
+          "zipcodes": [
+            "5701",
+            "5702",
+            "5703",
+            "5704",
+            "5705"
+          ],
+          "areacodes": [
+            "0492"
+          ]
+        },
+        {
+          "cityname": "Oss",
+          "zipcodes": [
+            "5341",
+            "5342",
+            "5343",
+            "5344",
+            "5345"
+          ],
+          "areacodes": [
+            "0412"
+          ]
+        }
+      ],
+      "name": "North Brabant"
+    },
+    "Overijssel": {
+      "cities": [
+        {
+          "cityname": "Zwolle",
+          "zipcodes": [
+            "8011",
+            "8012",
+            "8013",
+            "8014",
+            "8015"
+          ],
+          "areacodes": [
+            "038"
+          ]
+        },
+        {
+          "cityname": "Enschede",
+          "zipcodes": [
+            "7511",
+            "7512",
+            "7513",
+            "7514",
+            "7515"
+          ],
+          "areacodes": [
+            "053"
+          ]
+        },
+        {
+          "cityname": "Deventer",
+          "zipcodes": [
+            "7411",
+            "7412",
+            "7413",
+            "7414",
+            "7415"
+          ],
+          "areacodes": [
+            "0570"
+          ]
+        },
+        {
+          "cityname": "Hengelo",
+          "zipcodes": [
+            "7551",
+            "7552",
+            "7553",
+            "7554",
+            "7555"
+          ],
+          "areacodes": [
+            "074"
+          ]
+        },
+        {
+          "cityname": "Meppel",
+          "zipcodes": [
+            "7941",
+            "7942",
+            "7943",
+            "7944",
+            "7945"
+          ],
+          "areacodes": [
+            "0522"
+          ]
+        },
+        {
+          "cityname": "Olst",
+          "zipcodes": [
+            "8121",
+            "8122",
+            "8123",
+            "8124",
+            "8125"
+          ],
+          "areacodes": [
+            "0570"
+          ]
+        }
+      ],
+      "name": "Overijssel"
+    }
+  },
+  "citycontainers": [
+    "provinces"
+  ],
+  "firstnames": [
+  "Noah", "Lucas", "Daan", "Levi", "Milan", "Finn", "Sem", "Liam", "Jesse", "Max", 
+  "Timo", "Luuk", "Ryan", "Mees", "Isaac", "Julian", "Teun", "Tom", "James", "Gijs",
+  "Lars", "Bram", "Joris", "Ravi", "Jordi", "Mick", "Kyan", "Damian", "Milan", "Benjamin",
+  "Felix", "Dylan", "Victor", "David", "Mats", "Simon", "Hassan", "Kay", "Rafael", "Niels",
+  "Zayn", "Maxim"
+],
+"lastnames": [
+  "de Vries", "Jansen", "de Jong", "van den Berg", "van Dijk", "Bakker", "Visser", "Smit", "Meijer", "Hendriks",
+  "Dekker", "Kramer", "Mulder", "Bos", "Peters", "Meyer", "Koster", "Schmidt", "Boer", "Willems",
+  "Huisman", "Vink", "Blom", "Lopes", "Mol", "Vermeulen", "Verhoeven", "Vanderberg", "Hoffman", "Huisman",
+  "Valk", "Faber", "Hansen", "Koning", "Van Leeuwen", "Van der Meer", "Vervent", "De Groot", "Stein", "Haring",
+  "Veldhuizen"
+]
+
 }

@@ -1,111 +1,1536 @@
 {
-    "streetNames": [
-        "La Rambla",
-        "Gran Vía",
-        "Avenida de la Constitución",
-        "Calle Mayor",
-        "Calle de Alcalá",
-        "Calle de Serrano",
-        "Paseo de la Castellana",
-        "Calle de Gran Vía",
-        "Avenida Diagonal",
-        "Paseo del Prado",
-        "Calle de Atocha",
-        "Calle de Fuencarral",
-        "Calle de Goya",
-        "Calle del Sol",
-        "Calle de las Huertas",
-        "Calle de San Vicente",
-        "Avenida de los Reyes Católicos",
-        "Paseo de la Reforma",
-        "Calle de la Princesa",
-        "Calle del Carmen"
+  "countrycode": "+34",
+  "phoneformat": "(A) XXX XXX XXX",
+  "country": "Spain",
+  "neighborhoods": {
+    "corporate": [
+      "Madrid City Center",
+      "Barcelona Eixample",
+      "Sevilla Centro",
+      "Valencia City Center",
+      "Malaga Centro",
+      "Bilbao La Vieja",
+      "Zaragoza Centro",
+      "Granada City Center",
+      "Alicante Centro",
+      "Las Palmas de Gran Canaria",
+      "Vigo City Center",
+      "Oviedo City Center",
+      "Murcia Centro",
+      "Tenerife",
+      "Castellon de la Plana",
+      "Santander",
+      "Gijon",
+      "Badajoz",
+      "Pamplona",
+      "Logrono",
+      "León",
+      "Albacete",
+      "Toledo",
+      "Lleida",
+      "Córdoba",
+      "Almería",
+      "San Sebastián",
+      "Girona",
+      "Cádiz",
+      "Caceres",
+      "Tarragona",
+      "Cuenca",
+      "Segovia",
+      "Soria",
+      "Huelva",
+      "Jaén",
+      "Valladolid",
+      "A Coruña",
+      "Huesca",
+      "Ávila",
+      "Pontevedra",
+      "Lugo",
+      "Burgos",
+      "Palencia",
+      "Salamanca",
+      "Castilla-La Mancha",
+      "Castilla y León",
+      "Balearic Islands",
+      "Cantabria"
     ],
-    "streetNumbers": [
-        "101",
-        "202",
-        "303",
-        "404",
-        "505",
-        "606",
-        "707",
-        "808",
-        "909",
-        "1234",
-        "4321",
-        "5678",
-        "6789",
-        "7890",
-        "8901",
-        "2345",
-        "3456",
-        "4567",
-        "5670",
-        "6781"
+    "industrial": [
+      "Vigo Industrial Zone",
+      "Barcelona Industrial District",
+      "Madrid Industrial Zone",
+      "Gijon Industrial Park",
+      "Bilbao Industrial Area",
+      "Valencia Industrial Park",
+      "Sevilla Industrial Complex",
+      "Granada Industrial Area",
+      "Alicante Industrial Complex",
+      "Zaragoza Industrial Zone",
+      "Toledo Industrial Park",
+      "Pamplona Industrial Complex",
+      "Badajoz Industrial Area",
+      "Lleida Industrial Park",
+      "Murcia Industrial Zone",
+      "Santander Industrial Area",
+      "Tenerife Industrial Park",
+      "Burgos Industrial District",
+      "Huelva Industrial Zone",
+      "Córdoba Industrial Area",
+      "Almería Industrial Park",
+      "Cádiz Industrial Complex",
+      "Tarragona Industrial Zone",
+      "Cuenca Industrial Area",
+      "Segovia Industrial Complex",
+      "Soria Industrial Park",
+      "Huesca Industrial District",
+      "Ávila Industrial Zone",
+      "Salamanca Industrial Complex",
+      "Palencia Industrial Park",
+      "Burgos Industrial Zone",
+      "Castilla-La Mancha Industrial Park",
+      "Pontevedra Industrial Zone",
+      "La Rioja Industrial Complex",
+      "Navarra Industrial Area",
+      "Castilla y León Industrial District",
+      "La Coruña Industrial Park",
+      "Cantabria Industrial Zone",
+      "Aragon Industrial Park",
+      "Madrid Suburban Industrial Area",
+      "Valladolid Industrial Complex",
+      "Galicia Industrial Zone"
     ],
-    "cities": [
-        "Madrid",
-        "Barcelona",
-        "Seville",
-        "Valencia",
-        "Bilbao",
-        "Granada",
-        "Malaga",
-        "Zaragoza",
-        "Murcia",
-        "Palma",
-        "Las Palmas",
-        "Alicante",
-        "Córdoba",
-        "Vigo",
-        "Valladolid",
-        "Santander",
-        "Oviedo",
-        "Pamplona",
-        "León",
-        "Gijón"
-    ],
-    "states": [
-        "Andalusia",
-        "Catalonia",
-        "Madrid",
-        "Valencia",
-        "Basque Country",
-        "Galicia",
-        "Castile and León",
-        "Castilla-La Mancha",
-        "Aragon",
-        "Cantabria",
-        "Murcia",
-        "Extremadura",
-        "Balearic Islands",
-        "Canary Islands",
-        "La Rioja",
-        "Navarre",
-        "Asturias",
-        "Galicia",
-        "Catalonia"
-    ],
-    "zipCodes": [
-        "28001",
-        "08001",
-        "41001",
-        "46001",
-        "48001",
-        "18001",
-        "29001",
-        "50001",
-        "30001",
-        "07001",
-        "35001",
-        "03001",
-        "14001",
-        "36201",
-        "47001",
-        "39001",
-        "33001",
-        "31001",
-        "24001",
-        "33201"
+    "residential": [
+      "Madrid Centro",
+      "Barcelona Eixample",
+      "Malaga City Center",
+      "Valencia Centro",
+      "Sevilla",
+      "Bilbao",
+      "Granada",
+      "Alicante",
+      "Zaragoza",
+      "Oviedo",
+      "Vigo",
+      "Pamplona",
+      "Badajoz",
+      "Gijon",
+      "San Sebastián",
+      "Córdoba",
+      "Toledo",
+      "Lleida",
+      "Girona",
+      "Valladolid",
+      "Salamanca",
+      "Castellón",
+      "Albacete",
+      "Caceres",
+      "Huelva",
+      "La Coruña",
+      "Tarragona",
+      "Cádiz",
+      "Logroño",
+      "Segovia",
+      "Ávila",
+      "Pontevedra",
+      "Soria",
+      "Lugo",
+      "Burgos",
+      "Palencia",
+      "Huesca",
+      "Cantabria",
+      "Cuenca",
+      "Jaén",
+      "Almería",
+      "Tenerife",
+      "Ibiza",
+      "Formentera",
+      "Menorca",
+      "Castilla-La Mancha",
+      "Cantabria",
+      "Murcia",
+      "Castilla y León",
+      "Balearic Islands",
+      "Andalusia"
     ]
+  },
+  "streetnames": {
+    "corporate": [
+      "Gran Via",
+      "Paseo de la Castellana",
+      "La Rambla",
+      "Calle de Alcalá",
+      "Avenida Diagonal",
+      "Carrer de Pau Claris",
+      "Paseo del Prado",
+      "Avenida de América",
+      "Calle de Serrano",
+      "Carrer de Gran de Gracia",
+      "Carrer de Pau Claris",
+      "Avenida de Catalunya",
+      "Carrer de Provença",
+      "Ronda de Dalt",
+      "Ronda de Sant Pere",
+      "Calle de Goya",
+      "Carrer del Consell de Cent",
+      "Carrer del Carme",
+      "Paseo de la Reforma",
+      "Avenida de la Constitución",
+      "Calle de Mayor",
+      "Calle de Preciados",
+      "Rambla de Catalunya",
+      "Carrer de la Marina",
+      "Calle de Velázquez",
+      "Carrer de Pau Claris",
+      "Avenida de la Paz",
+      "Calle de Gran Via",
+      "Carrer de Muntaner",
+      "Avenida de la Libertad",
+      "Calle de la Princesa",
+      "Carrer de Comte d'Urgell",
+      "Carrer de Balmes",
+      "Carrer de Sants",
+      "Carrer de l'Exposició",
+      "Avenida de Goya",
+      "Avenida de los Reyes Católicos",
+      "Carrer de Mallorca",
+      "Avenida de Aragón",
+      "Carrer de la Rambla",
+      "Paseo de la Castellana",
+      "Calle del Marqués de Salamanca",
+      "Avenida de la Palmera"
+    ],
+    "industrial": [
+      "Paseo Industrial",
+      "Avenida de la Industria",
+      "Calle de la Innovación",
+      "Ronda Industrial",
+      "Carrer del Parc Industrial",
+      "Avenida de los Empresarios",
+      "Calle de la Tecnología",
+      "Calle del Comercio",
+      "Polígono Industrial Santa Maria",
+      "Avenida de los Trabajadores",
+      "Calle de la Producción",
+      "Zona Industrial de Tres Cantos",
+      "Carrer de l'Indústria",
+      "Avenida del Parque Industrial",
+      "Calle de las Artes",
+      "Parque Industrial de Cerdanyola",
+      "Polígono de la Fama",
+      "Carrer de la Fabriquilla",
+      "Avenida de la Empresa",
+      "Calle del Metal",
+      "Avenida de los Plásticos",
+      "Carrer de la Maquinista",
+      "Avenida del Reciclaje",
+      "Calle del Gasómetro",
+      "Carrer de l'Automobile",
+      "Calle de los Recursos",
+      "Polígono Industrial Belcaire",
+      "Carrer de la Logística",
+      "Avenida de la Mecánica",
+      "Polígono Industrial Fuensanta",
+      "Carrer de la Tecnología Avanzada",
+      "Polígono Industrial Los Vascos",
+      "Avenida de la Metalurgia",
+      "Carrer de la Carpintería",
+      "Zona Industrial El Molino",
+      "Calle de los Plásticos",
+      "Polígono Industrial La Morera",
+      "Carrer de les Impremtes",
+      "Avenida de los Alimentos",
+      "Parque Tecnológico de Alcobendas",
+      "Polígono Industrial de Coslada"
+    ],
+    "residential": [
+      "Calle de Alcalá",
+      "Carrer de Pau Claris",
+      "Calle Gran Via",
+      "Calle de Sants",
+      "Carrer de Muntaner",
+      "Avenida de la Constitución",
+      "Carrer de l'Exposició",
+      "Calle de Preciados",
+      "Carrer de Balmes",
+      "Calle de Serrano",
+      "Carrer de Gran de Gracia",
+      "Calle del Marqués de Salamanca",
+      "Avenida de los Reyes Católicos",
+      "Ronda de Sant Pere",
+      "Avenida de la Independencia",
+      "Calle de Velázquez",
+      "Carrer de Provença",
+      "Calle de la Princesa",
+      "Carrer de Comte d'Urgell",
+      "Calle de Goya",
+      "Avenida de la Paz",
+      "Carrer de la Marina",
+      "Calle de la Rambla",
+      "Carrer de Llevant",
+      "Carrer del Consell de Cent",
+      "Avenida de Aragón",
+      "Carrer de Mallorca",
+      "Calle de los Caballeros",
+      "Carrer de Pau Casals",
+      "Calle de las Acacias",
+      "Avenida de la Palmera",
+      "Carrer de la Riera",
+      "Calle de la Pza. Mayor",
+      "Calle del Rio",
+      "Calle de Cerdanya",
+      "Carrer de la Palla",
+      "Calle de los Naranjos",
+      "Carrer de Les Corts",
+      "Calle de Chueca",
+      "Calle de Galdós",
+      "Avenida de los Naranjos",
+      "Carrer de la Roca",
+      "Calle de la Virgen"
+    ]
+  },
+  "communities": {
+    "Andalusia": {
+      "name": "Andalusia",
+      "cities": [
+        {
+          "cityname": "Seville",
+          "zipcodes": [
+            "41001",
+            "41002",
+            "41003",
+            "41004",
+            "41005"
+          ],
+          "areacodes": [
+            "95"
+          ]
+        },
+        {
+          "cityname": "Malaga",
+          "zipcodes": [
+            "29001",
+            "29002",
+            "29003",
+            "29004",
+            "29005"
+          ],
+          "areacodes": [
+            "95"
+          ]
+        },
+        {
+          "cityname": "Granada",
+          "zipcodes": [
+            "18001",
+            "18002",
+            "18003",
+            "18004",
+            "18005"
+          ],
+          "areacodes": [
+            "958"
+          ]
+        },
+        {
+          "cityname": "Córdoba",
+          "zipcodes": [
+            "14001",
+            "14002",
+            "14003",
+            "14004",
+            "14005"
+          ],
+          "areacodes": [
+            "957"
+          ]
+        },
+        {
+          "cityname": "Jaén",
+          "zipcodes": [
+            "23001",
+            "23002",
+            "23003",
+            "23004",
+            "23005"
+          ],
+          "areacodes": [
+            "953"
+          ]
+        }
+      ]
+    },
+    "Catalonia": {
+      "name": "Catalonia",
+      "cities": [
+        {
+          "cityname": "Barcelona",
+          "zipcodes": [
+            "08001",
+            "08002",
+            "08003",
+            "08004",
+            "08005"
+          ],
+          "areacodes": [
+            "93"
+          ]
+        },
+        {
+          "cityname": "Girona",
+          "zipcodes": [
+            "17001",
+            "17002",
+            "17003",
+            "17004",
+            "17005"
+          ],
+          "areacodes": [
+            "972"
+          ]
+        },
+        {
+          "cityname": "Tarragona",
+          "zipcodes": [
+            "43001",
+            "43002",
+            "43003",
+            "43004",
+            "43005"
+          ],
+          "areacodes": [
+            "977"
+          ]
+        },
+        {
+          "cityname": "Lleida",
+          "zipcodes": [
+            "25001",
+            "25002",
+            "25003",
+            "25004",
+            "25005"
+          ],
+          "areacodes": [
+            "973"
+          ]
+        },
+        {
+          "cityname": "Reus",
+          "zipcodes": [
+            "43201",
+            "43202",
+            "43203",
+            "43204",
+            "43205"
+          ],
+          "areacodes": [
+            "977"
+          ]
+        }
+      ]
+    },
+    "Madrid": {
+      "name": "Madrid",
+      "cities": [
+        {
+          "cityname": "Madrid",
+          "zipcodes": [
+            "28001",
+            "28002",
+            "28003",
+            "28004",
+            "28005"
+          ],
+          "areacodes": [
+            "91"
+          ]
+        },
+        {
+          "cityname": "Alcalá de Henares",
+          "zipcodes": [
+            "28801",
+            "28802",
+            "28803",
+            "28804",
+            "28805"
+          ],
+          "areacodes": [
+            "918"
+          ]
+        },
+        {
+          "cityname": "Móstoles",
+          "zipcodes": [
+            "28930",
+            "28931",
+            "28932",
+            "28933",
+            "28934"
+          ],
+          "areacodes": [
+            "916"
+          ]
+        },
+        {
+          "cityname": "Fuenlabrada",
+          "zipcodes": [
+            "28940",
+            "28941",
+            "28942",
+            "28943",
+            "28944"
+          ],
+          "areacodes": [
+            "916"
+          ]
+        },
+        {
+          "cityname": "Getafe",
+          "zipcodes": [
+            "28901",
+            "28902",
+            "28903",
+            "28904",
+            "28905"
+          ],
+          "areacodes": [
+            "916"
+          ]
+        }
+      ]
+    },
+    "Valencia": {
+      "name": "Valencia",
+      "cities": [
+        {
+          "cityname": "Valencia",
+          "zipcodes": [
+            "46001",
+            "46002",
+            "46003",
+            "46004",
+            "46005"
+          ],
+          "areacodes": [
+            "96"
+          ]
+        },
+        {
+          "cityname": "Alicante",
+          "zipcodes": [
+            "03001",
+            "03002",
+            "03003",
+            "03004",
+            "03005"
+          ],
+          "areacodes": [
+            "965"
+          ]
+        },
+        {
+          "cityname": "Castellón de la Plana",
+          "zipcodes": [
+            "12001",
+            "12002",
+            "12003",
+            "12004",
+            "12005"
+          ],
+          "areacodes": [
+            "964"
+          ]
+        },
+        {
+          "cityname": "Elche",
+          "zipcodes": [
+            "03201",
+            "03202",
+            "03203",
+            "03204",
+            "03205"
+          ],
+          "areacodes": [
+            "965"
+          ]
+        },
+        {
+          "cityname": "Gandia",
+          "zipcodes": [
+            "46700",
+            "46701",
+            "46702",
+            "46703",
+            "46704"
+          ],
+          "areacodes": [
+            "962"
+          ]
+        }
+      ]
+    },
+    "Galicia": {
+      "name": "Galicia",
+      "cities": [
+        {
+          "cityname": "Santiago de Compostela",
+          "zipcodes": [
+            "15701",
+            "15702",
+            "15703",
+            "15704",
+            "15705"
+          ],
+          "areacodes": [
+            "981"
+          ]
+        },
+        {
+          "cityname": "A Coruña",
+          "zipcodes": [
+            "15001",
+            "15002",
+            "15003",
+            "15004",
+            "15005"
+          ],
+          "areacodes": [
+            "981"
+          ]
+        },
+        {
+          "cityname": "Vigo",
+          "zipcodes": [
+            "36201",
+            "36202",
+            "36203",
+            "36204",
+            "36205"
+          ],
+          "areacodes": [
+            "986"
+          ]
+        },
+        {
+          "cityname": "Ourense",
+          "zipcodes": [
+            "32001",
+            "32002",
+            "32003",
+            "32004",
+            "32005"
+          ],
+          "areacodes": [
+            "988"
+          ]
+        },
+        {
+          "cityname": "Pontevedra",
+          "zipcodes": [
+            "36001",
+            "36002",
+            "36003",
+            "36004",
+            "36005"
+          ],
+          "areacodes": [
+            "986"
+          ]
+        }
+      ]
+    },
+    "Castile and León": {
+      "name": "Castile and León",
+      "cities": [
+        {
+          "cityname": "Valladolid",
+          "zipcodes": [
+            "47001",
+            "47002",
+            "47003",
+            "47004",
+            "47005"
+          ],
+          "areacodes": [
+            "983"
+          ]
+        },
+        {
+          "cityname": "Burgos",
+          "zipcodes": [
+            "09001",
+            "09002",
+            "09003",
+            "09004",
+            "09005"
+          ],
+          "areacodes": [
+            "947"
+          ]
+        },
+        {
+          "cityname": "Salamanca",
+          "zipcodes": [
+            "37001",
+            "37002",
+            "37003",
+            "37004",
+            "37005"
+          ],
+          "areacodes": [
+            "923"
+          ]
+        },
+        {
+          "cityname": "León",
+          "zipcodes": [
+            "24001",
+            "24002",
+            "24003",
+            "24004",
+            "24005"
+          ],
+          "areacodes": [
+            "987"
+          ]
+        },
+        {
+          "cityname": "Ávila",
+          "zipcodes": [
+            "05001",
+            "05002",
+            "05003",
+            "05004",
+            "05005"
+          ],
+          "areacodes": [
+            "920"
+          ]
+        }
+      ]
+    },
+    "Basque Country": {
+      "name": "Basque Country",
+      "cities": [
+        {
+          "cityname": "Bilbao",
+          "zipcodes": [
+            "48001",
+            "48002",
+            "48003",
+            "48004",
+            "48005"
+          ],
+          "areacodes": [
+            "94"
+          ]
+        },
+        {
+          "cityname": "San Sebastián",
+          "zipcodes": [
+            "20001",
+            "20002",
+            "20003",
+            "20004",
+            "20005"
+          ],
+          "areacodes": [
+            "943"
+          ]
+        },
+        {
+          "cityname": "Vitoria-Gasteiz",
+          "zipcodes": [
+            "01001",
+            "01002",
+            "01003",
+            "01004",
+            "01005"
+          ],
+          "areacodes": [
+            "945"
+          ]
+        },
+        {
+          "cityname": "Getxo",
+          "zipcodes": [
+            "48991",
+            "48992",
+            "48993",
+            "48994",
+            "48995"
+          ],
+          "areacodes": [
+            "94"
+          ]
+        },
+        {
+          "cityname": "Barakaldo",
+          "zipcodes": [
+            "48901",
+            "48902",
+            "48903",
+            "48904",
+            "48905"
+          ],
+          "areacodes": [
+            "94"
+          ]
+        }
+      ]
+    },
+    "Castilla-La Mancha": {
+      "name": "Castilla-La Mancha",
+      "cities": [
+        {
+          "cityname": "Toledo",
+          "zipcodes": [
+            "45001",
+            "45002",
+            "45003",
+            "45004",
+            "45005"
+          ],
+          "areacodes": [
+            "925"
+          ]
+        },
+        {
+          "cityname": "Albacete",
+          "zipcodes": [
+            "02001",
+            "02002",
+            "02003",
+            "02004",
+            "02005"
+          ],
+          "areacodes": [
+            "967"
+          ]
+        },
+        {
+          "cityname": "Ciudad Real",
+          "zipcodes": [
+            "13001",
+            "13002",
+            "13003",
+            "13004",
+            "13005"
+          ],
+          "areacodes": [
+            "926"
+          ]
+        },
+        {
+          "cityname": "Cuenca",
+          "zipcodes": [
+            "16001",
+            "16002",
+            "16003",
+            "16004",
+            "16005"
+          ],
+          "areacodes": [
+            "969"
+          ]
+        },
+        {
+          "cityname": "Guadalajara",
+          "zipcodes": [
+            "19001",
+            "19002",
+            "19003",
+            "19004",
+            "19005"
+          ],
+          "areacodes": [
+            "949"
+          ]
+        }
+      ]
+    },
+    "Canary Islands": {
+      "name": "Canary Islands",
+      "cities": [
+        {
+          "cityname": "Las Palmas de Gran Canaria",
+          "zipcodes": [
+            "35001",
+            "35002",
+            "35003",
+            "35004",
+            "35005"
+          ],
+          "areacodes": [
+            "928"
+          ]
+        },
+        {
+          "cityname": "Santa Cruz de Tenerife",
+          "zipcodes": [
+            "38001",
+            "38002",
+            "38003",
+            "38004",
+            "38005"
+          ],
+          "areacodes": [
+            "922"
+          ]
+        },
+        {
+          "cityname": "San Cristóbal de La Laguna",
+          "zipcodes": [
+            "38201",
+            "38202",
+            "38203",
+            "38204",
+            "38205"
+          ],
+          "areacodes": [
+            "922"
+          ]
+        },
+        {
+          "cityname": "Telde",
+          "zipcodes": [
+            "35200",
+            "35201",
+            "35202",
+            "35203",
+            "35204"
+          ],
+          "areacodes": [
+            "928"
+          ]
+        },
+        {
+          "cityname": "Arrecife",
+          "zipcodes": [
+            "35500",
+            "35501",
+            "35502",
+            "35503",
+            "35504"
+          ],
+          "areacodes": [
+            "928"
+          ]
+        }
+      ]
+    },
+    "Aragon": {
+      "name": "Aragon",
+      "cities": [
+        {
+          "cityname": "Zaragoza",
+          "zipcodes": [
+            "50001",
+            "50002",
+            "50003",
+            "50004",
+            "50005"
+          ],
+          "areacodes": [
+            "976"
+          ]
+        },
+        {
+          "cityname": "Huesca",
+          "zipcodes": [
+            "22001",
+            "22002",
+            "22003",
+            "22004",
+            "22005"
+          ],
+          "areacodes": [
+            "974"
+          ]
+        },
+        {
+          "cityname": "Teruel",
+          "zipcodes": [
+            "44001",
+            "44002",
+            "44003",
+            "44004",
+            "44005"
+          ],
+          "areacodes": [
+            "978"
+          ]
+        },
+        {
+          "cityname": "Barbastro",
+          "zipcodes": [
+            "22300",
+            "22301",
+            "22302",
+            "22303",
+            "22304"
+          ],
+          "areacodes": [
+            "974"
+          ]
+        },
+        {
+          "cityname": "Alcañiz",
+          "zipcodes": [
+            "44600",
+            "44601",
+            "44602",
+            "44603",
+            "44604"
+          ],
+          "areacodes": [
+            "978"
+          ]
+        }
+      ]
+    },
+    "Murcia": {
+      "name": "Murcia",
+      "cities": [
+        {
+          "cityname": "Murcia",
+          "zipcodes": [
+            "30001",
+            "30002",
+            "30003",
+            "30004",
+            "30005"
+          ],
+          "areacodes": [
+            "968"
+          ]
+        },
+        {
+          "cityname": "Cartagena",
+          "zipcodes": [
+            "30201",
+            "30202",
+            "30203",
+            "30204",
+            "30205"
+          ],
+          "areacodes": [
+            "968"
+          ]
+        },
+        {
+          "cityname": "Lorca",
+          "zipcodes": [
+            "30800",
+            "30801",
+            "30802",
+            "30803",
+            "30804"
+          ],
+          "areacodes": [
+            "968"
+          ]
+        },
+        {
+          "cityname": "Cieza",
+          "zipcodes": [
+            "30500",
+            "30501",
+            "30502",
+            "30503",
+            "30504"
+          ],
+          "areacodes": [
+            "968"
+          ]
+        },
+        {
+          "cityname": "Molina de Segura",
+          "zipcodes": [
+            "30500",
+            "30501",
+            "30502",
+            "30503",
+            "30504"
+          ],
+          "areacodes": [
+            "968"
+          ]
+        }
+      ]
+    },
+    "Balearic Islands": {
+      "name": "Balearic Islands",
+      "cities": [
+        {
+          "cityname": "Palma de Mallorca",
+          "zipcodes": [
+            "07001",
+            "07002",
+            "07003",
+            "07004",
+            "07005"
+          ],
+          "areacodes": [
+            "971"
+          ]
+        },
+        {
+          "cityname": "Ibiza",
+          "zipcodes": [
+            "07800",
+            "07801",
+            "07802",
+            "07803",
+            "07804"
+          ],
+          "areacodes": [
+            "971"
+          ]
+        },
+        {
+          "cityname": "Maho",
+          "zipcodes": [
+            "07890",
+            "07891",
+            "07892",
+            "07893",
+            "07894"
+          ],
+          "areacodes": [
+            "971"
+          ]
+        },
+        {
+          "cityname": "Inca",
+          "zipcodes": [
+            "07300",
+            "07301",
+            "07302",
+            "07303",
+            "07304"
+          ],
+          "areacodes": [
+            "971"
+          ]
+        },
+        {
+          "cityname": "Alcúdia",
+          "zipcodes": [
+            "07400",
+            "07401",
+            "07402",
+            "07403",
+            "07404"
+          ],
+          "areacodes": [
+            "971"
+          ]
+        }
+      ]
+    },
+    "Extremadura": {
+      "name": "Extremadura",
+      "cities": [
+        {
+          "cityname": "Badajoz",
+          "zipcodes": [
+            "06001",
+            "06002",
+            "06003",
+            "06004",
+            "06005"
+          ],
+          "areacodes": [
+            "924"
+          ]
+        },
+        {
+          "cityname": "Cáceres",
+          "zipcodes": [
+            "10001",
+            "10002",
+            "10003",
+            "10004",
+            "10005"
+          ],
+          "areacodes": [
+            "927"
+          ]
+        },
+        {
+          "cityname": "Mérida",
+          "zipcodes": [
+            "06800",
+            "06801",
+            "06802",
+            "06803",
+            "06804"
+          ],
+          "areacodes": [
+            "924"
+          ]
+        },
+        {
+          "cityname": "Plasencia",
+          "zipcodes": [
+            "10600",
+            "10601",
+            "10602",
+            "10603",
+            "10604"
+          ],
+          "areacodes": [
+            "927"
+          ]
+        },
+        {
+          "cityname": "Don Benito",
+          "zipcodes": [
+            "06400",
+            "06401",
+            "06402",
+            "06403",
+            "06404"
+          ],
+          "areacodes": [
+            "924"
+          ]
+        }
+      ]
+    },
+    "Cantabria": {
+      "name": "Cantabria",
+      "cities": [
+        {
+          "cityname": "Santander",
+          "zipcodes": [
+            "39001",
+            "39002",
+            "39003",
+            "39004",
+            "39005"
+          ],
+          "areacodes": [
+            "942"
+          ]
+        },
+        {
+          "cityname": "Torrelavega",
+          "zipcodes": [
+            "39300",
+            "39301",
+            "39302",
+            "39303",
+            "39304"
+          ],
+          "areacodes": [
+            "942"
+          ]
+        },
+        {
+          "cityname": "Castro Urdiales",
+          "zipcodes": [
+            "39700",
+            "39701",
+            "39702",
+            "39703",
+            "39704"
+          ],
+          "areacodes": [
+            "942"
+          ]
+        },
+        {
+          "cityname": "Laredo",
+          "zipcodes": [
+            "39770",
+            "39771",
+            "39772",
+            "39773",
+            "39774"
+          ],
+          "areacodes": [
+            "942"
+          ]
+        },
+        {
+          "cityname": "Colindres",
+          "zipcodes": [
+            "39750",
+            "39751",
+            "39752",
+            "39753",
+            "39754"
+          ],
+          "areacodes": [
+            "942"
+          ]
+        }
+      ]
+    },
+    "Navarre": {
+      "name": "Navarre",
+      "cities": [
+        {
+          "cityname": "Pamplona",
+          "zipcodes": [
+            "31001",
+            "31002",
+            "31003",
+            "31004",
+            "31005"
+          ],
+          "areacodes": [
+            "948"
+          ]
+        },
+        {
+          "cityname": "Tudela",
+          "zipcodes": [
+            "31500",
+            "31501",
+            "31502",
+            "31503",
+            "31504"
+          ],
+          "areacodes": [
+            "948"
+          ]
+        },
+        {
+          "cityname": "Estella",
+          "zipcodes": [
+            "31200",
+            "31201",
+            "31202",
+            "31203",
+            "31204"
+          ],
+          "areacodes": [
+            "948"
+          ]
+        },
+        {
+          "cityname": "Burlada",
+          "zipcodes": [
+            "31600",
+            "31601",
+            "31602",
+            "31603",
+            "31604"
+          ],
+          "areacodes": [
+            "948"
+          ]
+        },
+        {
+          "cityname": "Los Arcos",
+          "zipcodes": [
+            "31210",
+            "31211",
+            "31212",
+            "31213",
+            "31214"
+          ],
+          "areacodes": [
+            "948"
+          ]
+        }
+      ]
+    },
+    "La Rioja": {
+      "name": "La Rioja",
+      "cities": [
+        {
+          "cityname": "Logroño",
+          "zipcodes": [
+            "26001",
+            "26002",
+            "26003",
+            "26004",
+            "26005"
+          ],
+          "areacodes": [
+            "941"
+          ]
+        },
+        {
+          "cityname": "Calahorra",
+          "zipcodes": [
+            "26500",
+            "26501",
+            "26502",
+            "26503",
+            "26504"
+          ],
+          "areacodes": [
+            "941"
+          ]
+        },
+        {
+          "cityname": "Arnedo",
+          "zipcodes": [
+            "26580",
+            "26581",
+            "26582",
+            "26583",
+            "26584"
+          ],
+          "areacodes": [
+            "941"
+          ]
+        },
+        {
+          "cityname": "Alfaro",
+          "zipcodes": [
+            "26540",
+            "26541",
+            "26542",
+            "26543",
+            "26544"
+          ],
+          "areacodes": [
+            "941"
+          ]
+        },
+        {
+          "cityname": "Nájera",
+          "zipcodes": [
+            "26300",
+            "26301",
+            "26302",
+            "26303",
+            "26304"
+          ],
+          "areacodes": [
+            "941"
+          ]
+        }
+      ]
+    },
+    "Asturias": {
+      "name": "Asturias",
+      "cities": [
+        {
+          "cityname": "Oviedo",
+          "zipcodes": [
+            "33001",
+            "33002",
+            "33003",
+            "33004",
+            "33005"
+          ],
+          "areacodes": [
+            "985"
+          ]
+        },
+        {
+          "cityname": "Gijón",
+          "zipcodes": [
+            "33201",
+            "33202",
+            "33203",
+            "33204",
+            "33205"
+          ],
+          "areacodes": [
+            "985"
+          ]
+        },
+        {
+          "cityname": "Avilés",
+          "zipcodes": [
+            "33400",
+            "33401",
+            "33402",
+            "33403",
+            "33404"
+          ],
+          "areacodes": [
+            "985"
+          ]
+        },
+        {
+          "cityname": "Langreo",
+          "zipcodes": [
+            "33900",
+            "33901",
+            "33902",
+            "33903",
+            "33904"
+          ],
+          "areacodes": [
+            "985"
+          ]
+        },
+        {
+          "cityname": "Siero",
+          "zipcodes": [
+            "33510",
+            "33511",
+            "33512",
+            "33513",
+            "33514"
+          ],
+          "areacodes": [
+            "985"
+          ]
+        }
+      ]
+    },
+    "Ceuta": {
+      "name": "Ceuta",
+      "cities": [
+        {
+          "cityname": "Ceuta",
+          "zipcodes": [
+            "51001",
+            "51002",
+            "51003",
+            "51004",
+            "51005"
+          ],
+          "areacodes": [
+            "956"
+          ]
+        }
+      ]
+    },
+    "Melilla": {
+      "name": "Melilla",
+      "cities": [
+        {
+          "cityname": "Melilla",
+          "zipcodes": [
+            "52001",
+            "52002",
+            "52003",
+            "52004",
+            "52005"
+          ],
+          "areacodes": [
+            "952"
+          ]
+        }
+      ]
+    },
+    "citycontainers":["communities"]
+  },
+  "citycontainers":[
+    "communities"
+  ],
+  
+    "firstnames": [
+      "Antonio", "María", "José", "Carmen", "David", "Laura", "Juan", "Ana", "Francisco", "Isabel",
+      "Pedro", "Marta", "Luis", "Sara", "José María", "Lucía", "Carlos", "Elena", "Manuel", "Patricia",
+      "Miguel", "Raquel", "Ángel", "Beatriz", "Javier", "Mercedes", "Diego", "Verónica", "Rafael", "Teresa",
+      "Ricardo", "Victoria", "Eduardo", "Montserrat", "Jesús", "Paula", "Francisca", "Alfredo", "Antonio José", "Pilar", "Santiago", "Nerea"
+    ],
+    "lastnames": [
+      "García", "Martínez", "Rodríguez", "López", "González", "Pérez", "Sánchez", "Ramírez", "Torres", "Fernández",
+      "Díaz", "Álvarez", "Ruiz", "Hernández", "Jiménez", "Moreno", "Muñoz", "Romero", "Serrano", "Gil",
+      "Gómez", "Vázquez", "Herrera", "Castro", "Ortiz", "Morales", "Castilla", "Cruz", "Navarro", "Santiago",
+      "Ríos", "Molina", "Vera", "Martín", "Marín", "Silva", "Reyes", "Ramos", "Carrillo", "Soler", "Suárez", "Salazar"
+    ]
+    
 }

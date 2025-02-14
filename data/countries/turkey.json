@@ -1,112 +1,1569 @@
 {
-    "streetNames": [
-        "Istiklal Caddesi",
-        "Bagdat Caddesi",
-        "Taksim Square",
-        "Cihangir Street",
-        "Beyoglu Street",
-        "Atatürk Boulevard",
-        "Vatan Caddesi",
-        "Süleymaniye Street",
-        "Fenerbahçe Avenue",
-        "Akdeniz Street",
-        "Ankara Street",
-        "Emin Ali Paşa Street",
-        "Karaköy Street",
-        "Sultanahmet Street",
-        "Kavaklıdere Street",
-        "Kadıköy Street",
-        "Nişantaşı Street",
-        "Şişli Avenue",
-        "Sarıyer Street",
-        "Yeşilköy Street"
+  "countrycode": "+90",
+  "phoneformat": "(A) XXX XXX XXXX",
+  "country": "Turkey",
+  "neighborhoods": {
+    "corporate": [
+      "Istanbul Levent",
+      "Istanbul Maslak",
+      "Istanbul Taksim",
+      "Istanbul Sisli",
+      "Istanbul Kadikoy",
+      "Istanbul Atasehir",
+      "Istanbul Nisantasi",
+      "Istanbul Besiktas",
+      "Istanbul Bakirkoy",
+      "Istanbul Kucukcekmece",
+      "Istanbul Umraniye",
+      "Istanbul Zeytinburnu",
+      "Istanbul Beyoglu",
+      "Istanbul Maltepe",
+      "Istanbul Avcilar",
+      "Istanbul Pendik",
+      "Istanbul Sariyer",
+      "Ankara Cankaya",
+      "Ankara Kocatepe",
+      "Ankara Tunali Hilmi",
+      "Ankara Sogutozu",
+      "Izmir Konak",
+      "Izmir Bayrakli",
+      "Izmir Alsancak",
+      "Izmir Bornova",
+      "Izmir Karabaglar",
+      "Izmir Karsiyaka",
+      "Izmir Buca",
+      "Izmir Gaziemir",
+      "Izmir Balcova",
+      "Izmir Menemen",
+      "Bursa Osmangazi",
+      "Bursa Nilufar",
+      "Bursa Mudanya",
+      "Bursa Yildirim",
+      "Antalya Muratpasa",
+      "Antalya Konyaalti",
+      "Antalya Kepez",
+      "Antalya Lara",
+      "Antalya Aksu",
+      "Adana Seyhan",
+      "Adana Yuregir",
+      "Gaziantep Sahinbey",
+      "Gaziantep Sehitkamil",
+      "Mersin Akdeniz",
+      "Mersin Yenişehir"
     ],
-    "streetNumbers": [
-        "101",
-        "202",
-        "303",
-        "404",
-        "505",
-        "606",
-        "707",
-        "808",
-        "909",
-        "1234",
-        "4321",
-        "5678",
-        "6789",
-        "7890",
-        "8901",
-        "2345",
-        "3456",
-        "4567",
-        "5670",
-        "6781"
+    "industrial": [
+      "Istanbul Tuzla",
+      "Istanbul Silivri",
+      "Istanbul Cerkezkoy",
+      "Istanbul Beylikduzu",
+      "Istanbul Hadimkoy",
+      "Ankara Polatli",
+      "Izmir Menemen Industrial Zone",
+      "Izmir Aliaga",
+      "Izmir Çigli",
+      "Bursa Organized Industrial Zone",
+      "Bursa Yildirim Industrial Zone",
+      "Bursa Nilufar Industrial Zone",
+      "Antalya Organize Sanayi Bölgesi",
+      "Antalya Industrial Zone",
+      "Adana Organized Industrial Zone",
+      "Gaziantep Organized Industrial Zone",
+      "Mersin Industrial Zone",
+      "Konya Industrial Zone",
+      "Kayseri Industrial Zone",
+      "Sakarya Organized Industrial Zone",
+      "Kocaeli Industrial Zone",
+      "Tekirdag Industrial Zone",
+      "Edirne Industrial Zone",
+      "Manisa Industrial Zone",
+      "Diyarbakir Industrial Zone",
+      "Eskisehir Industrial Zone",
+      "Malatya Industrial Zone",
+      "Bolu Industrial Zone",
+      "Kutahya Industrial Zone",
+      "Aksaray Industrial Zone",
+      "Antakya Industrial Zone",
+      "Trabzon Industrial Zone",
+      "Balikesir Industrial Zone",
+      "Sanliurfa Industrial Zone",
+      "Hakkari Industrial Zone",
+      "Tunceli Industrial Zone",
+      "Mardin Industrial Zone",
+      "Kilis Industrial Zone",
+      "Elazig Industrial Zone",
+      "Aydin Organized Industrial Zone",
+      "Çorum Industrial Zone",
+      "Duzce Industrial Zone",
+      "Sivas Industrial Zone"
     ],
-    "cities": [
-        "Istanbul",
-        "Ankara",
-        "Izmir",
-        "Bursa",
-        "Antalya",
-        "Adana",
-        "Gaziantep",
-        "Konya",
-        "Mersin",
-        "Kocaeli",
-        "Eskişehir",
-        "Diyarbakır",
-        "Samsun",
-        "Denizli",
-        "Şanlıurfa",
-        "Kayseri",
-        "Trabzon",
-        "Balıkesir",
-        "Bolu",
-        "Zonguldak"
-    ],
-    "states": [
-        "Istanbul",
-        "Ankara",
-        "Izmir",
-        "Bursa",
-        "Antalya",
-        "Adana",
-        "Gaziantep",
-        "Konya",
-        "Mersin",
-        "Kocaeli",
-        "Eskişehir",
-        "Diyarbakır",
-        "Samsun",
-        "Denizli",
-        "Şanlıurfa",
-        "Kayseri",
-        "Trabzon",
-        "Balıkesir",
-        "Bolu",
-        "Zonguldak"
-    ],
-    "zipCodes": [
-        "34400",
-        "06000",
-        "35000",
-        "16000",
-        "07000",
-        "01000",
-        "27000",
-        "42000",
-        "33000",
-        "41000",
-        "26000",
-        "21000",
-        "55000",
-        "20000",
-        "63000",
-        "38000",
-        "61000",
-        "10000",
-        "54000",
-        "67000"
+    "residential": [
+      "Istanbul Kadikoy",
+      "Istanbul Üsküdar",
+      "Istanbul Ümraniye",
+      "Istanbul Beykoz",
+      "Istanbul Fatih",
+      "Istanbul Zeytinburnu",
+      "Istanbul Bakirkoy",
+      "Istanbul Beylikduzu",
+      "Istanbul Avcilar",
+      "Istanbul Sariyer",
+      "Istanbul Taksim",
+      "Istanbul Sisli",
+      "Istanbul Maltepe",
+      "Istanbul Ataşehir",
+      "Ankara Cankaya",
+      "Ankara Etimesgut",
+      "Ankara Sincan",
+      "Ankara Yenimahalle",
+      "Ankara Mamak",
+      "Izmir Konak",
+      "Izmir Karabaglar",
+      "Izmir Bayrakli",
+      "Izmir Gaziemir",
+      "Izmir Menemen",
+      "Izmir Alsancak",
+      "Izmir Karsiyaka",
+      "Izmir Bornova",
+      "Izmir Buca",
+      "Izmir Balcova",
+      "Izmir Urla",
+      "Izmir Aliağa",
+      "Izmir Çeşme",
+      "Bursa Osmangazi",
+      "Bursa Yıldırım",
+      "Bursa Mudanya",
+      "Bursa Nilüfer",
+      "Antalya Muratpasa",
+      "Antalya Kepez",
+      "Antalya Lara",
+      "Antalya Konyaalti",
+      "Antalya Aksu",
+      "Adana Seyhan",
+      "Adana Yuregir",
+      "Gaziantep Sahinbey",
+      "Gaziantep Sehitkamil",
+      "Mersin Akdeniz",
+      "Mersin Yenişehir",
+      "Gaziantep Şehitkamil",
+      "Konya Selcuklu",
+      "Konya Meram",
+      "Konya Karatay",
+      "Diyarbakir Sur",
+      "Diyarbakir Kayapinar",
+      "Mardin Artuklu",
+      "Samsun Atakum",
+      "Samsun İlkadım",
+      "Trabzon Ortahisar",
+      "Trabzon Akçaabat",
+      "Aydın Efeler"
     ]
+  },
+  "streetnames": {
+    "corporate": [
+      "Maslak Avenue",
+      "Levent Avenue",
+      "Taksim Square",
+      "Sisli Avenue",
+      "Kadikoy Avenue",
+      "Atasehir Street",
+      "Nisantasi Street",
+      "Besiktas Avenue",
+      "Bakirkoy Street",
+      "Kucukcekmece Avenue",
+      "Umraniye Avenue",
+      "Zeytinburnu Road",
+      "Beyoglu Avenue",
+      "Maltepe Avenue",
+      "Avcilar Avenue",
+      "Pendik Road",
+      "Sariyer Avenue",
+      "Cankaya Street",
+      "Tunali Hilmi Street",
+      "Sogutozu Street",
+      "Konak Avenue",
+      "Bayrakli Avenue",
+      "Alsancak Avenue",
+      "Bornova Road",
+      "Karabaglar Avenue",
+      "Karsiyaka Road",
+      "Buca Avenue",
+      "Gaziemir Street",
+      "Balcova Avenue",
+      "Menemen Avenue",
+      "Osmangazi Avenue",
+      "Nilüfer Avenue",
+      "Mudanya Avenue",
+      "Yildirim Avenue",
+      "Muratpasa Avenue",
+      "Kepez Avenue",
+      "Lara Road",
+      "Aksu Avenue",
+      "Seyhan Street",
+      "Yuregir Road",
+      "Şahinbey Street",
+      "Şehitkamil Avenue",
+      "Akdeniz Street",
+      "Yenişehir Avenue"
+    ],
+    "industrial": [
+      "Tuzla Industrial Zone",
+      "Silivri Industrial Zone",
+      "Cerkezkoy Industrial Zone",
+      "Beylikduzu Industrial Zone",
+      "Hadimkoy Industrial Zone",
+      "Polatli Industrial Zone",
+      "Menemen Industrial Zone",
+      "Aliaga Industrial Area",
+      "Çigli Industrial Zone",
+      "Organized Industrial Zone",
+      "Osmangazi Industrial Area",
+      "Nilüfer Industrial Zone",
+      "Antalya Organized Industrial Zone",
+      "Adana Organized Industrial Zone",
+      "Gaziantep Industrial Zone",
+      "Mersin Industrial Park",
+      "Konya Industrial Area",
+      "Kayseri Industrial Zone",
+      "Sakarya Industrial Park",
+      "Kocaeli Industrial Zone",
+      "Tekirdag Industrial Zone",
+      "Edirne Industrial Zone",
+      "Manisa Industrial Zone",
+      "Diyarbakir Industrial Zone",
+      "Eskisehir Industrial Zone",
+      "Malatya Industrial Zone",
+      "Bolu Industrial Park",
+      "Kutahya Industrial Zone",
+      "Aksaray Industrial Zone",
+      "Antakya Industrial Area",
+      "Trabzon Industrial Zone",
+      "Balikesir Industrial Zone",
+      "Sanliurfa Industrial Area",
+      "Hakkari Industrial Zone",
+      "Tunceli Industrial Zone",
+      "Mardin Industrial Area",
+      "Kilis Industrial Zone",
+      "Elazig Industrial Park",
+      "Aydin Industrial Zone",
+      "Çorum Industrial Park",
+      "Duzce Industrial Zone",
+      "Sivas Industrial Area"
+    ],
+    "residential": [
+      "Kadikoy Avenue",
+      "Üsküdar Road",
+      "Ümraniye Street",
+      "Beykoz Road",
+      "Fatih Avenue",
+      "Zeytinburnu Road",
+      "Bakirkoy Street",
+      "Beylikduzu Avenue",
+      "Avcilar Avenue",
+      "Sariyer Road",
+      "Taksim Square",
+      "Sisli Avenue",
+      "Maltepe Avenue",
+      "Ataşehir Street",
+      "Cankaya Avenue",
+      "Etimesgut Avenue",
+      "Sincan Street",
+      "Yenimahalle Avenue",
+      "Mamak Avenue",
+      "Izmir Konak",
+      "Karabaglar Avenue",
+      "Bayrakli Street",
+      "Gaziemir Avenue",
+      "Menemen Road",
+      "Alsancak Avenue",
+      "Karsiyaka Road",
+      "Bornova Street",
+      "Buca Avenue",
+      "Balcova Avenue",
+      "Urla Street",
+      "Aliağa Road",
+      "Çeşme Avenue",
+      "Osmangazi Road",
+      "Yıldırım Avenue",
+      "Mudanya Road",
+      "Nilüfer Avenue",
+      "Muratpasa Avenue",
+      "Kepez Road",
+      "Lara Street",
+      "Konyaalti Road",
+      "Aksu Avenue",
+      "Seyhan Avenue",
+      "Yuregir Road",
+      "Şahinbey Avenue",
+      "Sehitkamil Street",
+      "Mersin Akdeniz",
+      "Yenişehir Road",
+      "Gaziantep Sehitkamil",
+      "Selcuklu Road",
+      "Meram Avenue",
+      "Karatay Avenue",
+      "Diyarbakir Sur",
+      "Kayapinar Street",
+      "Mardin Artuklu"
+    ]
+  },
+  "provinces": {
+    "Istanbul": {
+      "name": "Istanbul",
+      "cities": [
+        {
+          "cityname": "Istanbul",
+          "zipcodes": [
+            "34000",
+            "34001",
+            "34002",
+            "34003",
+            "34004"
+          ],
+          "areacodes": [
+            "0212",
+            "0216"
+          ]
+        },
+        {
+          "cityname": "Bakirkoy",
+          "zipcodes": [
+            "34140",
+            "34141",
+            "34142",
+            "34143",
+            "34144"
+          ],
+          "areacodes": [
+            "0212"
+          ]
+        },
+        {
+          "cityname": "Kadikoy",
+          "zipcodes": [
+            "34710",
+            "34711",
+            "34712",
+            "34713",
+            "34714"
+          ],
+          "areacodes": [
+            "0216"
+          ]
+        },
+        {
+          "cityname": "Fatih",
+          "zipcodes": [
+            "34080",
+            "34081",
+            "34082",
+            "34083",
+            "34084"
+          ],
+          "areacodes": [
+            "0212"
+          ]
+        },
+        {
+          "cityname": "Beşiktaş",
+          "zipcodes": [
+            "34353",
+            "34354",
+            "34355",
+            "34356",
+            "34357"
+          ],
+          "areacodes": [
+            "0212"
+          ]
+        }
+      ]
+    },
+    "Ankara": {
+      "name": "Ankara",
+      "cities": [
+        {
+          "cityname": "Ankara",
+          "zipcodes": [
+            "06000",
+            "06001",
+            "06002",
+            "06003",
+            "06004"
+          ],
+          "areacodes": [
+            "0312"
+          ]
+        },
+        {
+          "cityname": "Çankaya",
+          "zipcodes": [
+            "06430",
+            "06431",
+            "06432",
+            "06433",
+            "06434"
+          ],
+          "areacodes": [
+            "0312"
+          ]
+        },
+        {
+          "cityname": "Keçiören",
+          "zipcodes": [
+            "06200",
+            "06201",
+            "06202",
+            "06203",
+            "06204"
+          ],
+          "areacodes": [
+            "0312"
+          ]
+        },
+        {
+          "cityname": "Mamak",
+          "zipcodes": [
+            "06210",
+            "06211",
+            "06212",
+            "06213",
+            "06214"
+          ],
+          "areacodes": [
+            "0312"
+          ]
+        },
+        {
+          "cityname": "Sincan",
+          "zipcodes": [
+            "06930",
+            "06931",
+            "06932",
+            "06933",
+            "06934"
+          ],
+          "areacodes": [
+            "0312"
+          ]
+        }
+      ]
+    },
+    "Izmir": {
+      "name": "Izmir",
+      "cities": [
+        {
+          "cityname": "Izmir",
+          "zipcodes": [
+            "35000",
+            "35001",
+            "35002",
+            "35003",
+            "35004"
+          ],
+          "areacodes": [
+            "0232"
+          ]
+        },
+        {
+          "cityname": "Konak",
+          "zipcodes": [
+            "35210",
+            "35211",
+            "35212",
+            "35213",
+            "35214"
+          ],
+          "areacodes": [
+            "0232"
+          ]
+        },
+        {
+          "cityname": "Bornova",
+          "zipcodes": [
+            "35090",
+            "35091",
+            "35092",
+            "35093",
+            "35094"
+          ],
+          "areacodes": [
+            "0232"
+          ]
+        },
+        {
+          "cityname": "Karşıyaka",
+          "zipcodes": [
+            "35500",
+            "35501",
+            "35502",
+            "35503",
+            "35504"
+          ],
+          "areacodes": [
+            "0232"
+          ]
+        },
+        {
+          "cityname": "Buca",
+          "zipcodes": [
+            "35360",
+            "35361",
+            "35362",
+            "35363",
+            "35364"
+          ],
+          "areacodes": [
+            "0232"
+          ]
+        }
+      ]
+    },
+    "Bursa": {
+      "name": "Bursa",
+      "cities": [
+        {
+          "cityname": "Bursa",
+          "zipcodes": [
+            "16000",
+            "16001",
+            "16002",
+            "16003",
+            "16004"
+          ],
+          "areacodes": [
+            "0224"
+          ]
+        },
+        {
+          "cityname": "Osmangazi",
+          "zipcodes": [
+            "16210",
+            "16211",
+            "16212",
+            "16213",
+            "16214"
+          ],
+          "areacodes": [
+            "0224"
+          ]
+        },
+        {
+          "cityname": "Yıldırım",
+          "zipcodes": [
+            "16220",
+            "16221",
+            "16222",
+            "16223",
+            "16224"
+          ],
+          "areacodes": [
+            "0224"
+          ]
+        },
+        {
+          "cityname": "Nilüfer",
+          "zipcodes": [
+            "16110",
+            "16111",
+            "16112",
+            "16113",
+            "16114"
+          ],
+          "areacodes": [
+            "0224"
+          ]
+        },
+        {
+          "cityname": "Gemlik",
+          "zipcodes": [
+            "16600",
+            "16601",
+            "16602",
+            "16603",
+            "16604"
+          ],
+          "areacodes": [
+            "0224"
+          ]
+        }
+      ]
+    },
+    "Antalya": {
+      "name": "Antalya",
+      "cities": [
+        {
+          "cityname": "Antalya",
+          "zipcodes": [
+            "07000",
+            "07001",
+            "07002",
+            "07003",
+            "07004"
+          ],
+          "areacodes": [
+            "0242"
+          ]
+        },
+        {
+          "cityname": "Kepez",
+          "zipcodes": [
+            "07010",
+            "07011",
+            "07012",
+            "07013",
+            "07014"
+          ],
+          "areacodes": [
+            "0242"
+          ]
+        },
+        {
+          "cityname": "Muratpaşa",
+          "zipcodes": [
+            "07100",
+            "07101",
+            "07102",
+            "07103",
+            "07104"
+          ],
+          "areacodes": [
+            "0242"
+          ]
+        },
+        {
+          "cityname": "Alanya",
+          "zipcodes": [
+            "07400",
+            "07401",
+            "07402",
+            "07403",
+            "07404"
+          ],
+          "areacodes": [
+            "0242"
+          ]
+        },
+        {
+          "cityname": "Manavgat",
+          "zipcodes": [
+            "07600",
+            "07601",
+            "07602",
+            "07603",
+            "07604"
+          ],
+          "areacodes": [
+            "0242"
+          ]
+        }
+      ]
+    },
+    "Adana": {
+      "name": "Adana",
+      "cities": [
+        {
+          "cityname": "Adana",
+          "zipcodes": [
+            "01000",
+            "01001",
+            "01002",
+            "01003",
+            "01004"
+          ],
+          "areacodes": [
+            "0322"
+          ]
+        },
+        {
+          "cityname": "Seyhan",
+          "zipcodes": [
+            "01010",
+            "01011",
+            "01012",
+            "01013",
+            "01014"
+          ],
+          "areacodes": [
+            "0322"
+          ]
+        },
+        {
+          "cityname": "Yüreğir",
+          "zipcodes": [
+            "01210",
+            "01211",
+            "01212",
+            "01213",
+            "01214"
+          ],
+          "areacodes": [
+            "0322"
+          ]
+        },
+        {
+          "cityname": "Çukurova",
+          "zipcodes": [
+            "01300",
+            "01301",
+            "01302",
+            "01303",
+            "01304"
+          ],
+          "areacodes": [
+            "0322"
+          ]
+        },
+        {
+          "cityname": "Aladağ",
+          "zipcodes": [
+            "01600",
+            "01601",
+            "01602",
+            "01603",
+            "01604"
+          ],
+          "areacodes": [
+            "0322"
+          ]
+        }
+      ]
+    },
+    "Konya": {
+      "name": "Konya",
+      "cities": [
+        {
+          "cityname": "Konya",
+          "zipcodes": [
+            "42000",
+            "42001",
+            "42002",
+            "42003",
+            "42004"
+          ],
+          "areacodes": [
+            "0332"
+          ]
+        },
+        {
+          "cityname": "Selçuklu",
+          "zipcodes": [
+            "42010",
+            "42011",
+            "42012",
+            "42013",
+            "42014"
+          ],
+          "areacodes": [
+            "0332"
+          ]
+        },
+        {
+          "cityname": "Meram",
+          "zipcodes": [
+            "42020",
+            "42021",
+            "42022",
+            "42023",
+            "42024"
+          ],
+          "areacodes": [
+            "0332"
+          ]
+        },
+        {
+          "cityname": "Karatay",
+          "zipcodes": [
+            "42030",
+            "42031",
+            "42032",
+            "42033",
+            "42034"
+          ],
+          "areacodes": [
+            "0332"
+          ]
+        },
+        {
+          "cityname": "Ereğli",
+          "zipcodes": [
+            "42300",
+            "42301",
+            "42302",
+            "42303",
+            "42304"
+          ],
+          "areacodes": [
+            "0332"
+          ]
+        }
+      ]
+    },
+    "Gaziantep": {
+      "name": "Gaziantep",
+      "cities": [
+        {
+          "cityname": "Gaziantep",
+          "zipcodes": [
+            "27000",
+            "27001",
+            "27002",
+            "27003",
+            "27004"
+          ],
+          "areacodes": [
+            "0342"
+          ]
+        },
+        {
+          "cityname": "Şahinbey",
+          "zipcodes": [
+            "27010",
+            "27011",
+            "27012",
+            "27013",
+            "27014"
+          ],
+          "areacodes": [
+            "0342"
+          ]
+        },
+        {
+          "cityname": "Şehitkamil",
+          "zipcodes": [
+            "27020",
+            "27021",
+            "27022",
+            "27023",
+            "27024"
+          ],
+          "areacodes": [
+            "0342"
+          ]
+        },
+        {
+          "cityname": "Oğuzeli",
+          "zipcodes": [
+            "27800",
+            "27801",
+            "27802",
+            "27803",
+            "27804"
+          ],
+          "areacodes": [
+            "0342"
+          ]
+        },
+        {
+          "cityname": "Nizip",
+          "zipcodes": [
+            "27700",
+            "27701",
+            "27702",
+            "27703",
+            "27704"
+          ],
+          "areacodes": [
+            "0342"
+          ]
+        }
+      ]
+    },
+    "Mersin": {
+      "name": "Mersin",
+      "cities": [
+        {
+          "cityname": "Mersin",
+          "zipcodes": [
+            "33000",
+            "33001",
+            "33002",
+            "33003",
+            "33004"
+          ],
+          "areacodes": [
+            "0324"
+          ]
+        },
+        {
+          "cityname": "Akdeniz",
+          "zipcodes": [
+            "33010",
+            "33011",
+            "33012",
+            "33013",
+            "33014"
+          ],
+          "areacodes": [
+            "0324"
+          ]
+        },
+        {
+          "cityname": "Toroslar",
+          "zipcodes": [
+            "33100",
+            "33101",
+            "33102",
+            "33103",
+            "33104"
+          ],
+          "areacodes": [
+            "0324"
+          ]
+        },
+        {
+          "cityname": "Mezitli",
+          "zipcodes": [
+            "33300",
+            "33301",
+            "33302",
+            "33303",
+            "33304"
+          ],
+          "areacodes": [
+            "0324"
+          ]
+        },
+        {
+          "cityname": "Erdemli",
+          "zipcodes": [
+            "33700",
+            "33701",
+            "33702",
+            "33703",
+            "33704"
+          ],
+          "areacodes": [
+            "0324"
+          ]
+        }
+      ]
+    },
+    "Kocaeli": {
+      "name": "Kocaeli",
+      "cities": [
+        {
+          "cityname": "Kocaeli",
+          "zipcodes": [
+            "41000",
+            "41001",
+            "41002",
+            "41003",
+            "41004"
+          ],
+          "areacodes": [
+            "0262"
+          ]
+        },
+        {
+          "cityname": "İzmit",
+          "zipcodes": [
+            "41010",
+            "41011",
+            "41012",
+            "41013",
+            "41014"
+          ],
+          "areacodes": [
+            "0262"
+          ]
+        },
+        {
+          "cityname": "Gebze",
+          "zipcodes": [
+            "41400",
+            "41401",
+            "41402",
+            "41403",
+            "41404"
+          ],
+          "areacodes": [
+            "0262"
+          ]
+        },
+        {
+          "cityname": "Derince",
+          "zipcodes": [
+            "41900",
+            "41901",
+            "41902",
+            "41903",
+            "41904"
+          ],
+          "areacodes": [
+            "0262"
+          ]
+        },
+        {
+          "cityname": "Kartepe",
+          "zipcodes": [
+            "41700",
+            "41701",
+            "41702",
+            "41703",
+            "41704"
+          ],
+          "areacodes": [
+            "0262"
+          ]
+        }
+      ]
+    },
+    "Şanlıurfa": {
+      "name": "Şanlıurfa",
+      "cities": [
+        {
+          "cityname": "Şanlıurfa",
+          "zipcodes": [
+            "63000",
+            "63001",
+            "63002",
+            "63003",
+            "63004"
+          ],
+          "areacodes": [
+            "0414"
+          ]
+        },
+        {
+          "cityname": "Haliliye",
+          "zipcodes": [
+            "63100",
+            "63101",
+            "63102",
+            "63103",
+            "63104"
+          ],
+          "areacodes": [
+            "0414"
+          ]
+        },
+        {
+          "cityname": "Eyyübiye",
+          "zipcodes": [
+            "63200",
+            "63201",
+            "63202",
+            "63203",
+            "63204"
+          ],
+          "areacodes": [
+            "0414"
+          ]
+        },
+        {
+          "cityname": "Karaköprü",
+          "zipcodes": [
+            "63300",
+            "63301",
+            "63302",
+            "63303",
+            "63304"
+          ],
+          "areacodes": [
+            "0414"
+          ]
+        },
+        {
+          "cityname": "Birecik",
+          "zipcodes": [
+            "63500",
+            "63501",
+            "63502",
+            "63503",
+            "63504"
+          ],
+          "areacodes": [
+            "0414"
+          ]
+        }
+      ]
+    },
+    "Tekirdağ": {
+      "name": "Tekirdağ",
+      "cities": [
+        {
+          "cityname": "Tekirdağ",
+          "zipcodes": [
+            "59000",
+            "59001",
+            "59002",
+            "59003",
+            "59004"
+          ],
+          "areacodes": [
+            "0282"
+          ]
+        },
+        {
+          "cityname": "Marmara Ereğlisi",
+          "zipcodes": [
+            "59800",
+            "59801",
+            "59802",
+            "59803",
+            "59804"
+          ],
+          "areacodes": [
+            "0282"
+          ]
+        },
+        {
+          "cityname": "Çorlu",
+          "zipcodes": [
+            "59860",
+            "59861",
+            "59862",
+            "59863",
+            "59864"
+          ],
+          "areacodes": [
+            "0282"
+          ]
+        },
+        {
+          "cityname": "Ergene",
+          "zipcodes": [
+            "59810",
+            "59811",
+            "59812",
+            "59813",
+            "59814"
+          ],
+          "areacodes": [
+            "0282"
+          ]
+        },
+        {
+          "cityname": "Süleymanpaşa",
+          "zipcodes": [
+            "59010",
+            "59011",
+            "59012",
+            "59013",
+            "59014"
+          ],
+          "areacodes": [
+            "0282"
+          ]
+        }
+      ]
+    },
+    "Eskişehir": {
+      "name": "Eskişehir",
+      "cities": [
+        {
+          "cityname": "Eskişehir",
+          "zipcodes": [
+            "26000",
+            "26001",
+            "26002",
+            "26003",
+            "26004"
+          ],
+          "areacodes": [
+            "0222"
+          ]
+        },
+        {
+          "cityname": "Odunpazarı",
+          "zipcodes": [
+            "26010",
+            "26011",
+            "26012",
+            "26013",
+            "26014"
+          ],
+          "areacodes": [
+            "0222"
+          ]
+        },
+        {
+          "cityname": "Tepebaşı",
+          "zipcodes": [
+            "26100",
+            "26101",
+            "26102",
+            "26103",
+            "26104"
+          ],
+          "areacodes": [
+            "0222"
+          ]
+        },
+        {
+          "cityname": "Sivrihisar",
+          "zipcodes": [
+            "26800",
+            "26801",
+            "26802",
+            "26803",
+            "26804"
+          ],
+          "areacodes": [
+            "0222"
+          ]
+        },
+        {
+          "cityname": "Alpu",
+          "zipcodes": [
+            "26700",
+            "26701",
+            "26702",
+            "26703",
+            "26704"
+          ],
+          "areacodes": [
+            "0222"
+          ]
+        }
+      ]
+    },
+    "Samsun": {
+      "name": "Samsun",
+      "cities": [
+        {
+          "cityname": "Samsun",
+          "zipcodes": [
+            "55000",
+            "55001",
+            "55002",
+            "55003",
+            "55004"
+          ],
+          "areacodes": [
+            "0362"
+          ]
+        },
+        {
+          "cityname": "Atakum",
+          "zipcodes": [
+            "55200",
+            "55201",
+            "55202",
+            "55203",
+            "55204"
+          ],
+          "areacodes": [
+            "0362"
+          ]
+        },
+        {
+          "cityname": "Canik",
+          "zipcodes": [
+            "55300",
+            "55301",
+            "55302",
+            "55303",
+            "55304"
+          ],
+          "areacodes": [
+            "0362"
+          ]
+        },
+        {
+          "cityname": "Ladik",
+          "zipcodes": [
+            "55400",
+            "55401",
+            "55402",
+            "55403",
+            "55404"
+          ],
+          "areacodes": [
+            "0362"
+          ]
+        },
+        {
+          "cityname": "Bafra",
+          "zipcodes": [
+            "55500",
+            "55501",
+            "55502",
+            "55503",
+            "55504"
+          ],
+          "areacodes": [
+            "0362"
+          ]
+        }
+      ]
+    },
+    "Diyarbakır": {
+      "name": "Diyarbakır",
+      "cities": [
+        {
+          "cityname": "Diyarbakır",
+          "zipcodes": [
+            "21000",
+            "21001",
+            "21002",
+            "21003",
+            "21004"
+          ],
+          "areacodes": [
+            "0412"
+          ]
+        },
+        {
+          "cityname": "Kayapınar",
+          "zipcodes": [
+            "21010",
+            "21011",
+            "21012",
+            "21013",
+            "21014"
+          ],
+          "areacodes": [
+            "0412"
+          ]
+        },
+        {
+          "cityname": "Yenişehir",
+          "zipcodes": [
+            "21020",
+            "21021",
+            "21022",
+            "21023",
+            "21024"
+          ],
+          "areacodes": [
+            "0412"
+          ]
+        },
+        {
+          "cityname": "Bağlar",
+          "zipcodes": [
+            "21030",
+            "21031",
+            "21032",
+            "21033",
+            "21034"
+          ],
+          "areacodes": [
+            "0412"
+          ]
+        },
+        {
+          "cityname": "Sur",
+          "zipcodes": [
+            "21040",
+            "21041",
+            "21042",
+            "21043",
+            "21044"
+          ],
+          "areacodes": [
+            "0412"
+          ]
+        }
+      ]
+    }
+  },
+  "citycontainers": [
+    "provinces"
+  ],
+  "firstnames": [
+    "Ahmet",
+    "Mehmet",
+    "Mustafa",
+    "Ali",
+    "Hüseyin",
+    "Hasan",
+    "İbrahim",
+    "Osman",
+    "Yusuf",
+    "Murat",
+    "Ömer",
+    "Burak",
+    "Fatih",
+    "Emre",
+    "Ramazan",
+    "Serkan",
+    "Cem",
+    "Tuncay",
+    "Furkan",
+    "Kemal",
+    "Halil",
+    "Eren",
+    "Recep",
+    "Selim",
+    "Uğur",
+    "Sinan",
+    "Gökhan",
+    "Ertuğrul",
+    "Barış",
+    "Can",
+    "Alper",
+    "Berk",
+    "Deniz",
+    "Metin",
+    "Tayfun",
+    "Volkan",
+    "Rıza",
+    "Ender",
+    "Tolga",
+    "Kadir",
+    "Cihan",
+    "Hakan",
+    "Ozan",
+    "Bora",
+    "Koray",
+    "Samet",
+    "Onur",
+    "Süleyman",
+    "Efe",
+    "Veysel",
+    "Zeki",
+    "Talha",
+    "Harun",
+    "Sami",
+    "Mert",
+    "Yakup",
+    "Yavuz",
+    "Şahin",
+    "İsmail",
+    "Rasim",
+    "Orhan",
+    "Bayram",
+    "Melih",
+    "Gürkan",
+    "Arda",
+    "Kenan",
+    "Şener",
+    "İlker",
+    "Ercan",
+    "Tamer",
+    "Tunç",
+    "Zafer",
+    "Aykut",
+    "Savaş",
+    "Doğan",
+    "Bülent",
+    "Faruk",
+    "Ferhat",
+    "Şahin",
+    "Necati",
+    "Sezgin",
+    "Oktay",
+    "Necip",
+    "Mevlüt",
+    "Erhan",
+    "Ekrem",
+    "Tahir",
+    "Adem",
+    "Yasin",
+    "Kazım",
+    "Umut",
+    "Halim",
+    "Özcan",
+    "Orçun",
+    "Ergin",
+    "Atilla",
+    "Turgay",
+    "Mücahit",
+    "Mesut",
+    "Bahadır"
+  ],
+  "lastnames": [
+    "Yılmaz",
+    "Kaya",
+    "Demir",
+    "Çelik",
+    "Şahin",
+    "Yıldız",
+    "Öztürk",
+    "Arslan",
+    "Doğan",
+    "Kurt",
+    "Özdemir",
+    "Aydın",
+    "Kara",
+    "Koç",
+    "Yavuz",
+    "Can",
+    "Güneş",
+    "Acar",
+    "Aslan",
+    "Çetin",
+    "Bulut",
+    "Güler",
+    "Taş",
+    "Erdem",
+    "Bozkurt",
+    "Özkan",
+    "Aksoy",
+    "Çalışkan",
+    "Tuna",
+    "Köse",
+    "Özçelik",
+    "Erdoğan",
+    "Avcı",
+    "Kaplan",
+    "Özbek",
+    "Dinç",
+    "Ergin",
+    "Akgün",
+    "Arı",
+    "Tanrıverdi",
+    "Zengin",
+    "Ergün",
+    "Korkmaz",
+    "Tunç",
+    "Sağlam",
+    "Kumru",
+    "Eren",
+    "Kıvanç",
+    "İnan",
+    "Göksu",
+    "Yalçın",
+    "Altın",
+    "Karaca",
+    "Baran",
+    "Demirtaş",
+    "Gündoğdu",
+    "Türkmen",
+    "Baş",
+    "Tok",
+    "Dursun",
+    "Çolak",
+    "Uçar",
+    "Karahan",
+    "Yüksel",
+    "Koçak",
+    "Demirel",
+    "Gümüş",
+    "Sarı",
+    "Karagöz",
+    "Polat",
+    "Görgün",
+    "Ağaoğlu",
+    "Sert",
+    "Çetinkaya",
+    "Karadağ",
+    "Orhan",
+    "Demirci",
+    "Keskin",
+    "Kavak",
+    "Uysal",
+    "Hacıoğlu",
+    "Bilir",
+    "İlhan",
+    "Karaman",
+    "Akbulut",
+    "Yaman",
+    "Çobanoğlu",
+    "Tekin",
+    "Beyaz",
+    "Soylu",
+    "Turan",
+    "Boz",
+    "Bayraktar",
+    "Ünal",
+    "Şimşek",
+    "Fidan",
+    "Efe",
+    "Ersoy",
+    "Toker",
+    "Alp"
+  ]
 }

@@ -1,0 +1,1086 @@
+{
+    "name" : "Utah",
+    "capital" : "Salt Lake City",
+    "cities" : [
+        {
+            "cityname" : "Salt Lake City",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84101", "84102", "84103", "84104", "84105", "84106", "84107", "84108", "84109", "84110", "84111", "84112", "84113", "84114", "84115", "84116", "84117", "84118", "84119", "84120", "84121", "84122", "84123", "84124", "84125", "84126", "84127", "84128", "84130", "84131", "84132", "84133", "84134", "84136", "84138", "84139", "84141", "84143", "84144", "84145", "84147", "84148", "84150", "84151", "84152", "84157", "84158", "84165", "84170", "84171", "84180", "84184", "84189", "84190", "84199"]
+        },
+        {
+            "cityname" : "Beaver",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84713"]
+        },
+        {
+            "cityname" : "Box Elder",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84302", "84306", "84307", "84309", "84311", "84314", "84324", "84329", "84330", "84331", "84334", "84336", "84337", "84340"]
+        },
+        {
+            "cityname" : "Cache",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84318", "84321", "84322", "84323", "84325", "84326", "84328", "84332", "84333", "84335", "84338", "84339", "84341"]
+        },
+        {
+            "cityname" : "Carbon",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84501", "84520", "84526", "84529", "84539"]
+        },
+        {
+            "cityname" : "Daggett",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84023"]
+        },
+        {
+            "cityname" : "Davis",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84010", "84015", "84025", "84037", "84040", "84041", "84054", "84056", "84075", "84087"]
+        },
+        {
+            "cityname" : "Duchesne",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84021", "84027", "84066", "84073"]
+        },
+        {
+            "cityname" : "Emery",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84513", "84516", "84518", "84521", "84522", "84523", "84525", "84528", "84542"]
+        },
+        {
+            "cityname" : "Garfield",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84710", "84712", "84716", "84718", "84726", "84735", "84736", "84759", "84762", "84776"]
+        },
+        {
+            "cityname" : "Grand",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84532"]
+        },
+        {
+            "cityname" : "Iron",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84720", "84721", "84742", "84753", "84756", "84760", "84761", "84772"]
+        },
+        {
+            "cityname" : "Juab",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84628", "84639", "84640", "84648", "84649", "84656"]
+        },
+        {
+            "cityname" : "Kane",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84710", "84741", "84755", "84758"]
+        },
+        {
+            "cityname" : "Millard",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84624", "84631", "84635", "84637", "84638", "84640", "84644", "84649", "84656"]
+        },
+        {
+            "cityname" : "Morgan",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84033", "84050"]
+        },
+        {
+            "cityname" : "Piute",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84723", "84734", "84743", "84750"]
+        },
+        {
+            "cityname" : "Rich",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84028"]
+        },
+        {
+            "cityname" : "Salt Lake",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84044", "84047", "84050", "84054", "84070", "84081", "84084", "84088", "84090", "84091", "84092", "84093", "84094", "84095", "84096", "84101", "84102", "84103", "84104", "84105", "84106", "84107", "84108", "84109", "84110", "84111", "84112", "84113", "84114", "84115", "84116", "84117", "84118", "84119", "84120", "84121", "84122", "84123", "84124", "84125", "84126", "84127", "84128", "84130", "84131", "84132", "84133", "84134", "84136", "84138", "84139", "84141", "84143", "84144", "84145", "84147", "84148", "84150", "84151", "84152", "84157", "84158", "84165", "84170", "84171", "84180", "84184", "84189", "84190", "84199"]
+        },
+        {
+            "cityname" : "San Juan",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84510", "84511", "84512", "84531", "84532", "84534", "84535", "84536", "84537"]
+        },
+        {
+            "cityname" : "Sanpete",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84622", "84623", "84627", "84629", "84630", "84632", "84634", "84642", "84643", "84646", "84647", "84649", "84662", "84665", "84667"]
+        },
+        {
+            "cityname" : "Sevier",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84620", "84624", "84627", "84630", "84631", "84632", "84634", "84635", "84636", "84637", "84639", "84642", "84643", "84644", "84645", "84646", "84647", "84648", "84649", "84652", "84654", "84655", "84656", "84657", "84660", "84662", "84663", "84664", "84665", "84667"]
+        },
+        {
+            "cityname" : "Summit",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84017", "84024", "84033", "84036", "84055", "84060", "84061", "84068", "84098"]
+        },
+        {
+            "cityname" : "Tooele",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84022", "84029", "84034", "84069", "84071", "84074", "84080"]
+        },
+        {
+            "cityname" : "Uintah",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84035", "84039", "84046", "84053", "84066", "84078", "84079"]
+        },
+        {
+            "cityname" : "Utah",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84003", "84004", "84005", "84013", "84020", "84042", "84043", "84045", "84057", "84058", "84059", "84062", "84097"]
+        },
+        {
+            "cityname" : "Wasatch",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84032", "84036", "84049", "84082"]
+        },
+        {
+            "cityname" : "Washington",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84733", "84737", "84738", "84745", "84746", "84763", "84767", "84770", "84771", "84780", "84781", "84782", "84783", "84784", "84790", "84791"]
+        },
+        {
+            "cityname" : "Wayne",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84701", "84710", "84712", "84716", "84718", "84722", "84723", "84724", "84725", "84726", "84728", "84729", "84732", "84734", "84735", "84736", "84739", "84740", "84741", "84742", "84743", "84744", "84745", "84746", "84747", "84749", "84750", "84751", "84752", "84753", "84754", "84755", "84756", "84757", "84758", "84759", "84760", "84761", "84762", "84763", "84764", "84765", "84766", "84767", "84770", "84771", "84772", "84773", "84774", "84775", "84776", "84779", "84780", "84781", "84782", "84783", "84784", "84790", "84791"]
+        },
+        {
+            "cityname" : "Weber",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84067", "84310", "84401", "84403", "84404", "84405", "84408", "84409", "84412", "84414", "84415"]
+        },
+        {
+            "cityname" : "Alpine",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84004"]
+        },
+        {
+            "cityname" : "Alta",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84092"]
+        },
+        {
+            "cityname" : "Amalga",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84335"]
+        },
+        {
+            "cityname" : "American Fork",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84003"]
+        },
+        {
+            "cityname" : "Aurora",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84620"]
+        },
+        {
+            "cityname" : "Ballard",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84066"]
+        },
+        {
+            "cityname" : "Beryl",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84714"]
+        },
+        {
+            "cityname" : "Blanding",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84511"]
+        },
+        {
+            "cityname" : "Bluff",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84512"]
+        },
+        {
+            "cityname" : "Bluffdale",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84065"]
+        },
+        {
+            "cityname" : "Boulder Town",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84716"]
+        },
+        {
+            "cityname" : "Bountiful",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84010", "84011"]
+        },
+        {
+            "cityname" : "Brian Head",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84719"]
+        },
+        {
+            "cityname" : "Brigham City",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84302"]
+        },
+        {
+            "cityname" : "Brighton, Town of",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84121"]
+        },
+        {
+            "cityname" : "Castle Valley",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84532"]
+        },
+        {
+            "cityname" : "Castle Dale",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84513"]
+        },
+        {
+            "cityname" : "Cedar City",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84720", "84721"]
+        },
+        {
+            "cityname" : "Cedar Fort",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84013"]
+        },
+        {
+            "cityname" : "Cedar Hills",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84062"]
+        },
+        {
+            "cityname" : "Centerville",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84014"]
+        },
+        {
+            "cityname" : "Charleston",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84032"]
+        },
+        {
+            "cityname" : "Circleville",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84723"]
+        },
+        {
+            "cityname" : "Clearfield",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84015", "84016", "84089"]
+        },
+        {
+            "cityname" : "Clinton",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84015"]
+        },
+        {
+            "cityname" : "Coalville",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84017"]
+        },
+        {
+            "cityname" : "Copperton Metro Township",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84006"]
+        },
+        {
+            "cityname" : "Corinne",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84307"]
+        },
+        {
+            "cityname" : "Cottonwood Heights",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84047", "84121"]
+        },
+        {
+            "cityname" : "Daniel",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84032"]
+        },
+        {
+            "cityname" : "Delta",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84624"]
+        },
+        {
+            "cityname" : "Deweyville",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84309"]
+        },
+        {
+            "cityname" : "Draper",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84020"]
+        },
+        {
+            "cityname" : "Dutch John",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84023"]
+        },
+        {
+            "cityname" : "Eagle Mountain",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84005"]
+        },
+        {
+            "cityname" : "Elk Ridge",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84651"]
+        },
+        {
+            "cityname" : "Elwood",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84337"]
+        },
+        {
+            "cityname" : "Emigration Canyon Metro Township",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84108"]
+        },
+        {
+            "cityname" : "Enterprise",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84725"]
+        },
+        {
+            "cityname" : "Ephraim",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84627"]
+        },
+        {
+            "cityname" : "Escalante",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84726"]
+        },
+        {
+            "cityname" : "Eureka",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84628"]
+        },
+        {
+            "cityname" : "Fairview",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84629"]
+        },
+        {
+            "cityname" : "Farmington",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84025"]
+        },
+        {
+            "cityname" : "Farr West",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84404"]
+        },
+        {
+            "cityname" : "Ferron City",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84523"]
+        },
+        {
+            "cityname" : "Fillmore",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84631"]
+        },
+        {
+            "cityname" : "Fountain Green",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84632"]
+        },
+        {
+            "cityname" : "Fruit Heights City",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84037"]
+        },
+        {
+            "cityname" : "Garden City",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84028"]
+        },
+        {
+            "cityname" : "Garland",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84312"]
+        },
+        {
+            "cityname" : "Genola",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84655"]
+        },
+        {
+            "cityname" : "Grantsville",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84029"]
+        },
+        {
+            "cityname" : "Green River",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84525"]
+        },
+        {
+            "cityname" : "Grouse Creek",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84313"]
+        },
+        {
+            "cityname" : "Gunnison",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84634"]
+        },
+        {
+            "cityname" : "Hanksville",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84734"]
+        },
+        {
+            "cityname" : "Harrisville City",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84404"]
+        },
+        {
+            "cityname" : "Heber",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84032"]
+        },
+        {
+            "cityname" : "Helper",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84526"]
+        },
+        {
+            "cityname" : "Henefer",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84033"]
+        },
+        {
+            "cityname" : "Herriman",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84096"]
+        },
+        {
+            "cityname" : "Hideout",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84036"]
+        },
+        {
+            "cityname" : "Highland",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84003"]
+        },
+        {
+            "cityname" : "Hildale",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84784"]
+        },
+        {
+            "cityname" : "Hill Air Force Base",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84056"]
+        },
+        {
+            "cityname" : "Hinckley",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84635"]
+        },
+        {
+            "cityname" : "Holladay",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84117", "84124"]
+        },
+        {
+            "cityname" : "Honeyville",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84314"]
+        },
+        {
+            "cityname" : "Hooper City",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84315"]
+        },
+        {
+            "cityname" : "Huntsville Town",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84317"]
+        },
+        {
+            "cityname" : "Huntington",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84528"]
+        },
+        {
+            "cityname" : "Hurricane",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84737"]
+        },
+        {
+            "cityname" : "Hyde Park",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84318"]
+        },
+        {
+            "cityname" : "Hyrum",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84319"]
+        },
+        {
+            "cityname" : "Independence",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84032"]
+        },
+        {
+            "cityname" : "Ivins",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84738"]
+        },
+        {
+            "cityname" : "Junction",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84740"]
+        },
+        {
+            "cityname" : "Kamas",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84036"]
+        },
+        {
+            "cityname" : "Kanab",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84741"]
+        },
+        {
+            "cityname" : "Kaysville",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84037"]
+        },
+        {
+            "cityname" : "Kearns Metro Township",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84118"]
+        },
+        {
+            "cityname" : "La Verkin",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84745"]
+        },
+        {
+            "cityname" : "Laketown",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84038"]
+        },
+        {
+            "cityname" : "Layton",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84040", "84041"]
+        },
+        {
+            "cityname" : "Leeds",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84746"]
+        },
+        {
+            "cityname" : "Lehi",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84043"]
+        },
+        {
+            "cityname" : "Levan",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84639"]
+        },
+        {
+            "cityname" : "Lewiston",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84320"]
+        },
+        {
+            "cityname" : "Lindon",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84042"]
+        },
+        {
+            "cityname" : "Logan",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84321", "84322", "84323", "84341"]
+        },
+        {
+            "cityname" : "Lynndyl",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84640"]
+        },
+        {
+            "cityname" : "Magna",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84044"]
+        },
+        {
+            "cityname" : "Manila",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84046"]
+        },
+        {
+            "cityname" : "Manti",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84642"]
+        },
+        {
+            "cityname" : "Mapleton",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84664"]
+        },
+        {
+            "cityname" : "Marysvale",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84750"]
+        },
+        {
+            "cityname" : "Marriott-Slaterville",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84404"]
+        },
+        {
+            "cityname" : "Mayfield",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84643"]
+        },
+        {
+            "cityname" : "Mendon",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84325"]
+        },
+        {
+            "cityname" : "Midvale City",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84047"]
+        },
+        {
+            "cityname" : "Midway",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84049"]
+        },
+        {
+            "cityname" : "Milford",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84751"]
+        },
+        {
+            "cityname" : "Millcreek",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84106", "84107", "84109", "84117", "84124"]
+        },
+        {
+            "cityname" : "Moab",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84532"]
+        },
+        {
+            "cityname" : "Monroe City",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84754"]
+        },
+        {
+            "cityname" : "Monticello",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84535"]
+        },
+        {
+            "cityname" : "Morgan City",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84050"]
+        },
+        {
+            "cityname" : "Moroni",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84646"]
+        },
+        {
+            "cityname" : "Murray",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84107", "84117", "84123", "84157"]
+        },
+        {
+            "cityname" : "Mt. Pleasant",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84647"]
+        },
+        {
+            "cityname" : "Myton",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84052"]
+        },
+        {
+            "cityname" : "Naples City",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84078"]
+        },
+        {
+            "cityname" : "Nephi City",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84648"]
+        },
+        {
+            "cityname" : "Newton",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84327"]
+        },
+        {
+            "cityname" : "Nibley City",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84321"]
+        },
+        {
+            "cityname" : "North Logan",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84341"]
+        },
+        {
+            "cityname" : "North Ogden",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84404", "84414"]
+        },
+        {
+            "cityname" : "North Salt Lake",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84054"]
+        },
+        {
+            "cityname" : "Oak City",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84649"]
+        },
+        {
+            "cityname" : "Oakley City",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84055"]
+        },
+        {
+            "cityname" : "Ogden",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84201", "84244", "84401", "84402", "84403", "84404", "84405", "84407", "84408", "84409", "84412", "84414", "84415"]
+        },
+        {
+            "cityname" : "Orangeville",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84537"]
+        },
+        {
+            "cityname" : "Orem",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84057", "84058", "84059", "84097"]
+        },
+        {
+            "cityname" : "Panguitch",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84759"]
+        },
+        {
+            "cityname" : "Paradise",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84328"]
+        },
+        {
+            "cityname" : "Park City",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84060", "84068", "84098"]
+        },
+        {
+            "cityname" : "Payson",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84651"]
+        },
+        {
+            "cityname" : "Perry",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84302"]
+        },
+        {
+            "cityname" : "Plain City",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84404"]
+        },
+        {
+            "cityname" : "Pleasant Grove",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84062"]
+        },
+        {
+            "cityname" : "Pleasant View City",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84404", "84414"]
+        },
+        {
+            "cityname" : "Price",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84501"]
+        },
+        {
+            "cityname" : "Providence City",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84332"]
+        },
+        {
+            "cityname" : "Provo",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84601", "84602", "84603", "84604", "84605", "84606"]
+        },
+        {
+            "cityname" : "Richfield",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84701"]
+        },
+        {
+            "cityname" : "Richmond",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84333"]
+        },
+        {
+            "cityname" : "Riverdale City",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84405"]
+        },
+        {
+            "cityname" : "Riverton",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84065"]
+        },
+        {
+            "cityname" : "River Heights",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84321"]
+        },
+        {
+            "cityname" : "Rockville",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84763"]
+        },
+        {
+            "cityname" : "Roosevelt",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84066"]
+        },
+        {
+            "cityname" : "Roy City",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84067"]
+        },
+        {
+            "cityname" : "Salem",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84653"]
+        },
+        {
+            "cityname" : "Salina",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84654"]
+        },
+        {
+            "cityname" : "Salt Lake City",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84101", "84102", "84103", "84104", "84105", "84106", "84107", "84108", "84109", "84110", "84111", "84112", "84113", "84114", "84115", "84116", "84117", "84118", "84119", "84120", "84121", "84122", "84123", "84124", "84125", "84126", "84127", "84128", "84130", "84131", "84132", "84133", "84134", "84136", "84138", "84139", "84141", "84143", "84144", "84145", "84147", "84148", "84150", "84151", "84152", "84157", "84158", "84165", "84170", "84171", "84180", "84184", "84189", "84190", "84199"]
+        },
+        {
+            "cityname" : "Sandy",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84070", "84090", "84091", "84092", "84093", "84094"]
+        },
+        {
+            "cityname" : "Santaquin",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84655"]
+        },
+        {
+            "cityname" : "Saratoga Springs",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84045"]
+        },
+        {
+            "cityname" : "Smithfield",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84335"]
+        },
+        {
+            "cityname" : "South Jordan",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84009", "84095"]
+        },
+        {
+            "cityname" : "South Ogden",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84403", "84405"]
+        },
+        {
+            "cityname" : "South Salt Lake",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84106", "84115", "84119"]
+        },
+        {
+            "cityname" : "South Weber",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84405"]
+        },
+        {
+            "cityname" : "Spanish Fork",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84660"]
+        },
+        {
+            "cityname" : "Spring City",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84662"]
+        },
+        {
+            "cityname" : "Springdale",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84767"]
+        },
+        {
+            "cityname" : "Springville",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84663"]
+        },
+        {
+            "cityname" : "St. George",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84770", "84790", "84791"]
+        },
+        {
+            "cityname" : "Stansbury Park",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84074"]
+        },
+        {
+            "cityname" : "Sterling",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84665"]
+        },
+        {
+            "cityname" : "Stockton",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84071"]
+        },
+        {
+            "cityname" : "Sunset",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84015"]
+        },
+        {
+            "cityname" : "Syracuse",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84075"]
+        },
+        {
+            "cityname" : "Taylorsville",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84118", "84119", "84123", "84129"]
+        },
+        {
+            "cityname" : "Tooele",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84074"]
+        },
+        {
+            "cityname" : "Toquerville",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84774"]
+        },
+        {
+            "cityname" : "Tremonton",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84337"]
+        },
+        {
+            "cityname" : "Tropic",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84776"]
+        },
+        {
+            "cityname" : "Uinta City",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84405"]
+        },
+        {
+            "cityname" : "Vernal",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84078"]
+        },
+        {
+            "cityname" : "Vineyard",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84058"]
+        },
+        {
+            "cityname" : "Wales",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84667"]
+        },
+        {
+            "cityname" : "Washington City",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84780"]
+        },
+        {
+            "cityname" : "Washington Terrace",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84405"]
+        },
+        {
+            "cityname" : "Wellington",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84542"]
+        },
+        {
+            "cityname" : "Wellsville",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84339"]
+        },
+        {
+            "cityname" : "West Bountiful",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84087"]
+        },
+        {
+            "cityname" : "West Haven",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84401"]
+        },
+        {
+            "cityname" : "West Jordan",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84081", "84084", "84088"]
+        },
+        {
+            "cityname" : "Wendover",
+            "areacodes" : ["435"],
+            "zipcodes" : ["84083"]
+        },
+        {
+            "cityname" : "West Point",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84015"]
+        },
+        {
+            "cityname" : "West Valley",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84119", "84120", "84128"]
+        },
+        {
+            "cityname" : "White City",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84094"]
+        },
+        {
+            "cityname" : "Woodland Hills",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84653"]
+        },
+        {
+            "cityname" : "Woods Cross",
+            "areacodes" : ["385", "801"],
+            "zipcodes" : ["84087"]
+        }
+    ]
+}

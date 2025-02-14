@@ -1,108 +1,2468 @@
 {
-    "streetNames": [
-        "Ul. Marszałkowska",
-        "Ul. Pięciomorgowa",
-        "Avenue of the 3rd May",
-        "Ul. Królewska",
-        "Ul. Długa",
-        "Ul. Wawelska",
-        "Ul. Stawki",
-        "Ul. Nowy Świat",
-        "Ul. Jana Pawła II",
-        "Ul. Grochowska",
-        "Avenue Solidarności",
-        "Ul. Wiatraczna",
-        "Ul. Grzybowska",
-        "Al. Jerozolimskie",
-        "Ul. Pięciomorgowa",
-        "Al. Ujazdowskie",
-        "Ul. Złota",
-        "Al. Korfantego",
-        "Ul. Północna",
-        "Ul. Żernickie"
+  "countrycode": "+48",
+  "phoneformat": "(A) XXX XXX XXX",
+  "country": "Poland",
+  "neighborhoods": {
+    "corporate": [
+      "Warsaw City Center",
+      "Kraków Business District",
+      "Wrocław Central Business Area",
+      "Gdańsk Business Hub",
+      "Poznań Business Zone",
+      "Łódź Business District",
+      "Szczecin Central",
+      "Bydgoszcz Business District",
+      "Lublin Business Area",
+      "Katowice Business Zone",
+      "Gdynia Business Hub",
+      "Toruń Business Area",
+      "Rzeszów Central",
+      "Białystok Business District",
+      "Radom Business District",
+      "Zabrze Business Hub",
+      "Opole Business Zone",
+      "Lublin Central Business District",
+      "Tychy Business Zone",
+      "Chorzów Business Area",
+      "Sosnowiec Business District",
+      "Kielce Business Zone",
+      "Gliwice Business Area",
+      "Świdnica Corporate District",
+      "Olsztyn Business District",
+      "Częstochowa Business Hub",
+      "Zielona Góra Central",
+      "Tarnów Business District",
+      "Elbląg Business Zone",
+      "Legnica Business District",
+      "Radom Central",
+      "Płock Business Zone",
+      "Słupsk Business District",
+      "Pila Business Zone",
+      "Kalisz Business Area",
+      "Opole Corporate Area",
+      "Świnoujście Business Hub",
+      "Nowy Sącz Business District",
+      "Rybnik Business District",
+      "Wałbrzych Business Area",
+      "Włocławek Business Hub",
+      "Gorzów Wielkopolski Business Zone",
+      "Mikołów Corporate Area",
+      "Lębork Business Zone",
+      "Bielsko-Biała Business Area",
+      "Gniezno Business District"
     ],
-    "streetNumbers": [
-        "101",
-        "202",
-        "303",
-        "404",
-        "505",
-        "606",
-        "707",
-        "808",
-        "909",
-        "1234",
-        "4321",
-        "5678",
-        "6789",
-        "7890",
-        "8901",
-        "2345",
-        "3456",
-        "4567",
-        "5670",
-        "6781"
+    "industrial": [
+      "Warsaw Industrial Zone",
+      "Gdańsk Industrial Park",
+      "Kraków Industrial District",
+      "Wrocław Industrial Area",
+      "Poznań Industrial Zone",
+      "Łódź Industrial District",
+      "Szczecin Industrial Park",
+      "Bydgoszcz Industrial Zone",
+      "Lublin Industrial Area",
+      "Katowice Industrial Park",
+      "Gdynia Industrial Area",
+      "Toruń Industrial Zone",
+      "Rzeszów Industrial Park",
+      "Białystok Industrial Area",
+      "Radom Industrial Zone",
+      "Zabrze Industrial Park",
+      "Opole Industrial District",
+      "Lublin Industrial Zone",
+      "Tychy Industrial Area",
+      "Chorzów Industrial Zone",
+      "Sosnowiec Industrial Area",
+      "Kielce Industrial District",
+      "Gliwice Industrial Zone",
+      "Świdnica Industrial Park",
+      "Olsztyn Industrial Zone",
+      "Częstochowa Industrial Area",
+      "Zielona Góra Industrial Zone",
+      "Tarnów Industrial Park",
+      "Elbląg Industrial Zone",
+      "Legnica Industrial Park",
+      "Radom Industrial Area",
+      "Płock Industrial Zone",
+      "Słupsk Industrial Park",
+      "Pila Industrial Area",
+      "Kalisz Industrial Park",
+      "Opole Industrial Zone",
+      "Świnoujście Industrial Park",
+      "Nowy Sącz Industrial District",
+      "Rybnik Industrial Area",
+      "Wałbrzych Industrial Park",
+      "Włocławek Industrial Zone",
+      "Gorzów Wielkopolski Industrial Park",
+      "Mikołów Industrial Area",
+      "Lębork Industrial Zone",
+      "Bielsko-Biała Industrial Area",
+      "Gniezno Industrial Zone"
     ],
-    "cities": [
-        "Warsaw",
-        "Kraków",
-        "Łódź",
-        "Wrocław",
-        "Poznań",
-        "Gdańsk",
-        "Szczecin",
-        "Bydgoszcz",
-        "Lublin",
-        "Katowice",
-        "Białystok",
-        "Gdynia",
-        "Częstochowa",
-        "Radom",
-        "Toruń",
-        "Kielce",
-        "Rzeszów",
-        "Gliwice",
-        "Zabrze",
-        "Olsztyn"
-    ],
-    "states": [
-        "Mazowieckie",
-        "Śląskie",
-        "Wielkopolskie",
-        "Małopolskie",
-        "Łódzkie",
-        "Pomorskie",
-        "Lubelskie",
-        "Podkarpackie",
-        "Lubuskie",
-        "Opolskie",
-        "Warmińsko-Mazurskie",
-        "Zachodniopomorskie",
-        "Kujawsko-Pomorskie",
-        "Świętokrzyskie",
-        "Podlaskie",
-        "Dolnośląskie"
-    ],
-    "zipCodes": [
-        "00-001",
-        "01-002",
-        "10-000",
-        "40-000",
-        "30-100",
-        "60-101",
-        "80-123",
-        "30-234",
-        "40-456",
-        "00-765",
-        "98-345",
-        "12-345",
-        "67-890",
-        "56-789",
-        "89-012",
-        "20-102",
-        "23-450",
-        "45-678",
-        "32-987",
-        "76-876"
+    "residential": [
+      "Warsaw",
+      "Kraków",
+      "Wrocław",
+      "Gdańsk",
+      "Poznań",
+      "Łódź",
+      "Szczecin",
+      "Bydgoszcz",
+      "Lublin",
+      "Katowice",
+      "Gdynia",
+      "Toruń",
+      "Rzeszów",
+      "Białystok",
+      "Radom",
+      "Zabrze",
+      "Opole",
+      "Tychy",
+      "Chorzów",
+      "Sosnowiec",
+      "Kielce",
+      "Gliwice",
+      "Świdnica",
+      "Olsztyn",
+      "Częstochowa",
+      "Zielona Góra",
+      "Tarnów",
+      "Elbląg",
+      "Legnica",
+      "Płock",
+      "Słupsk",
+      "Pila",
+      "Kalisz",
+      "Nowy Sącz",
+      "Rybnik",
+      "Wałbrzych",
+      "Włocławek",
+      "Gorzów Wielkopolski",
+      "Mikołów",
+      "Lębork",
+      "Bielsko-Biała",
+      "Gniezno",
+      "Biała Podlaska",
+      "Gorzów Wielkopolski",
+      "Siedlce",
+      "Tarnowskie Góry",
+      "Leszno",
+      "Pruszków",
+      "Świętochłowice",
+      "Kędzierzyn-Koźle",
+      "Stalowa Wola",
+      "Skarżysko-Kamienna"
     ]
+  },
+  "streetnames": {
+    "corporate": [
+      "Marszałkowska Street",
+      "Puławska Street",
+      "Jana Pawła II Avenue",
+      "Aleje Jerozolimskie",
+      "Wolska Street",
+      "Grzybowska Street",
+      "Chmielna Street",
+      "Złota Street",
+      "Prosta Street",
+      "Aleje Solidarności",
+      "Długa Street",
+      "Krakowskie Przedmieście",
+      "Rondo ONZ",
+      "Słowackiego Street",
+      "Wiejska Street",
+      "Sienna Street",
+      "Avenue of the Republic",
+      "Pięciomorgowa Street",
+      "Świętokrzyska Street",
+      "Kazimierzowska Street",
+      "Sas-Kozielskiego Street",
+      "Żurawia Street",
+      "Sienkiewicza Street",
+      "Zawiszy Street",
+      "Mokotowska Street",
+      "Wilcza Street",
+      "Pankiewicza Street",
+      "Okopowa Street",
+      "Hoża Street",
+      "Bracka Street",
+      "Jagiellońska Street",
+      "Rynek Street",
+      "Sewerynówka",
+      "Podgórska Street",
+      "Słowackiego Avenue",
+      "Rondo Grunwaldzkie",
+      "Kasprzaka Street",
+      "Bławatna Street",
+      "Szczecińska Street",
+      "Targowa Street",
+      "Dolna Street",
+      "Górna Street",
+      "Ostrówek Street",
+      "Fabryczna Street",
+      "Słowackiego Street"
+    ],
+    "industrial": [
+      "Elektryczna Street",
+      "Nowa Huta",
+      "Zielona Street",
+      "Limanowskiego Street",
+      "Tęczowa Street",
+      "Pomorska Street",
+      "Rybaki Street",
+      "Bolesława Krzywoustego",
+      "Wapienna Street",
+      "Robotnicza Street",
+      "Przemysłowa Street",
+      "Wrocławska Street",
+      "Pomorskie Przedmieście",
+      "Równa Street",
+      "Zielonogórska Street",
+      "Jaskółcza Street",
+      "Mechaników Street",
+      "Kołobrzeska Street",
+      "Zakopiańska Street",
+      "Lechitów",
+      "Hutnicza Street",
+      "Żernickie",
+      "Szewska Street",
+      "Nowakowskiego Street",
+      "Kościuszkowców Street",
+      "Kurska Street",
+      "Torpedowna Street",
+      "Borówki Street",
+      "Górnictwa",
+      "Malwowa",
+      "Cementowa",
+      "Wiertnicza",
+      "Wilkowska Street",
+      "Spójni Street",
+      "Opolska Industrial Park",
+      "Baczyńska Street",
+      "Kolejowa Industrial Zone",
+      "Platerna Street",
+      "Toszecka Street"
+    ],
+    "residential": [
+      "Łaska Street",
+      "Kopernika Street",
+      "Kościuszki Street",
+      "Pięciomorgowa",
+      "Grochowska Street",
+      "Chopina Street",
+      "Podgórska Street",
+      "Grodzka Street",
+      "Międzylesie Street",
+      "Nadwiślańska Street",
+      "Hurtowa Street",
+      "Kaliska Street",
+      "Andersa Street",
+      "Wilcza",
+      "Olsztyńska Street",
+      "Wola",
+      "Piłsudskiego Street",
+      "Lwowska",
+      "Wąwozowa Street",
+      "Mickiewicza",
+      "Płocka",
+      "Staszica Street",
+      "Jasnogórska",
+      "Kwiatowa Street",
+      "Aleja Lipowa",
+      "Pomerania Street",
+      "Kościelna",
+      "Zamkowa Street",
+      "Słowackiego Street",
+      "Józefa Piłsudskiego",
+      "Warszawskie Przedmieście",
+      "Wielicka",
+      "Zielonogórska",
+      "Męciński",
+      "Kwiatówka",
+      "Fabryczna",
+      "Czeska Street",
+      "Strażacka",
+      "Świętokrzyska"
+    ]
+  },
+  "provinces": {
+    "Dolnośląskie": {
+      "cities": [
+        {
+          "cityname": "Wrocław",
+          "zipcodes": [
+            "50-001",
+            "50-002",
+            "50-003",
+            "50-004",
+            "50-005"
+          ],
+          "areacodes": [
+            "71"
+          ]
+        },
+        {
+          "cityname": "Legnica",
+          "zipcodes": [
+            "59-200",
+            "59-201",
+            "59-202",
+            "59-203",
+            "59-204"
+          ],
+          "areacodes": [
+            "76"
+          ]
+        },
+        {
+          "cityname": "Wałbrzych",
+          "zipcodes": [
+            "58-300",
+            "58-301",
+            "58-302",
+            "58-303",
+            "58-304"
+          ],
+          "areacodes": [
+            "74"
+          ]
+        },
+        {
+          "cityname": "Świdnica",
+          "zipcodes": [
+            "58-100",
+            "58-101",
+            "58-102",
+            "58-103",
+            "58-104"
+          ],
+          "areacodes": [
+            "74"
+          ]
+        },
+        {
+          "cityname": "Lubin",
+          "zipcodes": [
+            "59-300",
+            "59-301",
+            "59-302",
+            "59-303",
+            "59-304"
+          ],
+          "areacodes": [
+            "76"
+          ]
+        },
+        {
+          "cityname": "Środa Śląska",
+          "zipcodes": [
+            "55-300",
+            "55-301",
+            "55-302",
+            "55-303",
+            "55-304"
+          ],
+          "areacodes": [
+            "71"
+          ]
+        },
+        {
+          "cityname": "Głogów",
+          "zipcodes": [
+            "67-200",
+            "67-201",
+            "67-202",
+            "67-203",
+            "67-204"
+          ],
+          "areacodes": [
+            "76"
+          ]
+        },
+        {
+          "cityname": "Oława",
+          "zipcodes": [
+            "55-200",
+            "55-201",
+            "55-202",
+            "55-203",
+            "55-204"
+          ],
+          "areacodes": [
+            "71"
+          ]
+        },
+        {
+          "cityname": "Żórawki",
+          "zipcodes": [
+            "59-330",
+            "59-331",
+            "59-332",
+            "59-333",
+            "59-334"
+          ],
+          "areacodes": [
+            "76"
+          ]
+        },
+        {
+          "cityname": "Kłodzko",
+          "zipcodes": [
+            "57-300",
+            "57-301",
+            "57-302",
+            "57-303",
+            "57-304"
+          ],
+          "areacodes": [
+            "74"
+          ]
+        }
+      ],
+      "name": "Dolnośląskie"
+    },
+    "Kujawsko-Pomorskie": {
+      "cities": [
+        {
+          "cityname": "Bydgoszcz",
+          "zipcodes": [
+            "85-001",
+            "85-002",
+            "85-003",
+            "85-004",
+            "85-005"
+          ],
+          "areacodes": [
+            "52"
+          ]
+        },
+        {
+          "cityname": "Toruń",
+          "zipcodes": [
+            "87-100",
+            "87-101",
+            "87-102",
+            "87-103",
+            "87-104"
+          ],
+          "areacodes": [
+            "56"
+          ]
+        },
+        {
+          "cityname": "Inowrocław",
+          "zipcodes": [
+            "88-100",
+            "88-101",
+            "88-102",
+            "88-103",
+            "88-104"
+          ],
+          "areacodes": [
+            "52"
+          ]
+        },
+        {
+          "cityname": "Grudziądz",
+          "zipcodes": [
+            "86-300",
+            "86-301",
+            "86-302",
+            "86-303",
+            "86-304"
+          ],
+          "areacodes": [
+            "56"
+          ]
+        },
+        {
+          "cityname": "Włocławek",
+          "zipcodes": [
+            "87-800",
+            "87-801",
+            "87-802",
+            "87-803",
+            "87-804"
+          ],
+          "areacodes": [
+            "54"
+          ]
+        },
+        {
+          "cityname": "Świecie",
+          "zipcodes": [
+            "86-100",
+            "86-101",
+            "86-102",
+            "86-103",
+            "86-104"
+          ],
+          "areacodes": [
+            "56"
+          ]
+        },
+        {
+          "cityname": "Aleksandrów Kujawski",
+          "zipcodes": [
+            "87-700",
+            "87-701",
+            "87-702",
+            "87-703",
+            "87-704"
+          ],
+          "areacodes": [
+            "54"
+          ]
+        },
+        {
+          "cityname": "Lipno",
+          "zipcodes": [
+            "87-600",
+            "87-601",
+            "87-602",
+            "87-603",
+            "87-604"
+          ],
+          "areacodes": [
+            "54"
+          ]
+        },
+        {
+          "cityname": "Rypin",
+          "zipcodes": [
+            "87-500",
+            "87-501",
+            "87-502",
+            "87-503",
+            "87-504"
+          ],
+          "areacodes": [
+            "54"
+          ]
+        },
+        {
+          "cityname": "Nakło nad Notecią",
+          "zipcodes": [
+            "89-100",
+            "89-101",
+            "89-102",
+            "89-103",
+            "89-104"
+          ],
+          "areacodes": [
+            "52"
+          ]
+        }
+      ],
+      "name": "Kujawsko-Pomorskie"
+    },
+    "Lubelskie": {
+      "cities": [
+        {
+          "cityname": "Lublin",
+          "zipcodes": [
+            "20-001",
+            "20-002",
+            "20-003",
+            "20-004",
+            "20-005"
+          ],
+          "areacodes": [
+            "81"
+          ]
+        },
+        {
+          "cityname": "Zamość",
+          "zipcodes": [
+            "22-400",
+            "22-401",
+            "22-402",
+            "22-403",
+            "22-404"
+          ],
+          "areacodes": [
+            "84"
+          ]
+        },
+        {
+          "cityname": "Chełm",
+          "zipcodes": [
+            "22-100",
+            "22-101",
+            "22-102",
+            "22-103",
+            "22-104"
+          ],
+          "areacodes": [
+            "82"
+          ]
+        },
+        {
+          "cityname": "Puławy",
+          "zipcodes": [
+            "24-100",
+            "24-101",
+            "24-102",
+            "24-103",
+            "24-104"
+          ],
+          "areacodes": [
+            "81"
+          ]
+        },
+        {
+          "cityname": "Świdnik",
+          "zipcodes": [
+            "21-040",
+            "21-041",
+            "21-042",
+            "21-043",
+            "21-044"
+          ],
+          "areacodes": [
+            "81"
+          ]
+        },
+        {
+          "cityname": "Lubartów",
+          "zipcodes": [
+            "21-100",
+            "21-101",
+            "21-102",
+            "21-103",
+            "21-104"
+          ],
+          "areacodes": [
+            "81"
+          ]
+        },
+        {
+          "cityname": "Biłgoraj",
+          "zipcodes": [
+            "23-400",
+            "23-401",
+            "23-402",
+            "23-403",
+            "23-404"
+          ],
+          "areacodes": [
+            "84"
+          ]
+        },
+        {
+          "cityname": "Krasnystaw",
+          "zipcodes": [
+            "22-300",
+            "22-301",
+            "22-302",
+            "22-303",
+            "22-304"
+          ],
+          "areacodes": [
+            "82"
+          ]
+        },
+        {
+          "cityname": "Biała Podlaska",
+          "zipcodes": [
+            "21-500",
+            "21-501",
+            "21-502",
+            "21-503",
+            "21-504"
+          ],
+          "areacodes": [
+            "83"
+          ]
+        },
+        {
+          "cityname": "Łuków",
+          "zipcodes": [
+            "21-100",
+            "21-101",
+            "21-102",
+            "21-103",
+            "21-104"
+          ],
+          "areacodes": [
+            "25"
+          ]
+        }
+      ],
+      "name": "Lubelskie"
+    },
+    "Lubuskie": {
+      "cities": [
+        {
+          "cityname": "Gorzów Wielkopolski",
+          "zipcodes": [
+            "66-400",
+            "66-401",
+            "66-402",
+            "66-403",
+            "66-404"
+          ],
+          "areacodes": [
+            "95"
+          ]
+        },
+        {
+          "cityname": "Zielona Góra",
+          "zipcodes": [
+            "65-001",
+            "65-002",
+            "65-003",
+            "65-004",
+            "65-005"
+          ],
+          "areacodes": [
+            "68"
+          ]
+        },
+        {
+          "cityname": "Świebodzin",
+          "zipcodes": [
+            "66-200",
+            "66-201",
+            "66-202",
+            "66-203",
+            "66-204"
+          ],
+          "areacodes": [
+            "95"
+          ]
+        },
+        {
+          "cityname": "Krosno Odrzańskie",
+          "zipcodes": [
+            "67-200",
+            "67-201",
+            "67-202",
+            "67-203",
+            "67-204"
+          ],
+          "areacodes": [
+            "95"
+          ]
+        },
+        {
+          "cityname": "Nowa Sól",
+          "zipcodes": [
+            "67-100",
+            "67-101",
+            "67-102",
+            "67-103",
+            "67-104"
+          ],
+          "areacodes": [
+            "68"
+          ]
+        },
+        {
+          "cityname": "Żary",
+          "zipcodes": [
+            "68-200",
+            "68-201",
+            "68-202",
+            "68-203",
+            "68-204"
+          ],
+          "areacodes": [
+            "95"
+          ]
+        },
+        {
+          "cityname": "Sulechów",
+          "zipcodes": [
+            "66-100",
+            "66-101",
+            "66-102",
+            "66-103",
+            "66-104"
+          ],
+          "areacodes": [
+            "68"
+          ]
+        },
+        {
+          "cityname": "Wschowa",
+          "zipcodes": [
+            "67-400",
+            "67-401",
+            "67-402",
+            "67-403",
+            "67-404"
+          ],
+          "areacodes": [
+            "68"
+          ]
+        },
+        {
+          "cityname": "Lubniewice",
+          "zipcodes": [
+            "69-210",
+            "69-211",
+            "69-212",
+            "69-213",
+            "69-214"
+          ],
+          "areacodes": [
+            "95"
+          ]
+        },
+        {
+          "cityname": "Kostrzyn nad Odrą",
+          "zipcodes": [
+            "66-470",
+            "66-471",
+            "66-472",
+            "66-473",
+            "66-474"
+          ],
+          "areacodes": [
+            "95"
+          ]
+        }
+      ],
+      "name": "Lubuskie"
+    },
+    "Łódzkie": {
+      "cities": [
+        {
+          "cityname": "Łódź",
+          "zipcodes": [
+            "90-001",
+            "90-002",
+            "90-003",
+            "90-004",
+            "90-005"
+          ],
+          "areacodes": [
+            "42"
+          ]
+        },
+        {
+          "cityname": "Piotrków Trybunalski",
+          "zipcodes": [
+            "97-300",
+            "97-301",
+            "97-302",
+            "97-303",
+            "97-304"
+          ],
+          "areacodes": [
+            "44"
+          ]
+        },
+        {
+          "cityname": "Bełchatów",
+          "zipcodes": [
+            "97-400",
+            "97-401",
+            "97-402",
+            "97-403",
+            "97-404"
+          ],
+          "areacodes": [
+            "44"
+          ]
+        },
+        {
+          "cityname": "Radomsko",
+          "zipcodes": [
+            "97-500",
+            "97-501",
+            "97-502",
+            "97-503",
+            "97-504"
+          ],
+          "areacodes": [
+            "44"
+          ]
+        },
+        {
+          "cityname": "Zgierz",
+          "zipcodes": [
+            "95-100",
+            "95-101",
+            "95-102",
+            "95-103",
+            "95-104"
+          ],
+          "areacodes": [
+            "42"
+          ]
+        },
+        {
+          "cityname": "Skierniewice",
+          "zipcodes": [
+            "96-100",
+            "96-101",
+            "96-102",
+            "96-103",
+            "96-104"
+          ],
+          "areacodes": [
+            "46"
+          ]
+        },
+        {
+          "cityname": "Łowicz",
+          "zipcodes": [
+            "99-400",
+            "99-401",
+            "99-402",
+            "99-403",
+            "99-404"
+          ],
+          "areacodes": [
+            "46"
+          ]
+        },
+        {
+          "cityname": "Pabianice",
+          "zipcodes": [
+            "95-200",
+            "95-201",
+            "95-202",
+            "95-203",
+            "95-204"
+          ],
+          "areacodes": [
+            "42"
+          ]
+        },
+        {
+          "cityname": "Wieluń",
+          "zipcodes": [
+            "98-300",
+            "98-301",
+            "98-302",
+            "98-303",
+            "98-304"
+          ],
+          "areacodes": [
+            "43"
+          ]
+        },
+        {
+          "cityname": "Kutno",
+          "zipcodes": [
+            "99-300",
+            "99-301",
+            "99-302",
+            "99-303",
+            "99-304"
+          ],
+          "areacodes": [
+            "24"
+          ]
+        }
+      ],
+      "name": "Łódzkie"
+    },
+    "Małopolskie": {
+      "cities": [
+        {
+          "cityname": "Kraków",
+          "zipcodes": [
+            "30-001",
+            "30-002",
+            "30-003",
+            "30-004",
+            "30-005"
+          ],
+          "areacodes": [
+            "12"
+          ]
+        },
+        {
+          "cityname": "Tarnów",
+          "zipcodes": [
+            "33-100",
+            "33-101",
+            "33-102",
+            "33-103",
+            "33-104"
+          ],
+          "areacodes": [
+            "14"
+          ]
+        },
+        {
+          "cityname": "Nowy Sącz",
+          "zipcodes": [
+            "33-300",
+            "33-301",
+            "33-302",
+            "33-303",
+            "33-304"
+          ],
+          "areacodes": [
+            "18"
+          ]
+        },
+        {
+          "cityname": "Oświęcim",
+          "zipcodes": [
+            "32-600",
+            "32-601",
+            "32-602",
+            "32-603",
+            "32-604"
+          ],
+          "areacodes": [
+            "33"
+          ]
+        },
+        {
+          "cityname": "Wadowice",
+          "zipcodes": [
+            "34-100",
+            "34-101",
+            "34-102",
+            "34-103",
+            "34-104"
+          ],
+          "areacodes": [
+            "33"
+          ]
+        },
+        {
+          "cityname": "Chrzanów",
+          "zipcodes": [
+            "32-500",
+            "32-501",
+            "32-502",
+            "32-503",
+            "32-504"
+          ],
+          "areacodes": [
+            "32"
+          ]
+        },
+        {
+          "cityname": "Kraków",
+          "zipcodes": [
+            "30-000",
+            "30-100",
+            "30-200",
+            "30-300",
+            "30-400"
+          ],
+          "areacodes": [
+            "12"
+          ]
+        },
+        {
+          "cityname": "Bochnia",
+          "zipcodes": [
+            "32-700",
+            "32-701",
+            "32-702",
+            "32-703",
+            "32-704"
+          ],
+          "areacodes": [
+            "14"
+          ]
+        },
+        {
+          "cityname": "Myślenice",
+          "zipcodes": [
+            "32-400",
+            "32-401",
+            "32-402",
+            "32-403",
+            "32-404"
+          ],
+          "areacodes": [
+            "12"
+          ]
+        },
+        {
+          "cityname": "Zawiercie",
+          "zipcodes": [
+            "42-400",
+            "42-401",
+            "42-402",
+            "42-403",
+            "42-404"
+          ],
+          "areacodes": [
+            "32"
+          ]
+        }
+      ],
+      "name": "Małopolskie"
+    },
+    "Mazowieckie": {
+      "cities": [
+        {
+          "cityname": "Warszawa",
+          "zipcodes": [
+            "00-001",
+            "00-002",
+            "00-003",
+            "00-004",
+            "00-005"
+          ],
+          "areacodes": [
+            "22"
+          ]
+        },
+        {
+          "cityname": "Radom",
+          "zipcodes": [
+            "26-600",
+            "26-601",
+            "26-602",
+            "26-603",
+            "26-604"
+          ],
+          "areacodes": [
+            "48"
+          ]
+        },
+        {
+          "cityname": "Płock",
+          "zipcodes": [
+            "09-400",
+            "09-401",
+            "09-402",
+            "09-403",
+            "09-404"
+          ],
+          "areacodes": [
+            "24"
+          ]
+        },
+        {
+          "cityname": "Siedlce",
+          "zipcodes": [
+            "08-110",
+            "08-111",
+            "08-112",
+            "08-113",
+            "08-114"
+          ],
+          "areacodes": [
+            "25"
+          ]
+        },
+        {
+          "cityname": "Pruszków",
+          "zipcodes": [
+            "05-800",
+            "05-801",
+            "05-802",
+            "05-803",
+            "05-804"
+          ],
+          "areacodes": [
+            "22"
+          ]
+        },
+        {
+          "cityname": "Ostrołęka",
+          "zipcodes": [
+            "07-400",
+            "07-401",
+            "07-402",
+            "07-403",
+            "07-404"
+          ],
+          "areacodes": [
+            "29"
+          ]
+        },
+        {
+          "cityname": "Mokotów",
+          "zipcodes": [
+            "02-500",
+            "02-501",
+            "02-502",
+            "02-503",
+            "02-504"
+          ],
+          "areacodes": [
+            "22"
+          ]
+        },
+        {
+          "cityname": "Legionowo",
+          "zipcodes": [
+            "05-100",
+            "05-101",
+            "05-102",
+            "05-103",
+            "05-104"
+          ],
+          "areacodes": [
+            "22"
+          ]
+        },
+        {
+          "cityname": "Sochaczew",
+          "zipcodes": [
+            "96-500",
+            "96-501",
+            "96-502",
+            "96-503",
+            "96-504"
+          ],
+          "areacodes": [
+            "46"
+          ]
+        },
+        {
+          "cityname": "Tomaszów Mazowiecki",
+          "zipcodes": [
+            "97-200",
+            "97-201",
+            "97-202",
+            "97-203",
+            "97-204"
+          ],
+          "areacodes": [
+            "44"
+          ]
+        }
+      ],
+      "name": "Mazowieckie"
+    },
+    "Opolskie": {
+      "cities": [
+        {
+          "cityname": "Opole",
+          "zipcodes": [
+            "45-001",
+            "45-002",
+            "45-003",
+            "45-004",
+            "45-005"
+          ],
+          "areacodes": [
+            "77"
+          ]
+        },
+        {
+          "cityname": "Kędzierzyn-Koźle",
+          "zipcodes": [
+            "47-200",
+            "47-201",
+            "47-202",
+            "47-203",
+            "47-204"
+          ],
+          "areacodes": [
+            "77"
+          ]
+        },
+        {
+          "cityname": "Nysa",
+          "zipcodes": [
+            "48-300",
+            "48-301",
+            "48-302",
+            "48-303",
+            "48-304"
+          ],
+          "areacodes": [
+            "77"
+          ]
+        },
+        {
+          "cityname": "Strzelce Opolskie",
+          "zipcodes": [
+            "47-100",
+            "47-101",
+            "47-102",
+            "47-103",
+            "47-104"
+          ],
+          "areacodes": [
+            "77"
+          ]
+        },
+        {
+          "cityname": "Brzeg",
+          "zipcodes": [
+            "49-300",
+            "49-301",
+            "49-302",
+            "49-303",
+            "49-304"
+          ],
+          "areacodes": [
+            "77"
+          ]
+        },
+        {
+          "cityname": "Głubczyce",
+          "zipcodes": [
+            "48-100",
+            "48-101",
+            "48-102",
+            "48-103",
+            "48-104"
+          ],
+          "areacodes": [
+            "77"
+          ]
+        },
+        {
+          "cityname": "Paczków",
+          "zipcodes": [
+            "48-300",
+            "48-301",
+            "48-302",
+            "48-303",
+            "48-304"
+          ],
+          "areacodes": [
+            "77"
+          ]
+        },
+        {
+          "cityname": "Kluczbork",
+          "zipcodes": [
+            "46-200",
+            "46-201",
+            "46-202",
+            "46-203",
+            "46-204"
+          ],
+          "areacodes": [
+            "77"
+          ]
+        },
+        {
+          "cityname": "Wołczyn",
+          "zipcodes": [
+            "46-250",
+            "46-251",
+            "46-252",
+            "46-253",
+            "46-254"
+          ],
+          "areacodes": [
+            "77"
+          ]
+        },
+        {
+          "cityname": "Zdzieszowice",
+          "zipcodes": [
+            "47-230",
+            "47-231",
+            "47-232",
+            "47-233",
+            "47-234"
+          ],
+          "areacodes": [
+            "77"
+          ]
+        }
+      ],
+      "name": "Opolskie"
+    },
+    "Podkarpackie": {
+      "cities": [
+        {
+          "cityname": "Rzeszów",
+          "zipcodes": [
+            "35-001",
+            "35-002",
+            "35-003",
+            "35-004",
+            "35-005"
+          ],
+          "areacodes": [
+            "17"
+          ]
+        },
+        {
+          "cityname": "Przemyśl",
+          "zipcodes": [
+            "37-500",
+            "37-501",
+            "37-502",
+            "37-503",
+            "37-504"
+          ],
+          "areacodes": [
+            "16"
+          ]
+        },
+        {
+          "cityname": "Tarnobrzeg",
+          "zipcodes": [
+            "39-400",
+            "39-401",
+            "39-402",
+            "39-403",
+            "39-404"
+          ],
+          "areacodes": [
+            "15"
+          ]
+        },
+        {
+          "cityname": "Stalowa Wola",
+          "zipcodes": [
+            "37-450",
+            "37-451",
+            "37-452",
+            "37-453",
+            "37-454"
+          ],
+          "areacodes": [
+            "15"
+          ]
+        },
+        {
+          "cityname": "Mielec",
+          "zipcodes": [
+            "39-300",
+            "39-301",
+            "39-302",
+            "39-303",
+            "39-304"
+          ],
+          "areacodes": [
+            "17"
+          ]
+        },
+        {
+          "cityname": "Jarosław",
+          "zipcodes": [
+            "37-500",
+            "37-501",
+            "37-502",
+            "37-503",
+            "37-504"
+          ],
+          "areacodes": [
+            "16"
+          ]
+        },
+        {
+          "cityname": "Krosno",
+          "zipcodes": [
+            "38-400",
+            "38-401",
+            "38-402",
+            "38-403",
+            "38-404"
+          ],
+          "areacodes": [
+            "13"
+          ]
+        },
+        {
+          "cityname": "Leżajsk",
+          "zipcodes": [
+            "37-300",
+            "37-301",
+            "37-302",
+            "37-303",
+            "37-304"
+          ],
+          "areacodes": [
+            "17"
+          ]
+        },
+        {
+          "cityname": "Nisko",
+          "zipcodes": [
+            "37-200",
+            "37-201",
+            "37-202",
+            "37-203",
+            "37-204"
+          ],
+          "areacodes": [
+            "15"
+          ]
+        },
+        {
+          "cityname": "Ropczyce",
+          "zipcodes": [
+            "39-100",
+            "39-101",
+            "39-102",
+            "39-103",
+            "39-104"
+          ],
+          "areacodes": [
+            "17"
+          ]
+        }
+      ],
+      "name": "Podkarpackie"
+    },
+    "Podlaskie": {
+      "cities": [
+        {
+          "cityname": "Białystok",
+          "zipcodes": [
+            "15-001",
+            "15-002",
+            "15-003",
+            "15-004",
+            "15-005"
+          ],
+          "areacodes": [
+            "85"
+          ]
+        },
+        {
+          "cityname": "Suwałki",
+          "zipcodes": [
+            "16-400",
+            "16-401",
+            "16-402",
+            "16-403",
+            "16-404"
+          ],
+          "areacodes": [
+            "87"
+          ]
+        },
+        {
+          "cityname": "Łomża",
+          "zipcodes": [
+            "18-400",
+            "18-401",
+            "18-402",
+            "18-403",
+            "18-404"
+          ],
+          "areacodes": [
+            "86"
+          ]
+        },
+        {
+          "cityname": "Augustów",
+          "zipcodes": [
+            "16-300",
+            "16-301",
+            "16-302",
+            "16-303",
+            "16-304"
+          ],
+          "areacodes": [
+            "87"
+          ]
+        },
+        {
+          "cityname": "Zambrów",
+          "zipcodes": [
+            "18-100",
+            "18-101",
+            "18-102",
+            "18-103",
+            "18-104"
+          ],
+          "areacodes": [
+            "86"
+          ]
+        },
+        {
+          "cityname": "Hajnówka",
+          "zipcodes": [
+            "17-200",
+            "17-201",
+            "17-202",
+            "17-203",
+            "17-204"
+          ],
+          "areacodes": [
+            "85"
+          ]
+        },
+        {
+          "cityname": "Kolno",
+          "zipcodes": [
+            "18-500",
+            "18-501",
+            "18-502",
+            "18-503",
+            "18-504"
+          ],
+          "areacodes": [
+            "86"
+          ]
+        },
+        {
+          "cityname": "Wysokie Mazowieckie",
+          "zipcodes": [
+            "18-200",
+            "18-201",
+            "18-202",
+            "18-203",
+            "18-204"
+          ],
+          "areacodes": [
+            "86"
+          ]
+        },
+        {
+          "cityname": "Rajgród",
+          "zipcodes": [
+            "16-100",
+            "16-101",
+            "16-102",
+            "16-103",
+            "16-104"
+          ],
+          "areacodes": [
+            "87"
+          ]
+        },
+        {
+          "cityname": "Bielsk Podlaski",
+          "zipcodes": [
+            "17-100",
+            "17-101",
+            "17-102",
+            "17-103",
+            "17-104"
+          ],
+          "areacodes": [
+            "85"
+          ]
+        }
+      ],
+      "name": "Podlaskie"
+    },
+    "Pomorskie": {
+      "cities": [
+        {
+          "cityname": "Gdańsk",
+          "zipcodes": [
+            "80-001",
+            "80-002",
+            "80-003",
+            "80-004",
+            "80-005"
+          ],
+          "areacodes": [
+            "58"
+          ]
+        },
+        {
+          "cityname": "Gdynia",
+          "zipcodes": [
+            "81-001",
+            "81-002",
+            "81-003",
+            "81-004",
+            "81-005"
+          ],
+          "areacodes": [
+            "58"
+          ]
+        },
+        {
+          "cityname": "Sopot",
+          "zipcodes": [
+            "81-701",
+            "81-702",
+            "81-703",
+            "81-704",
+            "81-705"
+          ],
+          "areacodes": [
+            "58"
+          ]
+        },
+        {
+          "cityname": "Tczew",
+          "zipcodes": [
+            "83-110",
+            "83-111",
+            "83-112",
+            "83-113",
+            "83-114"
+          ],
+          "areacodes": [
+            "58"
+          ]
+        },
+        {
+          "cityname": "Malbork",
+          "zipcodes": [
+            "82-200",
+            "82-201",
+            "82-202",
+            "82-203",
+            "82-204"
+          ],
+          "areacodes": [
+            "55"
+          ]
+        },
+        {
+          "cityname": "Starogard Gdański",
+          "zipcodes": [
+            "83-200",
+            "83-201",
+            "83-202",
+            "83-203",
+            "83-204"
+          ],
+          "areacodes": [
+            "58"
+          ]
+        },
+        {
+          "cityname": "Kwidzyn",
+          "zipcodes": [
+            "82-500",
+            "82-501",
+            "82-502",
+            "82-503",
+            "82-504"
+          ],
+          "areacodes": [
+            "55"
+          ]
+        },
+        {
+          "cityname": "Słupsk",
+          "zipcodes": [
+            "76-200",
+            "76-201",
+            "76-202",
+            "76-203",
+            "76-204"
+          ],
+          "areacodes": [
+            "59"
+          ]
+        },
+        {
+          "cityname": "Wejherowo",
+          "zipcodes": [
+            "84-200",
+            "84-201",
+            "84-202",
+            "84-203",
+            "84-204"
+          ],
+          "areacodes": [
+            "58"
+          ]
+        },
+        {
+          "cityname": "Chojnice",
+          "zipcodes": [
+            "89-600",
+            "89-601",
+            "89-602",
+            "89-603",
+            "89-604"
+          ],
+          "areacodes": [
+            "52"
+          ]
+        }
+      ],
+      "name": "Pomorskie"
+    },
+    "Śląskie": {
+      "cities": [
+        {
+          "cityname": "Katowice",
+          "zipcodes": [
+            "40-001",
+            "40-002",
+            "40-003",
+            "40-004",
+            "40-005"
+          ],
+          "areacodes": [
+            "32"
+          ]
+        },
+        {
+          "cityname": "Gliwice",
+          "zipcodes": [
+            "44-100",
+            "44-101",
+            "44-102",
+            "44-103",
+            "44-104"
+          ],
+          "areacodes": [
+            "32"
+          ]
+        },
+        {
+          "cityname": "Zabrze",
+          "zipcodes": [
+            "41-800",
+            "41-801",
+            "41-802",
+            "41-803",
+            "41-804"
+          ],
+          "areacodes": [
+            "32"
+          ]
+        },
+        {
+          "cityname": "Ruda Śląska",
+          "zipcodes": [
+            "41-700",
+            "41-701",
+            "41-702",
+            "41-703",
+            "41-704"
+          ],
+          "areacodes": [
+            "32"
+          ]
+        },
+        {
+          "cityname": "Częstochowa",
+          "zipcodes": [
+            "42-200",
+            "42-201",
+            "42-202",
+            "42-203",
+            "42-204"
+          ],
+          "areacodes": [
+            "34"
+          ]
+        },
+        {
+          "cityname": "Tychy",
+          "zipcodes": [
+            "43-100",
+            "43-101",
+            "43-102",
+            "43-103",
+            "43-104"
+          ],
+          "areacodes": [
+            "32"
+          ]
+        },
+        {
+          "cityname": "Bytom",
+          "zipcodes": [
+            "41-900",
+            "41-901",
+            "41-902",
+            "41-903",
+            "41-904"
+          ],
+          "areacodes": [
+            "32"
+          ]
+        },
+        {
+          "cityname": "Chorzów",
+          "zipcodes": [
+            "41-500",
+            "41-501",
+            "41-502",
+            "41-503",
+            "41-504"
+          ],
+          "areacodes": [
+            "32"
+          ]
+        },
+        {
+          "cityname": "Świętochłowice",
+          "zipcodes": [
+            "41-600",
+            "41-601",
+            "41-602",
+            "41-603",
+            "41-604"
+          ],
+          "areacodes": [
+            "32"
+          ]
+        },
+        {
+          "cityname": "Sosnowiec",
+          "zipcodes": [
+            "41-200",
+            "41-201",
+            "41-202",
+            "41-203",
+            "41-204"
+          ],
+          "areacodes": [
+            "32"
+          ]
+        }
+      ],
+      "name": "Śląskie"
+    },
+    "Świętokrzyskie (Holy Cross)": {
+      "cities": [
+        {
+          "cityname": "Kielce",
+          "zipcodes": [
+            "25001",
+            "25002",
+            "25003",
+            "25004",
+            "25005"
+          ],
+          "areacodes": [
+            "41"
+          ]
+        },
+        {
+          "cityname": "Starachowice",
+          "zipcodes": [
+            "27001",
+            "27002",
+            "27003",
+            "27004",
+            "27005"
+          ],
+          "areacodes": [
+            "41"
+          ]
+        },
+        {
+          "cityname": "Skarżysko-Kamienna",
+          "zipcodes": [
+            "26001",
+            "26002",
+            "26003",
+            "26004",
+            "26005"
+          ],
+          "areacodes": [
+            "41"
+          ]
+        },
+        {
+          "cityname": "Ostrowiec Świętokrzyski",
+          "zipcodes": [
+            "27010",
+            "27011",
+            "27012",
+            "27013",
+            "27014"
+          ],
+          "areacodes": [
+            "41"
+          ]
+        },
+        {
+          "cityname": "Busko-Zdrój",
+          "zipcodes": [
+            "28001",
+            "28002",
+            "28003",
+            "28004",
+            "28005"
+          ],
+          "areacodes": [
+            "41"
+          ]
+        },
+        {
+          "cityname": "Końskie",
+          "zipcodes": [
+            "26010",
+            "26011",
+            "26012",
+            "26013",
+            "26014"
+          ],
+          "areacodes": [
+            "41"
+          ]
+        },
+        {
+          "cityname": "Staszów",
+          "zipcodes": [
+            "28010",
+            "28011",
+            "28012",
+            "28013",
+            "28014"
+          ],
+          "areacodes": [
+            "41"
+          ]
+        },
+        {
+          "cityname": "Chmielnik",
+          "zipcodes": [
+            "28020",
+            "28021",
+            "28022",
+            "28023",
+            "28024"
+          ],
+          "areacodes": [
+            "41"
+          ]
+        },
+        {
+          "cityname": "Jędrzejów",
+          "zipcodes": [
+            "28030",
+            "28031",
+            "28032",
+            "28033",
+            "28034"
+          ],
+          "areacodes": [
+            "41"
+          ]
+        },
+        {
+          "cityname": "Pinczów",
+          "zipcodes": [
+            "28040",
+            "28041",
+            "28042",
+            "28043",
+            "28044"
+          ],
+          "areacodes": [
+            "41"
+          ]
+        }
+      ],
+      "name": "Świętokrzyskie (Holy Cross)"
+    },
+    "Warmińsko-Mazurskie (Warmian-Masurian)": {
+      "cities": [
+        {
+          "cityname": "Olsztyn",
+          "zipcodes": [
+            "10001",
+            "10002",
+            "10003",
+            "10004",
+            "10005"
+          ],
+          "areacodes": [
+            "89"
+          ]
+        },
+        {
+          "cityname": "Elbląg",
+          "zipcodes": [
+            "82001",
+            "82002",
+            "82003",
+            "82004",
+            "82005"
+          ],
+          "areacodes": [
+            "55"
+          ]
+        },
+        {
+          "cityname": "Ełk",
+          "zipcodes": [
+            "19001",
+            "19002",
+            "19003",
+            "19004",
+            "19005"
+          ],
+          "areacodes": [
+            "87"
+          ]
+        },
+        {
+          "cityname": "Iława",
+          "zipcodes": [
+            "14001",
+            "14002",
+            "14003",
+            "14004",
+            "14005"
+          ],
+          "areacodes": [
+            "89"
+          ]
+        },
+        {
+          "cityname": "Kętrzyn",
+          "zipcodes": [
+            "11001",
+            "11002",
+            "11003",
+            "11004",
+            "11005"
+          ],
+          "areacodes": [
+            "89"
+          ]
+        },
+        {
+          "cityname": "Mrągowo",
+          "zipcodes": [
+            "11501",
+            "11502",
+            "11503",
+            "11504",
+            "11505"
+          ],
+          "areacodes": [
+            "89"
+          ]
+        },
+        {
+          "cityname": "Nowe Miasto Lubawskie",
+          "zipcodes": [
+            "11010",
+            "11011",
+            "11012",
+            "11013",
+            "11014"
+          ],
+          "areacodes": [
+            "89"
+          ]
+        },
+        {
+          "cityname": "Nidzica",
+          "zipcodes": [
+            "11020",
+            "11021",
+            "11022",
+            "11023",
+            "11024"
+          ],
+          "areacodes": [
+            "89"
+          ]
+        },
+        {
+          "cityname": "Ostróda",
+          "zipcodes": [
+            "14010",
+            "14011",
+            "14012",
+            "14013",
+            "14014"
+          ],
+          "areacodes": [
+            "89"
+          ]
+        },
+        {
+          "cityname": "Szczytno",
+          "zipcodes": [
+            "19010",
+            "19011",
+            "19012",
+            "19013",
+            "19014"
+          ],
+          "areacodes": [
+            "89"
+          ]
+        }
+      ],
+      "name": "Warmińsko-Mazurskie (Warmian-Masurian)"
+    },
+    "Wielkopolskie (Greater Poland)": {
+      "cities": [
+        {
+          "cityname": "Poznań",
+          "zipcodes": [
+            "6001",
+            "6002",
+            "6003",
+            "6004",
+            "6005"
+          ],
+          "areacodes": [
+            "61"
+          ]
+        },
+        {
+          "cityname": "Kalisz",
+          "zipcodes": [
+            "62001",
+            "62002",
+            "62003",
+            "62004",
+            "62005"
+          ],
+          "areacodes": [
+            "62"
+          ]
+        },
+        {
+          "cityname": "Konin",
+          "zipcodes": [
+            "62010",
+            "62011",
+            "62012",
+            "62013",
+            "62014"
+          ],
+          "areacodes": [
+            "63"
+          ]
+        },
+        {
+          "cityname": "Piła",
+          "zipcodes": [
+            "64001",
+            "64002",
+            "64003",
+            "64004",
+            "64005"
+          ],
+          "areacodes": [
+            "67"
+          ]
+        },
+        {
+          "cityname": "Leszno",
+          "zipcodes": [
+            "64010",
+            "64011",
+            "64012",
+            "64013",
+            "64014"
+          ],
+          "areacodes": [
+            "65"
+          ]
+        },
+        {
+          "cityname": "Gniezno",
+          "zipcodes": [
+            "62020",
+            "62021",
+            "62022",
+            "62023",
+            "62024"
+          ],
+          "areacodes": [
+            "61"
+          ]
+        },
+        {
+          "cityname": "Września",
+          "zipcodes": [
+            "62030",
+            "62031",
+            "62032",
+            "62033",
+            "62034"
+          ],
+          "areacodes": [
+            "61"
+          ]
+        },
+        {
+          "cityname": "Śrem",
+          "zipcodes": [
+            "63010",
+            "63011",
+            "63012",
+            "63013",
+            "63014"
+          ],
+          "areacodes": [
+            "61"
+          ]
+        },
+        {
+          "cityname": "Swarzędz",
+          "zipcodes": [
+            "62040",
+            "62041",
+            "62042",
+            "62043",
+            "62044"
+          ],
+          "areacodes": [
+            "61"
+          ]
+        },
+        {
+          "cityname": "Koło",
+          "zipcodes": [
+            "62050",
+            "62051",
+            "62052",
+            "62053",
+            "62054"
+          ],
+          "areacodes": [
+            "63"
+          ]
+        }
+      ],
+      "name": "Wielkopolskie (Greater Poland)"
+    },
+    "Zachodniopomorskie (West Pomeranian)": {
+      "cities": [
+        {
+          "cityname": "Szczecin",
+          "zipcodes": [
+            "7001",
+            "7002",
+            "7003",
+            "7004",
+            "7005"
+          ],
+          "areacodes": [
+            "91"
+          ]
+        },
+        {
+          "cityname": "Koszalin",
+          "zipcodes": [
+            "75001",
+            "75002",
+            "75003",
+            "75004",
+            "75005"
+          ],
+          "areacodes": [
+            "94"
+          ]
+        },
+        {
+          "cityname": "Świnoujście",
+          "zipcodes": [
+            "73001",
+            "73002",
+            "73003",
+            "73004",
+            "73005"
+          ],
+          "areacodes": [
+            "91"
+          ]
+        },
+        {
+          "cityname": "Stargard",
+          "zipcodes": [
+            "73010",
+            "73011",
+            "73012",
+            "73013",
+            "73014"
+          ],
+          "areacodes": [
+            "91"
+          ]
+        },
+        {
+          "cityname": "Wałcz",
+          "zipcodes": [
+            "78001",
+            "78002",
+            "78003",
+            "78004",
+            "78005"
+          ],
+          "areacodes": [
+            "94"
+          ]
+        },
+        {
+          "cityname": "Gryfino",
+          "zipcodes": [
+            "74001",
+            "74002",
+            "74003",
+            "74004",
+            "74005"
+          ],
+          "areacodes": [
+            "91"
+          ]
+        },
+        {
+          "cityname": "Choszczno",
+          "zipcodes": [
+            "73020",
+            "73021",
+            "73022",
+            "73023",
+            "73024"
+          ],
+          "areacodes": [
+            "91"
+          ]
+        },
+        {
+          "cityname": "Police",
+          "zipcodes": [
+            "73030",
+            "73031",
+            "73032",
+            "73033",
+            "73034"
+          ],
+          "areacodes": [
+            "91"
+          ]
+        },
+        {
+          "cityname": "Kamień Pomorski",
+          "zipcodes": [
+            "72001",
+            "72002",
+            "72003",
+            "72004",
+            "72005"
+          ],
+          "areacodes": [
+            "91"
+          ]
+        },
+        {
+          "cityname": "Kołobrzeg",
+          "zipcodes": [
+            "78010",
+            "78011",
+            "78012",
+            "78013",
+            "78014"
+          ],
+          "areacodes": [
+            "94"
+          ]
+        }
+      ],
+      "name": "Zachodniopomorskie (West Pomeranian)"
+    }
+  },
+  "citycontainers":[
+    "provinces"
+  ],
+  "firstnames": [
+  "Jakub", "Kacper", "Michał", "Jan", "Szymon", "Filip", "Tomasz", "Adam", "Stanisław", "Piotr",
+  "Marek", "Mikołaj", "Andrzej", "Paweł", "Wojciech", "Krzysztof", "Mateusz", "Bartosz", "Grzegorz", "Sebastian",
+  "Maciej", "Łukasz", "Rafał", "Jakub", "Damian", "Dawid", "Wojciech", "Oliwier", "Emil", "Marcin",
+  "Dominik", "Borys", "Filip", "Alan", "Karol", "Arkadiusz", "Igor", "Roman", "Kamil", "Konrad",
+  "Mariusz", "Jakub"
+],
+"lastnames": [
+  "Nowak", "Kowalski", "Wiśniewski", "Wójcik", "Kowalczyk", "Mazur", "Kaczmarek", "Jankowski", "Wieczorek", "Kaczmarek",
+  "Wójcik", "Nowicki", "Krawczyk", "Zieliński", "Szymański", "Woźniak", "Dąbrowski", "Piotrowski", "Lewandowski", "Kamiński",
+  "Sikora", "Majewski", "Pawlowski", "Szczepaniak", "Bąk", "Jasiński", "Sikorski", "Ostrowski", "Duda", "Wróbel",
+  "Borkowski", "Tomaszewski", "Kubiak", "Zawisza", "Sadowski", "Górski", "Chmiel", "Kalinowski", "Wójcik", "Bartosz",
+  "Malinowski", "Stolarz"
+]
+
 }

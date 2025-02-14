@@ -1,112 +1,3169 @@
 {
-    "streetNames": [
-        "Nguyễn Huệ",
-        "Phan Đình Phùng",
-        "Lý Thường Kiệt",
-        "Trần Hưng Đạo",
-        "Bà Triệu",
-        "Hàng Bạc",
-        "Xã Đàn",
-        "Hoàng Hoa Thám",
-        "Cầu Giấy",
-        "Hàng Ngang",
-        "Lê Duẩn",
-        "Nguyễn Thái Học",
-        "Trần Quang Khải",
-        "Cách Mạng Tháng Tám",
-        "Tôn Đức Thắng",
-        "Láng Hạ",
-        "Lý Nam Đế",
-        "Nguyễn Trãi",
-        "Đinh Tiên Hoàng",
-        "Quang Trung"
+  "countrycode": "+84",
+  "phoneformat": "(A) XXX XXXX",
+  "country": "Vietnam",
+  "neighborhoods": {
+    "corporate": [
+      "Ho Chi Minh City District 1",
+      "Ho Chi Minh City District 3",
+      "Ho Chi Minh City District 7",
+      "Ho Chi Minh City Binh Thanh",
+      "Ho Chi Minh City Tan Binh",
+      "Ho Chi Minh City District 10",
+      "Hanoi Ba Dinh",
+      "Hanoi Hoan Kiem",
+      "Hanoi Cau Giay",
+      "Hanoi Hai Ba Trung",
+      "Hanoi Tay Ho",
+      "Da Nang Hai Chau",
+      "Da Nang Son Tra",
+      "Da Nang Thanh Khe",
+      "Haiphong Hong Bang",
+      "Haiphong Le Chan",
+      "Can Tho Ninh Kieu",
+      "Can Tho Cai Rang",
+      "Binh Duong Thu Dau Mot",
+      "Binh Duong Di An",
+      "Binh Duong Ben Cat",
+      "Dong Nai Bien Hoa",
+      "Dong Nai Long Thanh",
+      "Quang Ninh Ha Long",
+      "Vinh Phuc Vinh Yen",
+      "Quang Ngai Quang Ngai City",
+      "Gia Lai Pleiku",
+      "Nghe An Vinh City",
+      "Thanh Hoa Thanh Hoa City",
+      "Lam Dong Da Lat",
+      "An Giang Long Xuyen",
+      "Bac Ninh Bac Ninh City",
+      "Hau Giang Vi Thanh",
+      "Bac Giang Bac Giang City",
+      "Khanh Hoa Nha Trang",
+      "Ninh Binh Ninh Binh City",
+      "Phu Tho Viet Tri",
+      "Vinh Long Vinh Long City"
     ],
-    "streetNumbers": [
-        "101",
-        "202",
-        "303",
-        "404",
-        "505",
-        "606",
-        "707",
-        "808",
-        "909",
-        "1234",
-        "4321",
-        "5678",
-        "6789",
-        "7890",
-        "8901",
-        "2345",
-        "3456",
-        "4567",
-        "5670",
-        "6781"
+    "industrial": [
+      "Ho Chi Minh City Tan Thuan Export Processing Zone",
+      "Ho Chi Minh City Saigon Hi-Tech Park",
+      "Ho Chi Minh City Cu Chi Industrial Zone",
+      "Hanoi Industrial Zone",
+      "Binh Duong Industrial Zone",
+      "Dong Nai Industrial Zone",
+      "Haiphong Industrial Zone",
+      "Da Nang Industrial Zone",
+      "Quang Ninh Industrial Zone",
+      "Vinh Phuc Industrial Zone",
+      "Quang Ngai Industrial Zone",
+      "Bac Ninh Industrial Zone",
+      "Khanh Hoa Industrial Zone",
+      "Bac Giang Industrial Zone",
+      "Ninh Binh Industrial Zone",
+      "Hau Giang Industrial Zone",
+      "Thanh Hoa Industrial Zone",
+      "Lam Dong Industrial Zone",
+      "Nghe An Industrial Zone",
+      "Hanoi Industrial Park",
+      "Ha Long Industrial Zone",
+      "Can Tho Industrial Park",
+      "Bien Hoa Industrial Park",
+      "Long Thanh Industrial Park",
+      "Vinh Long Industrial Zone",
+      "Da Lat Industrial Zone",
+      "Tan Dinh Industrial Zone",
+      "Thu Duc Industrial Park",
+      "Tan Binh Industrial Zone",
+      "Vinh Yen Industrial Zone",
+      "Ho Chi Minh City District 12 Industrial Zone",
+      "Bac Giang Industrial Park",
+      "Dong Xoai Industrial Zone",
+      "Vung Tau Industrial Zone",
+      "Phu Quoc Industrial Zone"
     ],
-    "cities": [
-        "Hanoi",
-        "Ho Chi Minh City",
-        "Da Nang",
-        "Hai Phong",
-        "Can Tho",
-        "Bien Hoa",
-        "Nha Trang",
-        "Hue",
-        "Vung Tau",
-        "Quy Nhon",
-        "Ha Long",
-        "Sapa",
-        "Phan Thiet",
-        "Mekong Delta",
-        "Thanh Hoa",
-        "Tay Ninh",
-        "Buon Ma Thuot",
-        "Vinh",
-        "Nam Dinh",
-        "Phu Quoc"
-    ],
-    "states": [
-        "Hanoi",
-        "Ho Chi Minh City",
-        "Bac Ninh",
-        "Binh Duong",
-        "Binh Phuoc",
-        "Dong Nai",
-        "Gia Lai",
-        "Ha Nam",
-        "Ha Tinh",
-        "Khanh Hoa",
-        "Lam Dong",
-        "Quang Ninh",
-        "Quang Nam",
-        "Thanh Hoa",
-        "Thua Thien-Hue",
-        "Tien Giang",
-        "Vinh Phuc",
-        "Bac Giang",
-        "Da Nang",
-        "Kien Giang"
-    ],
-    "zipCodes": [
-        "100000",
-        "200000",
-        "300000",
-        "400000",
-        "500000",
-        "600000",
-        "700000",
-        "800000",
-        "900000",
-        "1234",
-        "4321",
-        "5678",
-        "6789",
-        "7890",
-        "8901",
-        "2345",
-        "3456",
-        "4567",
-        "5670",
-        "6781"
+    "residential": [
+      "Ho Chi Minh City District 2",
+      "Ho Chi Minh City District 7",
+      "Ho Chi Minh City District 9",
+      "Ho Chi Minh City District 10",
+      "Ho Chi Minh City Phu Nhuan",
+      "Hanoi Tay Ho",
+      "Hanoi Hoan Kiem",
+      "Hanoi Ba Dinh",
+      "Da Nang My Khe",
+      "Da Nang Son Tra",
+      "Da Nang Thanh Khe",
+      "Hanoi Hai Ba Trung",
+      "Haiphong Le Chan",
+      "Haiphong Hong Bang",
+      "Can Tho Ninh Kieu",
+      "Can Tho Cai Rang",
+      "Vinh Phuc Vinh Yen",
+      "Quang Ninh Ha Long",
+      "Quang Ngai Quang Ngai City",
+      "Lam Dong Da Lat",
+      "Thanh Hoa Thanh Hoa City",
+      "Bac Giang Bac Giang City",
+      "Gia Lai Pleiku",
+      "Nghe An Vinh City",
+      "Bac Ninh Bac Ninh City",
+      "Hau Giang Vi Thanh",
+      "Vinh Long Vinh Long City",
+      "Binh Duong Thu Dau Mot",
+      "Binh Duong Di An",
+      "Dong Nai Bien Hoa",
+      "Dong Nai Long Thanh",
+      "Phu Tho Viet Tri",
+      "Ninh Binh Ninh Binh City",
+      "Khanh Hoa Nha Trang",
+      "An Giang Long Xuyen",
+      "Binh Duong Ben Cat",
+      "Quang Nam Hoi An",
+      "Quang Tri Dong Ha",
+      "Bac Lieu Bac Lieu City",
+      "Ha Giang Ha Giang City",
+      "Tuyen Quang Tuyen Quang City",
+      "Ben Tre Ben Tre City",
+      "Can Tho O Mon",
+      "Phan Thiet Phan Thiet City"
     ]
+  },
+  "streetnames": {
+    "corporate": [
+      "Nguyen Hue Street",
+      "Le Loi Street",
+      "Dai Lo Le Duan",
+      "Tran Hung Dao Street",
+      "Nguyen Thi Minh Khai Street",
+      "Vo Thi Sau Street",
+      "Nguyen Van Linh Street",
+      "Ha Noi Highway",
+      "Ly Thai To Street",
+      "Dai Lo Thang Long",
+      "Le Duan Street",
+      "Tran Phu Street",
+      "Tay Son Street",
+      "Dai Lo Ha Noi",
+      "Nguyen Tat Thanh Street",
+      "Bui Thi Xuan Street",
+      "Mai Chi Tho Road",
+      "Rach Mieu Road",
+      "Ton Duc Thang Street",
+      "Thang Long Avenue",
+      "Cau Giay Road",
+      "Nguyen Kiem Street",
+      "Phu My Hung Boulevard",
+      "Dai Lo Bao Loc",
+      "Dong Khoi Street",
+      "Hai Ba Trung Street",
+      "Pham Ngoc Thach Street",
+      "Pham Van Dong Street",
+      "Cau Dien Street",
+      "Tran Quoc Toan Street",
+      "Hai Ba Trung Road",
+      "Nguyen Cuu Vinh Street",
+      "Ton That Thiep Street",
+      "Nguyen Du Street"
+    ],
+    "industrial": [
+      "Tan Thuan Export Processing Zone",
+      "Saigon Hi-Tech Park",
+      "Cu Chi Industrial Zone",
+      "Binh Duong Industrial Zone",
+      "Dong Nai Industrial Zone",
+      "Haiphong Industrial Zone",
+      "Quang Ninh Industrial Zone",
+      "Vinh Phuc Industrial Zone",
+      "Quang Ngai Industrial Zone",
+      "Bac Ninh Industrial Zone",
+      "Khanh Hoa Industrial Zone",
+      "Ninh Binh Industrial Zone",
+      "Hau Giang Industrial Zone",
+      "Thanh Hoa Industrial Zone",
+      "Lam Dong Industrial Zone",
+      "Nghe An Industrial Zone",
+      "Ha Long Industrial Zone",
+      "Can Tho Industrial Park",
+      "Bien Hoa Industrial Park",
+      "Long Thanh Industrial Park",
+      "Vinh Long Industrial Zone",
+      "Da Lat Industrial Zone",
+      "Thu Duc Industrial Park",
+      "Tan Binh Industrial Zone",
+      "Vinh Yen Industrial Zone",
+      "Bac Giang Industrial Park",
+      "Dong Xoai Industrial Zone",
+      "Vung Tau Industrial Zone",
+      "Phu Quoc Industrial Zone",
+      "Tan Dinh Industrial Zone",
+      "Tan Son Nhat Industrial Zone",
+      "Tien Son Industrial Park",
+      "Sao Mai Industrial Park",
+      "Saigon River Industrial Zone"
+    ],
+    "residential": [
+      "Nguyen Hue Street",
+      "Pham Ngoc Thach Street",
+      "Dai Lo Le Duan",
+      "Nguyen Thi Minh Khai Street",
+      "Nguyen Van Linh Street",
+      "Pham Van Dong Street",
+      "Nguyen Tat Thanh Street",
+      "Rach Mieu Street",
+      "Nguyen Thi Thap Street",
+      "Ly Thuong Kiet Street",
+      "Dai Lo Ha Noi",
+      "Tran Hung Dao Street",
+      "Dai Lo Bao Loc",
+      "Linh Xuan Street",
+      "Nguyen Thi Minh Khai Road",
+      "Thuy Khe Road",
+      "Bui Thi Xuan Street",
+      "Hoang Hoa Tham Street",
+      "Ha Noi Highway",
+      "Thang Long Avenue",
+      "Cau Giay Road",
+      "Bac Son Street",
+      "Tan Son Nhat Street",
+      "Phu My Hung Boulevard",
+      "Le Lai Street",
+      "Tan Binh District",
+      "Ha Dong Street",
+      "Truong Chinh Road",
+      "Nguyen Du Street",
+      "Lao Dong Street",
+      "Doan Ket Street",
+      "Nguyen Kiem Street",
+      "Dai Lo Tan Son Nhat",
+      "Dong Nai Street",
+      "Phu An Son Street",
+      "Nguyen Xuan Khoat Street"
+    ]
+  },
+  "regions": {
+    "Hồ Chí Minh City": {
+      "capital": "Hồ Chí Minh City",
+      "cities": [
+        {
+          "cityname": "Hồ Chí Minh City",
+          "zipcodes": [
+            "700000",
+            "700001",
+            "700002",
+            "700003",
+            "700004"
+          ],
+          "areacodes": [
+            "028"
+          ]
+        },
+        {
+          "cityname": "Thủ Đức",
+          "zipcodes": [
+            "700000",
+            "700001",
+            "700002",
+            "700003",
+            "700004"
+          ],
+          "areacodes": [
+            "028"
+          ]
+        },
+        {
+          "cityname": "Bình Thạnh",
+          "zipcodes": [
+            "700000",
+            "700001",
+            "700002",
+            "700003",
+            "700004"
+          ],
+          "areacodes": [
+            "028"
+          ]
+        },
+        {
+          "cityname": "Gò Vấp",
+          "zipcodes": [
+            "700000",
+            "700001",
+            "700002",
+            "700003",
+            "700004"
+          ],
+          "areacodes": [
+            "028"
+          ]
+        },
+        {
+          "cityname": "Tân Bình",
+          "zipcodes": [
+            "700000",
+            "700001",
+            "700002",
+            "700003",
+            "700004"
+          ],
+          "areacodes": [
+            "028"
+          ]
+        },
+        {
+          "cityname": "Củ Chi",
+          "zipcodes": [
+            "700000",
+            "700001",
+            "700002",
+            "700003",
+            "700004"
+          ],
+          "areacodes": [
+            "028"
+          ]
+        },
+        {
+          "cityname": "Bình Chánh",
+          "zipcodes": [
+            "700000",
+            "700001",
+            "700002",
+            "700003",
+            "700004"
+          ],
+          "areacodes": [
+            "028"
+          ]
+        },
+        {
+          "cityname": "Nhà Bè",
+          "zipcodes": [
+            "700000",
+            "700001",
+            "700002",
+            "700003",
+            "700004"
+          ],
+          "areacodes": [
+            "028"
+          ]
+        },
+        {
+          "cityname": "Quận 1",
+          "zipcodes": [
+            "700000",
+            "700001",
+            "700002",
+            "700003",
+            "700004"
+          ],
+          "areacodes": [
+            "028"
+          ]
+        },
+        {
+          "cityname": "Quận 7",
+          "zipcodes": [
+            "700000",
+            "700001",
+            "700002",
+            "700003",
+            "700004"
+          ],
+          "areacodes": [
+            "028"
+          ]
+        }
+      ],
+      "name": "Hồ Chí Minh City"
+    },
+    "Hanoi": {
+      "capital": "Hanoi",
+      "cities": [
+        {
+          "cityname": "Hanoi",
+          "zipcodes": [
+            "100000",
+            "100001",
+            "100002",
+            "100003",
+            "100004"
+          ],
+          "areacodes": [
+            "024"
+          ]
+        },
+        {
+          "cityname": "Ba Đình",
+          "zipcodes": [
+            "100000",
+            "100001",
+            "100002",
+            "100003",
+            "100004"
+          ],
+          "areacodes": [
+            "024"
+          ]
+        },
+        {
+          "cityname": "Hoàn Kiếm",
+          "zipcodes": [
+            "100000",
+            "100001",
+            "100002",
+            "100003",
+            "100004"
+          ],
+          "areacodes": [
+            "024"
+          ]
+        },
+        {
+          "cityname": "Hai Bà Trưng",
+          "zipcodes": [
+            "100000",
+            "100001",
+            "100002",
+            "100003",
+            "100004"
+          ],
+          "areacodes": [
+            "024"
+          ]
+        },
+        {
+          "cityname": "Đống Đa",
+          "zipcodes": [
+            "100000",
+            "100001",
+            "100002",
+            "100003",
+            "100004"
+          ],
+          "areacodes": [
+            "024"
+          ]
+        },
+        {
+          "cityname": "Tây Hồ",
+          "zipcodes": [
+            "100000",
+            "100001",
+            "100002",
+            "100003",
+            "100004"
+          ],
+          "areacodes": [
+            "024"
+          ]
+        },
+        {
+          "cityname": "Cầu Giấy",
+          "zipcodes": [
+            "100000",
+            "100001",
+            "100002",
+            "100003",
+            "100004"
+          ],
+          "areacodes": [
+            "024"
+          ]
+        },
+        {
+          "cityname": "Thanh Xuân",
+          "zipcodes": [
+            "100000",
+            "100001",
+            "100002",
+            "100003",
+            "100004"
+          ],
+          "areacodes": [
+            "024"
+          ]
+        },
+        {
+          "cityname": "Long Biên",
+          "zipcodes": [
+            "100000",
+            "100001",
+            "100002",
+            "100003",
+            "100004"
+          ],
+          "areacodes": [
+            "024"
+          ]
+        },
+        {
+          "cityname": "Sóc Sơn",
+          "zipcodes": [
+            "100000",
+            "100001",
+            "100002",
+            "100003",
+            "100004"
+          ],
+          "areacodes": [
+            "024"
+          ]
+        }
+      ],
+      "name": "Hanoi"
+    },
+    "Đà Nẵng": {
+      "capital": "Đà Nẵng",
+      "cities": [
+        {
+          "cityname": "Đà Nẵng",
+          "zipcodes": [
+            "550000",
+            "550001",
+            "550002",
+            "550003",
+            "550004"
+          ],
+          "areacodes": [
+            "0236"
+          ]
+        },
+        {
+          "cityname": "Hải Châu",
+          "zipcodes": [
+            "550000",
+            "550001",
+            "550002",
+            "550003",
+            "550004"
+          ],
+          "areacodes": [
+            "0236"
+          ]
+        },
+        {
+          "cityname": "Cẩm Lệ",
+          "zipcodes": [
+            "550000",
+            "550001",
+            "550002",
+            "550003",
+            "550004"
+          ],
+          "areacodes": [
+            "0236"
+          ]
+        },
+        {
+          "cityname": "Ngũ Hành Sơn",
+          "zipcodes": [
+            "550000",
+            "550001",
+            "550002",
+            "550003",
+            "550004"
+          ],
+          "areacodes": [
+            "0236"
+          ]
+        },
+        {
+          "cityname": "Liên Chiểu",
+          "zipcodes": [
+            "550000",
+            "550001",
+            "550002",
+            "550003",
+            "550004"
+          ],
+          "areacodes": [
+            "0236"
+          ]
+        },
+        {
+          "cityname": "Sơn Trà",
+          "zipcodes": [
+            "550000",
+            "550001",
+            "550002",
+            "550003",
+            "550004"
+          ],
+          "areacodes": [
+            "0236"
+          ]
+        },
+        {
+          "cityname": "Hòa Vang",
+          "zipcodes": [
+            "550000",
+            "550001",
+            "550002",
+            "550003",
+            "550004"
+          ],
+          "areacodes": [
+            "0236"
+          ]
+        },
+        {
+          "cityname": "Thanh Khê",
+          "zipcodes": [
+            "550000",
+            "550001",
+            "550002",
+            "550003",
+            "550004"
+          ],
+          "areacodes": [
+            "0236"
+          ]
+        },
+        {
+          "cityname": "Thạch Thang",
+          "zipcodes": [
+            "550000",
+            "550001",
+            "550002",
+            "550003",
+            "550004"
+          ],
+          "areacodes": [
+            "0236"
+          ]
+        },
+        {
+          "cityname": "Tam Kỳ",
+          "zipcodes": [
+            "550000",
+            "550001",
+            "550002",
+            "550003",
+            "550004"
+          ],
+          "areacodes": [
+            "0236"
+          ]
+        }
+      ],
+      "name": "Đà Nẵng"
+    },
+    "Bình Dương": {
+      "capital": "Thủ Dầu Một",
+      "cities": [
+        {
+          "cityname": "Thủ Dầu Một",
+          "zipcodes": [
+            "590000",
+            "590001",
+            "590002",
+            "590003",
+            "590004"
+          ],
+          "areacodes": [
+            "0274"
+          ]
+        },
+        {
+          "cityname": "Dĩ An",
+          "zipcodes": [
+            "590000",
+            "590001",
+            "590002",
+            "590003",
+            "590004"
+          ],
+          "areacodes": [
+            "0274"
+          ]
+        },
+        {
+          "cityname": "Thuận An",
+          "zipcodes": [
+            "590000",
+            "590001",
+            "590002",
+            "590003",
+            "590004"
+          ],
+          "areacodes": [
+            "0274"
+          ]
+        },
+        {
+          "cityname": "Bến Cát",
+          "zipcodes": [
+            "590000",
+            "590001",
+            "590002",
+            "590003",
+            "590004"
+          ],
+          "areacodes": [
+            "0274"
+          ]
+        },
+        {
+          "cityname": "Tân Uyên",
+          "zipcodes": [
+            "590000",
+            "590001",
+            "590002",
+            "590003",
+            "590004"
+          ],
+          "areacodes": [
+            "0274"
+          ]
+        },
+        {
+          "cityname": "Phú Giáo",
+          "zipcodes": [
+            "590000",
+            "590001",
+            "590002",
+            "590003",
+            "590004"
+          ],
+          "areacodes": [
+            "0274"
+          ]
+        },
+        {
+          "cityname": "Bầu Bàng",
+          "zipcodes": [
+            "590000",
+            "590001",
+            "590002",
+            "590003",
+            "590004"
+          ],
+          "areacodes": [
+            "0274"
+          ]
+        },
+        {
+          "cityname": "Mỹ Phước",
+          "zipcodes": [
+            "590000",
+            "590001",
+            "590002",
+            "590003",
+            "590004"
+          ],
+          "areacodes": [
+            "0274"
+          ]
+        },
+        {
+          "cityname": "Nam Tân",
+          "zipcodes": [
+            "590000",
+            "590001",
+            "590002",
+            "590003",
+            "590004"
+          ],
+          "areacodes": [
+            "0274"
+          ]
+        },
+        {
+          "cityname": "Vĩnh Phú",
+          "zipcodes": [
+            "590000",
+            "590001",
+            "590002",
+            "590003",
+            "590004"
+          ],
+          "areacodes": [
+            "0274"
+          ]
+        }
+      ],
+      "name": "Bình Dương"
+    },
+    "Hải Phòng": {
+      "capital": "Hải Phòng",
+      "cities": [
+        {
+          "cityname": "Hải Phòng",
+          "zipcodes": [
+            "400000",
+            "400001",
+            "400002",
+            "400003",
+            "400004"
+          ],
+          "areacodes": [
+            "0225"
+          ]
+        },
+        {
+          "cityname": "Dương Kinh",
+          "zipcodes": [
+            "400000",
+            "400001",
+            "400002",
+            "400003",
+            "400004"
+          ],
+          "areacodes": [
+            "0225"
+          ]
+        },
+        {
+          "cityname": "Kiến An",
+          "zipcodes": [
+            "400000",
+            "400001",
+            "400002",
+            "400003",
+            "400004"
+          ],
+          "areacodes": [
+            "0225"
+          ]
+        },
+        {
+          "cityname": "Lê Chân",
+          "zipcodes": [
+            "400000",
+            "400001",
+            "400002",
+            "400003",
+            "400004"
+          ],
+          "areacodes": [
+            "0225"
+          ]
+        },
+        {
+          "cityname": "Ngô Quyền",
+          "zipcodes": [
+            "400000",
+            "400001",
+            "400002",
+            "400003",
+            "400004"
+          ],
+          "areacodes": [
+            "0225"
+          ]
+        },
+        {
+          "cityname": "Hồng Bàng",
+          "zipcodes": [
+            "400000",
+            "400001",
+            "400002",
+            "400003",
+            "400004"
+          ],
+          "areacodes": [
+            "0225"
+          ]
+        },
+        {
+          "cityname": "An Dương",
+          "zipcodes": [
+            "400000",
+            "400001",
+            "400002",
+            "400003",
+            "400004"
+          ],
+          "areacodes": [
+            "0225"
+          ]
+        },
+        {
+          "cityname": "Cát Hải",
+          "zipcodes": [
+            "400000",
+            "400001",
+            "400002",
+            "400003",
+            "400004"
+          ],
+          "areacodes": [
+            "0225"
+          ]
+        },
+        {
+          "cityname": "Tiên Lãng",
+          "zipcodes": [
+            "400000",
+            "400001",
+            "400002",
+            "400003",
+            "400004"
+          ],
+          "areacodes": [
+            "0225"
+          ]
+        },
+        {
+          "cityname": "Vĩnh Bảo",
+          "zipcodes": [
+            "400000",
+            "400001",
+            "400002",
+            "400003",
+            "400004"
+          ],
+          "areacodes": [
+            "0225"
+          ]
+        }
+      ],
+      "name": "Hải Phòng"
+    },
+    "Hưng Yên": {
+      "capital": "Hưng Yên",
+      "cities": [
+        {
+          "cityname": "Hưng Yên",
+          "zipcodes": [
+            "170000",
+            "170001",
+            "170002",
+            "170003",
+            "170004"
+          ],
+          "areacodes": [
+            "0221"
+          ]
+        },
+        {
+          "cityname": "Mỹ Hào",
+          "zipcodes": [
+            "170000",
+            "170001",
+            "170002",
+            "170003",
+            "170004"
+          ],
+          "areacodes": [
+            "0221"
+          ]
+        },
+        {
+          "cityname": "Khoái Châu",
+          "zipcodes": [
+            "170000",
+            "170001",
+            "170002",
+            "170003",
+            "170004"
+          ],
+          "areacodes": [
+            "0221"
+          ]
+        },
+        {
+          "cityname": "Phù Cừ",
+          "zipcodes": [
+            "170000",
+            "170001",
+            "170002",
+            "170003",
+            "170004"
+          ],
+          "areacodes": [
+            "0221"
+          ]
+        },
+        {
+          "cityname": "Tiên Lữ",
+          "zipcodes": [
+            "170000",
+            "170001",
+            "170002",
+            "170003",
+            "170004"
+          ],
+          "areacodes": [
+            "0221"
+          ]
+        },
+        {
+          "cityname": "Kim Động",
+          "zipcodes": [
+            "170000",
+            "170001",
+            "170002",
+            "170003",
+            "170004"
+          ],
+          "areacodes": [
+            "0221"
+          ]
+        },
+        {
+          "cityname": "Ân Thi",
+          "zipcodes": [
+            "170000",
+            "170001",
+            "170002",
+            "170003",
+            "170004"
+          ],
+          "areacodes": [
+            "0221"
+          ]
+        },
+        {
+          "cityname": "Yên Mỹ",
+          "zipcodes": [
+            "170000",
+            "170001",
+            "170002",
+            "170003",
+            "170004"
+          ],
+          "areacodes": [
+            "0221"
+          ]
+        },
+        {
+          "cityname": "Văn Lâm",
+          "zipcodes": [
+            "170000",
+            "170001",
+            "170002",
+            "170003",
+            "170004"
+          ],
+          "areacodes": [
+            "0221"
+          ]
+        },
+        {
+          "cityname": "Vũ Thư",
+          "zipcodes": [
+            "170000",
+            "170001",
+            "170002",
+            "170003",
+            "170004"
+          ],
+          "areacodes": [
+            "0221"
+          ]
+        }
+      ],
+      "name": "Hưng Yên"
+    },
+    "Đồng Nai": {
+      "capital": "Biên Hòa",
+      "cities": [
+        {
+          "cityname": "Biên Hòa",
+          "zipcodes": [
+            "810000",
+            "810001",
+            "810002",
+            "810003",
+            "810004"
+          ],
+          "areacodes": [
+            "0251"
+          ]
+        },
+        {
+          "cityname": "Long Khánh",
+          "zipcodes": [
+            "810000",
+            "810001",
+            "810002",
+            "810003",
+            "810004"
+          ],
+          "areacodes": [
+            "0251"
+          ]
+        },
+        {
+          "cityname": "Vĩnh Cửu",
+          "zipcodes": [
+            "810000",
+            "810001",
+            "810002",
+            "810003",
+            "810004"
+          ],
+          "areacodes": [
+            "0251"
+          ]
+        },
+        {
+          "cityname": "Định Quán",
+          "zipcodes": [
+            "810000",
+            "810001",
+            "810002",
+            "810003",
+            "810004"
+          ],
+          "areacodes": [
+            "0251"
+          ]
+        },
+        {
+          "cityname": "Tân Phú",
+          "zipcodes": [
+            "810000",
+            "810001",
+            "810002",
+            "810003",
+            "810004"
+          ],
+          "areacodes": [
+            "0251"
+          ]
+        },
+        {
+          "cityname": "Trảng Bom",
+          "zipcodes": [
+            "810000",
+            "810001",
+            "810002",
+            "810003",
+            "810004"
+          ],
+          "areacodes": [
+            "0251"
+          ]
+        },
+        {
+          "cityname": "Nhơn Trạch",
+          "zipcodes": [
+            "810000",
+            "810001",
+            "810002",
+            "810003",
+            "810004"
+          ],
+          "areacodes": [
+            "0251"
+          ]
+        },
+        {
+          "cityname": "Xuân Lộc",
+          "zipcodes": [
+            "810000",
+            "810001",
+            "810002",
+            "810003",
+            "810004"
+          ],
+          "areacodes": [
+            "0251"
+          ]
+        },
+        {
+          "cityname": "Cẩm Mỹ",
+          "zipcodes": [
+            "810000",
+            "810001",
+            "810002",
+            "810003",
+            "810004"
+          ],
+          "areacodes": [
+            "0251"
+          ]
+        },
+        {
+          "cityname": "Long Thành",
+          "zipcodes": [
+            "810000",
+            "810001",
+            "810002",
+            "810003",
+            "810004"
+          ],
+          "areacodes": [
+            "0251"
+          ]
+        }
+      ],
+      "name": "Đồng Nai"
+    },
+    "Bắc Ninh": {
+      "capital": "Bắc Ninh",
+      "cities": [
+        {
+          "cityname": "Bắc Ninh",
+          "zipcodes": [
+            "160000",
+            "160001",
+            "160002",
+            "160003",
+            "160004"
+          ],
+          "areacodes": [
+            "0222"
+          ]
+        },
+        {
+          "cityname": "Từ Sơn",
+          "zipcodes": [
+            "160000",
+            "160001",
+            "160002",
+            "160003",
+            "160004"
+          ],
+          "areacodes": [
+            "0222"
+          ]
+        },
+        {
+          "cityname": "Yên Phong",
+          "zipcodes": [
+            "160000",
+            "160001",
+            "160002",
+            "160003",
+            "160004"
+          ],
+          "areacodes": [
+            "0222"
+          ]
+        },
+        {
+          "cityname": "Thuận Thành",
+          "zipcodes": [
+            "160000",
+            "160001",
+            "160002",
+            "160003",
+            "160004"
+          ],
+          "areacodes": [
+            "0222"
+          ]
+        },
+        {
+          "cityname": "Gia Bình",
+          "zipcodes": [
+            "160000",
+            "160001",
+            "160002",
+            "160003",
+            "160004"
+          ],
+          "areacodes": [
+            "0222"
+          ]
+        },
+        {
+          "cityname": "Quế Võ",
+          "zipcodes": [
+            "160000",
+            "160001",
+            "160002",
+            "160003",
+            "160004"
+          ],
+          "areacodes": [
+            "0222"
+          ]
+        },
+        {
+          "cityname": "Lương Tài",
+          "zipcodes": [
+            "160000",
+            "160001",
+            "160002",
+            "160003",
+            "160004"
+          ],
+          "areacodes": [
+            "0222"
+          ]
+        },
+        {
+          "cityname": "Bắc Giang",
+          "zipcodes": [
+            "160000",
+            "160001",
+            "160002",
+            "160003",
+            "160004"
+          ],
+          "areacodes": [
+            "0222"
+          ]
+        },
+        {
+          "cityname": "Văn Lâm",
+          "zipcodes": [
+            "160000",
+            "160001",
+            "160002",
+            "160003",
+            "160004"
+          ],
+          "areacodes": [
+            "0222"
+          ]
+        },
+        {
+          "cityname": "Kinh Môn",
+          "zipcodes": [
+            "160000",
+            "160001",
+            "160002",
+            "160003",
+            "160004"
+          ],
+          "areacodes": [
+            "0222"
+          ]
+        }
+      ],
+      "name": "Bắc Ninh"
+    },
+    "Long An": {
+      "capital": "Tân An",
+      "cities": [
+        {
+          "cityname": "Tân An",
+          "zipcodes": [
+            "820000",
+            "820001",
+            "820002",
+            "820003",
+            "820004"
+          ],
+          "areacodes": [
+            "0272"
+          ]
+        },
+        {
+          "cityname": "Bến Lức",
+          "zipcodes": [
+            "820000",
+            "820001",
+            "820002",
+            "820003",
+            "820004"
+          ],
+          "areacodes": [
+            "0272"
+          ]
+        },
+        {
+          "cityname": "Châu Thành",
+          "zipcodes": [
+            "820000",
+            "820001",
+            "820002",
+            "820003",
+            "820004"
+          ],
+          "areacodes": [
+            "0272"
+          ]
+        },
+        {
+          "cityname": "Cần Giuộc",
+          "zipcodes": [
+            "820000",
+            "820001",
+            "820002",
+            "820003",
+            "820004"
+          ],
+          "areacodes": [
+            "0272"
+          ]
+        },
+        {
+          "cityname": "Cần Đước",
+          "zipcodes": [
+            "820000",
+            "820001",
+            "820002",
+            "820003",
+            "820004"
+          ],
+          "areacodes": [
+            "0272"
+          ]
+        },
+        {
+          "cityname": "Đức Hòa",
+          "zipcodes": [
+            "820000",
+            "820001",
+            "820002",
+            "820003",
+            "820004"
+          ],
+          "areacodes": [
+            "0272"
+          ]
+        },
+        {
+          "cityname": "Thủ Thừa",
+          "zipcodes": [
+            "820000",
+            "820001",
+            "820002",
+            "820003",
+            "820004"
+          ],
+          "areacodes": [
+            "0272"
+          ]
+        },
+        {
+          "cityname": "Tân Trụ",
+          "zipcodes": [
+            "820000",
+            "820001",
+            "820002",
+            "820003",
+            "820004"
+          ],
+          "areacodes": [
+            "0272"
+          ]
+        },
+        {
+          "cityname": "Vĩnh Hưng",
+          "zipcodes": [
+            "820000",
+            "820001",
+            "820002",
+            "820003",
+            "820004"
+          ],
+          "areacodes": [
+            "0272"
+          ]
+        },
+        {
+          "cityname": "Mộc Hóa",
+          "zipcodes": [
+            "820000",
+            "820001",
+            "820002",
+            "820003",
+            "820004"
+          ],
+          "areacodes": [
+            "0272"
+          ]
+        }
+      ],
+      "name": "Long An"
+    },
+    "Vĩnh Phúc": {
+      "capital": "Vĩnh Yên",
+      "cities": [
+        {
+          "cityname": "Vĩnh Yên",
+          "zipcodes": [
+            "140000",
+            "140001",
+            "140002",
+            "140003",
+            "140004"
+          ],
+          "areacodes": [
+            "0211"
+          ]
+        },
+        {
+          "cityname": "Phúc Yên",
+          "zipcodes": [
+            "140000",
+            "140001",
+            "140002",
+            "140003",
+            "140004"
+          ],
+          "areacodes": [
+            "0211"
+          ]
+        },
+        {
+          "cityname": "Lập Thạch",
+          "zipcodes": [
+            "140000",
+            "140001",
+            "140002",
+            "140003",
+            "140004"
+          ],
+          "areacodes": [
+            "0211"
+          ]
+        },
+        {
+          "cityname": "Sông Lô",
+          "zipcodes": [
+            "140000",
+            "140001",
+            "140002",
+            "140003",
+            "140004"
+          ],
+          "areacodes": [
+            "0211"
+          ]
+        },
+        {
+          "cityname": "Tam Dương",
+          "zipcodes": [
+            "140000",
+            "140001",
+            "140002",
+            "140003",
+            "140004"
+          ],
+          "areacodes": [
+            "0211"
+          ]
+        },
+        {
+          "cityname": "Bình Xuyên",
+          "zipcodes": [
+            "140000",
+            "140001",
+            "140002",
+            "140003",
+            "140004"
+          ],
+          "areacodes": [
+            "0211"
+          ]
+        },
+        {
+          "cityname": "Yên Lạc",
+          "zipcodes": [
+            "140000",
+            "140001",
+            "140002",
+            "140003",
+            "140004"
+          ],
+          "areacodes": [
+            "0211"
+          ]
+        },
+        {
+          "cityname": "Vĩnh Tường",
+          "zipcodes": [
+            "140000",
+            "140001",
+            "140002",
+            "140003",
+            "140004"
+          ],
+          "areacodes": [
+            "0211"
+          ]
+        },
+        {
+          "cityname": "Tam Đảo",
+          "zipcodes": [
+            "140000",
+            "140001",
+            "140002",
+            "140003",
+            "140004"
+          ],
+          "areacodes": [
+            "0211"
+          ]
+        },
+        {
+          "cityname": "Mê Linh",
+          "zipcodes": [
+            "140000",
+            "140001",
+            "140002",
+            "140003",
+            "140004"
+          ],
+          "areacodes": [
+            "0211"
+          ]
+        }
+      ],
+      "name": "Vĩnh Phúc"
+    },
+    "Thanh Hóa": {
+      "capital": "Thanh Hóa",
+      "cities": [
+        {
+          "cityname": "Thanh Hóa",
+          "zipcodes": [
+            "440000",
+            "440001",
+            "440002",
+            "440003",
+            "440004"
+          ],
+          "areacodes": [
+            "0237"
+          ]
+        },
+        {
+          "cityname": "Sầm Sơn",
+          "zipcodes": [
+            "440000",
+            "440001",
+            "440002",
+            "440003",
+            "440004"
+          ],
+          "areacodes": [
+            "0237"
+          ]
+        },
+        {
+          "cityname": "Bỉm Sơn",
+          "zipcodes": [
+            "440000",
+            "440001",
+            "440002",
+            "440003",
+            "440004"
+          ],
+          "areacodes": [
+            "0237"
+          ]
+        },
+        {
+          "cityname": "Mường Lát",
+          "zipcodes": [
+            "440000",
+            "440001",
+            "440002",
+            "440003",
+            "440004"
+          ],
+          "areacodes": [
+            "0237"
+          ]
+        },
+        {
+          "cityname": "Hậu Lộc",
+          "zipcodes": [
+            "440000",
+            "440001",
+            "440002",
+            "440003",
+            "440004"
+          ],
+          "areacodes": [
+            "0237"
+          ]
+        },
+        {
+          "cityname": "Hoằng Hóa",
+          "zipcodes": [
+            "440000",
+            "440001",
+            "440002",
+            "440003",
+            "440004"
+          ],
+          "areacodes": [
+            "0237"
+          ]
+        },
+        {
+          "cityname": "Tĩnh Gia",
+          "zipcodes": [
+            "440000",
+            "440001",
+            "440002",
+            "440003",
+            "440004"
+          ],
+          "areacodes": [
+            "0237"
+          ]
+        },
+        {
+          "cityname": "Nga Sơn",
+          "zipcodes": [
+            "440000",
+            "440001",
+            "440002",
+            "440003",
+            "440004"
+          ],
+          "areacodes": [
+            "0237"
+          ]
+        },
+        {
+          "cityname": "Quảng Xương",
+          "zipcodes": [
+            "440000",
+            "440001",
+            "440002",
+            "440003",
+            "440004"
+          ],
+          "areacodes": [
+            "0237"
+          ]
+        },
+        {
+          "cityname": "Triệu Sơn",
+          "zipcodes": [
+            "440000",
+            "440001",
+            "440002",
+            "440003",
+            "440004"
+          ],
+          "areacodes": [
+            "0237"
+          ]
+        }
+      ],
+      "name": "Thanh Hóa"
+    },
+    "Nghe An": {
+      "capital": "Vinh",
+      "cities": [
+        {
+          "cityname": "Vinh",
+          "zipcodes": [
+            "460000",
+            "460001",
+            "460002",
+            "460003",
+            "460004"
+          ],
+          "areacodes": [
+            "0238"
+          ]
+        },
+        {
+          "cityname": "Thái Hòa",
+          "zipcodes": [
+            "460000",
+            "460001",
+            "460002",
+            "460003",
+            "460004"
+          ],
+          "areacodes": [
+            "0238"
+          ]
+        },
+        {
+          "cityname": "Cửa Lò",
+          "zipcodes": [
+            "460000",
+            "460001",
+            "460002",
+            "460003",
+            "460004"
+          ],
+          "areacodes": [
+            "0238"
+          ]
+        },
+        {
+          "cityname": "Hưng Nguyên",
+          "zipcodes": [
+            "460000",
+            "460001",
+            "460002",
+            "460003",
+            "460004"
+          ],
+          "areacodes": [
+            "0238"
+          ]
+        },
+        {
+          "cityname": "Nghĩa Đàn",
+          "zipcodes": [
+            "460000",
+            "460001",
+            "460002",
+            "460003",
+            "460004"
+          ],
+          "areacodes": [
+            "0238"
+          ]
+        },
+        {
+          "cityname": "Quỳnh Lưu",
+          "zipcodes": [
+            "460000",
+            "460001",
+            "460002",
+            "460003",
+            "460004"
+          ],
+          "areacodes": [
+            "0238"
+          ]
+        },
+        {
+          "cityname": "Thanh Chương",
+          "zipcodes": [
+            "460000",
+            "460001",
+            "460002",
+            "460003",
+            "460004"
+          ],
+          "areacodes": [
+            "0238"
+          ]
+        },
+        {
+          "cityname": "Diễn Châu",
+          "zipcodes": [
+            "460000",
+            "460001",
+            "460002",
+            "460003",
+            "460004"
+          ],
+          "areacodes": [
+            "0238"
+          ]
+        },
+        {
+          "cityname": "Quỳ Hợp",
+          "zipcodes": [
+            "460000",
+            "460001",
+            "460002",
+            "460003",
+            "460004"
+          ],
+          "areacodes": [
+            "0238"
+          ]
+        },
+        {
+          "cityname": "Con Cuông",
+          "zipcodes": [
+            "460000",
+            "460001",
+            "460002",
+            "460003",
+            "460004"
+          ],
+          "areacodes": [
+            "0238"
+          ]
+        }
+      ],
+      "name": "Nghe An"
+    },
+    "Hà Tĩnh": {
+      "capital": "Hà Tĩnh",
+      "cities": [
+        {
+          "cityname": "Hà Tĩnh",
+          "zipcodes": [
+            "450000",
+            "450001",
+            "450002",
+            "450003",
+            "450004"
+          ],
+          "areacodes": [
+            "0239"
+          ]
+        },
+        {
+          "cityname": "Hồng Lĩnh",
+          "zipcodes": [
+            "450000",
+            "450001",
+            "450002",
+            "450003",
+            "450004"
+          ],
+          "areacodes": [
+            "0239"
+          ]
+        },
+        {
+          "cityname": "Kỳ Anh",
+          "zipcodes": [
+            "450000",
+            "450001",
+            "450002",
+            "450003",
+            "450004"
+          ],
+          "areacodes": [
+            "0239"
+          ]
+        },
+        {
+          "cityname": "Thạch Hà",
+          "zipcodes": [
+            "450000",
+            "450001",
+            "450002",
+            "450003",
+            "450004"
+          ],
+          "areacodes": [
+            "0239"
+          ]
+        },
+        {
+          "cityname": "Cẩm Xuyên",
+          "zipcodes": [
+            "450000",
+            "450001",
+            "450002",
+            "450003",
+            "450004"
+          ],
+          "areacodes": [
+            "0239"
+          ]
+        },
+        {
+          "cityname": "Nghi Xuân",
+          "zipcodes": [
+            "450000",
+            "450001",
+            "450002",
+            "450003",
+            "450004"
+          ],
+          "areacodes": [
+            "0239"
+          ]
+        },
+        {
+          "cityname": "Lộc Hà",
+          "zipcodes": [
+            "450000",
+            "450001",
+            "450002",
+            "450003",
+            "450004"
+          ],
+          "areacodes": [
+            "0239"
+          ]
+        },
+        {
+          "cityname": "Can Lộc",
+          "zipcodes": [
+            "450000",
+            "450001",
+            "450002",
+            "450003",
+            "450004"
+          ],
+          "areacodes": [
+            "0239"
+          ]
+        },
+        {
+          "cityname": "Vũ Quang",
+          "zipcodes": [
+            "450000",
+            "450001",
+            "450002",
+            "450003",
+            "450004"
+          ],
+          "areacodes": [
+            "0239"
+          ]
+        },
+        {
+          "cityname": "Hương Sơn",
+          "zipcodes": [
+            "450000",
+            "450001",
+            "450002",
+            "450003",
+            "450004"
+          ],
+          "areacodes": [
+            "0239"
+          ]
+        }
+      ],
+      "name": "Hà Tĩnh"
+    },
+    "Quảng Ninh": {
+      "capital": "Hạ Long",
+      "cities": [
+        {
+          "cityname": "Hạ Long",
+          "zipcodes": [
+            "200000",
+            "200001",
+            "200002",
+            "200003",
+            "200004"
+          ],
+          "areacodes": [
+            "0203"
+          ]
+        },
+        {
+          "cityname": "Cẩm Phả",
+          "zipcodes": [
+            "200000",
+            "200001",
+            "200002",
+            "200003",
+            "200004"
+          ],
+          "areacodes": [
+            "0203"
+          ]
+        },
+        {
+          "cityname": "Móng Cái",
+          "zipcodes": [
+            "200000",
+            "200001",
+            "200002",
+            "200003",
+            "200004"
+          ],
+          "areacodes": [
+            "0203"
+          ]
+        },
+        {
+          "cityname": "Uông Bí",
+          "zipcodes": [
+            "200000",
+            "200001",
+            "200002",
+            "200003",
+            "200004"
+          ],
+          "areacodes": [
+            "0203"
+          ]
+        },
+        {
+          "cityname": "Quảng Yên",
+          "zipcodes": [
+            "200000",
+            "200001",
+            "200002",
+            "200003",
+            "200004"
+          ],
+          "areacodes": [
+            "0203"
+          ]
+        },
+        {
+          "cityname": "Vân Đồn",
+          "zipcodes": [
+            "200000",
+            "200001",
+            "200002",
+            "200003",
+            "200004"
+          ],
+          "areacodes": [
+            "0203"
+          ]
+        },
+        {
+          "cityname": "Đầm Hà",
+          "zipcodes": [
+            "200000",
+            "200001",
+            "200002",
+            "200003",
+            "200004"
+          ],
+          "areacodes": [
+            "0203"
+          ]
+        },
+        {
+          "cityname": "Tiên Yên",
+          "zipcodes": [
+            "200000",
+            "200001",
+            "200002",
+            "200003",
+            "200004"
+          ],
+          "areacodes": [
+            "0203"
+          ]
+        },
+        {
+          "cityname": "Ba Chẽ",
+          "zipcodes": [
+            "200000",
+            "200001",
+            "200002",
+            "200003",
+            "200004"
+          ],
+          "areacodes": [
+            "0203"
+          ]
+        },
+        {
+          "cityname": "Đông Triều",
+          "zipcodes": [
+            "200000",
+            "200001",
+            "200002",
+            "200003",
+            "200004"
+          ],
+          "areacodes": [
+            "0203"
+          ]
+        }
+      ],
+      "name": "Quảng Ninh"
+    },
+    "Bà Rịa-Vũng Tàu": {
+      "capital": "Bà Rịa",
+      "cities": [
+        {
+          "cityname": "Bà Rịa",
+          "zipcodes": [
+            "790000",
+            "790001",
+            "790002",
+            "790003",
+            "790004"
+          ],
+          "areacodes": [
+            "0254"
+          ]
+        },
+        {
+          "cityname": "Vũng Tàu",
+          "zipcodes": [
+            "790000",
+            "790001",
+            "790002",
+            "790003",
+            "790004"
+          ],
+          "areacodes": [
+            "0254"
+          ]
+        },
+        {
+          "cityname": "Long Điền",
+          "zipcodes": [
+            "790000",
+            "790001",
+            "790002",
+            "790003",
+            "790004"
+          ],
+          "areacodes": [
+            "0254"
+          ]
+        },
+        {
+          "cityname": "Đất Đỏ",
+          "zipcodes": [
+            "790000",
+            "790001",
+            "790002",
+            "790003",
+            "790004"
+          ],
+          "areacodes": [
+            "0254"
+          ]
+        },
+        {
+          "cityname": "Xuyên Mộc",
+          "zipcodes": [
+            "790000",
+            "790001",
+            "790002",
+            "790003",
+            "790004"
+          ],
+          "areacodes": [
+            "0254"
+          ]
+        },
+        {
+          "cityname": "Châu Đức",
+          "zipcodes": [
+            "790000",
+            "790001",
+            "790002",
+            "790003",
+            "790004"
+          ],
+          "areacodes": [
+            "0254"
+          ]
+        },
+        {
+          "cityname": "Tân Thành",
+          "zipcodes": [
+            "790000",
+            "790001",
+            "790002",
+            "790003",
+            "790004"
+          ],
+          "areacodes": [
+            "0254"
+          ]
+        },
+        {
+          "cityname": "Phú Mỹ",
+          "zipcodes": [
+            "790000",
+            "790001",
+            "790002",
+            "790003",
+            "790004"
+          ],
+          "areacodes": [
+            "0254"
+          ]
+        },
+        {
+          "cityname": "Bà Rịa-Vũng Tàu (Vũng Tàu)",
+          "zipcodes": [
+            "790000",
+            "790001",
+            "790002",
+            "790003",
+            "790004"
+          ],
+          "areacodes": [
+            "0254"
+          ]
+        },
+        {
+          "cityname": "Côn Đảo",
+          "zipcodes": [
+            "790000",
+            "790001",
+            "790002",
+            "790003",
+            "790004"
+          ],
+          "areacodes": [
+            "0254"
+          ]
+        }
+      ],
+      "name": "Bà Rịa-Vũng Tàu"
+    },
+    "Kiên Giang": {
+      "capital": "Rạch Giá",
+      "cities": [
+        {
+          "cityname": "Rạch Giá",
+          "zipcodes": [
+            "920000",
+            "920001",
+            "920002",
+            "920003",
+            "920004"
+          ],
+          "areacodes": [
+            "077"
+          ]
+        },
+        {
+          "cityname": "Phú Quốc",
+          "zipcodes": [
+            "920000",
+            "920001",
+            "920002",
+            "920003",
+            "920004"
+          ],
+          "areacodes": [
+            "077"
+          ]
+        },
+        {
+          "cityname": "Kiên Lương",
+          "zipcodes": [
+            "920000",
+            "920001",
+            "920002",
+            "920003",
+            "920004"
+          ],
+          "areacodes": [
+            "077"
+          ]
+        },
+        {
+          "cityname": "Hòn Đất",
+          "zipcodes": [
+            "920000",
+            "920001",
+            "920002",
+            "920003",
+            "920004"
+          ],
+          "areacodes": [
+            "077"
+          ]
+        },
+        {
+          "cityname": "Châu Thành",
+          "zipcodes": [
+            "920000",
+            "920001",
+            "920002",
+            "920003",
+            "920004"
+          ],
+          "areacodes": [
+            "077"
+          ]
+        },
+        {
+          "cityname": "Tân Hiệp",
+          "zipcodes": [
+            "920000",
+            "920001",
+            "920002",
+            "920003",
+            "920004"
+          ],
+          "areacodes": [
+            "077"
+          ]
+        },
+        {
+          "cityname": "Giang Thành",
+          "zipcodes": [
+            "920000",
+            "920001",
+            "920002",
+            "920003",
+            "920004"
+          ],
+          "areacodes": [
+            "077"
+          ]
+        },
+        {
+          "cityname": "An Minh",
+          "zipcodes": [
+            "920000",
+            "920001",
+            "920002",
+            "920003",
+            "920004"
+          ],
+          "areacodes": [
+            "077"
+          ]
+        },
+        {
+          "cityname": "An Biên",
+          "zipcodes": [
+            "920000",
+            "920001",
+            "920002",
+            "920003",
+            "920004"
+          ],
+          "areacodes": [
+            "077"
+          ]
+        },
+        {
+          "cityname": "Vĩnh Thuận",
+          "zipcodes": [
+            "920000",
+            "920001",
+            "920002",
+            "920003",
+            "920004"
+          ],
+          "areacodes": [
+            "077"
+          ]
+        }
+      ],
+      "name": "Kiên Giang"
+    },
+    "Cần Thơ": {
+      "capital": "Cần Thơ",
+      "cities": [
+        {
+          "cityname": "Cần Thơ",
+          "zipcodes": [
+            "900000",
+            "900001",
+            "900002",
+            "900003",
+            "900004"
+          ],
+          "areacodes": [
+            "0292"
+          ]
+        },
+        {
+          "cityname": "Vĩnh Thạnh",
+          "zipcodes": [
+            "900000",
+            "900001",
+            "900002",
+            "900003",
+            "900004"
+          ],
+          "areacodes": [
+            "0292"
+          ]
+        },
+        {
+          "cityname": "Phụng Hiệp",
+          "zipcodes": [
+            "900000",
+            "900001",
+            "900002",
+            "900003",
+            "900004"
+          ],
+          "areacodes": [
+            "0292"
+          ]
+        },
+        {
+          "cityname": "Cờ Đỏ",
+          "zipcodes": [
+            "900000",
+            "900001",
+            "900002",
+            "900003",
+            "900004"
+          ],
+          "areacodes": [
+            "0292"
+          ]
+        },
+        {
+          "cityname": "Thốt Nốt",
+          "zipcodes": [
+            "900000",
+            "900001",
+            "900002",
+            "900003",
+            "900004"
+          ],
+          "areacodes": [
+            "0292"
+          ]
+        },
+        {
+          "cityname": "Bình Thủy",
+          "zipcodes": [
+            "900000",
+            "900001",
+            "900002",
+            "900003",
+            "900004"
+          ],
+          "areacodes": [
+            "0292"
+          ]
+        },
+        {
+          "cityname": "Ninh Kiều",
+          "zipcodes": [
+            "900000",
+            "900001",
+            "900002",
+            "900003",
+            "900004"
+          ],
+          "areacodes": [
+            "0292"
+          ]
+        },
+        {
+          "cityname": "Kế Sách",
+          "zipcodes": [
+            "900000",
+            "900001",
+            "900002",
+            "900003",
+            "900004"
+          ],
+          "areacodes": [
+            "0292"
+          ]
+        },
+        {
+          "cityname": "Phong Điền",
+          "zipcodes": [
+            "900000",
+            "900001",
+            "900002",
+            "900003",
+            "900004"
+          ],
+          "areacodes": [
+            "0292"
+          ]
+        },
+        {
+          "cityname": "Ô Môn",
+          "zipcodes": [
+            "900000",
+            "900001",
+            "900002",
+            "900003",
+            "900004"
+          ],
+          "areacodes": [
+            "0292"
+          ]
+        }
+      ],
+      "name": "Cần Thơ"
+    },
+    "An Giang": {
+      "capital": "Long Xuyên",
+      "cities": [
+        {
+          "cityname": "Long Xuyên",
+          "zipcodes": [
+            "900000",
+            "900001",
+            "900002",
+            "900003",
+            "900004"
+          ],
+          "areacodes": [
+            "0296"
+          ]
+        },
+        {
+          "cityname": "Châu Đốc",
+          "zipcodes": [
+            "900000",
+            "900001",
+            "900002",
+            "900003",
+            "900004"
+          ],
+          "areacodes": [
+            "0296"
+          ]
+        },
+        {
+          "cityname": "Tân Châu",
+          "zipcodes": [
+            "900000",
+            "900001",
+            "900002",
+            "900003",
+            "900004"
+          ],
+          "areacodes": [
+            "0296"
+          ]
+        },
+        {
+          "cityname": "Châu Thành",
+          "zipcodes": [
+            "900000",
+            "900001",
+            "900002",
+            "900003",
+            "900004"
+          ],
+          "areacodes": [
+            "0296"
+          ]
+        },
+        {
+          "cityname": "Tri Tôn",
+          "zipcodes": [
+            "900000",
+            "900001",
+            "900002",
+            "900003",
+            "900004"
+          ],
+          "areacodes": [
+            "0296"
+          ]
+        },
+        {
+          "cityname": "Tịnh Biên",
+          "zipcodes": [
+            "900000",
+            "900001",
+            "900002",
+            "900003",
+            "900004"
+          ],
+          "areacodes": [
+            "0296"
+          ]
+        },
+        {
+          "cityname": "Phú Tân",
+          "zipcodes": [
+            "900000",
+            "900001",
+            "900002",
+            "900003",
+            "900004"
+          ],
+          "areacodes": [
+            "0296"
+          ]
+        },
+        {
+          "cityname": "Chợ Mới",
+          "zipcodes": [
+            "900000",
+            "900001",
+            "900002",
+            "900003",
+            "900004"
+          ],
+          "areacodes": [
+            "0296"
+          ]
+        },
+        {
+          "cityname": "An Phú",
+          "zipcodes": [
+            "900000",
+            "900001",
+            "900002",
+            "900003",
+            "900004"
+          ],
+          "areacodes": [
+            "0296"
+          ]
+        },
+        {
+          "cityname": "Long Mỹ",
+          "zipcodes": [
+            "900000",
+            "900001",
+            "900002",
+            "900003",
+            "900004"
+          ],
+          "areacodes": [
+            "0296"
+          ]
+        }
+      ],
+      "name": "An Giang"
+    },
+    "Lâm Đồng": {
+      "capital": "Đà Lạt",
+      "cities": [
+        {
+          "cityname": "Đà Lạt",
+          "zipcodes": [
+            "670000",
+            "670001",
+            "670002",
+            "670003",
+            "670004"
+          ],
+          "areacodes": [
+            "063"
+          ]
+        },
+        {
+          "cityname": "Bảo Lộc",
+          "zipcodes": [
+            "670000",
+            "670001",
+            "670002",
+            "670003",
+            "670004"
+          ],
+          "areacodes": [
+            "063"
+          ]
+        },
+        {
+          "cityname": "Đơn Dương",
+          "zipcodes": [
+            "670000",
+            "670001",
+            "670002",
+            "670003",
+            "670004"
+          ],
+          "areacodes": [
+            "063"
+          ]
+        },
+        {
+          "cityname": "Lâm Hà",
+          "zipcodes": [
+            "670000",
+            "670001",
+            "670002",
+            "670003",
+            "670004"
+          ],
+          "areacodes": [
+            "063"
+          ]
+        },
+        {
+          "cityname": "Di Linh",
+          "zipcodes": [
+            "670000",
+            "670001",
+            "670002",
+            "670003",
+            "670004"
+          ],
+          "areacodes": [
+            "063"
+          ]
+        },
+        {
+          "cityname": "Cát Tiên",
+          "zipcodes": [
+            "670000",
+            "670001",
+            "670002",
+            "670003",
+            "670004"
+          ],
+          "areacodes": [
+            "063"
+          ]
+        },
+        {
+          "cityname": "Đạ Tẻh",
+          "zipcodes": [
+            "670000",
+            "670001",
+            "670002",
+            "670003",
+            "670004"
+          ],
+          "areacodes": [
+            "063"
+          ]
+        },
+        {
+          "cityname": "Đạ Huoai",
+          "zipcodes": [
+            "670000",
+            "670001",
+            "670002",
+            "670003",
+            "670004"
+          ],
+          "areacodes": [
+            "063"
+          ]
+        },
+        {
+          "cityname": "K'Bang",
+          "zipcodes": [
+            "670000",
+            "670001",
+            "670002",
+            "670003",
+            "670004"
+          ],
+          "areacodes": [
+            "063"
+          ]
+        },
+        {
+          "cityname": "Bảo Lâm",
+          "zipcodes": [
+            "670000",
+            "670001",
+            "670002",
+            "670003",
+            "670004"
+          ],
+          "areacodes": [
+            "063"
+          ]
+        }
+      ],
+      "name": "Lâm Đồng"
+    },
+    "Quảng Nam": {
+      "capital": "Tam Kỳ",
+      "cities": [
+        {
+          "cityname": "Tam Kỳ",
+          "zipcodes": [
+            "560000",
+            "560001",
+            "560002",
+            "560003",
+            "560004"
+          ],
+          "areacodes": [
+            "0510"
+          ]
+        },
+        {
+          "cityname": "Hội An",
+          "zipcodes": [
+            "560000",
+            "560001",
+            "560002",
+            "560003",
+            "560004"
+          ],
+          "areacodes": [
+            "0510"
+          ]
+        },
+        {
+          "cityname": "Duy Xuyên",
+          "zipcodes": [
+            "560000",
+            "560001",
+            "560002",
+            "560003",
+            "560004"
+          ],
+          "areacodes": [
+            "0510"
+          ]
+        },
+        {
+          "cityname": "Điện Bàn",
+          "zipcodes": [
+            "560000",
+            "560001",
+            "560002",
+            "560003",
+            "560004"
+          ],
+          "areacodes": [
+            "0510"
+          ]
+        },
+        {
+          "cityname": "Quế Sơn",
+          "zipcodes": [
+            "560000",
+            "560001",
+            "560002",
+            "560003",
+            "560004"
+          ],
+          "areacodes": [
+            "0510"
+          ]
+        },
+        {
+          "cityname": "Nông Sơn",
+          "zipcodes": [
+            "560000",
+            "560001",
+            "560002",
+            "560003",
+            "560004"
+          ],
+          "areacodes": [
+            "0510"
+          ]
+        },
+        {
+          "cityname": "Thăng Bình",
+          "zipcodes": [
+            "560000",
+            "560001",
+            "560002",
+            "560003",
+            "560004"
+          ],
+          "areacodes": [
+            "0510"
+          ]
+        },
+        {
+          "cityname": "Tiên Phước",
+          "zipcodes": [
+            "560000",
+            "560001",
+            "560002",
+            "560003",
+            "560004"
+          ],
+          "areacodes": [
+            "0510"
+          ]
+        },
+        {
+          "cityname": "Nam Giang",
+          "zipcodes": [
+            "560000",
+            "560001",
+            "560002",
+            "560003",
+            "560004"
+          ],
+          "areacodes": [
+            "0510"
+          ]
+        },
+        {
+          "cityname": "Phước Sơn",
+          "zipcodes": [
+            "560000",
+            "560001",
+            "560002",
+            "560003",
+            "560004"
+          ],
+          "areacodes": [
+            "0510"
+          ]
+        }
+      ],
+      "name": "Quảng Nam"
+    },
+    "citycontainers": [
+      "regions"
+    ]
+  },
+  "citycontainers": [
+    "regions"
+  ],
+  "firstnames": [
+    "Anh",
+    "Bảo",
+    "Bình",
+    "Cảnh",
+    "Châu",
+    "Công",
+    "Danh",
+    "Đạt",
+    "Đức",
+    "Dũng",
+    "Duy",
+    "Gia",
+    "Hải",
+    "Hậu",
+    "Hiếu",
+    "Hoàng",
+    "Hồng",
+    "Hữu",
+    "Huy",
+    "Khang",
+    "Khánh",
+    "Khôi",
+    "Kiệt",
+    "Linh",
+    "Long",
+    "Lợi",
+    "Lâm",
+    "Minh",
+    "Nam",
+    "Nghĩa",
+    "Ngọc",
+    "Nhật",
+    "Nhân",
+    "Nhất",
+    "Phát",
+    "Phong",
+    "Phúc",
+    "Phước",
+    "Phương",
+    "Quang",
+    "Quân",
+    "Quốc",
+    "Sang",
+    "Sơn",
+    "Tài",
+    "Tâm",
+    "Tân",
+    "Thái",
+    "Thắng",
+    "Thành",
+    "Thảo",
+    "Thế",
+    "Thiện",
+    "Thịnh",
+    "Thuận",
+    "Tiến",
+    "Toàn",
+    "Trí",
+    "Trọng",
+    "Trung",
+    "Trường",
+    "Tú",
+    "Tùng",
+    "Văn",
+    "Vinh",
+    "Vũ",
+    "Xuân",
+    "Yên",
+    "Ánh",
+    "Bích",
+    "Cẩm",
+    "Diễm",
+    "Diệp",
+    "Dung",
+    "Duyên",
+    "Hạnh",
+    "Hoa",
+    "Hoài",
+    "Huyền",
+    "Kiều",
+    "Lan",
+    "Lệ",
+    "Liên",
+    "Loan",
+    "Ly",
+    "Mai",
+    "Mỹ",
+    "Ngân",
+    "Nguyệt",
+    "Như",
+    "Phụng",
+    "Quế",
+    "Quyên",
+    "Tạ",
+    "Thanh",
+    "Thi",
+    "Thủy",
+    "Trang",
+    "Tuyết",
+    "Vân"
+  ],
+  "lastnames": [
+    "Nguyễn",
+    "Trần",
+    "Lê",
+    "Phạm",
+    "Hoàng",
+    "Huỳnh",
+    "Phan",
+    "Vũ",
+    "Võ",
+    "Đặng",
+    "Bùi",
+    "Đỗ",
+    "Hồ",
+    "Ngô",
+    "Dương",
+    "Lý",
+    "Tô",
+    "Tạ",
+    "Cao",
+    "Trịnh",
+    "Đinh",
+    "Lương",
+    "Tống",
+    "Quách",
+    "Mạc",
+    "Hứa",
+    "Tôn",
+    "Hàn",
+    "Vương",
+    "Châu",
+    "Triệu",
+    "La",
+    "Kiều",
+    "Khưu",
+    "Thái",
+    "Giang",
+    "Ôn",
+    "Chu",
+    "Tăng",
+    "Đoàn",
+    "Văn",
+    "Phùng",
+    "Uông",
+    "Hà",
+    "Mã",
+    "Kha",
+    "Phước",
+    "Vi",
+    "Lâm",
+    "Đông",
+    "Thiều",
+    "Âu",
+    "Nghiêm",
+    "Liêu",
+    "Hồng",
+    "Nhâm",
+    "Hạ",
+    "Sầm",
+    "Ninh",
+    "Từ",
+    "Kỳ",
+    "Diệp",
+    "Ân",
+    "Yên",
+    "Vĩ",
+    "Khương",
+    "Chương",
+    "Cù",
+    "Sử",
+    "Đàm",
+    "Lộc",
+    "Ngọc",
+    "Ứng",
+    "Thạch",
+    "Vĩnh",
+    "Nhữ",
+    "Tào",
+    "Đoái",
+    "Bạch",
+    "Cảnh",
+    "Đào",
+    "Đới",
+    "Đậu",
+    "Giáp",
+    "Hoạch",
+    "Kiến",
+    "Lạc",
+    "Lục",
+    "Miêu",
+    "Nghi",
+    "Phù",
+    "Thi",
+    "Thư",
+    "Tiêu",
+    "Trác"
+  ]
 }

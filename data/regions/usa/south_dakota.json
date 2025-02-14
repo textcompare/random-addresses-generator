@@ -1,0 +1,1911 @@
+{
+    "name" : "South Dakota",
+    "capital" : "Pierre",
+    "cities" : [
+        {
+            "cityname" : "Sioux Falls",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57101", "57103", "57104", "57105", "57106", "57107", "57108", "57109", "57110", "57117", "57118", "57186", "57188", "57189", "57192", "57193", "57194", "57195", "57196", "57197", "57198", "57199"]
+        },
+        {
+            "cityname" : "Aberdeen",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57401", "57402"]
+        },
+        {
+            "cityname" : "Agar",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57520"]
+        },
+        {
+            "cityname" : "Akaska",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57420"]
+        },
+        {
+            "cityname" : "Alcester",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57001"]
+        },
+        {
+            "cityname" : "Alexandria",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57311"]
+        },
+        {
+            "cityname" : "Allen",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57714"]
+        },
+        {
+            "cityname" : "Alpena",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57312"]
+        },
+        {
+            "cityname" : "Altamont",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57226"]
+        },
+        {
+            "cityname" : "Amherst",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57421"]
+        },
+        {
+            "cityname" : "Andover",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57422"]
+        },
+        {
+            "cityname" : "Ardmore",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57735"]
+        },
+        {
+            "cityname" : "Argonne",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57529"]
+        },
+        {
+            "cityname" : "Arlington",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57212"]
+        },
+        {
+            "cityname" : "Armour",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57313"]
+        },
+        {
+            "cityname" : "Artesian",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57314"]
+        },
+        {
+            "cityname" : "Ashton",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57424"]
+        },
+        {
+            "cityname" : "Astoria",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57213"]
+        },
+        {
+            "cityname" : "Aurora",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57002"]
+        },
+        {
+            "cityname" : "Avon",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57315"]
+        },
+        {
+            "cityname" : "Badger",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57214"]
+        },
+        {
+            "cityname" : "Baltic",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57003"]
+        },
+        {
+            "cityname" : "Bancroft",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57316"]
+        },
+        {
+            "cityname" : "Barnard",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57426"]
+        },
+        {
+            "cityname" : "Batesland",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57716"]
+        },
+        {
+            "cityname" : "Bath",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57427"]
+        },
+        {
+            "cityname" : "Belle Fourche",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57717"]
+        },
+        {
+            "cityname" : "Belvidere",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57521"]
+        },
+        {
+            "cityname" : "Beresford",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57004"]
+        },
+        {
+            "cityname" : "Big Stone City",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57216"]
+        },
+        {
+            "cityname" : "Bison",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57620"]
+        },
+        {
+            "cityname" : "Black Hawk",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57718"]
+        },
+        {
+            "cityname" : "Blunt",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57522"]
+        },
+        {
+            "cityname" : "Bonesteel",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57317"]
+        },
+        {
+            "cityname" : "Bowdle",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57428"]
+        },
+        {
+            "cityname" : "Box Elder",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57719"]
+        },
+        {
+            "cityname" : "Bradley",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57217"]
+        },
+        {
+            "cityname" : "Brandon",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57005"]
+        },
+        {
+            "cityname" : "Brandt",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57218"]
+        },
+        {
+            "cityname" : "Brentford",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57429"]
+        },
+        {
+            "cityname" : "Bridgewater",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57319"]
+        },
+        {
+            "cityname" : "Bristol",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57219"]
+        },
+        {
+            "cityname" : "Britton",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57430"]
+        },
+        {
+            "cityname" : "Brookings",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57006", "57007"]
+        },
+        {
+            "cityname" : "Bruce",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57220"]
+        },
+        {
+            "cityname" : "Bryant",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57221"]
+        },
+        {
+            "cityname" : "Buffalo",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57720"]
+        },
+        {
+            "cityname" : "Buffalo Gap",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57722"]
+        },
+        {
+            "cityname" : "Buffalo Ridge",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57723"]
+        },
+        {
+            "cityname" : "Bullhead",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57621"]
+        },
+        {
+            "cityname" : "Burbank",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57010"]
+        },
+        {
+            "cityname" : "Burke",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57523"]
+        },
+        {
+            "cityname" : "Bushnell",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57276"]
+        },
+        {
+            "cityname" : "Butler",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57219"]
+        },
+        {
+            "cityname" : "Camp Crook",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57724"]
+        },
+        {
+            "cityname" : "Canistota",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57012"]
+        },
+        {
+            "cityname" : "Canova",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57321"]
+        },
+        {
+            "cityname" : "Canton",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57013"]
+        },
+        {
+            "cityname" : "Caputa",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57725"]
+        },
+        {
+            "cityname" : "Carpenter",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57322"]
+        },
+        {
+            "cityname" : "Carthage",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57323"]
+        },
+        {
+            "cityname" : "Castlewood",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57223"]
+        },
+        {
+            "cityname" : "Cavour",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57324"]
+        },
+        {
+            "cityname" : "Centerville",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57014"]
+        },
+        {
+            "cityname" : "Central City",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57754"]
+        },
+        {
+            "cityname" : "Chamberlain",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57325"]
+        },
+        {
+            "cityname" : "Chancellor",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57015"]
+        },
+        {
+            "cityname" : "Chelsea",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57465"]
+        },
+        {
+            "cityname" : "Chester",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57016"]
+        },
+        {
+            "cityname" : "Claire City",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57224"]
+        },
+        {
+            "cityname" : "Claremont",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57432"]
+        },
+        {
+            "cityname" : "Clark",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57225"]
+        },
+        {
+            "cityname" : "Clear Lake",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57226"]
+        },
+        {
+            "cityname" : "Colman",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57017"]
+        },
+        {
+            "cityname" : "Colome",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57528"]
+        },
+        {
+            "cityname" : "Colton",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57018"]
+        },
+        {
+            "cityname" : "Columbia",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57433"]
+        },
+        {
+            "cityname" : "Conde",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57434"]
+        },
+        {
+            "cityname" : "Corona",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57227"]
+        },
+        {
+            "cityname" : "Corsica",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57328"]
+        },
+        {
+            "cityname" : "Creighton",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57729"]
+        },
+        {
+            "cityname" : "Cresbard",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57435"]
+        },
+        {
+            "cityname" : "Crooks",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57020"]
+        },
+        {
+            "cityname" : "Custer",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57730"]
+        },
+        {
+            "cityname" : "Dakota Dunes",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57049"]
+        },
+        {
+            "cityname" : "Dallas",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57529"]
+        },
+        {
+            "cityname" : "Dante",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57329"]
+        },
+        {
+            "cityname" : "Davis",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57021"]
+        },
+        {
+            "cityname" : "De Smet",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57231"]
+        },
+        {
+            "cityname" : "Deadwood",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57732"]
+        },
+        {
+            "cityname" : "Dell Rapids",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57022"]
+        },
+        {
+            "cityname" : "Delmont",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57330"]
+        },
+        {
+            "cityname" : "Dimock",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57331"]
+        },
+        {
+            "cityname" : "Doland",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57436"]
+        },
+        {
+            "cityname" : "Dolton",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57319"]
+        },
+        {
+            "cityname" : "Draper",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57531"]
+        },
+        {
+            "cityname" : "Dupree",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57623"]
+        },
+        {
+            "cityname" : "Eagle Butte",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57625"]
+        },
+        {
+            "cityname" : "Eden",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57232"]
+        },
+        {
+            "cityname" : "Edgemont",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57735"]
+        },
+        {
+            "cityname" : "Egan",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57024"]
+        },
+        {
+            "cityname" : "Elk Point",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57025"]
+        },
+        {
+            "cityname" : "Elkton",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57026"]
+        },
+        {
+            "cityname" : "Ellsworth AFB",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57706"]
+        },
+        {
+            "cityname" : "Elm Springs",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57736"]
+        },
+        {
+            "cityname" : "Emery",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57332"]
+        },
+        {
+            "cityname" : "Enning",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57737"]
+        },
+        {
+            "cityname" : "Erwin",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57233"]
+        },
+        {
+            "cityname" : "Estelline",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57234"]
+        },
+        {
+            "cityname" : "Ethan",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57334"]
+        },
+        {
+            "cityname" : "Eureka",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57437"]
+        },
+        {
+            "cityname" : "Fairburn",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57738"]
+        },
+        {
+            "cityname" : "Fairfax",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57335"]
+        },
+        {
+            "cityname" : "Fairview",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57027"]
+        },
+        {
+            "cityname" : "Faith",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57626"]
+        },
+        {
+            "cityname" : "Faulkton",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57438"]
+        },
+        {
+            "cityname" : "Fedora",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57337"]
+        },
+        {
+            "cityname" : "Ferney",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57439"]
+        },
+        {
+            "cityname" : "Flandreau",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57028"]
+        },
+        {
+            "cityname" : "Florence",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57235"]
+        },
+        {
+            "cityname" : "Forestburg",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57314"]
+        },
+        {
+            "cityname" : "Fort Meade",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57741"]
+        },
+        {
+            "cityname" : "Fort Pierre",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57532"]
+        },
+        {
+            "cityname" : "Fort Thompson",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57339"]
+        },
+        {
+            "cityname" : "Frankfort",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57440"]
+        },
+        {
+            "cityname" : "Frederick",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57441"]
+        },
+        {
+            "cityname" : "Freeman",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57029"]
+        },
+        {
+            "cityname" : "Fulton",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57340"]
+        },
+        {
+            "cityname" : "Gann Valley",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57341"]
+        },
+        {
+            "cityname" : "Garden City",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57236"]
+        },
+        {
+            "cityname" : "Garretson",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57030"]
+        },
+        {
+            "cityname" : "Gary",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57237"]
+        },
+        {
+            "cityname" : "Gayville",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57031"]
+        },
+        {
+            "cityname" : "Geddes",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57342"]
+        },
+        {
+            "cityname" : "Gettysburg",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57442"]
+        },
+        {
+            "cityname" : "Glencross",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57630"]
+        },
+        {
+            "cityname" : "Glenham",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57631"]
+        },
+        {
+            "cityname" : "Goodwin",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57238"]
+        },
+        {
+            "cityname" : "Gregory",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57533"]
+        },
+        {
+            "cityname" : "Grenville",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57239"]
+        },
+        {
+            "cityname" : "Groton",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57445"]
+        },
+        {
+            "cityname" : "Hamill",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57534"]
+        },
+        {
+            "cityname" : "Harrisburg",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57032"]
+        },
+        {
+            "cityname" : "Harrison",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57344"]
+        },
+        {
+            "cityname" : "Harrold",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57536"]
+        },
+        {
+            "cityname" : "Hartford",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57033"]
+        },
+        {
+            "cityname" : "Hayes",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57537"]
+        },
+        {
+            "cityname" : "Hayti",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57241"]
+        },
+        {
+            "cityname" : "Hazel",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57242"]
+        },
+        {
+            "cityname" : "Hecla",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57446"]
+        },
+        {
+            "cityname" : "Henry",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57243"]
+        },
+        {
+            "cityname" : "Hereford",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57785"]
+        },
+        {
+            "cityname" : "Hermosa",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57744"]
+        },
+        {
+            "cityname" : "Herreid",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57632"]
+        },
+        {
+            "cityname" : "Herrick",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57538"]
+        },
+        {
+            "cityname" : "Hetland",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57244"]
+        },
+        {
+            "cityname" : "Highmore",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57345"]
+        },
+        {
+            "cityname" : "Hill City",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57745"]
+        },
+        {
+            "cityname" : "Hitchcock",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57348"]
+        },
+        {
+            "cityname" : "Holabird",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57540"]
+        },
+        {
+            "cityname" : "Hosmer",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57448"]
+        },
+        {
+            "cityname" : "Hot Springs",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57747"]
+        },
+        {
+            "cityname" : "Houghton",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57449"]
+        },
+        {
+            "cityname" : "Hoven",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57450"]
+        },
+        {
+            "cityname" : "Howard",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57349"]
+        },
+        {
+            "cityname" : "Howes",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57748"]
+        },
+        {
+            "cityname" : "Hudson",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57034"]
+        },
+        {
+            "cityname" : "Humboldt",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57035"]
+        },
+        {
+            "cityname" : "Hurley",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57036"]
+        },
+        {
+            "cityname" : "Huron",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57350"]
+        },
+        {
+            "cityname" : "Ideal",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57541"]
+        },
+        {
+            "cityname" : "Interior",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57750"]
+        },
+        {
+            "cityname" : "Iona",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57542"]
+        },
+        {
+            "cityname" : "Ipswich",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57451"]
+        },
+        {
+            "cityname" : "Irene",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57037"]
+        },
+        {
+            "cityname" : "Iroquois",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57353"]
+        },
+        {
+            "cityname" : "Isabel",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57633"]
+        },
+        {
+            "cityname" : "Java",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57452"]
+        },
+        {
+            "cityname" : "Jefferson",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57038"]
+        },
+        {
+            "cityname" : "Kadoka",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57543"]
+        },
+        {
+            "cityname" : "Kaylor",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57354"]
+        },
+        {
+            "cityname" : "Kennebec",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57544"]
+        },
+        {
+            "cityname" : "Keystone",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57751"]
+        },
+        {
+            "cityname" : "Kimball",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57355"]
+        },
+        {
+            "cityname" : "Kranzburg",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57245"]
+        },
+        {
+            "cityname" : "Kyle",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57752"]
+        },
+        {
+            "cityname" : "Labolt",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57246"]
+        },
+        {
+            "cityname" : "Lake Andes",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57356"]
+        },
+        {
+            "cityname" : "Lake City",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57247"]
+        },
+        {
+            "cityname" : "Lake Norden",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57248"]
+        },
+        {
+            "cityname" : "Lake Preston",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57249"]
+        },
+        {
+            "cityname" : "Langford",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57454"]
+        },
+        {
+            "cityname" : "Lantry",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57636"]
+        },
+        {
+            "cityname" : "Lead",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57754"]
+        },
+        {
+            "cityname" : "Lebanon",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57455"]
+        },
+        {
+            "cityname" : "Lemmon",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57638"]
+        },
+        {
+            "cityname" : "Lennox",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57039"]
+        },
+        {
+            "cityname" : "Leola",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57456"]
+        },
+        {
+            "cityname" : "Lesterville",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57040"]
+        },
+        {
+            "cityname" : "Letcher",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57359"]
+        },
+        {
+            "cityname" : "Little Eagle",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57639"]
+        },
+        {
+            "cityname" : "Lodgepole",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57640"]
+        },
+        {
+            "cityname" : "Long Valley",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57547"]
+        },
+        {
+            "cityname" : "Longlake",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57457"]
+        },
+        {
+            "cityname" : "Loomis",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57301"]
+        },
+        {
+            "cityname" : "Lower Brule",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57548"]
+        },
+        {
+            "cityname" : "Lowry",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57472"]
+        },
+        {
+            "cityname" : "Lyons",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57041"]
+        },
+        {
+            "cityname" : "Madison",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57042"]
+        },
+        {
+            "cityname" : "Manderson",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57756"]
+        },
+        {
+            "cityname" : "Mansfield",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57460"]
+        },
+        {
+            "cityname" : "Marion",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57043"]
+        },
+        {
+            "cityname" : "Martin",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57551"]
+        },
+        {
+            "cityname" : "Marty",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57361"]
+        },
+        {
+            "cityname" : "Marvin",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57251"]
+        },
+        {
+            "cityname" : "McIntosh",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57641"]
+        },
+        {
+            "cityname" : "McLaughlin",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57642"]
+        },
+        {
+            "cityname" : "Meadow",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57644"]
+        },
+        {
+            "cityname" : "Meckling",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57044"]
+        },
+        {
+            "cityname" : "Mellette",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57461"]
+        },
+        {
+            "cityname" : "Menno",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57045"]
+        },
+        {
+            "cityname" : "Midland",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57552"]
+        },
+        {
+            "cityname" : "Milbank",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57252"]
+        },
+        {
+            "cityname" : "Milesville",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57553"]
+        },
+        {
+            "cityname" : "Miller",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57362"]
+        },
+        {
+            "cityname" : "Mina",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57462"]
+        },
+        {
+            "cityname" : "Miranda",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57438"]
+        },
+        {
+            "cityname" : "Mission Hill",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57046"]
+        },
+        {
+            "cityname" : "Mission",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57555"]
+        },
+        {
+            "cityname" : "Mitchell",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57301"]
+        },
+        {
+            "cityname" : "Mobridge",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57601"]
+        },
+        {
+            "cityname" : "Monroe",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57047"]
+        },
+        {
+            "cityname" : "Montrose",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57048"]
+        },
+        {
+            "cityname" : "Morristown",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57645"]
+        },
+        {
+            "cityname" : "Mound City",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57646"]
+        },
+        {
+            "cityname" : "Mount Vernon",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57363"]
+        },
+        {
+            "cityname" : "Mud Butte",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57758"]
+        },
+        {
+            "cityname" : "Murdo",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57559"]
+        },
+        {
+            "cityname" : "Naples",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57271"]
+        },
+        {
+            "cityname" : "Nemo",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57759"]
+        },
+        {
+            "cityname" : "New Effington",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57255"]
+        },
+        {
+            "cityname" : "New Holland",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57364"]
+        },
+        {
+            "cityname" : "New Underwood",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57761"]
+        },
+        {
+            "cityname" : "Newell",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57760"]
+        },
+        {
+            "cityname" : "Nisland",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57762"]
+        },
+        {
+            "cityname" : "Norris",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57560"]
+        },
+        {
+            "cityname" : "North Sioux City",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57049"]
+        },
+        {
+            "cityname" : "Northville",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57465"]
+        },
+        {
+            "cityname" : "Nunda",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57050"]
+        },
+        {
+            "cityname" : "Oacoma",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57365"]
+        },
+        {
+            "cityname" : "Oelrichs",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57763"]
+        },
+        {
+            "cityname" : "Oglala",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57764"]
+        },
+        {
+            "cityname" : "Okaton",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57562"]
+        },
+        {
+            "cityname" : "Okreek",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57563"]
+        },
+        {
+            "cityname" : "Oldham",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57051"]
+        },
+        {
+            "cityname" : "Olivet",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57052"]
+        },
+        {
+            "cityname" : "Onaka",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57466"]
+        },
+        {
+            "cityname" : "Onida",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57564"]
+        },
+        {
+            "cityname" : "Opal",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57765"]
+        },
+        {
+            "cityname" : "Oral",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57766"]
+        },
+        {
+            "cityname" : "Orient",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57467"]
+        },
+        {
+            "cityname" : "Owanka",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57767"]
+        },
+        {
+            "cityname" : "Parker",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57053"]
+        },
+        {
+            "cityname" : "Parkston",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57366"]
+        },
+        {
+            "cityname" : "Parmelee",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57566"]
+        },
+        {
+            "cityname" : "Peever",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57257"]
+        },
+        {
+            "cityname" : "Philip",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57567"]
+        },
+        {
+            "cityname" : "Pickstown",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57367"]
+        },
+        {
+            "cityname" : "Piedmont",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57769"]
+        },
+        {
+            "cityname" : "Pierpont",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57468"]
+        },
+        {
+            "cityname" : "Pierre",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57501"]
+        },
+        {
+            "cityname" : "Pine Ridge",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57770"]
+        },
+        {
+            "cityname" : "Plankinton",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57368"]
+        },
+        {
+            "cityname" : "Platte",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57369"]
+        },
+        {
+            "cityname" : "Pollock",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57648"]
+        },
+        {
+            "cityname" : "Porcupine",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57772"]
+        },
+        {
+            "cityname" : "Prairie City",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57649"]
+        },
+        {
+            "cityname" : "Presho",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57568"]
+        },
+        {
+            "cityname" : "Pringle",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57773"]
+        },
+        {
+            "cityname" : "Provo",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57774"]
+        },
+        {
+            "cityname" : "Pukwana",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57370"]
+        },
+        {
+            "cityname" : "Quinn",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57775"]
+        },
+        {
+            "cityname" : "Ralph",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57650"]
+        },
+        {
+            "cityname" : "Ramona",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57054"]
+        },
+        {
+            "cityname" : "Rapid City",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57701", "57702", "57703", "57709"]
+        },
+        {
+            "cityname" : "Ravinia",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57357"]
+        },
+        {
+            "cityname" : "Raymond",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57258"]
+        },
+        {
+            "cityname" : "Red Owl",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57777"]
+        },
+        {
+            "cityname" : "Redfield",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57469"]
+        },
+        {
+            "cityname" : "Redig",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57776"]
+        },
+        {
+            "cityname" : "Ree Heights",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57371"]
+        },
+        {
+            "cityname" : "Reliance",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57569"]
+        },
+        {
+            "cityname" : "Renner",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57055"]
+        },
+        {
+            "cityname" : "Reva",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57651"]
+        },
+        {
+            "cityname" : "Revillo",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57259"]
+        },
+        {
+            "cityname" : "Ridgeview",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57652"]
+        },
+        {
+            "cityname" : "Rockham",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57470"]
+        },
+        {
+            "cityname" : "Roscoe",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57471"]
+        },
+        {
+            "cityname" : "Rosebud",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57570"]
+        },
+        {
+            "cityname" : "Rosholt",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57260"]
+        },
+        {
+            "cityname" : "Roslyn",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57261"]
+        },
+        {
+            "cityname" : "Running Water",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57062"]
+        },
+        {
+            "cityname" : "Rutland",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57057"]
+        },
+        {
+            "cityname" : "Smithwick",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57782"]
+        },
+        {
+            "cityname" : "South Shore",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57263"]
+        },
+        {
+            "cityname" : "Spearfish",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57783"]
+        },
+        {
+            "cityname" : "Spencer",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57374"]
+        },
+        {
+            "cityname" : "Spring Creek",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57572"]
+        },
+        {
+            "cityname" : "Springfield",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57062"]
+        },
+        {
+            "cityname" : "Stephan",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57346"]
+        },
+        {
+            "cityname" : "Stickney",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57375"]
+        },
+        {
+            "cityname" : "Stockholm",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57264"]
+        },
+        {
+            "cityname" : "Strandburg",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57265"]
+        },
+        {
+            "cityname" : "Stratford",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57474"]
+        },
+        {
+            "cityname" : "Sturgis",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57785"]
+        },
+        {
+            "cityname" : "Summerset",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57718"]
+        },
+        {
+            "cityname" : "Summit",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57266"]
+        },
+        {
+            "cityname" : "Tabor",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57063"]
+        },
+        {
+            "cityname" : "Tea",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57064"]
+        },
+        {
+            "cityname" : "Timber Lake",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57656"]
+        },
+        {
+            "cityname" : "Tolstoy",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57475"]
+        },
+        {
+            "cityname" : "Toronto",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57268"]
+        },
+        {
+            "cityname" : "Trail City",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57657"]
+        },
+        {
+            "cityname" : "Trent",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57065"]
+        },
+        {
+            "cityname" : "Tripp",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57376"]
+        },
+        {
+            "cityname" : "Tulare",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57476"]
+        },
+        {
+            "cityname" : "Turton",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57477"]
+        },
+        {
+            "cityname" : "Twin Brooks",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57269"]
+        },
+        {
+            "cityname" : "Tyndall",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57066"]
+        },
+        {
+            "cityname" : "Union Center",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57787"]
+        },
+        {
+            "cityname" : "Unityville",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57367"]
+        },
+        {
+            "cityname" : "Utica",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57067"]
+        },
+        {
+            "cityname" : "Vale",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57788"]
+        },
+        {
+            "cityname" : "Valley Springs",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57068"]
+        },
+        {
+            "cityname" : "Veblen",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57270"]
+        },
+        {
+            "cityname" : "Vermillion",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57069"]
+        },
+        {
+            "cityname" : "Viborg",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57070"]
+        },
+        {
+            "cityname" : "Vienna",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57271"]
+        },
+        {
+            "cityname" : "Virgil",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57379"]
+        },
+        {
+            "cityname" : "Vivian",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57576"]
+        },
+        {
+            "cityname" : "Volga",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57071"]
+        },
+        {
+            "cityname" : "Volin",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57072"]
+        },
+        {
+            "cityname" : "Wagner",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57380"]
+        },
+        {
+            "cityname" : "Wakonda",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57073"]
+        },
+        {
+            "cityname" : "Wakpala",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57658"]
+        },
+        {
+            "cityname" : "Wall",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57790"]
+        },
+        {
+            "cityname" : "Wallace",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57272"]
+        },
+        {
+            "cityname" : "Wanblee",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57577"]
+        },
+        {
+            "cityname" : "Ward",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57074"]
+        },
+        {
+            "cityname" : "Warner",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57479"]
+        },
+        {
+            "cityname" : "Wasta",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57791"]
+        },
+        {
+            "cityname" : "Watauga",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57660"]
+        },
+        {
+            "cityname" : "Watertown",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57201"]
+        },
+        {
+            "cityname" : "Waubay",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57273"]
+        },
+        {
+            "cityname" : "Waverly",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57201"]
+        },
+        {
+            "cityname" : "Webster",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57274"]
+        },
+        {
+            "cityname" : "Wecota",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57438"]
+        },
+        {
+            "cityname" : "Wentworth",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57075"]
+        },
+        {
+            "cityname" : "Wessington Springs",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57382"]
+        },
+        {
+            "cityname" : "Wessington",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57381"]
+        },
+        {
+            "cityname" : "Westport",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57481"]
+        },
+        {
+            "cityname" : "White Lake",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57383"]
+        },
+        {
+            "cityname" : "White Owl",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57792"]
+        },
+        {
+            "cityname" : "White River",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57579"]
+        },
+        {
+            "cityname" : "White Rock",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57260"]
+        },
+        {
+            "cityname" : "White",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57276"]
+        },
+        {
+            "cityname" : "Whitehorse",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57661"]
+        },
+        {
+            "cityname" : "Whitewood",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57793"]
+        },
+        {
+            "cityname" : "Willow Lake",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57278"]
+        },
+        {
+            "cityname" : "Wilmot",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57279"]
+        },
+        {
+            "cityname" : "Winfred",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57076"]
+        },
+        {
+            "cityname" : "Winner",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57580"]
+        },
+        {
+            "cityname" : "Witten",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57584"]
+        },
+        {
+            "cityname" : "Wolsey",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57384"]
+        },
+        {
+            "cityname" : "Wood",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57585"]
+        },
+        {
+            "cityname" : "Woonsocket",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57385"]
+        },
+        {
+            "cityname" : "Worthing",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57077"]
+        },
+        {
+            "cityname" : "Wounded Knee",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57794"]
+        },
+        {
+            "cityname" : "Yale",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57386"]
+        },
+        {
+            "cityname" : "Yankton",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57078"]
+        },
+        {
+            "cityname" : "Zell",
+            "areacodes" : ["605"],
+            "zipcodes" : ["57483"]
+        }
+    ]
+}

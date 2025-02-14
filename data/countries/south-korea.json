@@ -1,104 +1,1708 @@
 {
-    "streetNames": [
-        "Gangnam-daero",
-        "Teheran-ro",
-        "Sinchon-ro",
-        "Jongno",
-        "Hongdae Street",
-        "Samseong-ro",
-        "Gyeongbokgung-gil",
-        "Mapo-daero",
-        "Sinsadong",
-        "Myeongdong",
-        "Sejongno",
-        "Yeoido-dong",
-        "Dongdaemun",
-        "Gwanghwamun",
-        "Haeundae Beach Road",
-        "Incheon International Airport Road",
-        "Namdaemun-ro",
-        "Bujeon-ro",
-        "Jamsil-dong",
-        "Seongnam-ro"
+  "countrycode": "+82",
+  "phoneformat": "(A) XXXX-XXXX",
+  "country": "South Korea",
+  "neighborhoods": {
+    "corporate": [
+      "Gangnam",
+      "Yeouido",
+      "Jongno",
+      "Myeongdong",
+      "Dongdaemun",
+      "Itaewon",
+      "Mapo",
+      "Apgujeong",
+      "Seoul Station",
+      "Insadong",
+      "Seongsu-dong",
+      "Gwanghwamun",
+      "Sinchon",
+      "Hongdae",
+      "Gangbuk",
+      "Samseong-dong",
+      "Cheongdam-dong",
+      "Songpa",
+      "Suwon",
+      "Guro",
+      "Seongdong",
+      "Yangjae",
+      "Shinchon",
+      "Bundang",
+      "Bupyeong",
+      "Uijeongbu",
+      "Pyeongchon",
+      "Ilsan",
+      "Incheon",
+      "Pangyo",
+      "Songdo",
+      "Gangdong",
+      "Gwacheon",
+      "Seorae Village",
+      "Sangam-dong",
+      "Tancheon",
+      "Suwon Yeongtong",
+      "Jung-gu",
+      "Gwangju",
+      "Mokpo",
+      "Daejeon",
+      "Changwon",
+      "Jeonju",
+      "Ulsan",
+      "Andong",
+      "Jeju"
     ],
-    "streetNumbers": [
-        "101",
-        "202",
-        "303",
-        "404",
-        "505",
-        "606",
-        "707",
-        "808",
-        "909",
-        "1234",
-        "4321",
-        "5678",
-        "6789",
-        "7890",
-        "8901",
-        "2345",
-        "3456",
-        "4567",
-        "5670",
-        "6781"
+    "industrial": [
+      "Gasan Digital Complex",
+      "Incheon Free Economic Zone",
+      "Pangyo Techno Valley",
+      "Ulsan Industrial Complex",
+      "Yeongdeungpo",
+      "Dongdaemun Industrial Complex",
+      "Ilsan Industrial Complex",
+      "Seongdong Industrial Park",
+      "Pohang Industrial Complex",
+      "Changwon Industrial Complex",
+      "Bupyeong Industrial Complex",
+      "Cheonan Industrial Complex",
+      "Seongnam Industrial Park",
+      "Daegu Industrial Complex",
+      "Gwangmyeong Industrial Complex",
+      "Seongbu Industrial Complex",
+      "Jeju Industrial Complex",
+      "Gwangju Industrial Complex",
+      "Daejeon Industrial Complex",
+      "Busan Industrial Complex",
+      "Sacheon Industrial Complex",
+      "Incheon Industrial Complex",
+      "Daesan Industrial Complex",
+      "Iksan Industrial Complex",
+      "Jeonju Industrial Complex",
+      "Gunsan Industrial Complex",
+      "Yangju Industrial Complex",
+      "Paju Industrial Complex",
+      "Changwon Machinery Complex",
+      "Jungnang Industrial Complex",
+      "Uijeongbu Industrial Complex",
+      "Suwon Industrial Complex",
+      "Gumi Industrial Complex",
+      "Jeongdongjin Industrial Complex",
+      "Anseong Industrial Complex",
+      "Namyangju Industrial Complex",
+      "Seosan Industrial Complex",
+      "Chungju Industrial Complex",
+      "Sacheon Industrial Park",
+      "Jinju Industrial Complex",
+      "Tongyeong Industrial Complex",
+      "Icheon Industrial Complex",
+      "Pyeongtaek Industrial Complex",
+      "Bucheon Industrial Complex",
+      "Nonsan Industrial Complex",
+      "Gimpo Industrial Complex",
+      "Gyeongsan Industrial Complex"
     ],
-    "cities": [
-        "Seoul",
-        "Busan",
-        "Incheon",
-        "Daegu",
-        "Daejeon",
-        "Gwangju",
-        "Suwon",
-        "Ulsan",
-        "Seongnam",
-        "Changwon",
-        "Jeonju",
-        "Goyang",
-        "Jeju City",
-        "Gimhae",
-        "Pohang",
-        "Cheonan",
-        "Yongin",
-        "Paju",
-        "Iksan",
-        "Gimpo"
-    ],
-    "states": [
-        "Seoul",
-        "Busan",
-        "Incheon",
-        "Gyeonggi",
-        "Gangwon",
-        "Chungcheongbuk",
-        "Chungcheongnam",
-        "Jeollabuk",
-        "Jeollanam",
-        "Gyeongsangbuk",
-        "Gyeongsangnam",
-        "Jeju"
-    ],
-    "zipCodes": [
-        "03000",
-        "61200",
-        "40000",
-        "70000",
-        "34500",
-        "50000",
-        "44100",
-        "44900",
-        "13600",
-        "48200",
-        "54100",
-        "25300",
-        "63300",
-        "50200",
-        "78000",
-        "18400",
-        "11900",
-        "21000",
-        "58500",
-        "10000"
+    "residential": [
+      "Gangnam",
+      "Itaewon",
+      "Apgujeong",
+      "Jamsil",
+      "Mapo",
+      "Hongdae",
+      "Sinchon",
+      "Sinsa",
+      "Myeongdong",
+      "Suwon",
+      "Ilsan",
+      "Bundang",
+      "Pangyo",
+      "Songpa",
+      "Incheon",
+      "Uijeongbu",
+      "Seongnam",
+      "Sangam-dong",
+      "Cheongdam-dong",
+      "Jongno",
+      "Yeouido",
+      "Dongdaemun",
+      "Namdaemun",
+      "Yongsan",
+      "Guro",
+      "Gwanghwamun",
+      "Sincheon",
+      "Seorae Village",
+      "Yangjae",
+      "Seongdong",
+      "Gwanak",
+      "Haeundae",
+      "Geumcheon",
+      "Songdo",
+      "Gwacheon",
+      "Hongdae",
+      "Daechi-dong",
+      "Yeonsinnae",
+      "Sangbong",
+      "Cheongnyangni",
+      "Yangcheon",
+      "Jungnang",
+      "Eunpyeong",
+      "Jongno",
+      "Hongje-dong",
+      "Dongjak",
+      "Seodaemun",
+      "Yeongdeungpo",
+      "Sangdo",
+      "Mokdong",
+      "Gimpo",
+      "Bucheon",
+      "Gimcheon",
+      "Haeundae",
+      "Jinhae",
+      "Pohang",
+      "Jeju",
+      "Changwon",
+      "Ulsan",
+      "Daejeon",
+      "Jeonju",
+      "Andong",
+      "Gwangju"
     ]
+  },
+  "streetnames": {
+    "corporate": [
+      "Teheran-ro",
+      "Yeouido Street",
+      "Gangnam-daero",
+      "Jongno Street",
+      "Seoul Station Street",
+      "Apgujeong-ro",
+      "Shinsegae Street",
+      "Sinsa-dong",
+      "Sogong-ro",
+      "Gwanghwamun-ro",
+      "Yeongdeungpo-ro",
+      "Insadong-gil",
+      "Seongdong-ro",
+      "Bundang-ro",
+      "Sinchon-ro",
+      "Sungnyemun-ro",
+      "Dongdaemun-ro",
+      "Cheongdam-dong",
+      "Seocho-dong",
+      "Gyeongin-ro",
+      "Gwangnaru-gil",
+      "Sogong-ro",
+      "Jamsil-ro",
+      "Hongdae-ro",
+      "Songpa-daero",
+      "Dongjak-ro",
+      "Mapo-gu",
+      "Suseo-ro",
+      "Yeonhui-ro",
+      "Myeongdong-gil",
+      "Nambu-daero",
+      "Bupyeong-ro",
+      "Hyochang Park Road",
+      "Gachang-ro",
+      "Samseong-dong",
+      "Eunpyeong-ro",
+      "Yongin-ro",
+      "Baekjegobun-ro",
+      "Hannam-dong",
+      "Mapo-ro",
+      "Ansan-ro",
+      "Chuncheon-ro",
+      "Bucheon-ro",
+      "Tongil-ro",
+      "Hwajeong-ro",
+      "Itaewon-ro"
+    ],
+    "industrial": [
+      "Gasan Digital Complex",
+      "Yeongdeungpo Industrial Street",
+      "Pangyo Techno Valley Road",
+      "Incheon Free Economic Zone Road",
+      "Ulsan Industrial Complex",
+      "Suwon Industrial Road",
+      "Dongdaemun Industrial Zone",
+      "Cheonan Industrial Complex",
+      "Bupyeong Industrial Road",
+      "Gwangmyeong Industrial Street",
+      "Iksan Industrial Street",
+      "Jeonju Industrial Street",
+      "Uijeongbu Industrial Zone",
+      "Daegu Industrial Road",
+      "Sacheon Industrial Complex",
+      "Jungnang Industrial Road",
+      "Seongnam Industrial Complex",
+      "Changwon Industrial Street",
+      "Gyeonggi-do Industrial Park",
+      "Gumi Industrial Complex",
+      "Incheon Port Industrial Street",
+      "Jeju Industrial Complex",
+      "Daejeon Industrial Area",
+      "Pohang Industrial Complex",
+      "Nonsan Industrial Complex",
+      "Jinju Industrial Complex",
+      "Jungnang Industrial Area",
+      "Gwangju Industrial Road",
+      "Hwasun Industrial Park",
+      "Suwon Techno Valley",
+      "Busan Industrial Park",
+      "Seongdong Industrial Park",
+      "Jeongdongjin Industrial Complex",
+      "Gwangju Industrial Complex",
+      "Pyeongtaek Industrial Complex",
+      "Gyeongsan Industrial Complex",
+      "Gyeonggi Industrial Complex",
+      "Haeundae Industrial Zone",
+      "Incheon Industrial Complex",
+      "Kimpo Industrial Complex",
+      "Dalseo Industrial Complex"
+    ],
+    "residential": [
+      "Gangnam-gu",
+      "Yeouido-dong",
+      "Itaewon-dong",
+      "Jamsil-dong",
+      "Sinchon-dong",
+      "Myeongdong-gil",
+      "Jongno-gu",
+      "Seongdong-gu",
+      "Sangam-dong",
+      "Cheongdam-dong",
+      "Mapo-gu",
+      "Dongdaemun-gu",
+      "Sinsa-dong",
+      "Samseong-dong",
+      "Yeonsinnae-dong",
+      "Dongjak-gu",
+      "Haeundae-dong",
+      "Seocho-gu",
+      "Bucheon-si",
+      "Songdo-dong",
+      "Suwon-si",
+      "Incheon-si",
+      "Uijeongbu-si",
+      "Seongnam-si",
+      "Ilsan-dong",
+      "Guro-dong",
+      "Sangdo-dong",
+      "Seorae Village",
+      "Yongin-si",
+      "Gimpo-si",
+      "Suwon-si",
+      "Bucheon-si",
+      "Gimcheon-si",
+      "Daegu-si",
+      "Jeonju-si",
+      "Changwon-si",
+      "Gwangju-si",
+      "Jeju-si",
+      "Pohang-si",
+      "Daejeon-si",
+      "Andong-si",
+      "Ulsan-si",
+      "Seongbu-dong",
+      "Cheonan-si",
+      "Gwangmyeong-si",
+      "Mokpo-si",
+      "Pyeongtaek-si",
+      "Gyeonggi-do"
+    ]
+  },
+  "regions": {
+    "Seoul": {
+      "name": "Seoul",
+      "cities": [
+        {
+          "cityname": "Gangnam",
+          "zipcodes": [
+            "06100",
+            "06101",
+            "06102",
+            "06103",
+            "06104"
+          ],
+          "areacodes": [
+            "2"
+          ]
+        },
+        {
+          "cityname": "Jongno",
+          "zipcodes": [
+            "03000",
+            "03001",
+            "03002",
+            "03003",
+            "03004"
+          ],
+          "areacodes": [
+            "2"
+          ]
+        },
+        {
+          "cityname": "Yongsan",
+          "zipcodes": [
+            "04300",
+            "04301",
+            "04302",
+            "04303",
+            "04304"
+          ],
+          "areacodes": [
+            "2"
+          ]
+        },
+        {
+          "cityname": "Mapo",
+          "zipcodes": [
+            "12100",
+            "12101",
+            "12102",
+            "12103",
+            "12104"
+          ],
+          "areacodes": [
+            "2"
+          ]
+        },
+        {
+          "cityname": "Songpa",
+          "zipcodes": [
+            "13800",
+            "13801",
+            "13802",
+            "13803",
+            "13804"
+          ],
+          "areacodes": [
+            "2"
+          ]
+        }
+      ]
+    },
+    "Busan": {
+      "name": "Busan",
+      "cities": [
+        {
+          "cityname": "Haeundae",
+          "zipcodes": [
+            "48100",
+            "48101",
+            "48102",
+            "48103",
+            "48104"
+          ],
+          "areacodes": [
+            "51"
+          ]
+        },
+        {
+          "cityname": "Dongnae",
+          "zipcodes": [
+            "47500",
+            "47501",
+            "47502",
+            "47503",
+            "47504"
+          ],
+          "areacodes": [
+            "51"
+          ]
+        },
+        {
+          "cityname": "Seo",
+          "zipcodes": [
+            "60400",
+            "60401",
+            "60402",
+            "60403",
+            "60404"
+          ],
+          "areacodes": [
+            "51"
+          ]
+        },
+        {
+          "cityname": "Suyeong",
+          "zipcodes": [
+            "48400",
+            "48401",
+            "48402",
+            "48403",
+            "48404"
+          ],
+          "areacodes": [
+            "51"
+          ]
+        },
+        {
+          "cityname": "Busanjin",
+          "zipcodes": [
+            "47200",
+            "47201",
+            "47202",
+            "47203",
+            "47204"
+          ],
+          "areacodes": [
+            "51"
+          ]
+        }
+      ]
+    },
+    "Incheon": {
+      "name": "Incheon",
+      "cities": [
+        {
+          "cityname": "Bupyeong",
+          "zipcodes": [
+            "21300",
+            "21301",
+            "21302",
+            "21303",
+            "21304"
+          ],
+          "areacodes": [
+            "32"
+          ]
+        },
+        {
+          "cityname": "Namdong",
+          "zipcodes": [
+            "21600",
+            "21601",
+            "21602",
+            "21603",
+            "21604"
+          ],
+          "areacodes": [
+            "32"
+          ]
+        },
+        {
+          "cityname": "Michuhol",
+          "zipcodes": [
+            "22100",
+            "22101",
+            "22102",
+            "22103",
+            "22104"
+          ],
+          "areacodes": [
+            "32"
+          ]
+        },
+        {
+          "cityname": "Yeonsu",
+          "zipcodes": [
+            "21900",
+            "21901",
+            "21902",
+            "21903",
+            "21904"
+          ],
+          "areacodes": [
+            "32"
+          ]
+        },
+        {
+          "cityname": "Dong",
+          "zipcodes": [
+            "22150",
+            "22151",
+            "22152",
+            "22153",
+            "22154"
+          ],
+          "areacodes": [
+            "32"
+          ]
+        }
+      ]
+    },
+    "Daegu": {
+      "name": "Daegu",
+      "cities": [
+        {
+          "cityname": "Dong",
+          "zipcodes": [
+            "70000",
+            "70001",
+            "70002",
+            "70003",
+            "70004"
+          ],
+          "areacodes": [
+            "53"
+          ]
+        },
+        {
+          "cityname": "Nam",
+          "zipcodes": [
+            "70200",
+            "70201",
+            "70202",
+            "70203",
+            "70204"
+          ],
+          "areacodes": [
+            "53"
+          ]
+        },
+        {
+          "cityname": "Buk",
+          "zipcodes": [
+            "70300",
+            "70301",
+            "70302",
+            "70303",
+            "70304"
+          ],
+          "areacodes": [
+            "53"
+          ]
+        },
+        {
+          "cityname": "Dalseo",
+          "zipcodes": [
+            "70400",
+            "70401",
+            "70402",
+            "70403",
+            "70404"
+          ],
+          "areacodes": [
+            "53"
+          ]
+        },
+        {
+          "cityname": "Dalseong",
+          "zipcodes": [
+            "70450",
+            "70451",
+            "70452",
+            "70453",
+            "70454"
+          ],
+          "areacodes": [
+            "53"
+          ]
+        }
+      ]
+    },
+    "Daejeon": {
+      "name": "Daejeon",
+      "cities": [
+        {
+          "cityname": "Yuseong",
+          "zipcodes": [
+            "34000",
+            "34001",
+            "34002",
+            "34003",
+            "34004"
+          ],
+          "areacodes": [
+            "42"
+          ]
+        },
+        {
+          "cityname": "Daedeok",
+          "zipcodes": [
+            "34300",
+            "34301",
+            "34302",
+            "34303",
+            "34304"
+          ],
+          "areacodes": [
+            "42"
+          ]
+        },
+        {
+          "cityname": "Dong",
+          "zipcodes": [
+            "34500",
+            "34501",
+            "34502",
+            "34503",
+            "34504"
+          ],
+          "areacodes": [
+            "42"
+          ]
+        },
+        {
+          "cityname": "Jung",
+          "zipcodes": [
+            "34600",
+            "34601",
+            "34602",
+            "34603",
+            "34604"
+          ],
+          "areacodes": [
+            "42"
+          ]
+        },
+        {
+          "cityname": "Sejong",
+          "zipcodes": [
+            "34700",
+            "34701",
+            "34702",
+            "34703",
+            "34704"
+          ],
+          "areacodes": [
+            "42"
+          ]
+        }
+      ]
+    },
+    "Gwangju": {
+      "name": "Gwangju",
+      "cities": [
+        {
+          "cityname": "Seo",
+          "zipcodes": [
+            "61100",
+            "61101",
+            "61102",
+            "61103",
+            "61104"
+          ],
+          "areacodes": [
+            "62"
+          ]
+        },
+        {
+          "cityname": "Gwangsan",
+          "zipcodes": [
+            "61000",
+            "61001",
+            "61002",
+            "61003",
+            "61004"
+          ],
+          "areacodes": [
+            "62"
+          ]
+        },
+        {
+          "cityname": "Nam",
+          "zipcodes": [
+            "61200",
+            "61201",
+            "61202",
+            "61203",
+            "61204"
+          ],
+          "areacodes": [
+            "62"
+          ]
+        },
+        {
+          "cityname": "Buk",
+          "zipcodes": [
+            "61300",
+            "61301",
+            "61302",
+            "61303",
+            "61304"
+          ],
+          "areacodes": [
+            "62"
+          ]
+        },
+        {
+          "cityname": "Dong",
+          "zipcodes": [
+            "61400",
+            "61401",
+            "61402",
+            "61403",
+            "61404"
+          ],
+          "areacodes": [
+            "62"
+          ]
+        }
+      ]
+    },
+    "Ulsan": {
+      "name": "Ulsan",
+      "cities": [
+        {
+          "cityname": "Nam",
+          "zipcodes": [
+            "44500",
+            "44501",
+            "44502",
+            "44503",
+            "44504"
+          ],
+          "areacodes": [
+            "52"
+          ]
+        },
+        {
+          "cityname": "Dong",
+          "zipcodes": [
+            "44600",
+            "44601",
+            "44602",
+            "44603",
+            "44604"
+          ],
+          "areacodes": [
+            "52"
+          ]
+        },
+        {
+          "cityname": "Buk",
+          "zipcodes": [
+            "44700",
+            "44701",
+            "44702",
+            "44703",
+            "44704"
+          ],
+          "areacodes": [
+            "52"
+          ]
+        },
+        {
+          "cityname": "Jung",
+          "zipcodes": [
+            "44800",
+            "44801",
+            "44802",
+            "44803",
+            "44804"
+          ],
+          "areacodes": [
+            "52"
+          ]
+        },
+        {
+          "cityname": "Ulju",
+          "zipcodes": [
+            "44900",
+            "44901",
+            "44902",
+            "44903",
+            "44904"
+          ],
+          "areacodes": [
+            "52"
+          ]
+        }
+      ]
+    },
+    "Gyeonggi": {
+      "name": "Gyeonggi",
+      "cities": [
+        {
+          "cityname": "Suwon",
+          "zipcodes": [
+            "16400",
+            "16401",
+            "16402",
+            "16403",
+            "16404"
+          ],
+          "areacodes": [
+            "31"
+          ]
+        },
+        {
+          "cityname": "Seongnam",
+          "zipcodes": [
+            "13500",
+            "13501",
+            "13502",
+            "13503",
+            "13504"
+          ],
+          "areacodes": [
+            "31"
+          ]
+        },
+        {
+          "cityname": "Goyang",
+          "zipcodes": [
+            "10400",
+            "10401",
+            "10402",
+            "10403",
+            "10404"
+          ],
+          "areacodes": [
+            "31"
+          ]
+        },
+        {
+          "cityname": "Bucheon",
+          "zipcodes": [
+            "14500",
+            "14501",
+            "14502",
+            "14503",
+            "14504"
+          ],
+          "areacodes": [
+            "31"
+          ]
+        },
+        {
+          "cityname": "Ansan",
+          "zipcodes": [
+            "15300",
+            "15301",
+            "15302",
+            "15303",
+            "15304"
+          ],
+          "areacodes": [
+            "31"
+          ]
+        }
+      ]
+    },
+    "Gangwon": {
+      "name": "Gangwon",
+      "cities": [
+        {
+          "cityname": "Chuncheon",
+          "zipcodes": [
+            "20000",
+            "20001",
+            "20002",
+            "20003",
+            "20004"
+          ],
+          "areacodes": [
+            "33"
+          ]
+        },
+        {
+          "cityname": "Wonju",
+          "zipcodes": [
+            "26400",
+            "26401",
+            "26402",
+            "26403",
+            "26404"
+          ],
+          "areacodes": [
+            "33"
+          ]
+        },
+        {
+          "cityname": "Gangneung",
+          "zipcodes": [
+            "21000",
+            "21001",
+            "21002",
+            "21003",
+            "21004"
+          ],
+          "areacodes": [
+            "33"
+          ]
+        },
+        {
+          "cityname": "Samcheok",
+          "zipcodes": [
+            "25900",
+            "25901",
+            "25902",
+            "25903",
+            "25904"
+          ],
+          "areacodes": [
+            "33"
+          ]
+        },
+        {
+          "cityname": "Sokcho",
+          "zipcodes": [
+            "24800",
+            "24801",
+            "24802",
+            "24803",
+            "24804"
+          ],
+          "areacodes": [
+            "33"
+          ]
+        }
+      ]
+    },
+    "North Gyeongsang": {
+      "name": "North Gyeongsang",
+      "cities": [
+        {
+          "cityname": "Daegu",
+          "zipcodes": [
+            "70000",
+            "70001",
+            "70002",
+            "70003",
+            "70004"
+          ],
+          "areacodes": [
+            "53"
+          ]
+        },
+        {
+          "cityname": "Gyeongju",
+          "zipcodes": [
+            "78000",
+            "78001",
+            "78002",
+            "78003",
+            "78004"
+          ],
+          "areacodes": [
+            "53"
+          ]
+        },
+        {
+          "cityname": "Andong",
+          "zipcodes": [
+            "76000",
+            "76001",
+            "76002",
+            "76003",
+            "76004"
+          ],
+          "areacodes": [
+            "53"
+          ]
+        },
+        {
+          "cityname": "Pohang",
+          "zipcodes": [
+            "79100",
+            "79101",
+            "79102",
+            "79103",
+            "79104"
+          ],
+          "areacodes": [
+            "53"
+          ]
+        },
+        {
+          "cityname": "Yeongju",
+          "zipcodes": [
+            "75100",
+            "75101",
+            "75102",
+            "75103",
+            "75104"
+          ],
+          "areacodes": [
+            "53"
+          ]
+        }
+      ]
+    },
+    "South Gyeongsang": {
+      "name": "South Gyeongsang",
+      "cities": [
+        {
+          "cityname": "Changwon",
+          "zipcodes": [
+            "64100",
+            "64101",
+            "64102",
+            "64103",
+            "64104"
+          ],
+          "areacodes": [
+            "55"
+          ]
+        },
+        {
+          "cityname": "Jinju",
+          "zipcodes": [
+            "52800",
+            "52801",
+            "52802",
+            "52803",
+            "52804"
+          ],
+          "areacodes": [
+            "55"
+          ]
+        },
+        {
+          "cityname": "Miryang",
+          "zipcodes": [
+            "50400",
+            "50401",
+            "50402",
+            "50403",
+            "50404"
+          ],
+          "areacodes": [
+            "55"
+          ]
+        },
+        {
+          "cityname": "Tongyeong",
+          "zipcodes": [
+            "53000",
+            "53001",
+            "53002",
+            "53003",
+            "53004"
+          ],
+          "areacodes": [
+            "55"
+          ]
+        },
+        {
+          "cityname": "Geoje",
+          "zipcodes": [
+            "53200",
+            "53201",
+            "53202",
+            "53203",
+            "53204"
+          ],
+          "areacodes": [
+            "55"
+          ]
+        }
+      ]
+    },
+    "North Jeolla": {
+      "name": "North Jeolla",
+      "cities": [
+        {
+          "cityname": "Jeonju",
+          "zipcodes": [
+            "55000",
+            "55001",
+            "55002",
+            "55003",
+            "55004"
+          ],
+          "areacodes": [
+            "63"
+          ]
+        },
+        {
+          "cityname": "Gunsan",
+          "zipcodes": [
+            "57300",
+            "57301",
+            "57302",
+            "57303",
+            "57304"
+          ],
+          "areacodes": [
+            "63"
+          ]
+        },
+        {
+          "cityname": "Iksan",
+          "zipcodes": [
+            "54500",
+            "54501",
+            "54502",
+            "54503",
+            "54504"
+          ],
+          "areacodes": [
+            "63"
+          ]
+        },
+        {
+          "cityname": "Jeongeup",
+          "zipcodes": [
+            "56100",
+            "56101",
+            "56102",
+            "56103",
+            "56104"
+          ],
+          "areacodes": [
+            "63"
+          ]
+        },
+        {
+          "cityname": "Wanju",
+          "zipcodes": [
+            "55300",
+            "55301",
+            "55302",
+            "55303",
+            "55304"
+          ],
+          "areacodes": [
+            "63"
+          ]
+        }
+      ]
+    },
+    "South Jeolla Province": {
+      "name": "South Jeolla",
+      "cities": [
+        {
+          "cityname": "Gwangju",
+          "zipcodes": [
+            "61700",
+            "61701",
+            "61702",
+            "61703",
+            "61704"
+          ],
+          "areacodes": [
+            "62"
+          ]
+        },
+        {
+          "cityname": "Mokpo",
+          "zipcodes": [
+            "58700",
+            "58701",
+            "58702",
+            "58703",
+            "58704"
+          ],
+          "areacodes": [
+            "62"
+          ]
+        },
+        {
+          "cityname": "Yeosu",
+          "zipcodes": [
+            "59700",
+            "59701",
+            "59702",
+            "59703",
+            "59704"
+          ],
+          "areacodes": [
+            "62"
+          ]
+        },
+        {
+          "cityname": "Suncheon",
+          "zipcodes": [
+            "57900",
+            "57901",
+            "57902",
+            "57903",
+            "57904"
+          ],
+          "areacodes": [
+            "62"
+          ]
+        },
+        {
+          "cityname": "Boseong",
+          "zipcodes": [
+            "59400",
+            "59401",
+            "59402",
+            "59403",
+            "59404"
+          ],
+          "areacodes": [
+            "62"
+          ]
+        }
+      ]
+    },
+    "North Chungcheong": {
+      "name": "North Chungcheong",
+      "cities": [
+        {
+          "cityname": "Cheongju",
+          "zipcodes": [
+            "28100",
+            "28101",
+            "28102",
+            "28103",
+            "28104"
+          ],
+          "areacodes": [
+            "43"
+          ]
+        },
+        {
+          "cityname": "Chungju",
+          "zipcodes": [
+            "38000",
+            "38001",
+            "38002",
+            "38003",
+            "38004"
+          ],
+          "areacodes": [
+            "43"
+          ]
+        },
+        {
+          "cityname": "Jincheon",
+          "zipcodes": [
+            "27600",
+            "27601",
+            "27602",
+            "27603",
+            "27604"
+          ],
+          "areacodes": [
+            "43"
+          ]
+        },
+        {
+          "cityname": "Eumseong",
+          "zipcodes": [
+            "27700",
+            "27701",
+            "27702",
+            "27703",
+            "27704"
+          ],
+          "areacodes": [
+            "43"
+          ]
+        },
+        {
+          "cityname": "Okcheon",
+          "zipcodes": [
+            "29000",
+            "29001",
+            "29002",
+            "29003",
+            "29004"
+          ],
+          "areacodes": [
+            "43"
+          ]
+        }
+      ]
+    },
+    "South Chungcheong": {
+      "name": "South Chungcheong",
+      "cities": [
+        {
+          "cityname": "Hongseong",
+          "zipcodes": [
+            "35300",
+            "35301",
+            "35302",
+            "35303",
+            "35304"
+          ],
+          "areacodes": [
+            "41"
+          ]
+        },
+        {
+          "cityname": "Cheonan",
+          "zipcodes": [
+            "33100",
+            "33101",
+            "33102",
+            "33103",
+            "33104"
+          ],
+          "areacodes": [
+            "41"
+          ]
+        },
+        {
+          "cityname": "Gongju",
+          "zipcodes": [
+            "32500",
+            "32501",
+            "32502",
+            "32503",
+            "32504"
+          ],
+          "areacodes": [
+            "41"
+          ]
+        },
+        {
+          "cityname": "Seosan",
+          "zipcodes": [
+            "31900",
+            "31901",
+            "31902",
+            "31903",
+            "31904"
+          ],
+          "areacodes": [
+            "41"
+          ]
+        },
+        {
+          "cityname": "Boryeong",
+          "zipcodes": [
+            "33400",
+            "33401",
+            "33402",
+            "33403",
+            "33404"
+          ],
+          "areacodes": [
+            "41"
+          ]
+        }
+      ]
+    },
+    "Jeju Province": {
+      "name": "Jeju",
+      "cities": [
+        {
+          "cityname": "Jeju City",
+          "zipcodes": [
+            "69000",
+            "69001",
+            "69002",
+            "69003",
+            "69004"
+          ],
+          "areacodes": [
+            "64"
+          ]
+        },
+        {
+          "cityname": "Seogwipo",
+          "zipcodes": [
+            "63500",
+            "63501",
+            "63502",
+            "63503",
+            "63504"
+          ],
+          "areacodes": [
+            "64"
+          ]
+        },
+        {
+          "cityname": "Namwon",
+          "zipcodes": [
+            "63400",
+            "63401",
+            "63402",
+            "63403",
+            "63404"
+          ],
+          "areacodes": [
+            "64"
+          ]
+        },
+        {
+          "cityname": "Jeju Special Self-Governing Province",
+          "zipcodes": [
+            "69500",
+            "69501",
+            "69502",
+            "69503",
+            "69504"
+          ],
+          "areacodes": [
+            "64"
+          ]
+        }
+      ]
+    },
+    "Sejong": {
+      "name": "Sejong",
+      "cities": [
+        {
+          "cityname": "Sejong City",
+          "zipcodes": [
+            "30000",
+            "30001",
+            "30002",
+            "30003",
+            "30004"
+          ],
+          "areacodes": [
+            "44"
+          ]
+        },
+        {
+          "cityname": "Jochon-eup",
+          "zipcodes": [
+            "30010",
+            "30011",
+            "30012",
+            "30013",
+            "30014"
+          ],
+          "areacodes": [
+            "44"
+          ]
+        },
+        {
+          "cityname": "Onsan-myeon",
+          "zipcodes": [
+            "30020",
+            "30021",
+            "30022",
+            "30023",
+            "30024"
+          ],
+          "areacodes": [
+            "44"
+          ]
+        },
+        {
+          "cityname": "Samsan-myeon",
+          "zipcodes": [
+            "30030",
+            "30031",
+            "30032",
+            "30033",
+            "30034"
+          ],
+          "areacodes": [
+            "44"
+          ]
+        }
+      ]
+    },
+    "Gyeonggi-do": {
+      "name": "Gyeonggi-do",
+      "cities": [
+        {
+          "cityname": "Suwon",
+          "zipcodes": [
+            "16400",
+            "16401",
+            "16402",
+            "16403",
+            "16404"
+          ],
+          "areacodes": [
+            "31"
+          ]
+        },
+        {
+          "cityname": "Goyang",
+          "zipcodes": [
+            "10400",
+            "10401",
+            "10402",
+            "10403",
+            "10404"
+          ],
+          "areacodes": [
+            "31"
+          ]
+        },
+        {
+          "cityname": "Seongnam",
+          "zipcodes": [
+            "13100",
+            "13101",
+            "13102",
+            "13103",
+            "13104"
+          ],
+          "areacodes": [
+            "31"
+          ]
+        },
+        {
+          "cityname": "Yongin",
+          "zipcodes": [
+            "16800",
+            "16801",
+            "16802",
+            "16803",
+            "16804"
+          ],
+          "areacodes": [
+            "31"
+          ]
+        },
+        {
+          "cityname": "Anyang",
+          "zipcodes": [
+            "14100",
+            "14101",
+            "14102",
+            "14103",
+            "14104"
+          ],
+          "areacodes": [
+            "31"
+          ]
+        }
+      ]
+    },
+    "Gyeongsangbuk-do": {
+      "name": "Gyeongsangbuk-do",
+      "cities": [
+        {
+          "cityname": "Gyeongju",
+          "zipcodes": [
+            "38100",
+            "38101",
+            "38102",
+            "38103",
+            "38104"
+          ],
+          "areacodes": [
+            "54"
+          ]
+        },
+        {
+          "cityname": "Andong",
+          "zipcodes": [
+            "36700",
+            "36701",
+            "36702",
+            "36703",
+            "36704"
+          ],
+          "areacodes": [
+            "54"
+          ]
+        },
+        {
+          "cityname": "Pohang",
+          "zipcodes": [
+            "37500",
+            "37501",
+            "37502",
+            "37503",
+            "37504"
+          ],
+          "areacodes": [
+            "54"
+          ]
+        },
+        {
+          "cityname": "Gimcheon",
+          "zipcodes": [
+            "39600",
+            "39601",
+            "39602",
+            "39603",
+            "39604"
+          ],
+          "areacodes": [
+            "54"
+          ]
+        },
+        {
+          "cityname": "Yeongju",
+          "zipcodes": [
+            "36400",
+            "36401",
+            "36402",
+            "36403",
+            "36404"
+          ],
+          "areacodes": [
+            "54"
+          ]
+        }
+      ]
+    },
+    "Jeollanam-do": {
+      "name": "Jeollanam-do",
+      "cities": [
+        {
+          "cityname": "Gwangyang",
+          "zipcodes": [
+            "57700",
+            "57701",
+            "57702",
+            "57703",
+            "57704"
+          ],
+          "areacodes": [
+            "61"
+          ]
+        },
+        {
+          "cityname": "Mokpo",
+          "zipcodes": [
+            "58700",
+            "58701",
+            "58702",
+            "58703",
+            "58704"
+          ],
+          "areacodes": [
+            "61"
+          ]
+        },
+        {
+          "cityname": "Yeosu",
+          "zipcodes": [
+            "59700",
+            "59701",
+            "59702",
+            "59703",
+            "59704"
+          ],
+          "areacodes": [
+            "61"
+          ]
+        },
+        {
+          "cityname": "Suncheon",
+          "zipcodes": [
+            "57900",
+            "57901",
+            "57902",
+            "57903",
+            "57904"
+          ],
+          "areacodes": [
+            "61"
+          ]
+        },
+        {
+          "cityname": "Boseong",
+          "zipcodes": [
+            "59400",
+            "59401",
+            "59402",
+            "59403",
+            "59404"
+          ],
+          "areacodes": [
+            "61"
+          ]
+        }
+      ]
+    }
+  },
+  "citycontainers": [
+    "regions"
+  ],
+  
+    "firstnames": [
+      "Jin", "Ji", "Jiwon", "Minji", "Jiwon", "Seojin", "Soojung", "Minseok", "Jisoo", "Eunji",
+      "Soo", "Yuna", "Seoyeon", "Jihye", "Jiwon", "Haeun", "Jiwon", "Minseok", "Seungjae", "Hyewon",
+      "Jiwon", "Soyoung", "Jimin", "Yujin", "Yuri", "Seungmin", "Yeeun", "Jiwon", "Jinwoo", "Soojin",
+      "Jiwon", "Seunghyun", "Doyeon", "Eunsoo", "Haebin", "Jiwon", "Sungmin", "Eunjung", "Nayoung", "Soojung",
+      "Sunghoon", "Minkyung"
+    ],
+    "lastnames": [
+      "Kim", "Lee", "Park", "Choi", "Jung", "Cho", "Kang", "Im", "Lim", "Yoo",
+      "Hwang", "Ahn", "Shin", "Oh", "Seo", "Ryu", "Moon", "Hong", "Jang", "Chun",
+      "Joo", "Kim", "Yang", "Bae", "Kwon", "Koo", "Choi", "Yun", "Na", "Han",
+      "Go", "Jeon", "Yim", "Song", "Baek", "Kang", "Kim", "Lim", "Oh", "Chung",
+      "Park", "Park"
+    ]
+  
+  
 }

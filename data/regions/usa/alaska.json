@@ -1,0 +1,2024 @@
+{
+    "name": "Alaska",
+    "capital": "Juneau",
+    "cities": [
+        {
+            "name": "Adak",
+            "zipcodes": [
+                "99546"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Akhiok",
+            "zipcodes": [
+                "99615"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Akiachak",
+            "zipcodes": [
+                "99551"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Akiak",
+            "zipcodes": [
+                "99552"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Akutan",
+            "zipcodes": [
+                "99553"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Alakanuk",
+            "zipcodes": [
+                "99554"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Aleknagik",
+            "zipcodes": [
+                "99555"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Allakaket",
+            "zipcodes": [
+                "99720"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Ambler",
+            "zipcodes": [
+                "99786"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Anaktuvuk Pass",
+            "zipcodes": [
+                "99721"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Anchor Point",
+            "zipcodes": [
+                "99556"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Anchorage",
+            "zipcodes": [
+                "99501",
+                "99502",
+                "99503",
+                "99504",
+                "99505",
+                "99506",
+                "99507",
+                "99508",
+                "99509",
+                "99510",
+                "99511",
+                "99513",
+                "99514",
+                "99515",
+                "99516",
+                "99517",
+                "99518",
+                "99519",
+                "99520",
+                "99521",
+                "99522",
+                "99523",
+                "99524",
+                "99529",
+                "99530",
+                "99540",
+                "99599"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Anderson",
+            "zipcodes": [
+                "99744"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Angoon",
+            "zipcodes": [
+                "99820"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Aniak",
+            "zipcodes": [
+                "99557"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Anvik",
+            "zipcodes": [
+                "99558"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Arctic Village",
+            "zipcodes": [
+                "99722"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Atka",
+            "zipcodes": [
+                "99547"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Atmautluak",
+            "zipcodes": [
+                "99559"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Atqasuk",
+            "zipcodes": [
+                "99791"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Beaver",
+            "zipcodes": [
+                "99724"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Bethel",
+            "zipcodes": [
+                "99559"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Bettles",
+            "zipcodes": [
+                "99726"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Big Lake",
+            "zipcodes": [
+                "99652"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Brevig Mission",
+            "zipcodes": [
+                "99785"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Buckland",
+            "zipcodes": [
+                "99727"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Cantwell",
+            "zipcodes": [
+                "99729"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Central",
+            "zipcodes": [
+                "99730"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Chalkyitsik",
+            "zipcodes": [
+                "99788"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Chefornak",
+            "zipcodes": [
+                "99561"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Chevak",
+            "zipcodes": [
+                "99563"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Chickaloon",
+            "zipcodes": [
+                "99674"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Chignik",
+            "zipcodes": [
+                "99564"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Chignik Lagoon",
+            "zipcodes": [
+                "99565"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Chignik Lake",
+            "zipcodes": [
+                "99548"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Chitina",
+            "zipcodes": [
+                "99566"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Chuathbaluk",
+            "zipcodes": [
+                "99557"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Circle",
+            "zipcodes": [
+                "99733"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Clam Gulch",
+            "zipcodes": [
+                "99568"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Clark's Point",
+            "zipcodes": [
+                "99569"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Clear",
+            "zipcodes": [
+                "99704"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Coffman Cove",
+            "zipcodes": [
+                "99918"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Cold Bay",
+            "zipcodes": [
+                "99571"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Coldfoot",
+            "zipcodes": [
+                "99701"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Cooper Landing",
+            "zipcodes": [
+                "99572"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Copper Center",
+            "zipcodes": [
+                "99573"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Cordova",
+            "zipcodes": [
+                "99574"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Craig",
+            "zipcodes": [
+                "99921"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Crooked Creek",
+            "zipcodes": [
+                "99575"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Deering",
+            "zipcodes": [
+                "99736"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Delta Junction",
+            "zipcodes": [
+                "99737"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Denali National Park",
+            "zipcodes": [
+                "99755"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Dillingham",
+            "zipcodes": [
+                "99576"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Douglas",
+            "zipcodes": [
+                "99824"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Dutch Harbor",
+            "zipcodes": [
+                "99692"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Eagle",
+            "zipcodes": [
+                "99738"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Eagle River",
+            "zipcodes": [
+                "99577"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Eek",
+            "zipcodes": [
+                "99578"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Egegik",
+            "zipcodes": [
+                "99579"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Eielson AFB",
+            "zipcodes": [
+                "99702"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Ekwok",
+            "zipcodes": [
+                "99580"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Elfin Cove",
+            "zipcodes": [
+                "99825"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Elim",
+            "zipcodes": [
+                "99739"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Emmonak",
+            "zipcodes": [
+                "99581"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Fairbanks",
+            "zipcodes": [
+                "99701",
+                "99706",
+                "99707",
+                "99708",
+                "99709",
+                "99710",
+                "99711",
+                "99712",
+                "99714",
+                "99716",
+                "99767",
+                "99775",
+                "99790"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "False Pass",
+            "zipcodes": [
+                "99583"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Fort Greely",
+            "zipcodes": [
+                "99731"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Fort Wainwright",
+            "zipcodes": [
+                "99703"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Fox",
+            "zipcodes": [
+                "99731"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Galena",
+            "zipcodes": [
+                "99741"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Gambell",
+            "zipcodes": [
+                "99742"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Glennallen",
+            "zipcodes": [
+                "99588"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Golovin",
+            "zipcodes": [
+                "99762"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Goodnews Bay",
+            "zipcodes": [
+                "99589"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Grayling",
+            "zipcodes": [
+                "99590"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Gulkana",
+            "zipcodes": [
+                "99586"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Gustavus",
+            "zipcodes": [
+                "99826"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Haines",
+            "zipcodes": [
+                "99827"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Healy",
+            "zipcodes": [
+                "99743"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Holy Cross",
+            "zipcodes": [
+                "99602"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Homer",
+            "zipcodes": [
+                "99603"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Hoonah",
+            "zipcodes": [
+                "99829"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Hooper Bay",
+            "zipcodes": [
+                "99604"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Hope",
+            "zipcodes": [
+                "99605"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Huslia",
+            "zipcodes": [
+                "99746"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Hydaburg",
+            "zipcodes": [
+                "99922"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Hyder",
+            "zipcodes": [
+                "99923"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Igiugig",
+            "zipcodes": [
+                "99613"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Iliamna",
+            "zipcodes": [
+                "99606"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Juneau",
+            "zipcodes": [
+                "99801",
+                "99802",
+                "99803",
+                "99811",
+                "99812",
+                "99850"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Kake",
+            "zipcodes": [
+                "99830"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Kaktovik",
+            "zipcodes": [
+                "99747"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Kalskag",
+            "zipcodes": [
+                "99607"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Kaltag",
+            "zipcodes": [
+                "99748"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Kasigluk",
+            "zipcodes": [
+                "99609"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Kenai",
+            "zipcodes": [
+                "99611"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Ketchikan",
+            "zipcodes": [
+                "99901",
+                "99950"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Kiana",
+            "zipcodes": [
+                "99749"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "King Cove",
+            "zipcodes": [
+                "99612"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "King Salmon",
+            "zipcodes": [
+                "99613"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Kipnuk",
+            "zipcodes": [
+                "99614"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Kivalina",
+            "zipcodes": [
+                "99750"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Klawock",
+            "zipcodes": [
+                "99925"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Kobuk",
+            "zipcodes": [
+                "99751"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Kodiak",
+            "zipcodes": [
+                "99615",
+                "99619",
+                "99697"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Kotlik",
+            "zipcodes": [
+                "99620"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Kotzebue",
+            "zipcodes": [
+                "99752"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Koyuk",
+            "zipcodes": [
+                "99753"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Koyukuk",
+            "zipcodes": [
+                "99754"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Kwethluk",
+            "zipcodes": [
+                "99621"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Kwigillingok",
+            "zipcodes": [
+                "99622"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Lake Minchumina",
+            "zipcodes": [
+                "99757"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Larsen Bay",
+            "zipcodes": [
+                "99624"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Levelock",
+            "zipcodes": [
+                "99625"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Lower Kalskag",
+            "zipcodes": [
+                "99626"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Manley Hot Springs",
+            "zipcodes": [
+                "99756"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Manokotak",
+            "zipcodes": [
+                "99628"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Marshall",
+            "zipcodes": [
+                "99585"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "McGrath",
+            "zipcodes": [
+                "99627"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Mekoryuk",
+            "zipcodes": [
+                "99630"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Mentasta Lake",
+            "zipcodes": [
+                "99780"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Metlakatla",
+            "zipcodes": [
+                "99926"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Meyers Chuck",
+            "zipcodes": [
+                "99903"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Minto",
+            "zipcodes": [
+                "99758"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Moose Pass",
+            "zipcodes": [
+                "99631"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Mountain Village",
+            "zipcodes": [
+                "99632"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Naknek",
+            "zipcodes": [
+                "99633"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Napakiak",
+            "zipcodes": [
+                "99634"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Napaskiak",
+            "zipcodes": [
+                "99633"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Nenana",
+            "zipcodes": [
+                "99760"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "New Stuyahok",
+            "zipcodes": [
+                "99636"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Newhalen",
+            "zipcodes": [
+                "99637"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Nightmute",
+            "zipcodes": [
+                "99690"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Nikolai",
+            "zipcodes": [
+                "99691"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Nikolski",
+            "zipcodes": [
+                "99638"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Ninilchik",
+            "zipcodes": [
+                "99639"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Noatak",
+            "zipcodes": [
+                "99761"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Nome",
+            "zipcodes": [
+                "99762"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Nondalton",
+            "zipcodes": [
+                "99640"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Noorvik",
+            "zipcodes": [
+                "99763"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "North Pole",
+            "zipcodes": [
+                "99705"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Nuiqsut",
+            "zipcodes": [
+                "99789"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Nulato",
+            "zipcodes": [
+                "99765"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Nunam Iqua",
+            "zipcodes": [
+                "99666"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Nunapitchuk",
+            "zipcodes": [
+                "99641"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Old Harbor",
+            "zipcodes": [
+                "99643"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Ouzinkie",
+            "zipcodes": [
+                "99644"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Palmer",
+            "zipcodes": [
+                "99645"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Perryville",
+            "zipcodes": [
+                "99648"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Petersburg",
+            "zipcodes": [
+                "99833"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Pilot Point",
+            "zipcodes": [
+                "99649"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Pilot Station",
+            "zipcodes": [
+                "99650"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Pitkas Point",
+            "zipcodes": [
+                "99658"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Platinum",
+            "zipcodes": [
+                "99651"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Point Baker",
+            "zipcodes": [
+                "99927"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Point Hope",
+            "zipcodes": [
+                "99766"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Point Lay",
+            "zipcodes": [
+                "99759"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Port Alexander",
+            "zipcodes": [
+                "99836"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Port Alsworth",
+            "zipcodes": [
+                "99653"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Port Heiden",
+            "zipcodes": [
+                "99549"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Port Lions",
+            "zipcodes": [
+                "99550"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Prudhoe Bay",
+            "zipcodes": [
+                "99734"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Quinhagak",
+            "zipcodes": [
+                "99655"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Rampart",
+            "zipcodes": [
+                "99767"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Red Devil",
+            "zipcodes": [
+                "99656"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Ruby",
+            "zipcodes": [
+                "99768"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Russian Mission",
+            "zipcodes": [
+                "99657"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Saint George Island",
+            "zipcodes": [
+                "99591"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Saint Marys",
+            "zipcodes": [
+                "99658"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Saint Michael",
+            "zipcodes": [
+                "99659"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Saint Paul Island",
+            "zipcodes": [
+                "99660"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Salcha",
+            "zipcodes": [
+                "99714"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Sand Point",
+            "zipcodes": [
+                "99661"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Savoonga",
+            "zipcodes": [
+                "99769"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Scammon Bay",
+            "zipcodes": [
+                "99662"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Selawik",
+            "zipcodes": [
+                "99770"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Seldovia",
+            "zipcodes": [
+                "99663"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Seward",
+            "zipcodes": [
+                "99664"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Shageluk",
+            "zipcodes": [
+                "99665"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Shaktoolik",
+            "zipcodes": [
+                "99771"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Shishmaref",
+            "zipcodes": [
+                "99772"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Shungnak",
+            "zipcodes": [
+                "99773"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Sitka",
+            "zipcodes": [
+                "99835"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Skagway",
+            "zipcodes": [
+                "99840"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Sleetmute",
+            "zipcodes": [
+                "99668"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Soldotna",
+            "zipcodes": [
+                "99669"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "South Naknek",
+            "zipcodes": [
+                "99670"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Stebbins",
+            "zipcodes": [
+                "99671"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Stevens Village",
+            "zipcodes": [
+                "99774"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Stony River",
+            "zipcodes": [
+                "99613"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Sutton",
+            "zipcodes": [
+                "99674"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Takotna",
+            "zipcodes": [
+                "99675"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Talkeetna",
+            "zipcodes": [
+                "99676"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Tanana",
+            "zipcodes": [
+                "99777"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Tatitlek",
+            "zipcodes": [
+                "99677"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Teller",
+            "zipcodes": [
+                "99778"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Tenakee Springs",
+            "zipcodes": [
+                "99841"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Thorne Bay",
+            "zipcodes": [
+                "99919"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Togiak",
+            "zipcodes": [
+                "99678"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Tok",
+            "zipcodes": [
+                "99780"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Toksook Bay",
+            "zipcodes": [
+                "99637"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Tuluksak",
+            "zipcodes": [
+                "99679"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Tuntutuliak",
+            "zipcodes": [
+                "99680"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Tununak",
+            "zipcodes": [
+                "99681"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Twin Hills",
+            "zipcodes": [
+                "99685"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Two Rivers",
+            "zipcodes": [
+                "99716"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Tyonek",
+            "zipcodes": [
+                "99682"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Unalakleet",
+            "zipcodes": [
+                "99684"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Unalaska",
+            "zipcodes": [
+                "99685"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Valdez",
+            "zipcodes": [
+                "99686"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Venetie",
+            "zipcodes": [
+                "99781"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Wainwright",
+            "zipcodes": [
+                "99782"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Wales",
+            "zipcodes": [
+                "99783"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Wasilla",
+            "zipcodes": [
+                "99654",
+                "99687"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "White Mountain",
+            "zipcodes": [
+                "99784"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Whittier",
+            "zipcodes": [
+                "99693"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Willow",
+            "zipcodes": [
+                "99688"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Wrangell",
+            "zipcodes": [
+                "99929"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        },
+        {
+            "name": "Yakutat",
+            "zipcodes": [
+                "99689"
+            ],
+            "areacodes": [
+                "907"
+            ]
+        }
+    ]
+}

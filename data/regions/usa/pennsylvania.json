@@ -1,0 +1,4336 @@
+{
+    "name" : "Pennsylvania",
+    "capital" : "Harrisburg",
+    "cities" : [
+        {
+            "cityname" : "Philadelphia",
+            "areacodes" : ["215", "267", "484", "610"],
+            "zipcodes" : ["19102", "19103", "19104", "19106", "19107", "19109", "19111", "19112", "19114", "19115", "19116", "19118", "19119", "19120", "19121", "19122", "19123", "19124", "19125", "19126", "19127", "19128", "19129", "19130", "19131", "19132", "19133", "19134", "19135", "19136", "19137", "19138", "19139", "19140", "19141", "19142", "19143", "19144", "19145", "19146", "19147", "19148", "19149", "19150", "19151", "19152", "19153", "19154"]
+        },
+        {
+            "cityname" : "Aaronsburg",
+            "areacodes" : ["814"],
+            "zipcodes" : ["16820"]
+        },
+        {
+            "cityname" : "Abbottstown",
+            "areacodes" : ["717"],
+            "zipcodes" : ["17301"]
+        },
+        {
+            "cityname" : "Adamsburg",
+            "areacodes" : ["724"],
+            "zipcodes" : ["15611"]
+        },
+        {
+            "cityname" : "Adamstown",
+            "areacodes" : ["717"],
+            "zipcodes" : ["19501"]
+        },
+        {
+            "cityname" : "Addison",
+            "areacodes" : ["814"],
+            "zipcodes" : ["15411"]
+        },
+        {
+            "cityname" : "Akron",
+            "areacodes" : ["717"],
+            "zipcodes" : ["17501"]
+        },
+        {
+            "cityname" : "Albion",
+            "areacodes" : ["814"],
+            "zipcodes" : ["16401"]
+        },
+        {
+            "cityname" : "Alburtis",
+            "areacodes" : ["610"],
+            "zipcodes" : ["18011"]
+        },
+        {
+            "cityname" : "Alexandria",
+            "areacodes" : ["814"],
+            "zipcodes" : ["16611"]
+        },
+        {
+            "cityname" : "Aliquippa",
+            "areacodes" : ["724"],
+            "zipcodes" : ["15001"]
+        },
+        {
+            "cityname" : "Allenport",
+            "areacodes" : ["724"],
+            "zipcodes" : ["15412"]
+        },
+        {
+            "cityname" : "Allentown",
+            "areacodes" : ["610", "484"],
+            "zipcodes" : ["18101", "18102", "18103", "18104", "18105", "18106", "18109"]
+        },
+        {
+            "cityname" : "Altoona",
+            "areacodes" : ["814"],
+            "zipcodes" : ["16601", "16602", "16603"]
+        },
+        {
+            "cityname" : "Ambler",
+            "areacodes" : ["215", "267"],
+            "zipcodes" : ["19002"]
+        },
+        {
+            "cityname" : "Ambridge",
+            "areacodes" : ["724"],
+            "zipcodes" : ["15003"]
+        },
+        {
+            "cityname" : "Amity",
+            "areacodes" : ["724"],
+            "zipcodes" : ["15311"]
+        },
+        {
+            "cityname" : "Annville",
+            "areacodes" : ["717"],
+            "zipcodes" : ["17003"]
+        },
+        {
+            "cityname" : "Apollo",
+            "areacodes" : ["724"],
+            "zipcodes" : ["15613"]
+        },
+        {
+            "cityname" : "Archbald",
+            "areacodes" : ["570"],
+            "zipcodes" : ["18403"]
+        },
+        {
+            "cityname" : "Ardmore",
+            "areacodes" : ["610", "484"],
+            "zipcodes" : ["19003"]
+        },
+        {
+            "cityname" : "Arendtsville",
+            "areacodes" : ["717"],
+            "zipcodes" : ["17303"]
+        },
+        {
+            "cityname" : "Aristes",
+            "areacodes" : ["570"],
+            "zipcodes" : ["17920"]
+        },
+        {
+            "cityname" : "Arona",
+            "areacodes" : ["724"],
+            "zipcodes" : ["15617"]
+        },
+        {
+            "cityname" : "Ashland",
+            "areacodes" : ["570"],
+            "zipcodes" : ["17921"]
+        },
+        {
+            "cityname" : "Ashville",
+            "areacodes" : ["814"],
+            "zipcodes" : ["16613"]
+        },
+        {
+            "cityname" : "Atglen",
+            "areacodes" : ["610"],
+            "zipcodes" : ["19310"]
+        },
+        {
+            "cityname" : "Auburn",
+            "areacodes" : ["570"],
+            "zipcodes" : ["17922"]
+        },
+        {
+            "cityname" : "Audubon",
+            "areacodes" : ["610"],
+            "zipcodes" : ["19407"]
+        },
+        {
+            "cityname" : "Austin",
+            "areacodes" : ["814"],
+            "zipcodes" : ["16720"]
+        },
+        {
+            "cityname" : "Avis",
+            "areacodes" : ["570"],
+            "zipcodes" : ["17721"]
+        },
+        {
+            "cityname" : "Avondale",
+            "areacodes" : ["610"],
+            "zipcodes" : ["19311"]
+        },
+        {
+            "cityname" : "Avonmore",
+            "areacodes" : ["724"],
+            "zipcodes" : ["15618"]
+        },
+        {
+            "cityname" : "Baden",
+            "areacodes" : ["724"],
+            "zipcodes" : ["15005"]
+        },
+        {
+            "cityname" : "Bally",
+            "areacodes" : ["610"],
+            "zipcodes" : ["19503"]
+        },
+        {
+            "cityname" : "Bangor",
+            "areacodes" : ["610"],
+            "zipcodes" : ["18013"]
+        },
+        {
+            "cityname" : "Bath",
+            "areacodes" : ["610"],
+            "zipcodes" : ["18014"]
+        },
+        {
+            "cityname" : "Beallsville",
+            "areacodes" : ["724"],
+            "zipcodes" : ["15313"]
+        },
+        {
+            "cityname" : "Bear Creek",
+            "areacodes" : ["570"],
+            "zipcodes" : ["18602"]
+        },
+        {
+            "cityname" : "Beaver Falls",
+            "areacodes" : ["724"],
+            "zipcodes" : ["15010"]
+        },
+        {
+            "cityname" : "Beaver Meadows",
+            "areacodes" : ["570"],
+            "zipcodes" : ["18216"]
+        },
+        {
+            "cityname" : "Beaver Springs",
+            "areacodes" : ["570"],
+            "zipcodes" : ["17812"]
+        },
+        {
+            "cityname" : "Beaver",
+            "areacodes" : ["724"],
+            "zipcodes" : ["15009"]
+        },
+        {
+            "cityname" : "Beaverdale",
+            "areacodes" : ["814"],
+            "zipcodes" : ["15921"]
+        },
+        {
+            "cityname" : "Beavertown",
+            "areacodes" : ["570"],
+            "zipcodes" : ["17813"]
+        },
+        {
+            "cityname" : "Bechtelsville",
+            "areacodes" : ["610"],
+            "zipcodes" : ["19505"]
+        },
+        {
+            "cityname" : "Beech Creek",
+            "areacodes" : ["570"],
+            "zipcodes" : ["16822"]
+        },
+        {
+            "cityname" : "Belle Vernon",
+            "areacodes" : ["724"],
+            "zipcodes" : ["15012"]
+        },
+        {
+            "cityname" : "Bellefonte",
+            "areacodes" : ["814"],
+            "zipcodes" : ["16823"]
+        },
+        {
+            "cityname" : "Belleville",
+            "areacodes" : ["717"],
+            "zipcodes" : ["17004"]
+        },
+        {
+            "cityname" : "Bellwood",
+            "areacodes" : ["814"],
+            "zipcodes" : ["16617"]
+        },
+        {
+            "cityname" : "Bendersville",
+            "areacodes" : ["717"],
+            "zipcodes" : ["17306"]
+        },
+        {
+            "cityname" : "Bentleyville",
+            "areacodes" : ["724"],
+            "zipcodes" : ["15314"]
+        },
+        {
+            "cityname" : "Benton",
+            "areacodes" : ["570"],
+            "zipcodes" : ["17814"]
+        },
+        {
+            "cityname" : "Berlin",
+            "areacodes" : ["814"],
+            "zipcodes" : ["15530"]
+        },
+        {
+            "cityname" : "Bernville",
+            "areacodes" : ["610"],
+            "zipcodes" : ["19506"]
+        },
+        {
+            "cityname" : "Berrysburg",
+            "areacodes" : ["717"],
+            "zipcodes" : ["17005"]
+        },
+        {
+            "cityname" : "Berwick",
+            "areacodes" : ["570"],
+            "zipcodes" : ["18603"]
+        },
+        {
+            "cityname" : "Bessemer",
+            "areacodes" : ["724"],
+            "zipcodes" : ["16112"]
+        },
+        {
+            "cityname" : "Bethel Park",
+            "areacodes" : ["412"],
+            "zipcodes" : ["15102"]
+        },
+        {
+            "cityname" : "Bethlehem",
+            "areacodes" : ["610", "484"],
+            "zipcodes" : ["18015", "18016", "18017", "18018", "18020"]
+        },
+        {
+            "cityname" : "Big Run",
+            "areacodes" : ["814"],
+            "zipcodes" : ["15715"]
+        },
+        {
+            "cityname" : "Biglerville",
+            "areacodes" : ["717"],
+            "zipcodes" : ["17307"]
+        },
+        {
+            "cityname" : "Birdsboro",
+            "areacodes" : ["610"],
+            "zipcodes" : ["19508"]
+        },
+        {
+            "cityname" : "Black Lick",
+            "areacodes" : ["724"],
+            "zipcodes" : ["15716"]
+        },
+        {
+            "cityname" : "Blain",
+            "areacodes" : ["717"],
+            "zipcodes" : ["17006"]
+        },
+        {
+            "cityname" : "Blairsville",
+            "areacodes" : ["724"],
+            "zipcodes" : ["15717"]
+        },
+        {
+            "cityname" : "Blanchard",
+            "areacodes" : ["570"],
+            "zipcodes" : ["16826"]
+        },
+        {
+            "cityname" : "Blooming Glen",
+            "areacodes" : ["215"],
+            "zipcodes" : ["18911"]
+        },
+        {
+            "cityname" : "Bloomsburg",
+            "areacodes" : ["570"],
+            "zipcodes" : ["17815"]
+        },
+        {
+            "cityname" : "Blossburg",
+            "areacodes" : ["570"],
+            "zipcodes" : ["16912"]
+        },
+        {
+            "cityname" : "Blue Bell",
+            "areacodes" : ["610"],
+            "zipcodes" : ["19422"]
+        },
+        {
+            "cityname" : "Boalsburg",
+            "areacodes" : ["814"],
+            "zipcodes" : ["16827"]
+        },
+        {
+            "cityname" : "Boiling Springs",
+            "areacodes" : ["717"],
+            "zipcodes" : ["17007"]
+        },
+        {
+            "cityname" : "Bolivar",
+            "areacodes" : ["724"],
+            "zipcodes" : ["15923"]
+        },
+        {
+            "cityname" : "Boswell",
+            "areacodes" : ["814"],
+            "zipcodes" : ["15531"]
+        },
+        {
+            "cityname" : "Bowmanstown",
+            "areacodes" : ["610"],
+            "zipcodes" : ["18030"]
+        },
+        {
+            "cityname" : "Boyertown",
+            "areacodes" : ["610"],
+            "zipcodes" : ["19512"]
+        },
+        {
+            "cityname" : "Brackenridge",
+            "areacodes" : ["724"],
+            "zipcodes" : ["15014"]
+        },
+        {
+            "cityname" : "Braddock",
+            "areacodes" : ["412"],
+            "zipcodes" : ["15104"]
+        },
+        {
+            "cityname" : "Bradford",
+            "areacodes" : ["814"],
+            "zipcodes" : ["16701"]
+        },
+        {
+            "cityname" : "Bradfordwoods",
+            "areacodes" : ["724"],
+            "zipcodes" : ["15015"]
+        },
+        {
+            "cityname" : "Branchdale",
+            "areacodes" : ["570"],
+            "zipcodes" : ["17923"]
+        },
+        {
+            "cityname" : "Bridgeport",
+            "areacodes" : ["610"],
+            "zipcodes" : ["19405"]
+        },
+        {
+            "cityname" : "Brisbin",
+            "areacodes" : ["814"],
+            "zipcodes" : ["16620"]
+        },
+        {
+            "cityname" : "Bristol",
+            "areacodes" : ["215"],
+            "zipcodes" : ["19007"]
+        },
+        {
+            "cityname" : "Broad Top",
+            "areacodes" : ["814"],
+            "zipcodes" : ["16621"]
+        },
+        {
+            "cityname" : "Brockway",
+            "areacodes" : ["814"],
+            "zipcodes" : ["15824"]
+        },
+        {
+            "cityname" : "Brodheadsville",
+            "areacodes" : ["570"],
+            "zipcodes" : ["18322"]
+        },
+        {
+            "cityname" : "Brookhaven",
+            "areacodes" : ["610"],
+            "zipcodes" : ["19015"]
+        },
+        {
+            "cityname" : "Brookville",
+            "areacodes" : ["814"],
+            "zipcodes" : ["15825"]
+        },
+        {
+            "cityname" : "Broomall",
+            "areacodes" : ["610"],
+            "zipcodes" : ["19008"]
+        },
+        {
+            "cityname" : "Brownstown",
+            "areacodes" : ["717"],
+            "zipcodes" : ["17508"]
+        },
+        {
+            "cityname" : "Brownsville",
+            "areacodes" : ["724"],
+            "zipcodes" : ["15417"]
+        },
+        {
+            "cityname" : "Bruin",
+            "areacodes" : ["724"],
+            "zipcodes" : ["16022"]
+        },
+        {
+            "cityname" : "Bryn Athyn",
+            "areacodes" : ["215"],
+            "zipcodes" : ["19009"]
+        },
+        {
+            "cityname" : "Bryn Mawr",
+            "areacodes" : ["610"],
+            "zipcodes" : ["19010"]
+        },
+        {
+            "cityname" : "Burgettstown",
+            "areacodes" : ["724"],
+            "zipcodes" : ["15021"]
+        },
+        {
+            "cityname" : "Burnham",
+            "areacodes" : ["717"],
+            "zipcodes" : ["17009"]
+        },
+        {
+            "cityname" : "Butler",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97002"]
+        },
+        {
+            "cityname" : "California",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97003"]
+        },
+        {
+            "cityname" : "Callensburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97004"]
+        },
+        {
+            "cityname" : "Callery",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97005"]
+        },
+        {
+            "cityname" : "Calumet",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97006"]
+        },
+        {
+            "cityname" : "Cambridge Springs",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97007"]
+        },
+        {
+            "cityname" : "Camp Hill",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97008"]
+        },
+        {
+            "cityname" : "Campbelltown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97009"]
+        },
+        {
+            "cityname" : "Canonsburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97010"]
+        },
+        {
+            "cityname" : "Canton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97011"]
+        },
+        {
+            "cityname" : "Carbondale",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97012"]
+        },
+        {
+            "cityname" : "Carlisle",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97013"]
+        },
+        {
+            "cityname" : "Carmichaels",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97014"]
+        },
+        {
+            "cityname" : "Carnegie",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97015"]
+        },
+        {
+            "cityname" : "Carrolltown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97016"]
+        },
+        {
+            "cityname" : "Cashtown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97017"]
+        },
+        {
+            "cityname" : "Catasauqua",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97018"]
+        },
+        {
+            "cityname" : "Catawissa",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97019"]
+        },
+        {
+            "cityname" : "Cecil",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97020"]
+        },
+        {
+            "cityname" : "Centerport",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97021"]
+        },
+        {
+            "cityname" : "Centerville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97022"]
+        },
+        {
+            "cityname" : "Central City",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97023"]
+        },
+        {
+            "cityname" : "Centre Hall",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97024"]
+        },
+        {
+            "cityname" : "Chalfont",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97025"]
+        },
+        {
+            "cityname" : "Chambersburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97026"]
+        },
+        {
+            "cityname" : "Charleroi",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97027"]
+        },
+        {
+            "cityname" : "Cherry Tree",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97028"]
+        },
+        {
+            "cityname" : "Chester Heights",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97029"]
+        },
+        {
+            "cityname" : "Chester",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97030"]
+        },
+        {
+            "cityname" : "Chicora",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97031"]
+        },
+        {
+            "cityname" : "Christiana",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97032"]
+        },
+        {
+            "cityname" : "Clairton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97033"]
+        },
+        {
+            "cityname" : "Clarence",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97034"]
+        },
+        {
+            "cityname" : "Clarendon",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97035"]
+        },
+        {
+            "cityname" : "Clarion",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97036"]
+        },
+        {
+            "cityname" : "Clark",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97037"]
+        },
+        {
+            "cityname" : "Clarks Summit",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97038"]
+        },
+        {
+            "cityname" : "Clarksville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97039"]
+        },
+        {
+            "cityname" : "Claysburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97040"]
+        },
+        {
+            "cityname" : "Claysville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97041"]
+        },
+        {
+            "cityname" : "Clearfield",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97042"]
+        },
+        {
+            "cityname" : "Clifton Heights",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97043"]
+        },
+        {
+            "cityname" : "Clintonville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97044"]
+        },
+        {
+            "cityname" : "Clymer",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97045"]
+        },
+        {
+            "cityname" : "Coaldale",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97046"]
+        },
+        {
+            "cityname" : "Coalport",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97047"]
+        },
+        {
+            "cityname" : "Coatesville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97048"]
+        },
+        {
+            "cityname" : "Cochranton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97049"]
+        },
+        {
+            "cityname" : "Cokeburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97050"]
+        },
+        {
+            "cityname" : "Collegeville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97051"]
+        },
+        {
+            "cityname" : "Columbia",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97052"]
+        },
+        {
+            "cityname" : "Colver",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97053"]
+        },
+        {
+            "cityname" : "Commodore",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97054"]
+        },
+        {
+            "cityname" : "Confluence",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97055"]
+        },
+        {
+            "cityname" : "Conneaut Lake",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97056"]
+        },
+        {
+            "cityname" : "Conneautville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97057"]
+        },
+        {
+            "cityname" : "Connellsville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97058"]
+        },
+        {
+            "cityname" : "Connoquenessing",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97059"]
+        },
+        {
+            "cityname" : "Conshohocken",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97060"]
+        },
+        {
+            "cityname" : "Conway",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97061"]
+        },
+        {
+            "cityname" : "Conyngham",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97062"]
+        },
+        {
+            "cityname" : "Coopersburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97063"]
+        },
+        {
+            "cityname" : "Cooperstown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97064"]
+        },
+        {
+            "cityname" : "Coplay",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97065"]
+        },
+        {
+            "cityname" : "Coraopolis",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97066"]
+        },
+        {
+            "cityname" : "Cornwall",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97067"]
+        },
+        {
+            "cityname" : "Corry",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97068"]
+        },
+        {
+            "cityname" : "Corsica",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97069"]
+        },
+        {
+            "cityname" : "Coudersport",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97070"]
+        },
+        {
+            "cityname" : "Crabtree",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97071"]
+        },
+        {
+            "cityname" : "Cranesville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97072"]
+        },
+        {
+            "cityname" : "Creekside",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97073"]
+        },
+        {
+            "cityname" : "Cresson",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97074"]
+        },
+        {
+            "cityname" : "Cressona",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97075"]
+        },
+        {
+            "cityname" : "Croydon",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97076"]
+        },
+        {
+            "cityname" : "Curtisville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97077"]
+        },
+        {
+            "cityname" : "Curwensville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97078"]
+        },
+        {
+            "cityname" : "Daisytown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97079"]
+        },
+        {
+            "cityname" : "Dallas",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97080"]
+        },
+        {
+            "cityname" : "Dallastown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97081"]
+        },
+        {
+            "cityname" : "Dalton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97082"]
+        },
+        {
+            "cityname" : "Danville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97083"]
+        },
+        {
+            "cityname" : "Darby",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97084"]
+        },
+        {
+            "cityname" : "Darlington",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97085"]
+        },
+        {
+            "cityname" : "Dauphin",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97086"]
+        },
+        {
+            "cityname" : "Davidsville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97087"]
+        },
+        {
+            "cityname" : "Dawson",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97088"]
+        },
+        {
+            "cityname" : "Dayton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97089"]
+        },
+        {
+            "cityname" : "Delano",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97090"]
+        },
+        {
+            "cityname" : "Delaware Water Gap",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97091"]
+        },
+        {
+            "cityname" : "Delmont",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97092"]
+        },
+        {
+            "cityname" : "Delta",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97093"]
+        },
+        {
+            "cityname" : "Denver",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97094"]
+        },
+        {
+            "cityname" : "Derry",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97095"]
+        },
+        {
+            "cityname" : "Dickson City",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97096"]
+        },
+        {
+            "cityname" : "Dillsburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97097"]
+        },
+        {
+            "cityname" : "Donora",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97098"]
+        },
+        {
+            "cityname" : "Dover",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97099"]
+        },
+        {
+            "cityname" : "Doylestown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97100"]
+        },
+        {
+            "cityname" : "Dravosburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97101"]
+        },
+        {
+            "cityname" : "Drexel Hill",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97102"]
+        },
+        {
+            "cityname" : "Du Bois",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97103"]
+        },
+        {
+            "cityname" : "Dublin",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97104"]
+        },
+        {
+            "cityname" : "Dunbar",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97105"]
+        },
+        {
+            "cityname" : "Duncannon",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97106"]
+        },
+        {
+            "cityname" : "Duncansville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97107"]
+        },
+        {
+            "cityname" : "Dunlevy",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97108"]
+        },
+        {
+            "cityname" : "Duquesne",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97109"]
+        },
+        {
+            "cityname" : "Duryea",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97110"]
+        },
+        {
+            "cityname" : "Dushore",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97111"]
+        },
+        {
+            "cityname" : "Eagleville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97112"]
+        },
+        {
+            "cityname" : "East Berlin",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97113"]
+        },
+        {
+            "cityname" : "East Brady",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97114"]
+        },
+        {
+            "cityname" : "East Butler",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97115"]
+        },
+        {
+            "cityname" : "East Greenville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97116"]
+        },
+        {
+            "cityname" : "East Mc Keesport",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97117"]
+        },
+        {
+            "cityname" : "East Petersburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97118"]
+        },
+        {
+            "cityname" : "East Pittsburgh",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97119"]
+        },
+        {
+            "cityname" : "East Prospect",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97120"]
+        },
+        {
+            "cityname" : "East Stroudsburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97121"]
+        },
+        {
+            "cityname" : "East Vandergrift",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97122"]
+        },
+        {
+            "cityname" : "Easton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97123"]
+        },
+        {
+            "cityname" : "Eau Claire",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97124"]
+        },
+        {
+            "cityname" : "Ebensburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97125"]
+        },
+        {
+            "cityname" : "Edinboro",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97126"]
+        },
+        {
+            "cityname" : "Elco",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97127"]
+        },
+        {
+            "cityname" : "Elderton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97128"]
+        },
+        {
+            "cityname" : "Eldred",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97129"]
+        },
+        {
+            "cityname" : "Elgin",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97130"]
+        },
+        {
+            "cityname" : "Elizabeth",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97131"]
+        },
+        {
+            "cityname" : "Elizabethtown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97132"]
+        },
+        {
+            "cityname" : "Elizabethville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97133"]
+        },
+        {
+            "cityname" : "Elkland",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97134"]
+        },
+        {
+            "cityname" : "Ellsworth",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97135"]
+        },
+        {
+            "cityname" : "Ellwood City",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97136"]
+        },
+        {
+            "cityname" : "Elysburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97137"]
+        },
+        {
+            "cityname" : "Emigsville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97138"]
+        },
+        {
+            "cityname" : "Emlenton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97139"]
+        },
+        {
+            "cityname" : "Emmaus",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97140"]
+        },
+        {
+            "cityname" : "Emporium",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97141"]
+        },
+        {
+            "cityname" : "Enola",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97142"]
+        },
+        {
+            "cityname" : "Enon Valley",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97143"]
+        },
+        {
+            "cityname" : "Ephrata",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97144"]
+        },
+        {
+            "cityname" : "Erie",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97145"]
+        },
+        {
+            "cityname" : "Ernest",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97146"]
+        },
+        {
+            "cityname" : "Evans City",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97147"]
+        },
+        {
+            "cityname" : "Everett",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97148"]
+        },
+        {
+            "cityname" : "Everson",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97149"]
+        },
+        {
+            "cityname" : "Export",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97150"]
+        },
+        {
+            "cityname" : "Exton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97151"]
+        },
+        {
+            "cityname" : "Factoryville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97152"]
+        },
+        {
+            "cityname" : "Fairchance",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97153"]
+        },
+        {
+            "cityname" : "Fairfield",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97154"]
+        },
+        {
+            "cityname" : "Fairless Hills",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97155"]
+        },
+        {
+            "cityname" : "Fairview",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97156"]
+        },
+        {
+            "cityname" : "Falls Creek",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97157"]
+        },
+        {
+            "cityname" : "Farrell",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97158"]
+        },
+        {
+            "cityname" : "Fawn Grove",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97159"]
+        },
+        {
+            "cityname" : "Fayette City",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97160"]
+        },
+        {
+            "cityname" : "Fayetteville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97161"]
+        },
+        {
+            "cityname" : "Feasterville Trevose",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97162"]
+        },
+        {
+            "cityname" : "Felton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97163"]
+        },
+        {
+            "cityname" : "Ferndale",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97164"]
+        },
+        {
+            "cityname" : "Finleyville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97165"]
+        },
+        {
+            "cityname" : "Fleetwood",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97166"]
+        },
+        {
+            "cityname" : "Flourtown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97167"]
+        },
+        {
+            "cityname" : "Folcroft",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97168"]
+        },
+        {
+            "cityname" : "Folsom",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97169"]
+        },
+        {
+            "cityname" : "Ford City",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97170"]
+        },
+        {
+            "cityname" : "Ford Cliff",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97171"]
+        },
+        {
+            "cityname" : "Forest Grove",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97116"]
+        },
+        {
+            "cityname" : "Forestville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97036"]
+        },
+        {
+            "cityname" : "Fort Washington",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97056"]
+        },
+        {
+            "cityname" : "Foxburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97057"]
+        },
+        {
+            "cityname" : "Frackville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97058"]
+        },
+        {
+            "cityname" : "Franklin",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97059"]
+        },
+        {
+            "cityname" : "Franklintown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97060"]
+        },
+        {
+            "cityname" : "Fredericksburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97061"]
+        },
+        {
+            "cityname" : "Fredericktown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97062"]
+        },
+        {
+            "cityname" : "Fredonia",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97063"]
+        },
+        {
+            "cityname" : "Freeburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97064"]
+        },
+        {
+            "cityname" : "Freedom",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97065"]
+        },
+        {
+            "cityname" : "Freeland",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97066"]
+        },
+        {
+            "cityname" : "Freeport",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97067"]
+        },
+        {
+            "cityname" : "Friedens",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97068"]
+        },
+        {
+            "cityname" : "Friedensburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97069"]
+        },
+        {
+            "cityname" : "Galeton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97070"]
+        },
+        {
+            "cityname" : "Gallitzin",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97071"]
+        },
+        {
+            "cityname" : "Gap",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97072"]
+        },
+        {
+            "cityname" : "Garrett",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97073"]
+        },
+        {
+            "cityname" : "Gastonville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97074"]
+        },
+        {
+            "cityname" : "Gettysburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97075"]
+        },
+        {
+            "cityname" : "Gilberton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97076"]
+        },
+        {
+            "cityname" : "Gilbertsville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97077"]
+        },
+        {
+            "cityname" : "Girard",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97078"]
+        },
+        {
+            "cityname" : "Glassport",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97079"]
+        },
+        {
+            "cityname" : "Glen Campbell",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97080"]
+        },
+        {
+            "cityname" : "Glen Lyon",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97081"]
+        },
+        {
+            "cityname" : "Glen Rock",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97082"]
+        },
+        {
+            "cityname" : "Glenolden",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97083"]
+        },
+        {
+            "cityname" : "Glenside",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97084"]
+        },
+        {
+            "cityname" : "Gordon",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97085"]
+        },
+        {
+            "cityname" : "Grampian",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97086"]
+        },
+        {
+            "cityname" : "Grapeville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97087"]
+        },
+        {
+            "cityname" : "Gratz",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97088"]
+        },
+        {
+            "cityname" : "Great Bend",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97089"]
+        },
+        {
+            "cityname" : "Green Lane",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97090"]
+        },
+        {
+            "cityname" : "Greensburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97091"]
+        },
+        {
+            "cityname" : "Greenville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97092"]
+        },
+        {
+            "cityname" : "Grindstone",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97093"]
+        },
+        {
+            "cityname" : "Grove City",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97094"]
+        },
+        {
+            "cityname" : "Halifax",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97095"]
+        },
+        {
+            "cityname" : "Hallstead",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97096"]
+        },
+        {
+            "cityname" : "Hamburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97097"]
+        },
+        {
+            "cityname" : "Hanover",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97098"]
+        },
+        {
+            "cityname" : "Harleysville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97099"]
+        },
+        {
+            "cityname" : "Harmonsburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97100"]
+        },
+        {
+            "cityname" : "Harmony",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97101"]
+        },
+        {
+            "cityname" : "Harrisburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97102"]
+        },
+        {
+            "cityname" : "Harrisville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97103"]
+        },
+        {
+            "cityname" : "Hartleton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97104"]
+        },
+        {
+            "cityname" : "Hartstown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97105"]
+        },
+        {
+            "cityname" : "Harveys Lake",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97106"]
+        },
+        {
+            "cityname" : "Hastings",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97107"]
+        },
+        {
+            "cityname" : "Hatboro",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97108"]
+        },
+        {
+            "cityname" : "Hatfield",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97109"]
+        },
+        {
+            "cityname" : "Hawley",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97110"]
+        },
+        {
+            "cityname" : "Hawthorn",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97111"]
+        },
+        {
+            "cityname" : "Hazleton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97112"]
+        },
+        {
+            "cityname" : "Heilwood",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97113"]
+        },
+        {
+            "cityname" : "Hellertown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97114"]
+        },
+        {
+            "cityname" : "Herminie",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97115"]
+        },
+        {
+            "cityname" : "Hermitage",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97116"]
+        },
+        {
+            "cityname" : "Herndon",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97117"]
+        },
+        {
+            "cityname" : "Hershey",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97118"]
+        },
+        {
+            "cityname" : "Highspire",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97119"]
+        },
+        {
+            "cityname" : "Hiller",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97120"]
+        },
+        {
+            "cityname" : "Hollidaysburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97121"]
+        },
+        {
+            "cityname" : "Homer City",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97122"]
+        },
+        {
+            "cityname" : "Homestead",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97123"]
+        },
+        {
+            "cityname" : "Honesdale",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97124"]
+        },
+        {
+            "cityname" : "Honey Brook",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97125"]
+        },
+        {
+            "cityname" : "Hooversville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97126"]
+        },
+        {
+            "cityname" : "Hop Bottom",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97127"]
+        },
+        {
+            "cityname" : "Hopewell",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97128"]
+        },
+        {
+            "cityname" : "Hopwood",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97129"]
+        },
+        {
+            "cityname" : "Houston",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97131"]
+        },
+        {
+            "cityname" : "Houtzdale",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97132"]
+        },
+        {
+            "cityname" : "Howard",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97133"]
+        },
+        {
+            "cityname" : "Hughesville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97134"]
+        },
+        {
+            "cityname" : "Hummels Wharf",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97135"]
+        },
+        {
+            "cityname" : "Hummelstown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97136"]
+        },
+        {
+            "cityname" : "Hunker",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97137"]
+        },
+        {
+            "cityname" : "Huntingdon",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97138"]
+        },
+        {
+            "cityname" : "Hyde rk",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97139"]
+        },
+        {
+            "cityname" : "Hyde",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97140"]
+        },
+        {
+            "cityname" : "Hydetown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97141"]
+        },
+        {
+            "cityname" : "Hyndman",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97142"]
+        },
+        {
+            "cityname" : "Imperial",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97143"]
+        },
+        {
+            "cityname" : "Jackson Center",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97144"]
+        },
+        {
+            "cityname" : "Jackson",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97145"]
+        },
+        {
+            "cityname" : "Jamestown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97146"]
+        },
+        {
+            "cityname" : "Jeannette",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97147"]
+        },
+        {
+            "cityname" : "Jefferson",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97148"]
+        },
+        {
+            "cityname" : "Jenkintown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97149"]
+        },
+        {
+            "cityname" : "Jennerstown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97150"]
+        },
+        {
+            "cityname" : "Jermyn",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97151"]
+        },
+        {
+            "cityname" : "Jerome",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97152"]
+        },
+        {
+            "cityname" : "Jersey Shore",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97153"]
+        },
+        {
+            "cityname" : "Jessup",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97154"]
+        },
+        {
+            "cityname" : "Jim Thorpe",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97155"]
+        },
+        {
+            "cityname" : "Johnsonburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97156"]
+        },
+        {
+            "cityname" : "Johnstown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97157"]
+        },
+        {
+            "cityname" : "Jonestown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97158"]
+        },
+        {
+            "cityname" : "Kane",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97159"]
+        },
+        {
+            "cityname" : "King Of Prussia",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97160"]
+        },
+        {
+            "cityname" : "Kingston",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97161"]
+        },
+        {
+            "cityname" : "Kittanning",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97162"]
+        },
+        {
+            "cityname" : "Knox",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97163"]
+        },
+        {
+            "cityname" : "Knoxville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97164"]
+        },
+        {
+            "cityname" : "Koppel",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97165"]
+        },
+        {
+            "cityname" : "Kreamer",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97166"]
+        },
+        {
+            "cityname" : "Kulpmont",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97167"]
+        },
+        {
+            "cityname" : "Kulpsville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97168"]
+        },
+        {
+            "cityname" : "Kutztown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97169"]
+        },
+        {
+            "cityname" : "Laceyville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97170"]
+        },
+        {
+            "cityname" : "Lake City",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97171"]
+        },
+        {
+            "cityname" : "Lancaster",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97172"]
+        },
+        {
+            "cityname" : "Lanesboro",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97173"]
+        },
+        {
+            "cityname" : "Langhorne",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97174"]
+        },
+        {
+            "cityname" : "Lansdale",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97175"]
+        },
+        {
+            "cityname" : "Lansdowne",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97176"]
+        },
+        {
+            "cityname" : "Lansford",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97177"]
+        },
+        {
+            "cityname" : "Laporte",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97178"]
+        },
+        {
+            "cityname" : "Latrobe",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97179"]
+        },
+        {
+            "cityname" : "Lavelle",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97180"]
+        },
+        {
+            "cityname" : "Lawrenceville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97181"]
+        },
+        {
+            "cityname" : "Lawton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97182"]
+        },
+        {
+            "cityname" : "Le Raysville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97183"]
+        },
+        {
+            "cityname" : "Lebanon",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97184"]
+        },
+        {
+            "cityname" : "Leechburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97185"]
+        },
+        {
+            "cityname" : "Leesport",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97186"]
+        },
+        {
+            "cityname" : "Leetsdale",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97187"]
+        },
+        {
+            "cityname" : "Lehighton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97188"]
+        },
+        {
+            "cityname" : "Lemont",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97189"]
+        },
+        {
+            "cityname" : "Lemoyne",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97190"]
+        },
+        {
+            "cityname" : "Levittown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97191"]
+        },
+        {
+            "cityname" : "Lewis Run",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97192"]
+        },
+        {
+            "cityname" : "Lewisberry",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97193"]
+        },
+        {
+            "cityname" : "Lewisburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97194"]
+        },
+        {
+            "cityname" : "Lewistown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97195"]
+        },
+        {
+            "cityname" : "Liberty",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97196"]
+        },
+        {
+            "cityname" : "Light Street",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97197"]
+        },
+        {
+            "cityname" : "Ligonier",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97198"]
+        },
+        {
+            "cityname" : "Lilly",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97199"]
+        },
+        {
+            "cityname" : "Linesville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97200"]
+        },
+        {
+            "cityname" : "Lionville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97201"]
+        },
+        {
+            "cityname" : "Lititz",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97202"]
+        },
+        {
+            "cityname" : "Little Meadows",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97203"]
+        },
+        {
+            "cityname" : "Littlestown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97204"]
+        },
+        {
+            "cityname" : "Lock Haven",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97206"]
+        },
+        {
+            "cityname" : "Loganton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97207"]
+        },
+        {
+            "cityname" : "Loganville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97208"]
+        },
+        {
+            "cityname" : "Loretto",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97209"]
+        },
+        {
+            "cityname" : "Lucernemines",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97210"]
+        },
+        {
+            "cityname" : "Luzerne",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97211"]
+        },
+        {
+            "cityname" : "Lykens",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97212"]
+        },
+        {
+            "cityname" : "Lyon Station",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97213"]
+        },
+        {
+            "cityname" : "Macungie",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97214"]
+        },
+        {
+            "cityname" : "Madison",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97215"]
+        },
+        {
+            "cityname" : "Mahaffey",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97216"]
+        },
+        {
+            "cityname" : "Mahanoy City",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97217"]
+        },
+        {
+            "cityname" : "Malvern",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97218"]
+        },
+        {
+            "cityname" : "Manchester",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97219"]
+        },
+        {
+            "cityname" : "Manheim",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97220"]
+        },
+        {
+            "cityname" : "Manns Choice",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97221"]
+        },
+        {
+            "cityname" : "Manor",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97222"]
+        },
+        {
+            "cityname" : "Mansfield",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97223"]
+        },
+        {
+            "cityname" : "Mapleton Depot",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97224"]
+        },
+        {
+            "cityname" : "Marcus Hook",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97225"]
+        },
+        {
+            "cityname" : "Marianna",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97226"]
+        },
+        {
+            "cityname" : "Marietta",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97227"]
+        },
+        {
+            "cityname" : "Marion Center",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97228"]
+        },
+        {
+            "cityname" : "Marion Heights",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97229"]
+        },
+        {
+            "cityname" : "Markleysburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97230"]
+        },
+        {
+            "cityname" : "Mars",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97231"]
+        },
+        {
+            "cityname" : "Martin",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97232"]
+        },
+        {
+            "cityname" : "Martinsburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97233"]
+        },
+        {
+            "cityname" : "Marysville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97234"]
+        },
+        {
+            "cityname" : "Masontown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97235"]
+        },
+        {
+            "cityname" : "Matamoras",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97236"]
+        },
+        {
+            "cityname" : "Maytown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97237"]
+        },
+        {
+            "cityname" : "Mc Alisterville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97238"]
+        },
+        {
+            "cityname" : "Mc Clure",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97239"]
+        },
+        {
+            "cityname" : "Mc Connellsburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97240"]
+        },
+        {
+            "cityname" : "Mc Donald",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97241"]
+        },
+        {
+            "cityname" : "Mc Ewensville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97242"]
+        },
+        {
+            "cityname" : "Mc Kean",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97243"]
+        },
+        {
+            "cityname" : "Mc Kees Rocks",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97244"]
+        },
+        {
+            "cityname" : "Mc Keesport",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97245"]
+        },
+        {
+            "cityname" : "Mc Sherrystown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97246"]
+        },
+        {
+            "cityname" : "Mc Veytown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97247"]
+        },
+        {
+            "cityname" : "Meadville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97248"]
+        },
+        {
+            "cityname" : "Mechanicsburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97249"]
+        },
+        {
+            "cityname" : "Mechanicsville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97250"]
+        },
+        {
+            "cityname" : "Media",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97251"]
+        },
+        {
+            "cityname" : "Mercer",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97252"]
+        },
+        {
+            "cityname" : "Mercersburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97253"]
+        },
+        {
+            "cityname" : "Meshoppen",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97254"]
+        },
+        {
+            "cityname" : "Mexico",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97255"]
+        },
+        {
+            "cityname" : "Meyersdale",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97256"]
+        },
+        {
+            "cityname" : "Middleburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97257"]
+        },
+        {
+            "cityname" : "Middleport",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97258"]
+        },
+        {
+            "cityname" : "Middletown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97259"]
+        },
+        {
+            "cityname" : "Midland",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97260"]
+        },
+        {
+            "cityname" : "Midway",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97261"]
+        },
+        {
+            "cityname" : "Mifflin",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97262"]
+        },
+        {
+            "cityname" : "Mifflinburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97263"]
+        },
+        {
+            "cityname" : "Mifflintown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97264"]
+        },
+        {
+            "cityname" : "Mifflinville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97265"]
+        },
+        {
+            "cityname" : "Milesburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97266"]
+        },
+        {
+            "cityname" : "Milford",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97267"]
+        },
+        {
+            "cityname" : "Mill Creek",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97268"]
+        },
+        {
+            "cityname" : "Mill Hall",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97269"]
+        },
+        {
+            "cityname" : "Mill Village",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97270"]
+        },
+        {
+            "cityname" : "Millersburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97271"]
+        },
+        {
+            "cityname" : "Millerstown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97272"]
+        },
+        {
+            "cityname" : "Millersville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97273"]
+        },
+        {
+            "cityname" : "Millheim",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97274"]
+        },
+        {
+            "cityname" : "Millville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97275"]
+        },
+        {
+            "cityname" : "Milroy",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97276"]
+        },
+        {
+            "cityname" : "Milton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97277"]
+        },
+        {
+            "cityname" : "Minersville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97278"]
+        },
+        {
+            "cityname" : "Modena",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97279"]
+        },
+        {
+            "cityname" : "Mohnton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97280"]
+        },
+        {
+            "cityname" : "Monaca",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97281"]
+        },
+        {
+            "cityname" : "Monessen",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97282"]
+        },
+        {
+            "cityname" : "Monongahela",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97283"]
+        },
+        {
+            "cityname" : "Monroeville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97284"]
+        },
+        {
+            "cityname" : "Mont Alto",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97285"]
+        },
+        {
+            "cityname" : "Montgomery",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97286"]
+        },
+        {
+            "cityname" : "Montgomeryville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97287"]
+        },
+        {
+            "cityname" : "Montoursville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97288"]
+        },
+        {
+            "cityname" : "Montrose",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97289"]
+        },
+        {
+            "cityname" : "Moosic",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97290"]
+        },
+        {
+            "cityname" : "Morrisville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97291"]
+        },
+        {
+            "cityname" : "Morton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97292"]
+        },
+        {
+            "cityname" : "Moscow",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97293"]
+        },
+        {
+            "cityname" : "Mount Carmel",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97294"]
+        },
+        {
+            "cityname" : "Mount Gretna",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97295"]
+        },
+        {
+            "cityname" : "Mount Holly Springs",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97296"]
+        },
+        {
+            "cityname" : "Mount Jewett",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97297"]
+        },
+        {
+            "cityname" : "Mount Joy",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97298"]
+        },
+        {
+            "cityname" : "Mount Pleasant Mills",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97299"]
+        },
+        {
+            "cityname" : "Mount Pleasant",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97300"]
+        },
+        {
+            "cityname" : "Mount Pocono",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97301"]
+        },
+        {
+            "cityname" : "Mount Union",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97302"]
+        },
+        {
+            "cityname" : "Mount Wolf",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97303"]
+        },
+        {
+            "cityname" : "Mountainhome",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97304"]
+        },
+        {
+            "cityname" : "Mountville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97305"]
+        },
+        {
+            "cityname" : "Muncy",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97306"]
+        },
+        {
+            "cityname" : "Myerstown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97307"]
+        },
+        {
+            "cityname" : "Nanticoke",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97308"]
+        },
+        {
+            "cityname" : "Nanty Glo",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97309"]
+        },
+        {
+            "cityname" : "Narberth",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97310"]
+        },
+        {
+            "cityname" : "Nazareth",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97311"]
+        },
+        {
+            "cityname" : "Nemacolin",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97312"]
+        },
+        {
+            "cityname" : "Nescopeck",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97313"]
+        },
+        {
+            "cityname" : "Nesquehoning",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97314"]
+        },
+        {
+            "cityname" : "New Albany",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97315"]
+        },
+        {
+            "cityname" : "New Alexandria",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97316"]
+        },
+        {
+            "cityname" : "New Berlin",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97317"]
+        },
+        {
+            "cityname" : "New Bethlehem",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97318"]
+        },
+        {
+            "cityname" : "New Brighton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97319"]
+        },
+        {
+            "cityname" : "New Castle",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97320"]
+        },
+        {
+            "cityname" : "New Columbia",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97321"]
+        },
+        {
+            "cityname" : "New Cumberland",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97322"]
+        },
+        {
+            "cityname" : "New Eagle",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97323"]
+        },
+        {
+            "cityname" : "New Florence",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97324"]
+        },
+        {
+            "cityname" : "New Freedom",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97325"]
+        },
+        {
+            "cityname" : "New Galilee",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97326"]
+        },
+        {
+            "cityname" : "New Holland",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97327"]
+        },
+        {
+            "cityname" : "New Hope",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97328"]
+        },
+        {
+            "cityname" : "New Kensington",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97329"]
+        },
+        {
+            "cityname" : "New Kingstown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97330"]
+        },
+        {
+            "cityname" : "New Milford",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97331"]
+        },
+        {
+            "cityname" : "New Oxford",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97332"]
+        },
+        {
+            "cityname" : "New Philadelphia",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97333"]
+        },
+        {
+            "cityname" : "New Ringgold",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97334"]
+        },
+        {
+            "cityname" : "New Salem",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97335"]
+        },
+        {
+            "cityname" : "New Stanton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97336"]
+        },
+        {
+            "cityname" : "New Wilmington",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97337"]
+        },
+        {
+            "cityname" : "Newburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97338"]
+        },
+        {
+            "cityname" : "Newell",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97339"]
+        },
+        {
+            "cityname" : "Newmanstown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97340"]
+        },
+        {
+            "cityname" : "Newport",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97341"]
+        },
+        {
+            "cityname" : "Newry",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97342"]
+        },
+        {
+            "cityname" : "Newton Hamilton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97343"]
+        },
+        {
+            "cityname" : "Newtown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97344"]
+        },
+        {
+            "cityname" : "Newville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97345"]
+        },
+        {
+            "cityname" : "Nicholson",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97346"]
+        },
+        {
+            "cityname" : "Norristown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97347"]
+        },
+        {
+            "cityname" : "North Apollo",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97348"]
+        },
+        {
+            "cityname" : "North East",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97349"]
+        },
+        {
+            "cityname" : "North Wales",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97351"]
+        },
+        {
+            "cityname" : "Northampton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97352"]
+        },
+        {
+            "cityname" : "Northern Cambria",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97353"]
+        },
+        {
+            "cityname" : "Northumberland",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97354"]
+        },
+        {
+            "cityname" : "Norwood",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97355"]
+        },
+        {
+            "cityname" : "Numidia",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97356"]
+        },
+        {
+            "cityname" : "Nuremberg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97357"]
+        },
+        {
+            "cityname" : "Oakdale",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97358"]
+        },
+        {
+            "cityname" : "Oakmont",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97359"]
+        },
+        {
+            "cityname" : "Oil City",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97360"]
+        },
+        {
+            "cityname" : "Old Forge",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97361"]
+        },
+        {
+            "cityname" : "Oliver",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97362"]
+        },
+        {
+            "cityname" : "Olyphant",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97363"]
+        },
+        {
+            "cityname" : "Oneida",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97364"]
+        },
+        {
+            "cityname" : "Orangeville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97365"]
+        },
+        {
+            "cityname" : "Orbisonia",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97366"]
+        },
+        {
+            "cityname" : "Oreland",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97367"]
+        },
+        {
+            "cityname" : "Orrstown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97368"]
+        },
+        {
+            "cityname" : "Orwigsburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97369"]
+        },
+        {
+            "cityname" : "Osceola Mills",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97370"]
+        },
+        {
+            "cityname" : "Oxford",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97371"]
+        },
+        {
+            "cityname" : "Palmerton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97372"]
+        },
+        {
+            "cityname" : "Palmyra",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97373"]
+        },
+        {
+            "cityname" : "Paoli",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97374"]
+        },
+        {
+            "cityname" : "Paradise",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97375"]
+        },
+        {
+            "cityname" : "Parker",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97376"]
+        },
+        {
+            "cityname" : "Parkesburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97377"]
+        },
+        {
+            "cityname" : "Perryville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97378"]
+        },
+        {
+            "cityname" : "Patton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97379"]
+        },
+        {
+            "cityname" : "Paxtonville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97380"]
+        },
+        {
+            "cityname" : "Pen Argyl",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97381"]
+        },
+        {
+            "cityname" : "Penn",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97382"]
+        },
+        {
+            "cityname" : "Penns Creek",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97383"]
+        },
+        {
+            "cityname" : "Pennsburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97384"]
+        },
+        {
+            "cityname" : "Perkasie",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97385"]
+        },
+        {
+            "cityname" : "Perryopolis",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97386"]
+        },
+        {
+            "cityname" : "Petersburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97387"]
+        },
+        {
+            "cityname" : "Petrolia",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97388"]
+        },
+        {
+            "cityname" : "Philadelphia",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97389"]
+        },
+        {
+            "cityname" : "Philipsburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97390"]
+        },
+        {
+            "cityname" : "Phoenixville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97391"]
+        },
+        {
+            "cityname" : "Picture Rocks",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97392"]
+        },
+        {
+            "cityname" : "Pillow",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97393"]
+        },
+        {
+            "cityname" : "Pine Grove Mills",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97394"]
+        },
+        {
+            "cityname" : "Pine Grove",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97395"]
+        },
+        {
+            "cityname" : "Pitcairn",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97396"]
+        },
+        {
+            "cityname" : "Pittsburgh",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97397"]
+        },
+        {
+            "cityname" : "Pittston",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97398"]
+        },
+        {
+            "cityname" : "Plainfield",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97399"]
+        },
+        {
+            "cityname" : "Pleasantville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97400"]
+        },
+        {
+            "cityname" : "Plumville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97401"]
+        },
+        {
+            "cityname" : "Plymouth Meeting",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97402"]
+        },
+        {
+            "cityname" : "Plymouth",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97403"]
+        },
+        {
+            "cityname" : "Pocono Pines",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97404"]
+        },
+        {
+            "cityname" : "Point Marion",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97405"]
+        },
+        {
+            "cityname" : "Polk",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97406"]
+        },
+        {
+            "cityname" : "Port Allegany",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97407"]
+        },
+        {
+            "cityname" : "Port Clinton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97408"]
+        },
+        {
+            "cityname" : "Port Matilda",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97409"]
+        },
+        {
+            "cityname" : "Port Royal",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97410"]
+        },
+        {
+            "cityname" : "Port Trevorton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97411"]
+        },
+        {
+            "cityname" : "Portage",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97412"]
+        },
+        {
+            "cityname" : "Portersville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97413"]
+        },
+        {
+            "cityname" : "Portland",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97414"]
+        },
+        {
+            "cityname" : "Potts Grove",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97415"]
+        },
+        {
+            "cityname" : "Pottstown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97416"]
+        },
+        {
+            "cityname" : "Pottsville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97417"]
+        },
+        {
+            "cityname" : "Prompton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97418"]
+        },
+        {
+            "cityname" : "Prospect Park",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97419"]
+        },
+        {
+            "cityname" : "Prospect",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97420"]
+        },
+        {
+            "cityname" : "Punxsutawney",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97421"]
+        },
+        {
+            "cityname" : "Quakertown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97422"]
+        },
+        {
+            "cityname" : "Quarryville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97423"]
+        },
+        {
+            "cityname" : "Quentin",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97424"]
+        },
+        {
+            "cityname" : "Railroad",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97425"]
+        },
+        {
+            "cityname" : "Ramey",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97426"]
+        },
+        {
+            "cityname" : "Ravine",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97427"]
+        },
+        {
+            "cityname" : "Reading",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97428"]
+        },
+        {
+            "cityname" : "Reamstown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97429"]
+        },
+        {
+            "cityname" : "Rebersburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97430"]
+        },
+        {
+            "cityname" : "Red Hill",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97431"]
+        },
+        {
+            "cityname" : "Red Lion",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97432"]
+        },
+        {
+            "cityname" : "Reedsville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97433"]
+        },
+        {
+            "cityname" : "Renovo",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97434"]
+        },
+        {
+            "cityname" : "Republic",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97435"]
+        },
+        {
+            "cityname" : "Reynoldsville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97436"]
+        },
+        {
+            "cityname" : "Rheems",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97437"]
+        },
+        {
+            "cityname" : "Rices Landing",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97438"]
+        },
+        {
+            "cityname" : "Richboro",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97439"]
+        },
+        {
+            "cityname" : "Richfield",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97440"]
+        },
+        {
+            "cityname" : "Richland",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97441"]
+        },
+        {
+            "cityname" : "Richlandtown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97442"]
+        },
+        {
+            "cityname" : "Ridgway",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97443"]
+        },
+        {
+            "cityname" : "Ridley Park",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97444"]
+        },
+        {
+            "cityname" : "Riegelsville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97445"]
+        },
+        {
+            "cityname" : "Rimersburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97446"]
+        },
+        {
+            "cityname" : "Ringtown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97447"]
+        },
+        {
+            "cityname" : "Riverside",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97448"]
+        },
+        {
+            "cityname" : "Roaring Spring",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97449"]
+        },
+        {
+            "cityname" : "Robesonia",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97450"]
+        },
+        {
+            "cityname" : "Robinson",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97451"]
+        },
+        {
+            "cityname" : "Rochester",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97452"]
+        },
+        {
+            "cityname" : "Rockhill Furnace",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97453"]
+        },
+        {
+            "cityname" : "Rockwood",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97454"]
+        },
+        {
+            "cityname" : "Rome",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97455"]
+        },
+        {
+            "cityname" : "Roscoe",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97456"]
+        },
+        {
+            "cityname" : "Rossiter",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97457"]
+        },
+        {
+            "cityname" : "Rouseville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97458"]
+        },
+        {
+            "cityname" : "Rouzerville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97459"]
+        },
+        {
+            "cityname" : "Royersford",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97460"]
+        },
+        {
+            "cityname" : "Rural Valley",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97461"]
+        },
+        {
+            "cityname" : "Russellton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97462"]
+        },
+        {
+            "cityname" : "Saint Clair",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97463"]
+        },
+        {
+            "cityname" : "Saint Marys",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97464"]
+        },
+        {
+            "cityname" : "Saint Michael",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97465"]
+        },
+        {
+            "cityname" : "Saint Petersburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97466"]
+        },
+        {
+            "cityname" : "Salisbury",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97467"]
+        },
+        {
+            "cityname" : "Saltillo",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97468"]
+        },
+        {
+            "cityname" : "Saltsburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97469"]
+        },
+        {
+            "cityname" : "Sandy Lake",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97470"]
+        },
+        {
+            "cityname" : "Sandy Ridge",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97471"]
+        },
+        {
+            "cityname" : "Saxonburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97472"]
+        },
+        {
+            "cityname" : "Sayre",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97473"]
+        },
+        {
+            "cityname" : "Schaefferstown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97474"]
+        },
+        {
+            "cityname" : "Schellsburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97475"]
+        },
+        {
+            "cityname" : "Schnecksville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97476"]
+        },
+        {
+            "cityname" : "Schuylkill Haven",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97477"]
+        },
+        {
+            "cityname" : "Schwenksville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97478"]
+        },
+        {
+            "cityname" : "Scottdale",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97479"]
+        },
+        {
+            "cityname" : "Scranton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97480"]
+        },
+        {
+            "cityname" : "Selinsgrove",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97481"]
+        },
+        {
+            "cityname" : "Sellersville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97482"]
+        },
+        {
+            "cityname" : "Seltzer",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97483"]
+        },
+        {
+            "cityname" : "Seneca",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97484"]
+        },
+        {
+            "cityname" : "Seven Valleys",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97485"]
+        },
+        {
+            "cityname" : "Seward",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97486"]
+        },
+        {
+            "cityname" : "Sewickley",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97487"]
+        },
+        {
+            "cityname" : "Shamokin Dam",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97488"]
+        },
+        {
+            "cityname" : "Shamokin",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97489"]
+        },
+        {
+            "cityname" : "Shanksville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97490"]
+        },
+        {
+            "cityname" : "Sharon Hill",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97491"]
+        },
+        {
+            "cityname" : "Sharon",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97492"]
+        },
+        {
+            "cityname" : "Sharpsville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97493"]
+        },
+        {
+            "cityname" : "Sheffield",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97494"]
+        },
+        {
+            "cityname" : "Shenandoah",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97495"]
+        },
+        {
+            "cityname" : "Sheppton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97496"]
+        },
+        {
+            "cityname" : "Shickshinny",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97497"]
+        },
+        {
+            "cityname" : "Shippenville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97498"]
+        },
+        {
+            "cityname" : "Shippingport",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97499"]
+        },
+        {
+            "cityname" : "Shoemakersville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97500"]
+        },
+        {
+            "cityname" : "Silverdale",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97501"]
+        },
+        {
+            "cityname" : "Skipck",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97502"]
+        },
+        {
+            "cityname" : "Slatington",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97503"]
+        },
+        {
+            "cityname" : "Slickville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97504"]
+        },
+        {
+            "cityname" : "Sligo",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97505"]
+        },
+        {
+            "cityname" : "Slippery Rock",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97506"]
+        },
+        {
+            "cityname" : "Smethport",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97507"]
+        },
+        {
+            "cityname" : "Smithfield",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97508"]
+        },
+        {
+            "cityname" : "Smithton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97509"]
+        },
+        {
+            "cityname" : "Snow Shoe",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97510"]
+        },
+        {
+            "cityname" : "Snydertown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97511"]
+        },
+        {
+            "cityname" : "Somerset",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97512"]
+        },
+        {
+            "cityname" : "Souderton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97513"]
+        },
+        {
+            "cityname" : "South Fork",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97514"]
+        },
+        {
+            "cityname" : "South Heights",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97515"]
+        },
+        {
+            "cityname" : "South rk",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97516"]
+        },
+        {
+            "cityname" : "Southwest",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97517"]
+        },
+        {
+            "cityname" : "Srtansburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97518"]
+        },
+        {
+            "cityname" : "Spring City",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97519"]
+        },
+        {
+            "cityname" : "Spring Grove",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97520"]
+        },
+        {
+            "cityname" : "Spring House",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97521"]
+        },
+        {
+            "cityname" : "Spring Mills",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97522"]
+        },
+        {
+            "cityname" : "Spring Mount",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97523"]
+        },
+        {
+            "cityname" : "Springboro",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97524"]
+        },
+        {
+            "cityname" : "Springdale",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97525"]
+        },
+        {
+            "cityname" : "Springfield",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97526"]
+        },
+        {
+            "cityname" : "Starrucca",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97527"]
+        },
+        {
+            "cityname" : "State College",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97528"]
+        },
+        {
+            "cityname" : "Stewartstown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97529"]
+        },
+        {
+            "cityname" : "Stockdale",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97530"]
+        },
+        {
+            "cityname" : "Stockertown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97531"]
+        },
+        {
+            "cityname" : "Stoneboro",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97532"]
+        },
+        {
+            "cityname" : "Stoystown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97533"]
+        },
+        {
+            "cityname" : "Strasburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97534"]
+        },
+        {
+            "cityname" : "Strattanville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97535"]
+        },
+        {
+            "cityname" : "Strausstown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97536"]
+        },
+        {
+            "cityname" : "Stroudsburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97537"]
+        },
+        {
+            "cityname" : "Sturgeon",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97538"]
+        },
+        {
+            "cityname" : "Sugar Grove",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97539"]
+        },
+        {
+            "cityname" : "Summerhill",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97540"]
+        },
+        {
+            "cityname" : "Summerville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97541"]
+        },
+        {
+            "cityname" : "Summit Hill",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97542"]
+        },
+        {
+            "cityname" : "Summit Station",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97543"]
+        },
+        {
+            "cityname" : "Sunbury",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97544"]
+        },
+        {
+            "cityname" : "Susquehanna",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97545"]
+        },
+        {
+            "cityname" : "Sutersville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97546"]
+        },
+        {
+            "cityname" : "Swarthmore",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97547"]
+        },
+        {
+            "cityname" : "Sykesville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97548"]
+        },
+        {
+            "cityname" : "Tamaqua",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97549"]
+        },
+        {
+            "cityname" : "Tarentum",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97550"]
+        },
+        {
+            "cityname" : "Tatamy",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97551"]
+        },
+        {
+            "cityname" : "Taylor",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97552"]
+        },
+        {
+            "cityname" : "Telford",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97553"]
+        },
+        {
+            "cityname" : "Terre Hill",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97554"]
+        },
+        {
+            "cityname" : "Thompson",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97555"]
+        },
+        {
+            "cityname" : "Thompsontown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97556"]
+        },
+        {
+            "cityname" : "Three Springs",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97557"]
+        },
+        {
+            "cityname" : "Tidioute",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97558"]
+        },
+        {
+            "cityname" : "Tioga",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97559"]
+        },
+        {
+            "cityname" : "Tionesta",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97560"]
+        },
+        {
+            "cityname" : "Tipton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97561"]
+        },
+        {
+            "cityname" : "Titusville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97562"]
+        },
+        {
+            "cityname" : "Topton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97563"]
+        },
+        {
+            "cityname" : "Toughkenamon",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97564"]
+        },
+        {
+            "cityname" : "Towanda",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97565"]
+        },
+        {
+            "cityname" : "Tower City",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97566"]
+        },
+        {
+            "cityname" : "Townville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97567"]
+        },
+        {
+            "cityname" : "Trafford",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97568"]
+        },
+        {
+            "cityname" : "Tremont",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97569"]
+        },
+        {
+            "cityname" : "Tresckow",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97570"]
+        },
+        {
+            "cityname" : "Trevorton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97571"]
+        },
+        {
+            "cityname" : "Troutville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97572"]
+        },
+        {
+            "cityname" : "Troy",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97573"]
+        },
+        {
+            "cityname" : "Trumbauersville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97574"]
+        },
+        {
+            "cityname" : "Tunkhannock",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97575"]
+        },
+        {
+            "cityname" : "Turbotville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97576"]
+        },
+        {
+            "cityname" : "Turtle Creek",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97577"]
+        },
+        {
+            "cityname" : "Tuscarora",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97578"]
+        },
+        {
+            "cityname" : "Tyrone",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97579"]
+        },
+        {
+            "cityname" : "Ulysses",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97580"]
+        },
+        {
+            "cityname" : "Union City",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97581"]
+        },
+        {
+            "cityname" : "Union Dale",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97582"]
+        },
+        {
+            "cityname" : "Uniontown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97058"]
+        },
+        {
+            "cityname" : "Ursina",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97059"]
+        },
+        {
+            "cityname" : "Utica",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97060"]
+        },
+        {
+            "cityname" : "Valencia",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97061"]
+        },
+        {
+            "cityname" : "Valley View",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97062"]
+        },
+        {
+            "cityname" : "Vanderbilt",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97063"]
+        },
+        {
+            "cityname" : "Vandergrift",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97064"]
+        },
+        {
+            "cityname" : "Venango",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97065"]
+        },
+        {
+            "cityname" : "Verona",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97066"]
+        },
+        {
+            "cityname" : "Vintondale",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97067"]
+        },
+        {
+            "cityname" : "Wallaceton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97068"]
+        },
+        {
+            "cityname" : "Walnutport",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97069"]
+        },
+        {
+            "cityname" : "Wampum",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97070"]
+        },
+        {
+            "cityname" : "Warminster",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97071"]
+        },
+        {
+            "cityname" : "Warren",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97072"]
+        },
+        {
+            "cityname" : "Washington",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97073"]
+        },
+        {
+            "cityname" : "Washingtonville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97074"]
+        },
+        {
+            "cityname" : "Waterford",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97075"]
+        },
+        {
+            "cityname" : "Watsontown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97076"]
+        },
+        {
+            "cityname" : "Wattsburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97077"]
+        },
+        {
+            "cityname" : "Waymart",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97078"]
+        },
+        {
+            "cityname" : "Wayne",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97079"]
+        },
+        {
+            "cityname" : "Waynesboro",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97080"]
+        },
+        {
+            "cityname" : "Waynesburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97081"]
+        },
+        {
+            "cityname" : "Weatherly",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97082"]
+        },
+        {
+            "cityname" : "Wellsboro",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97083"]
+        },
+        {
+            "cityname" : "Wellsville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97084"]
+        },
+        {
+            "cityname" : "Wernersville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97085"]
+        },
+        {
+            "cityname" : "West Alexander",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97086"]
+        },
+        {
+            "cityname" : "West Chester",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97087"]
+        },
+        {
+            "cityname" : "West Elizabeth",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97088"]
+        },
+        {
+            "cityname" : "West Grove",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97089"]
+        },
+        {
+            "cityname" : "West Middlesex",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97090"]
+        },
+        {
+            "cityname" : "West Mifflin",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97091"]
+        },
+        {
+            "cityname" : "West Newton",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97092"]
+        },
+        {
+            "cityname" : "Westfield",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97093"]
+        },
+        {
+            "cityname" : "Westover",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97094"]
+        },
+        {
+            "cityname" : "Wheatland",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97095"]
+        },
+        {
+            "cityname" : "White Haven",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97096"]
+        },
+        {
+            "cityname" : "White",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97097"]
+        },
+        {
+            "cityname" : "Whitehall",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97098"]
+        },
+        {
+            "cityname" : "Wilkes Barre",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97099"]
+        },
+        {
+            "cityname" : "Williamsburg",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97100"]
+        },
+        {
+            "cityname" : "Williamsport",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97101"]
+        },
+        {
+            "cityname" : "Williamstown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97102"]
+        },
+        {
+            "cityname" : "Willow Grove",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97103"]
+        },
+        {
+            "cityname" : "Willow Street",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97104"]
+        },
+        {
+            "cityname" : "Wilmerding",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97105"]
+        },
+        {
+            "cityname" : "Wilmore",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97106"]
+        },
+        {
+            "cityname" : "Wind Gap",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97107"]
+        },
+        {
+            "cityname" : "Windber",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97108"]
+        },
+        {
+            "cityname" : "Windsor",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97109"]
+        },
+        {
+            "cityname" : "Womelsdorf",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97110"]
+        },
+        {
+            "cityname" : "Wood",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97111"]
+        },
+        {
+            "cityname" : "Woodbury",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97112"]
+        },
+        {
+            "cityname" : "Woodland",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97113"]
+        },
+        {
+            "cityname" : "Woodlyn",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97114"]
+        },
+        {
+            "cityname" : "Worthington",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97115"]
+        },
+        {
+            "cityname" : "Wrightsville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97116"]
+        },
+        {
+            "cityname" : "Wyalusing",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97117"]
+        },
+        {
+            "cityname" : "Wyncote",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97118"]
+        },
+        {
+            "cityname" : "Wyoming",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97119"]
+        },
+        {
+            "cityname" : "Yeagertown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97120"]
+        },
+        {
+            "cityname" : "York Haven",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97121"]
+        },
+        {
+            "cityname" : "York Springs",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97122"]
+        },
+        {
+            "cityname" : "York",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97123"]
+        },
+        {
+            "cityname" : "Youngstown",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97124"]
+        },
+        {
+            "cityname" : "Youngsville",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97125"]
+        },
+        {
+            "cityname" : "Youngwood",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97126"]
+        },
+        {
+            "cityname" : "Zelienople",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97127"]
+        },
+        {
+            "cityname" : "Zion Grove",
+            "areacodes" : ["503", "971"],
+            "zipcodes" : ["97128"]
+        }
+    ]
+}

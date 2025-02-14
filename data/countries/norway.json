@@ -1,102 +1,1675 @@
 {
-    "streetNames": [
-        "Karl Johans Gate",
-        "Dronning Eufemias Gate",
-        "Akersgata",
-        "Torggata",
-        "Storgata",
-        "Grensen",
-        "Øvre Slottsgate",
-        "Bislettgata",
-        "Frognerveien",
-        "Sørkedalsveien",
-        "Kirkegata",
-        "Rosenkrantz' Gate",
-        "Bergenhusveien",
-        "Tonsbergveien",
-        "Solli Plass",
-        "Nygata",
-        "Østervoldgata",
-        "Lille Grensen",
-        "Jernbanetorget",
-        "Hammersborggata"
+  "countrycode": "+47",
+  "phoneformat": "(A) XXXX XXXX",
+  "country": "Norway",
+  "neighborhoods": {
+    "corporate": [
+      "Oslo City Center",
+      "Bergen Business District",
+      "Stavanger Corporate Zone",
+      "Drammen Central",
+      "Trondheim Business Area",
+      "Kristiansand Corporate District",
+      "Bodø Business District",
+      "Alesund Central Business Zone",
+      "Tromsø Business District",
+      "Dåfjord Business Area",
+      "Sandnes Business District",
+      "Haugesund Business Hub",
+      "Molde Corporate Area",
+      "Sarpsborg Central",
+      "Sandefjord Business District",
+      "Lillestrøm Business Zone",
+      "Skien Corporate District",
+      "Hamar Business Area",
+      "Ålesund City Center",
+      "Larvik Corporate Zone",
+      "Stavanger Central",
+      "Oslo Central Business District",
+      "Fredrikstad Corporate Area",
+      "Bergen Central Business Zone",
+      "Tønsberg Business District",
+      "Gjøvik Business Hub",
+      "Halden Corporate District",
+      "Horten Business Area",
+      "Porsgrunn Central",
+      "Kongsberg Corporate Area",
+      "Oslo Business Center",
+      "Åndalsnes Corporate District",
+      "Vennesla Business Area",
+      "Gjøvik Central",
+      "Mo i Rana Business District",
+      "Hønefoss Business Zone",
+      "Lillestrøm City Center",
+      "Kristiansund Corporate Area",
+      "Horten Central Business District",
+      "Elverum Business District",
+      "Lørenskog Corporate Zone",
+      "Skien City Center",
+      "Asker Corporate District",
+      "Tromsø City Center",
+      "Moss Business Zone"
     ],
-    "streetNumbers": [
-        "101",
-        "202",
-        "303",
-        "404",
-        "505",
-        "606",
-        "707",
-        "808",
-        "909",
-        "1234",
-        "4321",
-        "5678",
-        "6789",
-        "7890",
-        "8901",
-        "2345",
-        "3456",
-        "4567",
-        "5670",
-        "6781"
+    "industrial": [
+      "Oslo Industrial Park",
+      "Bergen Industrial Zone",
+      "Stavanger Industrial Area",
+      "Drammen Industrial Zone",
+      "Trondheim Industrial District",
+      "Kristiansand Industrial Area",
+      "Bodø Industrial Park",
+      "Alesund Industrial Zone",
+      "Tromsø Industrial Park",
+      "Sandnes Industrial Zone",
+      "Haugesund Industrial Area",
+      "Molde Industrial Park",
+      "Sarpsborg Industrial Zone",
+      "Sandefjord Industrial District",
+      "Lillestrøm Industrial Park",
+      "Skien Industrial Zone",
+      "Hamar Industrial Area",
+      "Larvik Industrial Park",
+      "Stavanger Free Zone",
+      "Oslo Free Trade Zone",
+      "Fredrikstad Industrial Zone",
+      "Bergen Free Trade Zone",
+      "Tønsberg Industrial Park",
+      "Gjøvik Industrial Zone",
+      "Halden Industrial Park",
+      "Horten Industrial District",
+      "Porsgrunn Industrial Zone",
+      "Kongsberg Industrial Park",
+      "Oslo East Industrial Area",
+      "Åndalsnes Industrial Zone",
+      "Vennesla Industrial Park",
+      "Mo i Rana Industrial Zone",
+      "Hønefoss Industrial Park",
+      "Lillestrøm Industrial District",
+      "Kristiansund Industrial Area",
+      "Horten Industrial Park",
+      "Elverum Industrial Zone",
+      "Lørenskog Industrial District",
+      "Skien Industrial Complex",
+      "Asker Industrial Zone",
+      "Tromsø Free Zone",
+      "Moss Industrial Park",
+      "Ålesund Free Trade Zone"
     ],
-    "cities": [
-        "Oslo",
-        "Bergen",
-        "Stavanger",
-        "Drammen",
-        "Trondheim",
-        "Kristiansand",
-        "Fredrikstad",
-        "Düden",
-        "Haugesund",
-        "Sandnes",
-        "Tromsø",
-        "Bodø",
-        "Moss",
-        "Larvik",
-        "Skien",
-        "Arendal",
-        "Porsgrunn",
-        "Hamar",
-        "Gjøvik",
-        "Kongsberg"
-    ],
-    "states": [
-        "Oslo",
-        "Viken",
-        "Vestland",
-        "Agder",
-        "Rogaland",
-        "Trøndelag",
-        "Møre og Romsdal",
-        "Nordland",
-        "Innlandet",
-        "Troms og Finnmark"
-    ],
-    "zipCodes": [
-        "0151",
-        "5000",
-        "7011",
-        "6001",
-        "9000",
-        "0101",
-        "1600",
-        "3200",
-        "9001",
-        "3000",
-        "1000",
-        "2000",
-        "7000",
-        "4000",
-        "8000",
-        "1300",
-        "2500",
-        "2900",
-        "0800",
-        "2400"
+    "residential": [
+      "Oslo",
+      "Bergen",
+      "Stavanger",
+      "Drammen",
+      "Trondheim",
+      "Kristiansand",
+      "Bodø",
+      "Alesund",
+      "Tromsø",
+      "Sandnes",
+      "Haugesund",
+      "Molde",
+      "Sarpsborg",
+      "Sandefjord",
+      "Lillestrøm",
+      "Skien",
+      "Hamar",
+      "Ålesund City",
+      "Larvik",
+      "Stavanger City",
+      "Oslo West",
+      "Fredrikstad",
+      "Bergen City",
+      "Tønsberg",
+      "Gjøvik",
+      "Halden",
+      "Horten",
+      "Porsgrunn",
+      "Kongsberg",
+      "Mo i Rana",
+      "Hønefoss",
+      "Lillestrøm City",
+      "Kristiansund",
+      "Horten City",
+      "Elverum",
+      "Lørenskog",
+      "Skien City",
+      "Asker",
+      "Tromsø City",
+      "Moss",
+      "Åndalsnes",
+      "Vennesla",
+      "Gjøvik City",
+      "Fredrikstad City",
+      "Kongsberg City",
+      "Halden City",
+      "Sandnes City",
+      "Sarpsborg City",
+      "Haugesund City",
+      "Bodø City",
+      "Kristiansund City"
     ]
+  },
+  "streetnames": {
+    "corporate": [
+      "Karl Johans Gate",
+      "Akersgata",
+      "Østre Aker vei",
+      "Grensen",
+      "Lilleakerveien",
+      "Dronningens Gate",
+      "Stortingsgata",
+      "Torggata",
+      "Ruseløkka",
+      "Biskop Gunnerus gate",
+      "Bygdøy allé",
+      "Sinsenveien",
+      "Universitetsgata",
+      "Sørkedalsveien",
+      "Kirkegata",
+      "Peder Clouet Street",
+      "Rosenkrantzgate",
+      "Holbergs gate",
+      "Majorstuen",
+      "Kongens gate",
+      "Nylandsveien",
+      "Vigelandsveien",
+      "Ekebergveien",
+      "Skippergata",
+      "Frognerveien",
+      "Grønland",
+      "Bjølsen",
+      "Ullevål",
+      "Bislett",
+      "Lillegrensen",
+      "Stensberggata",
+      "Sørenga",
+      "Ekebergveien",
+      "Hegdehaugsveien",
+      "Brynsveien",
+      "Nedre Slottsgate",
+      "Thunes gate",
+      "Tøyenveien",
+      "Jernbanetorget",
+      "Slemdalsveien",
+      "St. Olavs gate",
+      "Torggata 8",
+      "Sagene"
+    ],
+    "industrial": [
+      "Lørenskogveien",
+      "Alnabruveien",
+      "Osloveien",
+      "Vormedalsveien",
+      "Skallevoldveien",
+      "Høgda Industrivei",
+      "Skredderbakken",
+      "Stenbakkveien",
+      "Lillehammersveien",
+      "Vassfaret Industrivei",
+      "Bygdøyveien",
+      "Jønsbergveien",
+      "Sandefjordveien",
+      "Haugerudveien",
+      "Osloveien Sør",
+      "Lillestrømveien",
+      "Skeidarveien",
+      "Frysjaveien",
+      "Nedre Storgate",
+      "Torgveien",
+      "Fagerborgveien",
+      "Olav Tryggvasonsgate",
+      "Olufsgate",
+      "Aker Brygge",
+      "Leirveien",
+      "Skovveien",
+      "Brakerøya",
+      "Hagaløkka Industrivei",
+      "Sørhaugveien",
+      "Ekeberg Industrivei",
+      "Gjerdrumsveien",
+      "Nordveien",
+      "Peder Claussensgate",
+      "Ullernveien",
+      "Kongens gate",
+      "Skogveien",
+      "Enebakken",
+      "Rikshospitalveien",
+      "Galtenveien",
+      "Blomsterdalenveien",
+      "Nittedalsveien"
+    ],
+    "residential": [
+      "Skovveien",
+      "Bygdøyveien",
+      "Storgata",
+      "Nordre gate",
+      "Vogtsgate",
+      "Rådhusgata",
+      "Holbergs gate",
+      "Ekebergveien",
+      "Kirkegata",
+      "Bjerkeveien",
+      "Osloveien",
+      "Hoffveien",
+      "Grønland",
+      "Kongeriketveien",
+      "Kristian IVs gate",
+      "Torggata",
+      "Bakken",
+      "Rådhusplassen",
+      "Østre Aker vei",
+      "Sørkedalsveien",
+      "Sagene",
+      "Majorstuveien",
+      "Alfheimveien",
+      "Ullevålsveien",
+      "Grensen",
+      "Ekebergveien 12",
+      "Lillestrømveien",
+      "Løvenskioldveien",
+      "Skøyenveien",
+      "Kongensgate",
+      "Karl Johans gate",
+      "Bjerkeveien",
+      "Mølndalsveien",
+      "Trondheimsgate",
+      "Korsgata",
+      "Gulskogenveien",
+      "Kaffegaten",
+      "Krusenstjerneveien",
+      "Lillehammerveien",
+      "Nordre gate",
+      "Holbergs gate",
+      "Rodeløkka"
+    ]
+  },
+  "counties": {
+    "Agder": {
+      "cities": [
+        {
+          "cityname": "Kristiansand",
+          "zipcodes": [
+            "4601",
+            "4602",
+            "4603",
+            "4604",
+            "4605"
+          ],
+          "areacodes": [
+            "38"
+          ]
+        },
+        {
+          "cityname": "Arendal",
+          "zipcodes": [
+            "4836",
+            "4837",
+            "4838",
+            "4839",
+            "4840"
+          ],
+          "areacodes": [
+            "37"
+          ]
+        },
+        {
+          "cityname": "Farsund",
+          "zipcodes": [
+            "4550",
+            "4551",
+            "4552",
+            "4553",
+            "4554"
+          ],
+          "areacodes": [
+            "38"
+          ]
+        },
+        {
+          "cityname": "Lillesand",
+          "zipcodes": [
+            "4790",
+            "4791",
+            "4792",
+            "4793",
+            "4794"
+          ],
+          "areacodes": [
+            "38"
+          ]
+        },
+        {
+          "cityname": "Grimstad",
+          "zipcodes": [
+            "4870",
+            "4871",
+            "4872",
+            "4873",
+            "4874"
+          ],
+          "areacodes": [
+            "38"
+          ]
+        },
+        {
+          "cityname": "Mandal",
+          "zipcodes": [
+            "4514",
+            "4515",
+            "4516",
+            "4517",
+            "4518"
+          ],
+          "areacodes": [
+            "38"
+          ]
+        },
+        {
+          "cityname": "Vennesla",
+          "zipcodes": [
+            "4700",
+            "4701",
+            "4702",
+            "4703",
+            "4704"
+          ],
+          "areacodes": [
+            "38"
+          ]
+        },
+        {
+          "cityname": "Flekkefjord",
+          "zipcodes": [
+            "4400",
+            "4401",
+            "4402",
+            "4403",
+            "4404"
+          ],
+          "areacodes": [
+            "38"
+          ]
+        },
+        {
+          "cityname": "Risør",
+          "zipcodes": [
+            "4950",
+            "4951",
+            "4952",
+            "4953",
+            "4954"
+          ],
+          "areacodes": [
+            "37"
+          ]
+        },
+        {
+          "cityname": "Byglandsfjord",
+          "zipcodes": [
+            "4743",
+            "4744",
+            "4745",
+            "4746",
+            "4747"
+          ],
+          "areacodes": [
+            "38"
+          ]
+        }
+      ],
+      "name": "Agder"
+    },
+    "Innlandet": {
+      "cities": [
+        {
+          "cityname": "Hamar",
+          "zipcodes": [
+            "2301",
+            "2302",
+            "2303",
+            "2304",
+            "2305"
+          ],
+          "areacodes": [
+            "62"
+          ]
+        },
+        {
+          "cityname": "Gjøvik",
+          "zipcodes": [
+            "2821",
+            "2822",
+            "2823",
+            "2824",
+            "2825"
+          ],
+          "areacodes": [
+            "61"
+          ]
+        },
+        {
+          "cityname": "Lillehammer",
+          "zipcodes": [
+            "2601",
+            "2602",
+            "2603",
+            "2604",
+            "2605"
+          ],
+          "areacodes": [
+            "61"
+          ]
+        },
+        {
+          "cityname": "Kongsvinger",
+          "zipcodes": [
+            "2213",
+            "2214",
+            "2215",
+            "2216",
+            "2217"
+          ],
+          "areacodes": [
+            "62"
+          ]
+        },
+        {
+          "cityname": "Rena",
+          "zipcodes": [
+            "2450",
+            "2451",
+            "2452",
+            "2453",
+            "2454"
+          ],
+          "areacodes": [
+            "62"
+          ]
+        },
+        {
+          "cityname": "Elverum",
+          "zipcodes": [
+            "2401",
+            "2402",
+            "2403",
+            "2404",
+            "2405"
+          ],
+          "areacodes": [
+            "62"
+          ]
+        },
+        {
+          "cityname": "Trysil",
+          "zipcodes": [
+            "2420",
+            "2421",
+            "2422",
+            "2423",
+            "2424"
+          ],
+          "areacodes": [
+            "62"
+          ]
+        },
+        {
+          "cityname": "Løten",
+          "zipcodes": [
+            "2325",
+            "2326",
+            "2327",
+            "2328",
+            "2329"
+          ],
+          "areacodes": [
+            "62"
+          ]
+        },
+        {
+          "cityname": "Ringebu",
+          "zipcodes": [
+            "2630",
+            "2631",
+            "2632",
+            "2633",
+            "2634"
+          ],
+          "areacodes": [
+            "61"
+          ]
+        },
+        {
+          "cityname": "Sør-Fron",
+          "zipcodes": [
+            "2647",
+            "2648",
+            "2649",
+            "2650",
+            "2651"
+          ],
+          "areacodes": [
+            "61"
+          ]
+        }
+      ],
+      "name": "Innlandet"
+    },
+    "Møre og Romsdal": {
+      "cities": [
+        {
+          "cityname": "Ålesund",
+          "zipcodes": [
+            "6001",
+            "6002",
+            "6003",
+            "6004",
+            "6005"
+          ],
+          "areacodes": [
+            "70"
+          ]
+        },
+        {
+          "cityname": "Molde",
+          "zipcodes": [
+            "6410",
+            "6411",
+            "6412",
+            "6413",
+            "6414"
+          ],
+          "areacodes": [
+            "71"
+          ]
+        },
+        {
+          "cityname": "Volda",
+          "zipcodes": [
+            "6100",
+            "6101",
+            "6102",
+            "6103",
+            "6104"
+          ],
+          "areacodes": [
+            "70"
+          ]
+        },
+        {
+          "cityname": "Kristiansund",
+          "zipcodes": [
+            "6501",
+            "6502",
+            "6503",
+            "6504",
+            "6505"
+          ],
+          "areacodes": [
+            "71"
+          ]
+        },
+        {
+          "cityname": "Ørsta",
+          "zipcodes": [
+            "6150",
+            "6151",
+            "6152",
+            "6153",
+            "6154"
+          ],
+          "areacodes": [
+            "70"
+          ]
+        },
+        {
+          "cityname": "Sunndalsøra",
+          "zipcodes": [
+            "6600",
+            "6601",
+            "6602",
+            "6603",
+            "6604"
+          ],
+          "areacodes": [
+            "71"
+          ]
+        },
+        {
+          "cityname": "Haram",
+          "zipcodes": [
+            "6270",
+            "6271",
+            "6272",
+            "6273",
+            "6274"
+          ],
+          "areacodes": [
+            "70"
+          ]
+        },
+        {
+          "cityname": "Sula",
+          "zipcodes": [
+            "6030",
+            "6031",
+            "6032",
+            "6033",
+            "6034"
+          ],
+          "areacodes": [
+            "70"
+          ]
+        },
+        {
+          "cityname": "Stranda",
+          "zipcodes": [
+            "6200",
+            "6201",
+            "6202",
+            "6203",
+            "6204"
+          ],
+          "areacodes": [
+            "70"
+          ]
+        },
+        {
+          "cityname": "Eide",
+          "zipcodes": [
+            "6490",
+            "6491",
+            "6492",
+            "6493",
+            "6494"
+          ],
+          "areacodes": [
+            "71"
+          ]
+        }
+      ],
+      "name": "Møre og Romsdal"
+    },
+    "Nordland": {
+      "cities": [
+        {
+          "cityname": "Bodø",
+          "zipcodes": [
+            "8001",
+            "8002",
+            "8003",
+            "8004",
+            "8005"
+          ],
+          "areacodes": [
+            "75"
+          ]
+        },
+        {
+          "cityname": "Mo i Rana",
+          "zipcodes": [
+            "8601",
+            "8602",
+            "8603",
+            "8604",
+            "8605"
+          ],
+          "areacodes": [
+            "75"
+          ]
+        },
+        {
+          "cityname": "Vesterålen",
+          "zipcodes": [
+            "8400",
+            "8401",
+            "8402",
+            "8403",
+            "8404"
+          ],
+          "areacodes": [
+            "75"
+          ]
+        },
+        {
+          "cityname": "Narvik",
+          "zipcodes": [
+            "8514",
+            "8515",
+            "8516",
+            "8517",
+            "8518"
+          ],
+          "areacodes": [
+            "76"
+          ]
+        },
+        {
+          "cityname": "Lofoten",
+          "zipcodes": [
+            "8360",
+            "8361",
+            "8362",
+            "8363",
+            "8364"
+          ],
+          "areacodes": [
+            "76"
+          ]
+        },
+        {
+          "cityname": "Rana",
+          "zipcodes": [
+            "8601",
+            "8602",
+            "8603",
+            "8604",
+            "8605"
+          ],
+          "areacodes": [
+            "75"
+          ]
+        },
+        {
+          "cityname": "Sortland",
+          "zipcodes": [
+            "8400",
+            "8401",
+            "8402",
+            "8403",
+            "8404"
+          ],
+          "areacodes": [
+            "76"
+          ]
+        },
+        {
+          "cityname": "Svolvær",
+          "zipcodes": [
+            "8300",
+            "8301",
+            "8302",
+            "8303",
+            "8304"
+          ],
+          "areacodes": [
+            "76"
+          ]
+        },
+        {
+          "cityname": "Fauske",
+          "zipcodes": [
+            "8200",
+            "8201",
+            "8202",
+            "8203",
+            "8204"
+          ],
+          "areacodes": [
+            "75"
+          ]
+        },
+        {
+          "cityname": "Hamarøy",
+          "zipcodes": [
+            "8260",
+            "8261",
+            "8262",
+            "8263",
+            "8264"
+          ],
+          "areacodes": [
+            "75"
+          ]
+        }
+      ],
+      "name": "Nordland"
+    },
+    "Oslo": {
+      "cities": [
+        {
+          "cityname": "Oslo",
+          "zipcodes": [
+            "0101",
+            "0102",
+            "0103",
+            "0104",
+            "0105"
+          ],
+          "areacodes": [
+            "22"
+          ]
+        }
+      ],
+      "name": "Oslo"
+    },
+    "Rogaland": {
+      "cities": [
+        {
+          "cityname": "Stavanger",
+          "zipcodes": [
+            "4001",
+            "4002",
+            "4003",
+            "4004",
+            "4005"
+          ],
+          "areacodes": [
+            "51"
+          ]
+        },
+        {
+          "cityname": "Sandnes",
+          "zipcodes": [
+            "4301",
+            "4302",
+            "4303",
+            "4304",
+            "4305"
+          ],
+          "areacodes": [
+            "51"
+          ]
+        },
+        {
+          "cityname": "Egersund",
+          "zipcodes": [
+            "4370",
+            "4371",
+            "4372",
+            "4373",
+            "4374"
+          ],
+          "areacodes": [
+            "51"
+          ]
+        },
+        {
+          "cityname": "Karmøy",
+          "zipcodes": [
+            "4250",
+            "4251",
+            "4252",
+            "4253",
+            "4254"
+          ],
+          "areacodes": [
+            "52"
+          ]
+        },
+        {
+          "cityname": "Haugesund",
+          "zipcodes": [
+            "5521",
+            "5522",
+            "5523",
+            "5524",
+            "5525"
+          ],
+          "areacodes": [
+            "52"
+          ]
+        },
+        {
+          "cityname": "Sola",
+          "zipcodes": [
+            "4050",
+            "4051",
+            "4052",
+            "4053",
+            "4054"
+          ],
+          "areacodes": [
+            "51"
+          ]
+        },
+        {
+          "cityname": "Bokn",
+          "zipcodes": [
+            "4160",
+            "4161",
+            "4162",
+            "4163",
+            "4164"
+          ],
+          "areacodes": [
+            "52"
+          ]
+        },
+        {
+          "cityname": "Randaberg",
+          "zipcodes": [
+            "4070",
+            "4071",
+            "4072",
+            "4073",
+            "4074"
+          ],
+          "areacodes": [
+            "51"
+          ]
+        },
+        {
+          "cityname": "Gjesdal",
+          "zipcodes": [
+            "4330",
+            "4331",
+            "4332",
+            "4333",
+            "4334"
+          ],
+          "areacodes": [
+            "51"
+          ]
+        },
+        {
+          "cityname": "Time",
+          "zipcodes": [
+            "4340",
+            "4341",
+            "4342",
+            "4343",
+            "4344"
+          ],
+          "areacodes": [
+            "51"
+          ]
+        }
+      ],
+      "name": "Rogaland"
+    },
+    "Viken": {
+      "cities": [
+        {
+          "cityname": "Drammen",
+          "zipcodes": [
+            "3001",
+            "3002",
+            "3003",
+            "3004",
+            "3005"
+          ],
+          "areacodes": [
+            "32"
+          ]
+        },
+        {
+          "cityname": "Fredrikstad",
+          "zipcodes": [
+            "1601",
+            "1602",
+            "1603",
+            "1604",
+            "1605"
+          ],
+          "areacodes": [
+            "69"
+          ]
+        },
+        {
+          "cityname": "Asker",
+          "zipcodes": [
+            "1381",
+            "1382",
+            "1383",
+            "1384",
+            "1385"
+          ],
+          "areacodes": [
+            "32"
+          ]
+        },
+        {
+          "cityname": "Bærum",
+          "zipcodes": [
+            "1351",
+            "1352",
+            "1353",
+            "1354",
+            "1355"
+          ],
+          "areacodes": [
+            "67"
+          ]
+        },
+        {
+          "cityname": "Lillestrøm",
+          "zipcodes": [
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005"
+          ],
+          "areacodes": [
+            "63"
+          ]
+        },
+        {
+          "cityname": "Kongsberg",
+          "zipcodes": [
+            "3601",
+            "3602",
+            "3603",
+            "3604",
+            "3605"
+          ],
+          "areacodes": [
+            "32"
+          ]
+        },
+        {
+          "cityname": "Moss",
+          "zipcodes": [
+            "1501",
+            "1502",
+            "1503",
+            "1504",
+            "1505"
+          ],
+          "areacodes": [
+            "69"
+          ]
+        },
+        {
+          "cityname": "Hønefoss",
+          "zipcodes": [
+            "3510",
+            "3511",
+            "3512",
+            "3513",
+            "3514"
+          ],
+          "areacodes": [
+            "32"
+          ]
+        },
+        {
+          "cityname": "Sarpsborg",
+          "zipcodes": [
+            "1701",
+            "1702",
+            "1703",
+            "1704",
+            "1705"
+          ],
+          "areacodes": [
+            "69"
+          ]
+        },
+        {
+          "cityname": "Kongsvinger",
+          "zipcodes": [
+            "2211",
+            "2212",
+            "2213",
+            "2214",
+            "2215"
+          ],
+          "areacodes": [
+            "62"
+          ]
+        }
+      ],
+      "name": "Viken"
+    },
+    "Trøndelag": {
+      "cities": [
+        {
+          "cityname": "Trondheim",
+          "zipcodes": [
+            "7011",
+            "7012",
+            "7013",
+            "7014",
+            "7015"
+          ],
+          "areacodes": [
+            "73"
+          ]
+        },
+        {
+          "cityname": "Stjørdal",
+          "zipcodes": [
+            "7500",
+            "7501",
+            "7502",
+            "7503",
+            "7504"
+          ],
+          "areacodes": [
+            "74"
+          ]
+        },
+        {
+          "cityname": "Verdal",
+          "zipcodes": [
+            "7650",
+            "7651",
+            "7652",
+            "7653",
+            "7654"
+          ],
+          "areacodes": [
+            "74"
+          ]
+        },
+        {
+          "cityname": "Namsos",
+          "zipcodes": [
+            "7800",
+            "7801",
+            "7802",
+            "7803",
+            "7804"
+          ],
+          "areacodes": [
+            "74"
+          ]
+        },
+        {
+          "cityname": "Orkanger",
+          "zipcodes": [
+            "7300",
+            "7301",
+            "7302",
+            "7303",
+            "7304"
+          ],
+          "areacodes": [
+            "72"
+          ]
+        },
+        {
+          "cityname": "Melhus",
+          "zipcodes": [
+            "7224",
+            "7225",
+            "7226",
+            "7227",
+            "7228"
+          ],
+          "areacodes": [
+            "73"
+          ]
+        },
+        {
+          "cityname": "Røros",
+          "zipcodes": [
+            "7374",
+            "7375",
+            "7376",
+            "7377",
+            "7378"
+          ],
+          "areacodes": [
+            "72"
+          ]
+        },
+        {
+          "cityname": "Selbu",
+          "zipcodes": [
+            "7580",
+            "7581",
+            "7582",
+            "7583",
+            "7584"
+          ],
+          "areacodes": [
+            "73"
+          ]
+        },
+        {
+          "cityname": "Åfjord",
+          "zipcodes": [
+            "7170",
+            "7171",
+            "7172",
+            "7173",
+            "7174"
+          ],
+          "areacodes": [
+            "73"
+          ]
+        },
+        {
+          "cityname": "Inderøy",
+          "zipcodes": [
+            "7670",
+            "7671",
+            "7672",
+            "7673",
+            "7674"
+          ],
+          "areacodes": [
+            "74"
+          ]
+        }
+      ],
+      "name": "Trøndelag"
+    },
+    "Troms og Finnmark": {
+      "cities": [
+        {
+          "cityname": "Tromsø",
+          "zipcodes": [
+            "9001",
+            "9002",
+            "9003",
+            "9004",
+            "9005"
+          ],
+          "areacodes": [
+            "77"
+          ]
+        },
+        {
+          "cityname": "Alta",
+          "zipcodes": [
+            "9501",
+            "9502",
+            "9503",
+            "9504",
+            "9505"
+          ],
+          "areacodes": [
+            "78"
+          ]
+        },
+        {
+          "cityname": "Harstad",
+          "zipcodes": [
+            "9401",
+            "9402",
+            "9403",
+            "9404",
+            "9405"
+          ],
+          "areacodes": [
+            "77"
+          ]
+        },
+        {
+          "cityname": "Hammerfest",
+          "zipcodes": [
+            "9600",
+            "9601",
+            "9602",
+            "9603",
+            "9604"
+          ],
+          "areacodes": [
+            "78"
+          ]
+        },
+        {
+          "cityname": "Vadsø",
+          "zipcodes": [
+            "9800",
+            "9801",
+            "9802",
+            "9803",
+            "9804"
+          ],
+          "areacodes": [
+            "78"
+          ]
+        },
+        {
+          "cityname": "Kautokeino",
+          "zipcodes": [
+            "9520",
+            "9521",
+            "9522",
+            "9523",
+            "9524"
+          ],
+          "areacodes": [
+            "78"
+          ]
+        },
+        {
+          "cityname": "Lenvik",
+          "zipcodes": [
+            "9300",
+            "9301",
+            "9302",
+            "9303",
+            "9304"
+          ],
+          "areacodes": [
+            "77"
+          ]
+        },
+        {
+          "cityname": "Lyngen",
+          "zipcodes": [
+            "9060",
+            "9061",
+            "9062",
+            "9063",
+            "9064"
+          ],
+          "areacodes": [
+            "77"
+          ]
+        },
+        {
+          "cityname": "Balsfjord",
+          "zipcodes": [
+            "9050",
+            "9051",
+            "9052",
+            "9053",
+            "9054"
+          ],
+          "areacodes": [
+            "77"
+          ]
+        },
+        {
+          "cityname": "Nordkapp",
+          "zipcodes": [
+            "9760",
+            "9761",
+            "9762",
+            "9763",
+            "9764"
+          ],
+          "areacodes": [
+            "78"
+          ]
+        }
+      ],
+      "name": "Troms og Finnmark"
+    },
+    "Vestfold og Telemark": {
+      "cities": [
+        {
+          "cityname": "Tønsberg",
+          "zipcodes": [
+            "3101",
+            "3102",
+            "3103",
+            "3104",
+            "3105"
+          ],
+          "areacodes": [
+            "33"
+          ]
+        },
+        {
+          "cityname": "Sandefjord",
+          "zipcodes": [
+            "3211",
+            "3212",
+            "3213",
+            "3214",
+            "3215"
+          ],
+          "areacodes": [
+            "33"
+          ]
+        },
+        {
+          "cityname": "Porsgrunn",
+          "zipcodes": [
+            "3911",
+            "3912",
+            "3913",
+            "3914",
+            "3915"
+          ],
+          "areacodes": [
+            "35"
+          ]
+        },
+        {
+          "cityname": "Skien",
+          "zipcodes": [
+            "3711",
+            "3712",
+            "3713",
+            "3714",
+            "3715"
+          ],
+          "areacodes": [
+            "35"
+          ]
+        },
+        {
+          "cityname": "Larvik",
+          "zipcodes": [
+            "3251",
+            "3252",
+            "3253",
+            "3254",
+            "3255"
+          ],
+          "areacodes": [
+            "33"
+          ]
+        },
+        {
+          "cityname": "Bø",
+          "zipcodes": [
+            "3801",
+            "3802",
+            "3803",
+            "3804",
+            "3805"
+          ],
+          "areacodes": [
+            "35"
+          ]
+        },
+        {
+          "cityname": "Kragerø",
+          "zipcodes": [
+            "3770",
+            "3771",
+            "3772",
+            "3773",
+            "3774"
+          ],
+          "areacodes": [
+            "35"
+          ]
+        },
+        {
+          "cityname": "Notodden",
+          "zipcodes": [
+            "3670",
+            "3671",
+            "3672",
+            "3673",
+            "3674"
+          ],
+          "areacodes": [
+            "35"
+          ]
+        },
+        {
+          "cityname": "Bamble",
+          "zipcodes": [
+            "3960",
+            "3961",
+            "3962",
+            "3963",
+            "3964"
+          ],
+          "areacodes": [
+            "35"
+          ]
+        },
+        {
+          "cityname": "Siljan",
+          "zipcodes": [
+            "3746",
+            "3747",
+            "3748",
+            "3749",
+            "3750"
+          ],
+          "areacodes": [
+            "35"
+          ]
+        }
+      ],
+      "name": "Vestfold og Telemark"
+    },
+    "Vestland": {
+      "cities": [
+        {
+          "cityname": "Bergen",
+          "zipcodes": [
+            "5001",
+            "5002",
+            "5003",
+            "5004",
+            "5005"
+          ],
+          "areacodes": [
+            "55"
+          ]
+        },
+        {
+          "cityname": "Stavanger",
+          "zipcodes": [
+            "4001",
+            "4002",
+            "4003",
+            "4004",
+            "4005"
+          ],
+          "areacodes": [
+            "51"
+          ]
+        },
+        {
+          "cityname": "Haugesund",
+          "zipcodes": [
+            "5501",
+            "5502",
+            "5503",
+            "5504",
+            "5505"
+          ],
+          "areacodes": [
+            "52"
+          ]
+        },
+        {
+          "cityname": "Florø",
+          "zipcodes": [
+            "6901",
+            "6902",
+            "6903",
+            "6904",
+            "6905"
+          ],
+          "areacodes": [
+            "57"
+          ]
+        },
+        {
+          "cityname": "Voss",
+          "zipcodes": [
+            "5700",
+            "5701",
+            "5702",
+            "5703",
+            "5704"
+          ],
+          "areacodes": [
+            "56"
+          ]
+        },
+        {
+          "cityname": "Øygarden",
+          "zipcodes": [
+            "5335",
+            "5336",
+            "5337",
+            "5338",
+            "5339"
+          ],
+          "areacodes": [
+            "55"
+          ]
+        },
+        {
+          "cityname": "Kongsberg",
+          "zipcodes": [
+            "3611",
+            "3612",
+            "3613",
+            "3614",
+            "3615"
+          ],
+          "areacodes": [
+            "32"
+          ]
+        },
+        {
+          "cityname": "Sogndal",
+          "zipcodes": [
+            "6851",
+            "6852",
+            "6853",
+            "6854",
+            "6855"
+          ],
+          "areacodes": [
+            "57"
+          ]
+        },
+        {
+          "cityname": "Lærdal",
+          "zipcodes": [
+            "6887",
+            "6888",
+            "6889",
+            "6890",
+            "6891"
+          ],
+          "areacodes": [
+            "57"
+          ]
+        },
+        {
+          "cityname": "Alver",
+          "zipcodes": [
+            "5911",
+            "5912",
+            "5913",
+            "5914",
+            "5915"
+          ],
+          "areacodes": [
+            "55"
+          ]
+        }
+      ],
+      "name": "Vestland"
+    }
+  }
+  ,
+  "citycontainers":[
+    "counties"
+  ],
+  "firstnames": [
+  "Jakob", "Emil", "William", "Oskar", "Magnus", "Oliver", "Lucas", "Aksel", "Lukas", "Oscar",
+  "Henrik", "Noah", "Elias", "Mikkel", "Andreas", "Mathias", "Sander", "Alexander", "Herman", "Tobias",
+  "Adrian", "Felix", "Mats", "Johannes", "Samuel", "Martin", "Isak", "David", "Daniel", "Benjamin",
+  "Kristian", "Petter", "Viktor", "Amund", "Eivind", "Levi", "Fredrik", "Kasper", "Jonathan", "Theodor",
+  "Sindre", "Liam"
+],
+"lastnames": [
+  "Hansen", "Johansen", "Olsen", "Larsen", "Andersen", "Pedersen", "Nilsen", "Berg", "Dahl", "Solberg",
+  "Jensen", "Madsen", "Pettersen", "Rasmussen", "Christensen", "Haugland", "Kristensen", "Sivertsen", "Haugen", "Stensrud",
+  "Bakken", "Lind", "Strand", "Svendsen", "Karlsen", "Aune", "Røed", "Jørgensen", "Nygard", "Gundersen",
+  "Sørensen", "Eide", "Aarseth", "Lunde", "Viken", "Vik", "Evensen", "Torgersen", "Eliassen", "Eidsvold",
+  "Ness"
+]
+
 }

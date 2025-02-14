@@ -1,0 +1,1561 @@
+{
+    "name" : "Washington",
+    "capital" : "Olympia",
+    "cities" : [
+        {
+            "cityname" : "Seattle",
+            "areacodes" : ["206", "253", "360", "425"],
+            "zipcodes":[98101, 98102, 98103, 98104, 98105, 98106, 98107, 98108, 98109, 98112, 98115, 98116, 98117, 98118, 98119, 98121, 98122, 98125, 98126, 98133, 98134, 98136, 98144, 98146, 98154, 98164, 98174, 98177, 98178, 98195, 98199]
+        },
+        {
+            "cityname" : "Aberdeen",
+            "areacodes" : ["360"],
+            "zipcodes":[98520]
+        },
+        {
+            "cityname" : "Acme",
+            "areacodes" : ["360"],
+            "zipcodes":[98220]
+        },
+        {
+            "cityname" : "Airway Heights",
+            "areacodes" : ["509"],
+            "zipcodes":[99001]
+        },
+        {
+            "cityname" : "Albion",
+            "areacodes" : ["509"],
+            "zipcodes":[99102]
+        },
+        {
+            "cityname" : "Allyn",
+            "areacodes" : ["360"],
+            "zipcodes":[98524]
+        },
+        {
+            "cityname" : "Almira",
+            "areacodes" : ["509"],
+            "zipcodes":[99103]
+        },
+        {
+            "cityname" : "Amboy",
+            "areacodes" : ["360"],
+            "zipcodes":[98601]
+        },
+        {
+            "cityname" : "Anacortes",
+            "areacodes" : ["360"],
+            "zipcodes":[98221]
+        },
+        {
+            "cityname" : "Arlington",
+            "areacodes" : ["360"],
+            "zipcodes":[98223]
+        },
+        {
+            "cityname" : "Ashford",
+            "areacodes" : ["360"],
+            "zipcodes":[98304]
+        },
+        {
+            "cityname" : "Asotin",
+            "areacodes" : ["509"],
+            "zipcodes":[99402]
+        },
+        {
+            "cityname" : "Auburn",
+            "areacodes" : ["253", "206", "425"],
+            "zipcodes":[98001, 98002, 98092]
+        },
+        {
+            "cityname" : "Bainbridge Island",
+            "areacodes" : ["206"],
+            "zipcodes":[98110]
+        },
+        {
+            "cityname" : "Baring",
+            "areacodes" : ["360"],
+            "zipcodes":[98224]
+        },
+        {
+            "cityname" : "Battle Ground",
+            "areacodes" : ["360"],
+            "zipcodes":[98604]
+        },
+        {
+            "cityname" : "Bay Center",
+            "areacodes" : ["360"],
+            "zipcodes":[98527]
+        },
+        {
+            "cityname" : "Bellevue",
+            "areacodes" : ["425"],
+            "zipcodes":[98004, 98005, 98006, 98007, 98008, 98009, 98015]
+        },
+        {
+            "cityname" : "Bellingham",
+            "areacodes" : ["360"],
+            "zipcodes":[98225, 98226, 98229]
+        },
+        {
+            "cityname" : "Benton City",
+            "areacodes" : ["509"],
+            "zipcodes":[99320]
+        },
+        {
+            "cityname" : "Bingen",
+            "areacodes" : ["509"],
+            "zipcodes":[98605]
+        },
+        {
+            "cityname" : "Black Diamond",
+            "areacodes" : ["360"],
+            "zipcodes":[98010]
+        },
+        {
+            "cityname" : "Blaine",
+            "areacodes" : ["360"],
+            "zipcodes":[98230, 98231]
+        },
+        {
+            "cityname" : "Bothell",
+            "areacodes" : ["425"],
+            "zipcodes":[98011, 98012, 98021, 98041]
+        },
+        {
+            "cityname" : "Bremerton",
+            "areacodes" : ["360"],
+            "zipcodes":[98310, 98311, 98312, 98314, 98337]
+        },
+        {
+            "cityname" : "Brewster",
+            "areacodes" : ["509"],
+            "zipcodes":[98812]
+        },
+        {
+            "cityname" : "Bridgeport",
+            "areacodes" : ["509"],
+            "zipcodes":[98813]
+        },
+        {
+            "cityname" : "Brinnon",
+            "areacodes" : ["360"],
+            "zipcodes":[98320]
+        },
+        {
+            "cityname" : "Brush Prairie",
+            "areacodes" : ["360"],
+            "zipcodes":[98606]
+        },
+        {
+            "cityname" : "Buckley",
+            "areacodes" : ["360"],
+            "zipcodes":[98321]
+        },
+        {
+            "cityname" : "Bucoda",
+            "areacodes" : ["360"],
+            "zipcodes":[98530]
+        },
+        {
+            "cityname" : "Burbank",
+            "areacodes" : ["509"],
+            "zipcodes":[99323]
+        },
+        {
+            "cityname" : "Burlington",
+            "areacodes" : ["360"],
+            "zipcodes":[98233]
+        },
+        {
+            "cityname" : "Camano Island",
+            "areacodes" : ["360"],
+            "zipcodes":[98282]
+        },
+        {
+            "cityname" : "Camas",
+            "areacodes" : ["360"],
+            "zipcodes":[98607]
+        },
+        {
+            "cityname" : "Carbonado",
+            "areacodes" : ["360"],
+            "zipcodes":[98323]
+        },
+        {
+            "cityname" : "Carlsborg",
+            "areacodes" : ["360"],
+            "zipcodes":[98324]
+        },
+        {
+            "cityname" : "Carnation",
+            "areacodes" : ["425"],
+            "zipcodes":[98014]
+        },
+        {
+            "cityname" : "Carson",
+            "areacodes" : ["509"],
+            "zipcodes":[98610]
+        },
+        {
+            "cityname" : "Cashmere",
+            "areacodes" : ["509"],
+            "zipcodes":[98815]
+        },
+        {
+            "cityname" : "Castle Rock",
+            "areacodes" : ["360"],
+            "zipcodes":[98611]
+        },
+        {
+            "cityname" : "Cathlamet",
+            "areacodes" : ["360"],
+            "zipcodes":[98612]
+        },
+        {
+            "cityname" : "Centralia",
+            "areacodes" : ["360"],
+            "zipcodes":[98531]
+        },
+        {
+            "cityname" : "Chehalis",
+            "areacodes" : ["360"],
+            "zipcodes":[98532]
+        },
+        {
+            "cityname" : "Chelan",
+            "areacodes" : ["509"],
+            "zipcodes":[98816]
+        },
+        {
+            "cityname" : "Cheney",
+            "areacodes" : ["509"],
+            "zipcodes":[99004]
+        },
+        {
+            "cityname" : "Chewelah",
+            "areacodes" : ["509"],
+            "zipcodes":[99109]
+        },
+        {
+            "cityname" : "Chinook",
+            "areacodes" : ["360"],
+            "zipcodes":[98614]
+        },
+        {
+            "cityname" : "Clarkston",
+            "areacodes" : ["509"],
+            "zipcodes":[99403]
+        },
+        {
+            "cityname" : "Cle Elum",
+            "areacodes" : ["509"],
+            "zipcodes":[98922]
+        },
+        {
+            "cityname" : "Clearlake",
+            "areacodes" : ["360"],
+            "zipcodes":[98235]
+        },
+        {
+            "cityname" : "Clinton",
+            "areacodes" : ["360"],
+            "zipcodes":[98236]
+        },
+        {
+            "cityname" : "Colfax",
+            "areacodes" : ["509"],
+            "zipcodes":[99111]
+        },
+        {
+            "cityname" : "College Place",
+            "areacodes" : ["509"],
+            "zipcodes":[99324]
+        },
+        {
+            "cityname" : "Colton",
+            "areacodes" : ["509"],
+            "zipcodes":[99113]
+        },
+        {
+            "cityname" : "Colville",
+            "areacodes" : ["509"],
+            "zipcodes":[99114]
+        },
+        {
+            "cityname" : "Concrete",
+            "areacodes" : ["360"],
+            "zipcodes":[98237]
+        },
+        {
+            "cityname" : "Connell",
+            "areacodes" : ["509"],
+            "zipcodes":[99326]
+        },
+        {
+            "cityname" : "Copalis Beach",
+            "areacodes" : ["360"],
+            "zipcodes":[98535]
+        },
+        {
+            "cityname" : "Cosmopolis",
+            "areacodes" : ["360"],
+            "zipcodes":[98537]
+        },
+        {
+            "cityname" : "Coulee City",
+            "areacodes" : ["509"],
+            "zipcodes":[99115]
+        },
+        {
+            "cityname" : "Coulee Dam",
+            "areacodes" : ["509"],
+            "zipcodes":[99116]
+        },
+        {
+            "cityname" : "Coupeville",
+            "areacodes" : ["360"],
+            "zipcodes":[98239]
+        },
+        {
+            "cityname" : "Creston",
+            "areacodes" : ["509"],
+            "zipcodes":[99117]
+        },
+        {
+            "cityname" : "Cusick",
+            "areacodes" : ["509"],
+            "zipcodes":[99119]
+        },
+        {
+            "cityname" : "Custer",
+            "areacodes" : ["360"],
+            "zipcodes":[98240]
+        },
+        {
+            "cityname" : "Dallesport",
+            "areacodes" : ["509"],
+            "zipcodes":[98617]
+        },
+        {
+            "cityname" : "Darrington",
+            "areacodes" : ["360"],
+            "zipcodes":[98241]
+        },
+        {
+            "cityname" : "Davenport",
+            "areacodes" : ["509"],
+            "zipcodes":[99122]
+        },
+        {
+            "cityname" : "Dayton",
+            "areacodes" : ["509"],
+            "zipcodes":[99328]
+        },
+        {
+            "cityname" : "Deer Park",
+            "areacodes" : ["509"],
+            "zipcodes":[99006]
+        },
+        {
+            "cityname" : "Deming",
+            "areacodes" : ["360"],
+            "zipcodes":[98244]
+        },
+        {
+            "cityname" : "Dixie",
+            "areacodes" : ["509"],
+            "zipcodes":[99329]
+        },
+        {
+            "cityname" : "Dupont",
+            "areacodes" : ["253"],
+            "zipcodes":[98327]
+        },
+        {
+            "cityname" : "Duvall",
+            "areacodes" : ["425"],
+            "zipcodes":[98019]
+        },
+        {
+            "cityname" : "East Wenatchee",
+            "areacodes" : ["509"],
+            "zipcodes":[98802]
+        },
+        {
+            "cityname" : "Easton",
+            "areacodes" : ["509"],
+            "zipcodes":[98925]
+        },
+        {
+            "cityname" : "Eatonville",
+            "areacodes" : ["360"],
+            "zipcodes":[98328]
+        },
+        {
+            "cityname" : "Edmonds",
+            "areacodes" : ["425"],
+            "zipcodes":[98020, 98026]
+        },
+        {
+            "cityname" : "Electric City",
+            "areacodes" : ["509"],
+            "zipcodes":[99123]
+        },
+        {
+            "cityname" : "Elk",
+            "areacodes" : ["509"],
+            "zipcodes":[99009]
+        },
+        {
+            "cityname" : "Ellensburg",
+            "areacodes" : ["509"],
+            "zipcodes":[98926]
+        },
+        {
+            "cityname" : "Elma",
+            "areacodes" : ["360"],
+            "zipcodes":[98541]
+        },
+        {
+            "cityname" : "Elmer City",
+            "areacodes" : ["509"],
+            "zipcodes":[99124]
+        },
+        {
+            "cityname" : "Endicott",
+            "areacodes" : ["509"],
+            "zipcodes":[99125]
+        },
+        {
+            "cityname" : "Entiat",
+            "areacodes" : ["509"],
+            "zipcodes":[98822]
+        },
+        {
+            "cityname" : "Enumclaw",
+            "areacodes" : ["360"],
+            "zipcodes":[98022]
+        },
+        {
+            "cityname" : "Ephrata",
+            "areacodes" : ["509"],
+            "zipcodes":[98823]
+        },
+        {
+            "cityname" : "Everett",
+            "areacodes" : ["425"],
+            "zipcodes":[98201, 98203, 98204, 98205, 98208, 98213]
+        },
+        {
+            "cityname" : "Everson",
+            "areacodes" : ["360"],
+            "zipcodes":[98247]
+        },
+        {
+            "cityname" : "Fairchild Air Force Base",
+            "areacodes" : ["509"],
+            "zipcodes":[99011]
+        },
+        {
+            "cityname" : "Fairfield",
+            "areacodes" : ["509"],
+            "zipcodes":[99012]
+        },
+        {
+            "cityname" : "Fall City",
+            "areacodes" : ["425"],
+            "zipcodes":[98024]
+        },
+        {
+            "cityname" : "Federal Way",
+            "areacodes" : ["253"],
+            "zipcodes":[98003, 98023, 98063, 98093]
+        },
+        {
+            "cityname" : "Ferndale",
+            "areacodes" : ["360"],
+            "zipcodes":[98248]
+        },
+        {
+            "cityname" : "Forks",
+            "areacodes" : ["360"],
+            "zipcodes":[98331]
+        },
+        {
+            "cityname" : "Fox Island",
+            "areacodes" : ["253"],
+            "zipcodes":[98333]
+        },
+        {
+            "cityname" : "Freeland",
+            "areacodes" : ["360"],
+            "zipcodes":[98249]
+        },
+        {
+            "cityname" : "Friday Harbor",
+            "areacodes" : ["360"],
+            "zipcodes":[98250]
+        },
+        {
+            "cityname" : "Garfield",
+            "areacodes" : ["509"],
+            "zipcodes":[99130]
+        },
+        {
+            "cityname" : "George",
+            "areacodes" : ["509"],
+            "zipcodes":[98824]
+        },
+        {
+            "cityname" : "Gig Harbor",
+            "areacodes" : ["253"],
+            "zipcodes":[98329, 98332, 98335]
+        },
+        {
+            "cityname" : "Gold Bar",
+            "areacodes" : ["360"],
+            "zipcodes":[98251]
+        },
+        {
+            "cityname" : "Goldendale",
+            "areacodes" : ["509"],
+            "zipcodes":[98620]
+        },
+        {
+            "cityname" : "Graham",
+            "areacodes" : ["253"],
+            "zipcodes":[98338]
+        },
+        {
+            "cityname" : "Grand Coulee",
+            "areacodes" : ["509"],
+            "zipcodes":[99133]
+        },
+        {
+            "cityname" : "Grandview",
+            "areacodes" : ["509"],
+            "zipcodes":[98930]
+        },
+        {
+            "cityname" : "Granger",
+            "areacodes" : ["509"],
+            "zipcodes":[98932]
+        },
+        {
+            "cityname" : "Granite Falls",
+            "areacodes" : ["360"],
+            "zipcodes":[98252]
+        },
+        {
+            "cityname" : "Grayland",
+            "areacodes" : ["360"],
+            "zipcodes":[98547]
+        },
+        {
+            "cityname" : "Greenacres",
+            "areacodes" : ["509"],
+            "zipcodes":[99016]
+        },
+        {
+            "cityname" : "Hamilton",
+            "areacodes" : ["360"],
+            "zipcodes":[98255]
+        },
+        {
+            "cityname" : "Harrah",
+            "areacodes" : ["509"],
+            "zipcodes":[98933]
+        },
+        {
+            "cityname" : "Harrington",
+            "areacodes" : ["509"],
+            "zipcodes":[99134]
+        },
+        {
+            "cityname" : "Hobart",
+            "areacodes" : ["425"],
+            "zipcodes":[98025]
+        },
+        {
+            "cityname" : "Hoquiam",
+            "areacodes" : ["360"],
+            "zipcodes":[98550]
+        },
+        {
+            "cityname" : "Humptulips",
+            "areacodes" : ["360"],
+            "zipcodes":[98552]
+        },
+        {
+            "cityname" : "Ilwaco",
+            "areacodes" : ["360"],
+            "zipcodes":[98624]
+        },
+        {
+            "cityname" : "Inchelium",
+            "areacodes" : ["509"],
+            "zipcodes":[99138]
+        },
+        {
+            "cityname" : "Indianola",
+            "areacodes" : ["360"],
+            "zipcodes":[98342]
+        },
+        {
+            "cityname" : "Ione",
+            "areacodes" : ["509"],
+            "zipcodes":[99139]
+        },
+        {
+            "cityname" : "Issaquah",
+            "areacodes" : ["425"],
+            "zipcodes":[98027, 98029]
+        },
+        {
+            "cityname" : "Kahlotus",
+            "areacodes" : ["509"],
+            "zipcodes":[99335]
+        },
+        {
+            "cityname" : "Kalama",
+            "areacodes" : ["360"],
+            "zipcodes":[98625]
+        },
+        {
+            "cityname" : "Kelso",
+            "areacodes" : ["360"],
+            "zipcodes":[98626]
+        },
+        {
+            "cityname" : "Kenmore",
+            "areacodes" : ["425"],
+            "zipcodes":[98028]
+        },
+        {
+            "cityname" : "Kennewick",
+            "areacodes" : ["509"],
+            "zipcodes":[99336, 99337, 99338]
+        },
+        {
+            "cityname" : "Kent",
+            "areacodes" : ["253"],
+            "zipcodes":[98030, 98031, 98032, 98035, 98042, 98064, 98089]
+        },
+        {
+            "cityname" : "Kettle Falls",
+            "areacodes" : ["509"],
+            "zipcodes":[99141]
+        },
+        {
+            "cityname" : "Kingston",
+            "areacodes" : ["360"],
+            "zipcodes":[98346]
+        },
+        {
+            "cityname" : "Kirkland",
+            "areacodes" : ["425"],
+            "zipcodes":[98033, 98034, 98083]
+        },
+        {
+            "cityname" : "Kittitas",
+            "areacodes" : ["509"],
+            "zipcodes":[98934]
+        },
+        {
+            "cityname" : "Klickitat",
+            "areacodes" : ["509"],
+            "zipcodes":[98628]
+        },
+        {
+            "cityname" : "La Center",
+            "areacodes" : ["360"],
+            "zipcodes":[98629]
+        },
+        {
+            "cityname" : "La Conner",
+            "areacodes" : ["360"],
+            "zipcodes":[98257]
+        },
+        {
+            "cityname" : "Lacrosse",
+            "areacodes" : ["509"],
+            "zipcodes":[99143]
+        },
+        {
+            "cityname" : "Lake Stevens",
+            "areacodes" : ["425"],
+            "zipcodes":[98258]
+        },
+        {
+            "cityname" : "Lakewood",
+            "areacodes" : ["253"],
+            "zipcodes":[98439, 98492, 98496, 98497, 98498, 98499]
+        },
+        {
+            "cityname" : "Langley",
+            "areacodes" : ["360"],
+            "zipcodes":[98260]
+        },
+        {
+            "cityname" : "Leavenworth",
+            "areacodes" : ["509"],
+            "zipcodes":[98826]
+        },
+        {
+            "cityname" : "Liberty Lake",
+            "areacodes" : ["509"],
+            "zipcodes":[99019]
+        },
+        {
+            "cityname" : "Lind",
+            "areacodes" : ["509"],
+            "zipcodes":[99341]
+        },
+        {
+            "cityname" : "Long Beach",
+            "areacodes" : ["360"],
+            "zipcodes":[98631]
+        },
+        {
+            "cityname" : "Longview",
+            "areacodes" : ["360"],
+            "zipcodes":[98632]
+        },
+        {
+            "cityname" : "Lyle",
+            "areacodes" : ["509"],
+            "zipcodes":[98635]
+        },
+        {
+            "cityname" : "Lyman",
+            "areacodes" : ["360"],
+            "zipcodes":[98263]
+        },
+        {
+            "cityname" : "Lynden",
+            "areacodes" : ["360"],
+            "zipcodes":[98264]
+        },
+        {
+            "cityname" : "Lynnwood",
+            "areacodes" : ["425"],
+            "zipcodes":[98036, 98037, 98046, 98087]
+        },
+        {
+            "cityname" : "Mabton",
+            "areacodes" : ["509"],
+            "zipcodes":[98935]
+        },
+        {
+            "cityname" : "Malden",
+            "areacodes" : ["509"],
+            "zipcodes":[99149]
+        },
+        {
+            "cityname" : "Malone",
+            "areacodes" : ["360"],
+            "zipcodes":[98559]
+        },
+        {
+            "cityname" : "Manchester",
+            "areacodes" : ["360"],
+            "zipcodes":[98353]
+        },
+        {
+            "cityname" : "Mansfield",
+            "areacodes" : ["509"],
+            "zipcodes":[98830]
+        },
+        {
+            "cityname" : "Maple Falls",
+            "areacodes" : ["360"],
+            "zipcodes":[98266]
+        },
+        {
+            "cityname" : "Maple Valley",
+            "areacodes" : ["425"],
+            "zipcodes":[98038]
+        },
+        {
+            "cityname" : "Marblemount",
+            "areacodes" : ["360"],
+            "zipcodes":[98267]
+        },
+        {
+            "cityname" : "Marysville",
+            "areacodes" : ["360"],
+            "zipcodes":[98270, 98271]
+        },
+        {
+            "cityname" : "Mattawa",
+            "areacodes" : ["509"],
+            "zipcodes":[99349]
+        },
+        {
+            "cityname" : "Mcchord Afb",
+            "areacodes" : ["253"],
+            "zipcodes":[98438]
+        },
+        {
+            "cityname" : "Mccleary",
+            "areacodes" : ["360"],
+            "zipcodes":[98557]
+        },
+        {
+            "cityname" : "Medical Lake",
+            "areacodes" : ["509"],
+            "zipcodes":[99022]
+        },
+        {
+            "cityname" : "Medina",
+            "areacodes" : ["425"],
+            "zipcodes":[98039]
+        },
+        {
+            "cityname" : "Mercer Island",
+            "areacodes" : ["206"],
+            "zipcodes":[98040]
+        },
+        {
+            "cityname" : "Mesa",
+            "areacodes" : ["509"],
+            "zipcodes":[99343]
+        },
+        {
+            "cityname" : "Metaline Falls",
+            "areacodes" : ["509"],
+            "zipcodes":[99153]
+        },
+        {
+            "cityname" : "Milton",
+            "areacodes" : ["253"],
+            "zipcodes":[98354]
+        },
+        {
+            "cityname" : "Moclips",
+            "areacodes" : ["360"],
+            "zipcodes":[98562]
+        },
+        {
+            "cityname" : "Monroe",
+            "areacodes" : ["360"],
+            "zipcodes":[98272]
+        },
+        {
+            "cityname" : "Montesano",
+            "areacodes" : ["360"],
+            "zipcodes":[98563]
+        },
+        {
+            "cityname" : "Morton",
+            "areacodes" : ["360"],
+            "zipcodes":[98356]
+        },
+        {
+            "cityname" : "Moses Lake",
+            "areacodes" : ["509"],
+            "zipcodes":[98837]
+        },
+        {
+            "cityname" : "Mossyrock",
+            "areacodes" : ["360"],
+            "zipcodes":[98564]
+        },
+        {
+            "cityname" : "Mount Vernon",
+            "areacodes" : ["360"],
+            "zipcodes":[98273, 98274]
+        },
+        {
+            "cityname" : "Mountlake Terrace",
+            "areacodes" : ["425"],
+            "zipcodes":[98043]
+        },
+        {
+            "cityname" : "Moxee",
+            "areacodes" : ["509"],
+            "zipcodes":[98936]
+        },
+        {
+            "cityname" : "Mukilteo",
+            "areacodes" : ["425"],
+            "zipcodes":[98275]
+        },
+        {
+            "cityname" : "Naches",
+            "areacodes" : ["509"],
+            "zipcodes":[98937]
+        },
+        {
+            "cityname" : "Napavine",
+            "areacodes" : ["360"],
+            "zipcodes":[98565]
+        },
+        {
+            "cityname" : "Naselle",
+            "areacodes" : ["360"],
+            "zipcodes":[98638]
+        },
+        {
+            "cityname" : "Neah Bay",
+            "areacodes" : ["360"],
+            "zipcodes":[98357]
+        },
+        {
+            "cityname" : "Neilton",
+            "areacodes" : ["360"],
+            "zipcodes":[98566]
+        },
+        {
+            "cityname" : "Nespelem",
+            "areacodes" : ["509"],
+            "zipcodes":[99155]
+        },
+        {
+            "cityname" : "Newport",
+            "areacodes" : ["509"],
+            "zipcodes":[99156]
+        },
+        {
+            "cityname" : "Nooksack",
+            "areacodes" : ["360"],
+            "zipcodes":[98276]
+        },
+        {
+            "cityname" : "North Bend",
+            "areacodes" : ["425"],
+            "zipcodes":[98045]
+        },
+        {
+            "cityname" : "North Bonneville",
+            "areacodes" : ["509"],
+            "zipcodes":[98639]
+        },
+        {
+            "cityname" : "Northport",
+            "areacodes" : ["509"],
+            "zipcodes":[99157]
+        },
+        {
+            "cityname" : "Oak Harbor",
+            "areacodes" : ["360"],
+            "zipcodes":[98277, 98278]
+        },
+        {
+            "cityname" : "Ocean Park",
+            "areacodes" : ["360"],
+            "zipcodes":[98640]
+        },
+        {
+            "cityname" : "Ocean Shores",
+            "areacodes" : ["360"],
+            "zipcodes":[98569]
+        },
+        {
+            "cityname" : "Odessa",
+            "areacodes" : ["509"],
+            "zipcodes":[99159]
+        },
+        {
+            "cityname" : "Okanogan",
+            "areacodes" : ["509"],
+            "zipcodes":[98840]
+        },
+        {
+            "cityname" : "Olympia",
+            "areacodes" : ["360"],
+            "zipcodes":[98501, 98502, 98504, 98505, 98506, 98507, 98508, 98512, 98513, 98516]
+        },
+        {
+            "cityname" : "Omak",
+            "areacodes" : ["509"],
+            "zipcodes":[98841]
+        },
+        {
+            "cityname" : "Oroville",
+            "areacodes" : ["509"],
+            "zipcodes":[98844]
+        },
+        {
+            "cityname" : "Orting",
+            "areacodes" : ["360"],
+            "zipcodes":[98360]
+        },
+        {
+            "cityname" : "Othello",
+            "areacodes" : ["509"],
+            "zipcodes":[99344]
+        },
+        {
+            "cityname" : "Otis Orchards",
+            "areacodes" : ["509"],
+            "zipcodes":[99027]
+        },
+        {
+            "cityname" : "Pacific",
+            "areacodes" : ["253"],
+            "zipcodes":[98047]
+        },
+        {
+            "cityname" : "Palouse",
+            "areacodes" : ["509"],
+            "zipcodes":[99161]
+        },
+        {
+            "cityname" : "Pasco",
+            "areacodes" : ["509"],
+            "zipcodes":[99301]
+        },
+        {
+            "cityname" : "Pateros",
+            "areacodes" : ["509"],
+            "zipcodes":[98846]
+        },
+        {
+            "cityname" : "Pe Ell",
+            "areacodes" : ["360"],
+            "zipcodes":[98572]
+        },
+        {
+            "cityname" : "Pomeroy",
+            "areacodes" : ["509"],
+            "zipcodes":[99347]
+        },
+        {
+            "cityname" : "Port Angeles",
+            "areacodes" : ["360"],
+            "zipcodes":[98362, 98363]
+        },
+        {
+            "cityname" : "Port Hadlock",
+            "areacodes" : ["360"],
+            "zipcodes":[98339]
+        },
+        {
+            "cityname" : "Port Ludlow",
+            "areacodes" : ["360"],
+            "zipcodes":[98365]
+        },
+        {
+            "cityname" : "Port Orchard",
+            "areacodes" : ["360"],
+            "zipcodes":[98366, 98367]
+        },
+        {
+            "cityname" : "Port Townsend",
+            "areacodes" : ["360"],
+            "zipcodes":[98368]
+        },
+        {
+            "cityname" : "Poulsbo",
+            "areacodes" : ["360"],
+            "zipcodes":[98370]
+        },
+        {
+            "cityname" : "Prescott",
+            "areacodes" : ["509"],
+            "zipcodes":[99348]
+        },
+        {
+            "cityname" : "Prosser",
+            "areacodes" : ["509"],
+            "zipcodes":[99350]
+        },
+        {
+            "cityname" : "Pullman",
+            "areacodes" : ["509"],
+            "zipcodes":[99163, 99164]
+        },
+        {
+            "cityname" : "Puyallup",
+            "areacodes" : ["253"],
+            "zipcodes":[98371, 98372, 98373, 98374, 98375]
+        },
+        {
+            "cityname" : "Quilcene",
+            "areacodes" : ["360"],
+            "zipcodes":[98376]
+        },
+        {
+            "cityname" : "Quincy",
+            "areacodes" : ["509"],
+            "zipcodes":[98848]
+        },
+        {
+            "cityname" : "Rainier",
+            "areacodes" : ["360"],
+            "zipcodes":[98576]
+        },
+        {
+            "cityname" : "Ravensdale",
+            "areacodes" : ["425"],
+            "zipcodes":[98051]
+        },
+        {
+            "cityname" : "Raymond",
+            "areacodes" : ["360"],
+            "zipcodes":[98577]
+        },
+        {
+            "cityname" : "Reardan",
+            "areacodes" : ["509"],
+            "zipcodes":[99029]
+        },
+        {
+            "cityname" : "Redmond",
+            "areacodes" : ["425"],
+            "zipcodes":[98052, 98053]
+        },
+        {
+            "cityname" : "Renton",
+            "areacodes" : ["425", "206"],
+            "zipcodes":[98055, 98056, 98057, 98058, 98059]
+        },
+        {
+            "cityname" : "Republic",
+            "areacodes" : ["509"],
+            "zipcodes":[99166]
+        },
+        {
+            "cityname" : "Richland",
+            "areacodes" : ["509"],
+            "zipcodes":[99352, 99354]
+        },
+        {
+            "cityname" : "Ridgefield",
+            "areacodes" : ["360"],
+            "zipcodes":[98642]
+        },
+        {
+            "cityname" : "Ritzville",
+            "areacodes" : ["509"],
+            "zipcodes":[99169]
+        },
+        {
+            "cityname" : "Riverside",
+            "areacodes" : ["509"],
+            "zipcodes":[98849]
+        },
+        {
+            "cityname" : "Rochester",
+            "areacodes" : ["360"],
+            "zipcodes":[98579]
+        },
+        {
+            "cityname" : "Rock Island",
+            "areacodes" : ["509"],
+            "zipcodes":[98850]
+        },
+        {
+            "cityname" : "Rockford",
+            "areacodes" : ["509"],
+            "zipcodes":[99030]
+        },
+        {
+            "cityname" : "Ronald",
+            "areacodes" : ["509"],
+            "zipcodes":[98940]
+        },
+        {
+            "cityname" : "Rosalia",
+            "areacodes" : ["509"],
+            "zipcodes":[99170]
+        },
+        {
+            "cityname" : "Roslyn",
+            "areacodes" : ["509"],
+            "zipcodes":[98941]
+        },
+        {
+            "cityname" : "Roy",
+            "areacodes" : ["253"],
+            "zipcodes":[98580]
+        },
+        {
+            "cityname" : "Royal City",
+            "areacodes" : ["509"],
+            "zipcodes":[99357]
+        },
+        {
+            "cityname" : "Saint John",
+            "areacodes" : ["509"],
+            "zipcodes":[99171]
+        },
+        {
+            "cityname" : "Sammamish",
+            "areacodes" : ["425"],
+            "zipcodes":[98074, 98075]
+        },
+        {
+            "cityname" : "Satsop",
+            "areacodes" : ["360"],
+            "zipcodes":[98583]
+        },
+        {
+            "cityname" : "Seattle",
+            "areacodes" : ["206", "253", "360", "425"],
+            "zipcodes":[98101, 98102, 98103, 98104, 98105, 98106, 98107, 98108, 98109, 98112, 98115, 98116, 98117, 98118, 98119, 98121, 98122, 98125, 98126, 98133, 98134, 98136, 98144, 98146, 98154, 98164, 98174, 98177, 98178, 98195, 98199]
+        },
+        {
+            "cityname" : "Sedro Woolley",
+            "areacodes" : ["360"],
+            "zipcodes":[98284]
+        },
+        {
+            "cityname" : "Selah",
+            "areacodes" : ["509"],
+            "zipcodes":[98942]
+        },
+        {
+            "cityname" : "Sequim",
+            "areacodes" : ["360"],
+            "zipcodes":[98382]
+        },
+        {
+            "cityname" : "Shelton",
+            "areacodes" : ["360"],
+            "zipcodes":[98584]
+        },
+        {
+            "cityname" : "Silverdale",
+            "areacodes" : ["360"],
+            "zipcodes":[98383]
+        },
+        {
+            "cityname" : "Skykomish",
+            "areacodes" : ["360"],
+            "zipcodes":[98288]
+        },
+        {
+            "cityname" : "Snohomish",
+            "areacodes" : ["360"],
+            "zipcodes":[98290, 98291, 98296]
+        },
+        {
+            "cityname" : "Snoqualmie Pass",
+            "areacodes" : ["425"],
+            "zipcodes":[98068]
+        },
+        {
+            "cityname" : "Snoqualmie",
+            "areacodes" : ["425"],
+            "zipcodes":[98065]
+        },
+        {
+            "cityname" : "Soap Lake",
+            "areacodes" : ["509"],
+            "zipcodes":[98851]
+        },
+        {
+            "cityname" : "South Bend",
+            "areacodes" : ["360"],
+            "zipcodes":[98586]
+        },
+        {
+            "cityname" : "South Cle Elum",
+            "areacodes" : ["509"],
+            "zipcodes":[98943]
+        },
+        {
+            "cityname" : "South Prairie",
+            "areacodes" : ["360"],
+            "zipcodes":[98385]
+        },
+        {
+            "cityname" : "Spanaway",
+            "areacodes" : ["253"],
+            "zipcodes":[98387]
+        },
+        {
+            "cityname" : "Spangle",
+            "areacodes" : ["509"],
+            "zipcodes":[99031]
+        },
+        {
+            "cityname" : "Spokane",
+            "areacodes" : ["509"],
+            "zipcodes":[99201, 99202, 99203, 99204, 99205, 99206, 99207, 99208, 99209, 99210, 99211, 99212, 99213, 99214, 99215, 99216, 99217, 99218, 99219, 99220, 99223, 99224, 99228, 99251, 99252, 99256, 99258, 99260]
+        },
+        {
+            "cityname" : "Sprague",
+            "areacodes" : ["509"],
+            "zipcodes":[99032]
+        },
+        {
+            "cityname" : "Springdale",
+            "areacodes" : ["509"],
+            "zipcodes":[99173]
+        },
+        {
+            "cityname" : "Stanwood",
+            "areacodes" : ["360"],
+            "zipcodes":[98292]
+        },
+        {
+            "cityname" : "Startup",
+            "areacodes" : ["360"],
+            "zipcodes":[98293]
+        },
+        {
+            "cityname" : "Steilacoom",
+            "areacodes" : ["253"],
+            "zipcodes":[98388]
+        },
+        {
+            "cityname" : "Stevenson",
+            "areacodes" : ["509"],
+            "zipcodes":[98648]
+        },
+        {
+            "cityname" : "Sultan",
+            "areacodes" : ["360"],
+            "zipcodes":[98294]
+        },
+        {
+            "cityname" : "Sumas",
+            "areacodes" : ["360"],
+            "zipcodes":[98295]
+        },
+        {
+            "cityname" : "Sumner",
+            "areacodes" : ["253"],
+            "zipcodes":[98390, 98352]
+        },
+        {
+            "cityname" : "Sunnyside",
+            "areacodes" : ["509"],
+            "zipcodes":[98944]
+        },
+        {
+            "cityname" : "Suquamish",
+            "areacodes" : ["360"],
+            "zipcodes":[98392]
+        },
+        {
+            "cityname" : "Tacoma",
+            "areacodes" : ["253"],
+            "zipcodes":[98402, 98403, 98404, 98405, 98406, 98407, 98408, 98409, 98418, 98421, 98422, 98424, 98431, 98433, 98438, 98443, 98444, 98445, 98446, 98447, 98448, 98464, 98465, 98466, 98467, 98471, 98481, 98490, 98493]
+        },
+        {
+            "cityname" : "Taholah",
+            "areacodes" : ["360"],
+            "zipcodes":[98587]
+        },
+        {
+            "cityname" : "Tekoa",
+            "areacodes" : ["509"],
+            "zipcodes":[99033]
+        },
+        {
+            "cityname" : "Tenino",
+            "areacodes" : ["360"],
+            "zipcodes":[98589]
+        },
+        {
+            "cityname" : "Thorp",
+            "areacodes" : ["509"],
+            "zipcodes":[98946]
+        },
+        {
+            "cityname" : "Tieton",
+            "areacodes" : ["509"],
+            "zipcodes":[98947]
+        },
+        {
+            "cityname" : "Toledo",
+            "areacodes" : ["360"],
+            "zipcodes":[98591]
+        },
+        {
+            "cityname" : "Tonasket",
+            "areacodes" : ["509"],
+            "zipcodes":[98855]
+        },
+        {
+            "cityname" : "Toppenish",
+            "areacodes" : ["509"],
+            "zipcodes":[98948]
+        },
+        {
+            "cityname" : "Touchet",
+            "areacodes" : ["509"],
+            "zipcodes":[99360]
+        },
+        {
+            "cityname" : "Tracyton",
+            "areacodes" : ["360"],
+            "zipcodes":[98393]
+        },
+        {
+            "cityname" : "Trout Lake",
+            "areacodes" : ["509"],
+            "zipcodes":[98650]
+        },
+        {
+            "cityname" : "Tumwater",
+            "areacodes" : ["360"],
+            "zipcodes":[98501, 98511, 98512]
+        },
+        {
+            "cityname" : "Twisp",
+            "areacodes" : ["509"],
+            "zipcodes":[98856]
+        },
+        {
+            "cityname" : "Union",
+            "areacodes" : ["360"],
+            "zipcodes":[98592]
+        },
+        {
+            "cityname" : "Uniontown",
+            "areacodes" : ["509"],
+            "zipcodes":[99179]
+        },
+        {
+            "cityname" : "University Place",
+            "areacodes" : ["253"],
+            "zipcodes":[98467]
+        },
+        {
+            "cityname" : "Vader",
+            "areacodes" : ["360"],
+            "zipcodes":[98593]
+        },
+        {
+            "cityname" : "Vancouver",
+            "areacodes" : ["360"],
+            "zipcodes":[98660, 98661, 98662, 98663, 98664, 98665, 98666, 98668, 98682, 98683, 98684, 98685, 98686, 98687]
+        },
+        {
+            "cityname" : "Vashon",
+            "areacodes" : ["206"],
+            "zipcodes":[98070]
+        },
+        {
+            "cityname" : "Veradale",
+            "areacodes" : ["509"],
+            "zipcodes":[99037]
+        },
+        {
+            "cityname" : "Waitsburg",
+            "areacodes" : ["509"],
+            "zipcodes":[99361]
+        },
+        {
+            "cityname" : "Walla Walla",
+            "areacodes" : ["509"],
+            "zipcodes":[99362]
+        },
+        {
+            "cityname" : "Wapato",
+            "areacodes" : ["509"],
+            "zipcodes":[98951]
+        },
+        {
+            "cityname" : "Warden",
+            "areacodes" : ["509"],
+            "zipcodes":[98857]
+        },
+        {
+            "cityname" : "Washougal",
+            "areacodes" : ["360"],
+            "zipcodes":[98671]
+        },
+        {
+            "cityname" : "Washtucna",
+            "areacodes" : ["509"],
+            "zipcodes":[99371]
+        },
+        {
+            "cityname" : "Waterville",
+            "areacodes" : ["509"],
+            "zipcodes":[98858]
+        },
+        {
+            "cityname" : "Wenatchee",
+            "areacodes" : ["509"],
+            "zipcodes":[98801]
+        },
+        {
+            "cityname" : "West Richland",
+            "areacodes" : ["509"],
+            "zipcodes":[99353]
+        },
+        {
+            "cityname" : "Westport",
+            "areacodes" : ["360"],
+            "zipcodes":[98595]
+        },
+        {
+            "cityname" : "White Salmon",
+            "areacodes" : ["509"],
+            "zipcodes":[98672]
+        },
+        {
+            "cityname" : "White Swan",
+            "areacodes" : ["509"],
+            "zipcodes":[98952]
+        },
+        {
+            "cityname" : "Wilbur",
+            "areacodes" : ["509"],
+            "zipcodes":[99185]
+        },
+        {
+            "cityname" : "Wilkeson",
+            "areacodes" : ["360"],
+            "zipcodes":[98396]
+        },
+        {
+            "cityname" : "Wilson Creek",
+            "areacodes" : ["509"],
+            "zipcodes":[98860]
+        },
+        {
+            "cityname" : "Winlock",
+            "areacodes" : ["360"],
+            "zipcodes":[98596]
+        },
+        {
+            "cityname" : "Winthrop",
+            "areacodes" : ["509"],
+            "zipcodes":[98862]
+        },
+        {
+            "cityname" : "Wishram",
+            "areacodes" : ["509"],
+            "zipcodes":[98673]
+        },
+        {
+            "cityname" : "Woodinville",
+            "areacodes" : ["425"],
+            "zipcodes":[98072, 98077]
+        },
+        {
+            "cityname" : "Woodland",
+            "areacodes" : ["360"],
+            "zipcodes":[98674]
+        },
+        {
+            "cityname" : "Yacolt",
+            "areacodes" : ["360"],
+            "zipcodes":[98675]
+        },
+        {
+            "cityname" : "Yakima",
+            "areacodes" : ["509"],
+            "zipcodes":[98901, 98902, 98903, 98904, 98907, 98908, 98909]
+        },
+        {
+            "cityname" : "Yelm",
+            "areacodes" : ["360"],
+            "zipcodes":[98597]
+        },
+        {
+            "cityname" : "Zillah",
+            "areacodes" : ["509"],
+            "zipcodes":[98953]
+        }
+    ]
+}

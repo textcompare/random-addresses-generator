@@ -1,112 +1,1645 @@
 {
-    "streetNames": [
-        "Avenida da Liberdade",
-        "Rua Augusta",
-        "Avenida 24 de Julho",
-        "Rua de Santa Marta",
-        "Rua do Carmo",
-        "Rua de São Bento",
-        "Avenida da República",
-        "Avenida Marechal Gomes da Costa",
-        "Rua do Alecrim",
-        "Rua das Janelas Verdes",
-        "Rua do Conde Redondo",
-        "Avenida João XXI",
-        "Rua da Prata",
-        "Rua de São Paulo",
-        "Rua do Arco do Cego",
-        "Rua de São João da Praça",
-        "Avenida de Roma",
-        "Rua das Amoreiras",
-        "Avenida das Forças Armadas",
-        "Rua da Misericórdia"
+  "countrycode": "+351",
+  "phoneformat": "(A) XXX XXX XXX",
+  "country": "Portugal",
+  "neighborhoods": {
+    "corporate": [
+      "Lisbon City Center",
+      "Porto Business District",
+      "Amadora Corporate Area",
+      "Braga Business Hub",
+      "Coimbra Business District",
+      "Aveiro Corporate Zone",
+      "Funchal Business District",
+      "Vila Nova de Gaia Business Area",
+      "Albufeira Business Zone",
+      "Cascais Business Area",
+      "Setúbal Business Hub",
+      "Sintra Business District",
+      "Oeiras Corporate Zone",
+      "Maia Business Area",
+      "Guimarães Business District",
+      "Viseu Business District",
+      "Leiria Business Hub",
+      "Évora Corporate District",
+      "Póvoa de Varzim Business Area",
+      "Figueira da Foz Business Zone",
+      "Portimão Business District",
+      "Almeirim Corporate Zone",
+      "Viana do Castelo Business Area",
+      "Angra do Heroísmo Business District",
+      "Castelo Branco Corporate Zone",
+      "Barreiro Business Area",
+      "Peniche Business District",
+      "Santarém Business Hub",
+      "Ílhavo Corporate District",
+      "Vila Real Business Zone",
+      "Bragança Business District",
+      "Tomar Corporate Area",
+      "Tavira Business District",
+      "Ovar Corporate Zone",
+      "Guarda Business Area",
+      "Marinha Grande Business Hub",
+      "Loures Business District",
+      "Pombal Corporate Zone",
+      "Cantanhede Business Area",
+      "Santa Maria da Feira Business District",
+      "Ourém Business Zone",
+      "Esposende Business Area",
+      "Beja Business District",
+      "Chaves Business Hub",
+      "Barcelos Corporate Zone",
+      "Tondela Business Area",
+      "Celorico da Beira Business District",
+      "Matosinhos Corporate Zone"
     ],
-    "streetNumbers": [
-        "101",
-        "202",
-        "303",
-        "404",
-        "505",
-        "606",
-        "707",
-        "808",
-        "909",
-        "1234",
-        "4321",
-        "5678",
-        "6789",
-        "7890",
-        "8901",
-        "2345",
-        "3456",
-        "4567",
-        "5670",
-        "6781"
+    "industrial": [
+      "Lisbon Industrial Zone",
+      "Porto Industrial Park",
+      "Amadora Industrial Area",
+      "Braga Industrial District",
+      "Coimbra Industrial Zone",
+      "Aveiro Industrial Park",
+      "Funchal Industrial Area",
+      "Vila Nova de Gaia Industrial District",
+      "Albufeira Industrial Zone",
+      "Cascais Industrial Park",
+      "Setúbal Industrial Zone",
+      "Sintra Industrial Area",
+      "Oeiras Industrial Park",
+      "Maia Industrial District",
+      "Guimarães Industrial Zone",
+      "Viseu Industrial Park",
+      "Leiria Industrial Area",
+      "Évora Industrial District",
+      "Póvoa de Varzim Industrial Zone",
+      "Figueira da Foz Industrial Park",
+      "Portimão Industrial Area",
+      "Almeirim Industrial Zone",
+      "Viana do Castelo Industrial Park",
+      "Angra do Heroísmo Industrial Area",
+      "Castelo Branco Industrial Zone",
+      "Barreiro Industrial Park",
+      "Peniche Industrial Area",
+      "Santarém Industrial Zone",
+      "Ílhavo Industrial Park",
+      "Vila Real Industrial Zone",
+      "Bragança Industrial Park",
+      "Tomar Industrial Area",
+      "Tavira Industrial Zone",
+      "Ovar Industrial Park",
+      "Guarda Industrial Area",
+      "Marinha Grande Industrial Zone",
+      "Loures Industrial Park",
+      "Pombal Industrial Area",
+      "Cantanhede Industrial Zone",
+      "Santa Maria da Feira Industrial Park",
+      "Ourém Industrial Area",
+      "Esposende Industrial Zone",
+      "Beja Industrial Park",
+      "Chaves Industrial Area",
+      "Barcelos Industrial Zone",
+      "Tondela Industrial Park",
+      "Celorico da Beira Industrial Area",
+      "Matosinhos Industrial Zone"
     ],
-    "cities": [
-        "Lisbon",
-        "Porto",
-        "Braga",
-        "Coimbra",
-        "Amadora",
-        "Aveiro",
-        "Funchal",
-        "Leiria",
-        "Almada",
-        "Viseu",
-        "Évora",
-        "Cascais",
-        "Faro",
-        "Sintra",
-        "Oporto",
-        "Guimarães",
-        "Setúbal",
-        "Oeiras",
-        "Matosinhos",
-        "Barcelos"
-    ],
-    "states": [
-        "Lisbon",
-        "Porto",
-        "Braga",
-        "Coimbra",
-        "Évora",
-        "Madeira",
-        "Açores",
-        "Setúbal",
-        "Viana do Castelo",
-        "Aveiro",
-        "Leiria",
-        "Santarém",
-        "Castelo Branco",
-        "Guarda",
-        "Beja",
-        "Viseu",
-        "Funchal",
-        "Faro",
-        "Sintra",
-        "Oeiras"
-    ],
-    "zipCodes": [
-        "1000-001",
-        "1100-001",
-        "4000-001",
-        "3000-001",
-        "2700-001",
-        "3800-001",
-        "9000-001",
-        "2400-001",
-        "2800-001",
-        "3500-001",
-        "7000-001",
-        "2750-001",
-        "8000-001",
-        "2740-001",
-        "4480-001",
-        "7600-001",
-        "5000-001",
-        "1100-101",
-        "3200-001",
-        "5100-001"
+    "residential": [
+      "Lisbon",
+      "Porto",
+      "Amadora",
+      "Braga",
+      "Coimbra",
+      "Aveiro",
+      "Funchal",
+      "Vila Nova de Gaia",
+      "Albufeira",
+      "Cascais",
+      "Setúbal",
+      "Sintra",
+      "Oeiras",
+      "Maia",
+      "Guimarães",
+      "Viseu",
+      "Leiria",
+      "Évora",
+      "Póvoa de Varzim",
+      "Figueira da Foz",
+      "Portimão",
+      "Almeirim",
+      "Viana do Castelo",
+      "Angra do Heroísmo",
+      "Castelo Branco",
+      "Barreiro",
+      "Peniche",
+      "Santarém",
+      "Ílhavo",
+      "Vila Real",
+      "Bragança",
+      "Tomar",
+      "Tavira",
+      "Ovar",
+      "Guarda",
+      "Marinha Grande",
+      "Loures",
+      "Pombal",
+      "Cantanhede",
+      "Santa Maria da Feira",
+      "Ourém",
+      "Esposende",
+      "Beja",
+      "Chaves",
+      "Barcelos",
+      "Tondela",
+      "Celorico da Beira",
+      "Matosinhos",
+      "Vila do Conde",
+      "Torres Vedras",
+      "Funchal City",
+      "Vila Franca de Xira",
+      "Moura"
     ]
+  },
+  "streetnames": {
+    "corporate": [
+      "Avenida da Liberdade",
+      "Rua da Alegria",
+      "Avenida da República",
+      "Rua de São Bento",
+      "Rua do Ouro",
+      "Avenida Infante Dom Henrique",
+      "Rua de Santa Catarina",
+      "Avenida da Boavista",
+      "Rua da Junqueira",
+      "Rua de São José",
+      "Avenida de Roma",
+      "Rua de São Miguel",
+      "Avenida João XXI",
+      "Rua Castilho",
+      "Rua do Príncipe Real",
+      "Rua das Janelas Verdes",
+      "Avenida 24 de Julho",
+      "Rua do Conde Redondo",
+      "Rua de Belém",
+      "Avenida Duque de Loulé",
+      "Rua da Constituição",
+      "Avenida Magalhães Lima",
+      "Rua do Carmo",
+      "Avenida de Marquês de Pombal",
+      "Rua da Estrela",
+      "Avenida Fontes Pereira de Melo",
+      "Rua do Campo Alegre",
+      "Avenida do Brasil",
+      "Rua Augusta",
+      "Avenida D. Carlos I",
+      "Rua da Emenda",
+      "Avenida da República",
+      "Rua da Liberdade",
+      "Rua das Flores",
+      "Rua do Arco do Cego",
+      "Rua do Mercado",
+      "Rua do Príncipe Real",
+      "Avenida de Saldanha",
+      "Rua de Santo Amaro",
+      "Avenida da Liberdade 145",
+      "Rua do Parque",
+      "Rua do Poço dos Negros"
+    ],
+    "industrial": [
+      "Rua Industrial",
+      "Rua da Indústria",
+      "Avenida da Indústria",
+      "Rua do Comércio",
+      "Avenida da Fábrica",
+      "Rua do Armazém",
+      "Avenida do Porto",
+      "Rua de São João",
+      "Rua do Trabalhador",
+      "Rua do Ferro",
+      "Rua de Cima",
+      "Rua do Bombeiro",
+      "Rua do Forno",
+      "Rua das Indústrias",
+      "Rua do Comércio e Indústria",
+      "Rua de S. Pedro",
+      "Rua da Mina",
+      "Rua de São Vicente",
+      "Rua do Mercado",
+      "Rua de Cerveira",
+      "Rua de São Silvestre",
+      "Rua do Poço",
+      "Rua do Mercado de Peixe",
+      "Rua do Sul",
+      "Rua da Oficina",
+      "Rua do Magistério",
+      "Rua da Fábrica Velha",
+      "Avenida Industrial",
+      "Rua do Campo de Futebol",
+      "Avenida São João",
+      "Rua do Largo",
+      "Rua dos Trabalhadore",
+      "Avenida Central",
+      "Rua do Cais",
+      "Rua da Ribeira",
+      "Rua do Moinho",
+      "Avenida de Santa Maria",
+      "Rua do Ramo",
+      "Rua das Almas"
+    ],
+    "residential": [
+      "Rua de São José",
+      "Rua do Sol",
+      "Avenida de Lisboa",
+      "Rua do Campo de Santa Clara",
+      "Rua de São Bento",
+      "Rua da Graça",
+      "Rua do Remédios",
+      "Rua da Vitória",
+      "Rua da Madalena",
+      "Avenida de João XXI",
+      "Rua de Santa Teresa",
+      "Rua da Alegria",
+      "Avenida dos Aliados",
+      "Rua do Barreiro",
+      "Rua da Paz",
+      "Rua do Arco",
+      "Rua da Boavista",
+      "Rua da Figueira",
+      "Rua de Santo Amaro",
+      "Rua do Carmo",
+      "Rua de Santiago",
+      "Avenida da Paz",
+      "Rua da Galeria",
+      "Rua de São Miguel",
+      "Rua da Igreja",
+      "Rua dos Mercadores",
+      "Rua do Cais",
+      "Rua da Casa Branca",
+      "Rua da Alegria",
+      "Rua das Amoreiras",
+      "Rua da Ladeira",
+      "Rua da Serra",
+      "Rua do Poço",
+      "Rua das Amendoeiras",
+      "Rua da Igreja Velha",
+      "Rua do Pombal",
+      "Rua da Liberdade",
+      "Rua da Mata",
+      "Rua de São Vicente",
+      "Rua do Prado",
+      "Rua da Palmeira"
+    ]
+  },
+  "districts": {
+    "Aveiro": {
+      "cities": [
+        {
+          "cityname": "Aveiro",
+          "zipcodes": [
+            "3800",
+            "3801",
+            "3802",
+            "3803",
+            "3804"
+          ],
+          "areacodes": [
+            "234"
+          ]
+        },
+        {
+          "cityname": "Ílhavo",
+          "zipcodes": [
+            "3830",
+            "3831",
+            "3832",
+            "3833",
+            "3834"
+          ],
+          "areacodes": [
+            "234"
+          ]
+        },
+        {
+          "cityname": "Albergaria-a-Velha",
+          "zipcodes": [
+            "3850",
+            "3851",
+            "3852",
+            "3853",
+            "3854"
+          ],
+          "areacodes": [
+            "234"
+          ]
+        },
+        {
+          "cityname": "Murtosa",
+          "zipcodes": [
+            "3870",
+            "3871",
+            "3872",
+            "3873",
+            "3874"
+          ],
+          "areacodes": [
+            "234"
+          ]
+        },
+        {
+          "cityname": "Ovar",
+          "zipcodes": [
+            "3880",
+            "3881",
+            "3882",
+            "3883",
+            "3884"
+          ],
+          "areacodes": [
+            "256"
+          ]
+        }
+      ],
+      "name": "Aveiro"
+    },
+    "Beja": {
+      "cities": [
+        {
+          "cityname": "Beja",
+          "zipcodes": [
+            "7800",
+            "7801",
+            "7802",
+            "7803",
+            "7804"
+          ],
+          "areacodes": [
+            "284"
+          ]
+        },
+        {
+          "cityname": "Aljustrel",
+          "zipcodes": [
+            "7600",
+            "7601",
+            "7602",
+            "7603",
+            "7604"
+          ],
+          "areacodes": [
+            "284"
+          ]
+        },
+        {
+          "cityname": "Castro Verde",
+          "zipcodes": [
+            "7780",
+            "7781",
+            "7782",
+            "7783",
+            "7784"
+          ],
+          "areacodes": [
+            "286"
+          ]
+        },
+        {
+          "cityname": "Serpa",
+          "zipcodes": [
+            "7830",
+            "7831",
+            "7832",
+            "7833",
+            "7834"
+          ],
+          "areacodes": [
+            "284"
+          ]
+        },
+        {
+          "cityname": "Odemira",
+          "zipcodes": [
+            "7630",
+            "7631",
+            "7632",
+            "7633",
+            "7634"
+          ],
+          "areacodes": [
+            "283"
+          ]
+        }
+      ],
+      "name": "Beja"
+    },
+    "Braga": {
+      "cities": [
+        {
+          "cityname": "Braga",
+          "zipcodes": [
+            "4700",
+            "4701",
+            "4702",
+            "4703",
+            "4704"
+          ],
+          "areacodes": [
+            "253"
+          ]
+        },
+        {
+          "cityname": "Guimarães",
+          "zipcodes": [
+            "4800",
+            "4801",
+            "4802",
+            "4803",
+            "4804"
+          ],
+          "areacodes": [
+            "253"
+          ]
+        },
+        {
+          "cityname": "Famalicão",
+          "zipcodes": [
+            "4760",
+            "4761",
+            "4762",
+            "4763",
+            "4764"
+          ],
+          "areacodes": [
+            "252"
+          ]
+        },
+        {
+          "cityname": "Vila Verde",
+          "zipcodes": [
+            "4720",
+            "4721",
+            "4722",
+            "4723",
+            "4724"
+          ],
+          "areacodes": [
+            "253"
+          ]
+        },
+        {
+          "cityname": "Barcelos",
+          "zipcodes": [
+            "4750",
+            "4751",
+            "4752",
+            "4753",
+            "4754"
+          ],
+          "areacodes": [
+            "253"
+          ]
+        }
+      ],
+      "name": "Braga"
+    },
+    "Bragança": {
+      "cities": [
+        {
+          "cityname": "Bragança",
+          "zipcodes": [
+            "5300",
+            "5301",
+            "5302",
+            "5303",
+            "5304"
+          ],
+          "areacodes": [
+            "273"
+          ]
+        },
+        {
+          "cityname": "Macedo de Cavaleiros",
+          "zipcodes": [
+            "5340",
+            "5341",
+            "5342",
+            "5343",
+            "5344"
+          ],
+          "areacodes": [
+            "278"
+          ]
+        },
+        {
+          "cityname": "Vinhais",
+          "zipcodes": [
+            "5320",
+            "5321",
+            "5322",
+            "5323",
+            "5324"
+          ],
+          "areacodes": [
+            "273"
+          ]
+        },
+        {
+          "cityname": "Mirandela",
+          "zipcodes": [
+            "5370",
+            "5371",
+            "5372",
+            "5373",
+            "5374"
+          ],
+          "areacodes": [
+            "278"
+          ]
+        },
+        {
+          "cityname": "Bragança",
+          "zipcodes": [
+            "5300",
+            "5301",
+            "5302",
+            "5303",
+            "5304"
+          ],
+          "areacodes": [
+            "273"
+          ]
+        }
+      ],
+      "name": "Bragança"
+    },
+    "Castelo Branco": {
+      "cities": [
+        {
+          "cityname": "Castelo Branco",
+          "zipcodes": [
+            "6000",
+            "6001",
+            "6002",
+            "6003",
+            "6004"
+          ],
+          "areacodes": [
+            "272"
+          ]
+        },
+        {
+          "cityname": "Covilhã",
+          "zipcodes": [
+            "6200",
+            "6201",
+            "6202",
+            "6203",
+            "6204"
+          ],
+          "areacodes": [
+            "275"
+          ]
+        },
+        {
+          "cityname": "Fundão",
+          "zipcodes": [
+            "6230",
+            "6231",
+            "6232",
+            "6233",
+            "6234"
+          ],
+          "areacodes": [
+            "275"
+          ]
+        },
+        {
+          "cityname": "Penamacor",
+          "zipcodes": [
+            "6150",
+            "6151",
+            "6152",
+            "6153",
+            "6154"
+          ],
+          "areacodes": [
+            "277"
+          ]
+        },
+        {
+          "cityname": "Belmonte",
+          "zipcodes": [
+            "6250",
+            "6251",
+            "6252",
+            "6253",
+            "6254"
+          ],
+          "areacodes": [
+            "275"
+          ]
+        }
+      ],
+      "name": "Castelo Branco"
+    },
+    "Coimbra": {
+      "cities": [
+        {
+          "cityname": "Coimbra",
+          "zipcodes": [
+            "3000",
+            "3001",
+            "3002",
+            "3003",
+            "3004"
+          ],
+          "areacodes": [
+            "239"
+          ]
+        },
+        {
+          "cityname": "Figueira da Foz",
+          "zipcodes": [
+            "3080",
+            "3081",
+            "3082",
+            "3083",
+            "3084"
+          ],
+          "areacodes": [
+            "233"
+          ]
+        },
+        {
+          "cityname": "Montemor-o-Velho",
+          "zipcodes": [
+            "3150",
+            "3151",
+            "3152",
+            "3153",
+            "3154"
+          ],
+          "areacodes": [
+            "239"
+          ]
+        },
+        {
+          "cityname": "Cantanhede",
+          "zipcodes": [
+            "3140",
+            "3141",
+            "3142",
+            "3143",
+            "3144"
+          ],
+          "areacodes": [
+            "231"
+          ]
+        },
+        {
+          "cityname": "Soure",
+          "zipcodes": [
+            "3130",
+            "3131",
+            "3132",
+            "3133",
+            "3134"
+          ],
+          "areacodes": [
+            "239"
+          ]
+        }
+      ],
+      "name": "Coimbra"
+    },
+    "Évora": {
+      "cities": [
+        {
+          "cityname": "Évora",
+          "zipcodes": [
+            "7000",
+            "7001",
+            "7002",
+            "7003",
+            "7004"
+          ],
+          "areacodes": [
+            "266"
+          ]
+        },
+        {
+          "cityname": "Arraiolos",
+          "zipcodes": [
+            "7040",
+            "7041",
+            "7042",
+            "7043",
+            "7044"
+          ],
+          "areacodes": [
+            "266"
+          ]
+        },
+        {
+          "cityname": "Vendas Novas",
+          "zipcodes": [
+            "7080",
+            "7081",
+            "7082",
+            "7083",
+            "7084"
+          ],
+          "areacodes": [
+            "265"
+          ]
+        },
+        {
+          "cityname": "Reguengos de Monsaraz",
+          "zipcodes": [
+            "7200",
+            "7201",
+            "7202",
+            "7203",
+            "7204"
+          ],
+          "areacodes": [
+            "266"
+          ]
+        },
+        {
+          "cityname": "Montemor-o-Novo",
+          "zipcodes": [
+            "7050",
+            "7051",
+            "7052",
+            "7053",
+            "7054"
+          ],
+          "areacodes": [
+            "266"
+          ]
+        }
+      ],
+      "name": "Évora"
+    },
+    "Faro": {
+      "cities": [
+        {
+          "cityname": "Faro",
+          "zipcodes": [
+            "8000",
+            "8001",
+            "8002",
+            "8003",
+            "8004"
+          ],
+          "areacodes": [
+            "289"
+          ]
+        },
+        {
+          "cityname": "Albufeira",
+          "zipcodes": [
+            "8200",
+            "8201",
+            "8202",
+            "8203",
+            "8204"
+          ],
+          "areacodes": [
+            "289"
+          ]
+        },
+        {
+          "cityname": "Portimão",
+          "zipcodes": [
+            "8500",
+            "8501",
+            "8502",
+            "8503",
+            "8504"
+          ],
+          "areacodes": [
+            "282"
+          ]
+        },
+        {
+          "cityname": "Lagos",
+          "zipcodes": [
+            "8600",
+            "8601",
+            "8602",
+            "8603",
+            "8604"
+          ],
+          "areacodes": [
+            "282"
+          ]
+        },
+        {
+          "cityname": "Tavira",
+          "zipcodes": [
+            "8800",
+            "8801",
+            "8802",
+            "8803",
+            "8804"
+          ],
+          "areacodes": [
+            "281"
+          ]
+        }
+      ],
+      "name": "Faro"
+    },
+    "Madeira (Autonomous Region)": {
+      "cities": [
+        {
+          "cityname": "Funchal",
+          "zipcodes": [
+            "9000",
+            "9001",
+            "9002",
+            "9003",
+            "9004"
+          ],
+          "areacodes": [
+            "291"
+          ]
+        },
+        {
+          "cityname": "Santa Cruz",
+          "zipcodes": [
+            "9100",
+            "9101",
+            "9102",
+            "9103",
+            "9104"
+          ],
+          "areacodes": [
+            "291"
+          ]
+        },
+        {
+          "cityname": "Machico",
+          "zipcodes": [
+            "9200",
+            "9201",
+            "9202",
+            "9203",
+            "9204"
+          ],
+          "areacodes": [
+            "291"
+          ]
+        },
+        {
+          "cityname": "Caniço",
+          "zipcodes": [
+            "9125",
+            "9126",
+            "9127",
+            "9128",
+            "9129"
+          ],
+          "areacodes": [
+            "291"
+          ]
+        },
+        {
+          "cityname": "Ribeira Brava",
+          "zipcodes": [
+            "9350",
+            "9351",
+            "9352",
+            "9353",
+            "9354"
+          ],
+          "areacodes": [
+            "291"
+          ]
+        }
+      ],
+      "name": "Madeira (Autonomous Region)"
+    },
+    "Guarda": {
+      "cities": [
+        {
+          "cityname": "Guarda",
+          "zipcodes": [
+            "6300",
+            "6301",
+            "6302",
+            "6303",
+            "6304"
+          ],
+          "areacodes": [
+            "271"
+          ]
+        },
+        {
+          "cityname": "Figueira de Castelo Rodrigo",
+          "zipcodes": [
+            "6430",
+            "6431",
+            "6432",
+            "6433",
+            "6434"
+          ],
+          "areacodes": [
+            "271"
+          ]
+        },
+        {
+          "cityname": "Pinhel",
+          "zipcodes": [
+            "6400",
+            "6401",
+            "6402",
+            "6403",
+            "6404"
+          ],
+          "areacodes": [
+            "271"
+          ]
+        },
+        {
+          "cityname": "Vila Nova de Foz Côa",
+          "zipcodes": [
+            "5150",
+            "5151",
+            "5152",
+            "5153",
+            "5154"
+          ],
+          "areacodes": [
+            "271"
+          ]
+        },
+        {
+          "cityname": "Mêda",
+          "zipcodes": [
+            "6435",
+            "6436",
+            "6437",
+            "6438",
+            "6439"
+          ],
+          "areacodes": [
+            "271"
+          ]
+        }
+      ],
+      "name": "Guarda"
+    },
+    "Leiria": {
+      "cities": [
+        {
+          "cityname": "Leiria",
+          "zipcodes": [
+            "2400",
+            "2401",
+            "2402",
+            "2403",
+            "2404"
+          ],
+          "areacodes": [
+            "244"
+          ]
+        },
+        {
+          "cityname": "Caldas da Rainha",
+          "zipcodes": [
+            "2500",
+            "2501",
+            "2502",
+            "2503",
+            "2504"
+          ],
+          "areacodes": [
+            "262"
+          ]
+        },
+        {
+          "cityname": "Peniche",
+          "zipcodes": [
+            "2520",
+            "2521",
+            "2522",
+            "2523",
+            "2524"
+          ],
+          "areacodes": [
+            "262"
+          ]
+        },
+        {
+          "cityname": "Marinha Grande",
+          "zipcodes": [
+            "2430",
+            "2431",
+            "2432",
+            "2433",
+            "2434"
+          ],
+          "areacodes": [
+            "244"
+          ]
+        },
+        {
+          "cityname": "Óbidos",
+          "zipcodes": [
+            "2510",
+            "2511",
+            "2512",
+            "2513",
+            "2514"
+          ],
+          "areacodes": [
+            "262"
+          ]
+        }
+      ],
+      "name": "Leiria"
+    },
+    "Lisbon": {
+      "cities": [
+        {
+          "cityname": "Lisbon",
+          "zipcodes": [
+            "1000",
+            "1001",
+            "1002",
+            "1003",
+            "1004"
+          ],
+          "areacodes": [
+            "21"
+          ]
+        },
+        {
+          "cityname": "Amadora",
+          "zipcodes": [
+            "2700",
+            "2701",
+            "2702",
+            "2703",
+            "2704"
+          ],
+          "areacodes": [
+            "21"
+          ]
+        },
+        {
+          "cityname": "Cascais",
+          "zipcodes": [
+            "2750",
+            "2751",
+            "2752",
+            "2753",
+            "2754"
+          ],
+          "areacodes": [
+            "21"
+          ]
+        },
+        {
+          "cityname": "Oeiras",
+          "zipcodes": [
+            "2780",
+            "2781",
+            "2782",
+            "2783",
+            "2784"
+          ],
+          "areacodes": [
+            "21"
+          ]
+        },
+        {
+          "cityname": "Sintra",
+          "zipcodes": [
+            "2710",
+            "2711",
+            "2712",
+            "2713",
+            "2714"
+          ],
+          "areacodes": [
+            "21"
+          ]
+        }
+      ],
+      "name": "Lisbon"
+    },
+    "Portalegre": {
+      "cities": [
+        {
+          "cityname": "Portalegre",
+          "zipcodes": [
+            "7300",
+            "7301",
+            "7302",
+            "7303",
+            "7304"
+          ],
+          "areacodes": [
+            "245"
+          ]
+        },
+        {
+          "cityname": "Alter do Chão",
+          "zipcodes": [
+            "7440",
+            "7441",
+            "7442",
+            "7443",
+            "7444"
+          ],
+          "areacodes": [
+            "245"
+          ]
+        },
+        {
+          "cityname": "Crato",
+          "zipcodes": [
+            "7430",
+            "7431",
+            "7432",
+            "7433",
+            "7434"
+          ],
+          "areacodes": [
+            "245"
+          ]
+        },
+        {
+          "cityname": "Campo Maior",
+          "zipcodes": [
+            "7370",
+            "7371",
+            "7372",
+            "7373",
+            "7374"
+          ],
+          "areacodes": [
+            "245"
+          ]
+        },
+        {
+          "cityname": "Marvão",
+          "zipcodes": [
+            "7330",
+            "7331",
+            "7332",
+            "7333",
+            "7334"
+          ],
+          "areacodes": [
+            "245"
+          ]
+        }
+      ],
+      "name": "Portalegre"
+    },
+    "Porto": {
+      "cities": [
+        {
+          "cityname": "Porto",
+          "zipcodes": [
+            "4000",
+            "4001",
+            "4002",
+            "4003",
+            "4004"
+          ],
+          "areacodes": [
+            "22"
+          ]
+        },
+        {
+          "cityname": "Matosinhos",
+          "zipcodes": [
+            "4450",
+            "4451",
+            "4452",
+            "4453",
+            "4454"
+          ],
+          "areacodes": [
+            "22"
+          ]
+        },
+        {
+          "cityname": "Vila Nova de Gaia",
+          "zipcodes": [
+            "4430",
+            "4431",
+            "4432",
+            "4433",
+            "4434"
+          ],
+          "areacodes": [
+            "22"
+          ]
+        },
+        {
+          "cityname": "Amarante",
+          "zipcodes": [
+            "4600",
+            "4601",
+            "4602",
+            "4603",
+            "4604"
+          ],
+          "areacodes": [
+            "255"
+          ]
+        },
+        {
+          "cityname": "Póvoa de Varzim",
+          "zipcodes": [
+            "4490",
+            "4491",
+            "4492",
+            "4493",
+            "4494"
+          ],
+          "areacodes": [
+            "252"
+          ]
+        }
+      ],
+      "name": "Porto"
+    },
+    "Santarém": {
+      "cities": [
+        {
+          "cityname": "Santarém",
+          "zipcodes": [
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004"
+          ],
+          "areacodes": [
+            "243"
+          ]
+        },
+        {
+          "cityname": "Abrantes",
+          "zipcodes": [
+            "2200",
+            "2201",
+            "2202",
+            "2203",
+            "2204"
+          ],
+          "areacodes": [
+            "241"
+          ]
+        },
+        {
+          "cityname": "Cartaxo",
+          "zipcodes": [
+            "2070",
+            "2071",
+            "2072",
+            "2073",
+            "2074"
+          ],
+          "areacodes": [
+            "243"
+          ]
+        },
+        {
+          "cityname": "Almeirim",
+          "zipcodes": [
+            "2080",
+            "2081",
+            "2082",
+            "2083",
+            "2084"
+          ],
+          "areacodes": [
+            "243"
+          ]
+        },
+        {
+          "cityname": "Tomar",
+          "zipcodes": [
+            "2300",
+            "2301",
+            "2302",
+            "2303",
+            "2304"
+          ],
+          "areacodes": [
+            "249"
+          ]
+        }
+      ],
+      "name": "Santarém"
+    },
+    "Setúbal": {
+      "cities": [
+        {
+          "cityname": "Setúbal",
+          "zipcodes": [
+            "2900",
+            "2901",
+            "2902",
+            "2903",
+            "2904"
+          ],
+          "areacodes": [
+            "265"
+          ]
+        },
+        {
+          "cityname": "Sesimbra",
+          "zipcodes": [
+            "2970",
+            "2971",
+            "2972",
+            "2973",
+            "2974"
+          ],
+          "areacodes": [
+            "21"
+          ]
+        },
+        {
+          "cityname": "Barreiro",
+          "zipcodes": [
+            "2830",
+            "2831",
+            "2832",
+            "2833",
+            "2834"
+          ],
+          "areacodes": [
+            "21"
+          ]
+        },
+        {
+          "cityname": "Alcáçovas",
+          "zipcodes": [
+            "7580",
+            "7581",
+            "7582",
+            "7583",
+            "7584"
+          ],
+          "areacodes": [
+            "265"
+          ]
+        },
+        {
+          "cityname": "Sesimbra",
+          "zipcodes": [
+            "2970",
+            "2971",
+            "2972",
+            "2973",
+            "2974"
+          ],
+          "areacodes": [
+            "21"
+          ]
+        }
+      ],
+      "name": "Setúbal"
+    },
+    "Viana do Castelo": {
+      "cities": [
+        {
+          "cityname": "Viana do Castelo",
+          "zipcodes": [
+            "4900",
+            "4901",
+            "4902",
+            "4903",
+            "4904"
+          ],
+          "areacodes": [
+            "258"
+          ]
+        },
+        {
+          "cityname": "Ponte de Lima",
+          "zipcodes": [
+            "4990",
+            "4991",
+            "4992",
+            "4993",
+            "4994"
+          ],
+          "areacodes": [
+            "258"
+          ]
+        },
+        {
+          "cityname": "Monção",
+          "zipcodes": [
+            "4950",
+            "4951",
+            "4952",
+            "4953",
+            "4954"
+          ],
+          "areacodes": [
+            "258"
+          ]
+        },
+        {
+          "cityname": "Caminha",
+          "zipcodes": [
+            "4910",
+            "4911",
+            "4912",
+            "4913",
+            "4914"
+          ],
+          "areacodes": [
+            "258"
+          ]
+        },
+        {
+          "cityname": "Arcos de Valdevez",
+          "zipcodes": [
+            "4970",
+            "4971",
+            "4972",
+            "4973",
+            "4974"
+          ],
+          "areacodes": [
+            "258"
+          ]
+        }
+      ],
+      "name": "Viana do Castelo"
+    },
+    "Vila Real": {
+      "cities": [
+        {
+          "cityname": "Vila Real",
+          "zipcodes": [
+            "5000",
+            "5001",
+            "5002",
+            "5003",
+            "5004"
+          ],
+          "areacodes": [
+            "259"
+          ]
+        },
+        {
+          "cityname": "Peso da Régua",
+          "zipcodes": [
+            "5050",
+            "5051",
+            "5052",
+            "5053",
+            "5054"
+          ],
+          "areacodes": [
+            "259"
+          ]
+        },
+        {
+          "cityname": "Boticas",
+          "zipcodes": [
+            "5460",
+            "5461",
+            "5462",
+            "5463",
+            "5464"
+          ],
+          "areacodes": [
+            "259"
+          ]
+        },
+        {
+          "cityname": "Ribeira de Pena",
+          "zipcodes": [
+            "5420",
+            "5421",
+            "5422",
+            "5423",
+            "5424"
+          ],
+          "areacodes": [
+            "259"
+          ]
+        },
+        {
+          "cityname": "Montalegre",
+          "zipcodes": [
+            "5470",
+            "5471",
+            "5472",
+            "5473",
+            "5474"
+          ],
+          "areacodes": [
+            "259"
+          ]
+        }
+      ],
+      "name": "Vila Real"
+    }
+  },
+  "citycontainers": [
+    "districts"
+  ],
+  "firstnames": [
+    "João",
+    "Maria",
+    "Pedro",
+    "Ana",
+    "Francisco",
+    "Carlos",
+    "Joana",
+    "Rui",
+    "Beatriz",
+    "Miguel",
+    "Sofia",
+    "Tiago",
+    "Luís",
+    "Sara",
+    "Martim",
+    "Ricardo",
+    "Catarina",
+    "André",
+    "Patrícia",
+    "Fábio",
+    "Miguel",
+    "Marta",
+    "Daniel",
+    "Cláudia",
+    "Paulo",
+    "Teresa",
+    "Leonor",
+    "Nuno",
+    "Isabel",
+    "Bruno",
+    "Vanessa",
+    "Carlos",
+    "Rui",
+    "Vítor",
+    "Filipa",
+    "Pedro",
+    "Helena",
+    "José",
+    "Raquel",
+    "Alexandre",
+    "Liliana",
+    "Gonçalo"
+  ],
+  "lastnames": [
+    "Silva",
+    "Santos",
+    "Ferreira",
+    "Pereira",
+    "Costa",
+    "Rodrigues",
+    "Almeida",
+    "Martins",
+    "Oliveira",
+    "Gomes",
+    "Sousa",
+    "Lopes",
+    "Carvalho",
+    "Ribeiro",
+    "Mendes",
+    "Fernandes",
+    "Pinto",
+    "Machado",
+    "Duarte",
+    "Teixeira",
+    "Araujo",
+    "Correia",
+    "Morais",
+    "Nascimento",
+    "Cardoso",
+    "Monteiro",
+    "Ramos",
+    "Figueiredo",
+    "Castro",
+    "Simões",
+    "Sousa",
+    "Dias",
+    "Nunes",
+    "Moura",
+    "Borges",
+    "Tavares",
+    "Barbosa",
+    "Campos",
+    "Marques",
+    "Cunha",
+    "Lima",
+    "Vasconcelos"
+  ]
 }

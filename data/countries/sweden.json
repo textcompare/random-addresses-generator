@@ -1,107 +1,1443 @@
 {
-    "streetNames": [
-        "Drottninggatan",
-        "Sveavägen",
-        "Götgatan",
-        "Vasagatan",
-        "Kungsgatan",
-        "Olof Palmes gata",
-        "Birger Jarlsgatan",
-        "Hötorget",
-        "Sturegatan",
-        "Sergels Torg",
-        "Lilla Varholmen",
-        "Avenyn",
-        "Björngårdsgatan",
-        "Katarina Bangata",
-        "Västmannagatan",
-        "Sundbybergsvägen",
-        "Hantverkargatan",
-        "Västerlånggatan",
-        "Norrlandsgatan",
-        "Torsgatan"
+  "countrycode": "+46",
+  "phoneformat": "(A) XXX XX XX XX",
+  "country": "Sweden",
+  "neighborhoods": {
+    "corporate": [
+      "Stockholm City Center",
+      "Gothenburg City Center",
+      "Malmo City Center",
+      "Uppsala City Center",
+      "Vasteras",
+      "Orebro",
+      "Linkoping",
+      "Helsingborg",
+      "Norrkoping",
+      "Lund",
+      "Växjö",
+      "Borås",
+      "Jönköping",
+      "Halmstad",
+      "Gävle",
+      "Sundsvall",
+      "Kiruna",
+      "Karlstad",
+      "Umeå",
+      "Östersund",
+      "Luleå",
+      "Skellefteå",
+      "Eskilstuna",
+      "Nyköping",
+      "Malmö Hyllie",
+      "Kungalv",
+      "Trollhättan",
+      "Värnamo",
+      "Alingsås",
+      "Varberg",
+      "Hässleholm",
+      "Östersund",
+      "Mora",
+      "Falun",
+      "Tumba",
+      "Borlänge",
+      "Sundbyberg",
+      "Sollentuna",
+      "Lidingö",
+      "Täby",
+      "Nacka",
+      "Vallentuna",
+      "Upplands Väsby",
+      "Botkyrka",
+      "Ekerö",
+      "Landskrona",
+      "Helsingborg",
+      "Växjö",
+      "Örebro",
+      "Linköping"
     ],
-    "streetNumbers": [
-        "101",
-        "202",
-        "303",
-        "404",
-        "505",
-        "606",
-        "707",
-        "808",
-        "909",
-        "1234",
-        "4321",
-        "5678",
-        "6789",
-        "7890",
-        "8901",
-        "2345",
-        "3456",
-        "4567",
-        "5670",
-        "6781"
+    "industrial": [
+      "Helsingborg Industrial Zone",
+      "Gothenburg Industrial Park",
+      "Stockholm Industrial Complex",
+      "Uppsala Industrial Park",
+      "Västerås Industrial Area",
+      "Linköping Industrial District",
+      "Örebro Industrial Zone",
+      "Jönköping Industrial Complex",
+      "Halmstad Industrial Area",
+      "Gävle Industrial Park",
+      "Sundsvall Industrial Zone",
+      "Malmö Industrial District",
+      "Norrköping Industrial Complex",
+      "Lund Industrial Zone",
+      "Växjö Industrial Park",
+      "Borlänge Industrial District",
+      "Trollhättan Industrial Park",
+      "Karlstad Industrial Area",
+      "Umeå Industrial Zone",
+      "Kiruna Industrial District",
+      "Skellefteå Industrial Complex",
+      "Falun Industrial Park",
+      "Sundbyberg Industrial Zone",
+      "Alingsås Industrial Area",
+      "Värnamo Industrial Complex",
+      "Borlänge Industrial Zone",
+      "Vallentuna Industrial District",
+      "Varberg Industrial Complex",
+      "Tumba Industrial Park",
+      "Mora Industrial Zone",
+      "Skövde Industrial Park",
+      "Hässleholm Industrial Complex",
+      "Nyköping Industrial Zone",
+      "Eskilstuna Industrial Area",
+      "Kungsbacka Industrial Park",
+      "Kungalv Industrial District",
+      "Ekerö Industrial Complex",
+      "Mölndal Industrial Zone",
+      "Falkenberg Industrial Area",
+      "Landskrona Industrial Park",
+      "Solna Industrial District",
+      "Botkyrka Industrial Zone",
+      "Vallentuna Industrial Park",
+      "Täby Industrial Complex",
+      "Nacka Industrial Zone",
+      "Upplands Väsby Industrial Area",
+      "Tumba Industrial Zone"
     ],
-    "cities": [
-        "Stockholm",
-        "Gothenburg",
-        "Malmö",
-        "Uppsala",
-        "Västerås",
-        "Örebro",
-        "Linköping",
-        "Helsingborg",
-        "Jönköping",
-        "Norrköping",
-        "Lund",
-        "Umeå",
-        "Borås",
-        "Eskilstuna",
-        "Sundsvall",
-        "Gävle",
-        "Karlstad",
-        "Trollhättan",
-        "Östersund",
-        "Växjö"
-    ],
-    "states": [
-        "Stockholm",
-        "Västra Götaland",
-        "Skåne",
-        "Uppsala",
-        "Östergötland",
-        "Södermanland",
-        "Värmland",
-        "Västerbotten",
-        "Jämtland",
-        "Gävleborg",
-        "Halland",
-        "Kronoberg",
-        "Norrbotten",
-        "Dalarna",
-        "Kalmar",
-        "Gotland"
-    ],
-    "zipCodes": [
-        "100 00",
-        "200 00",
-        "300 00",
-        "400 00",
-        "500 00",
-        "600 00",
-        "700 00",
-        "800 00",
-        "900 00",
-        "1234",
-        "5678",
-        "9012",
-        "3456",
-        "2345",
-        "6789",
-        "8901",
-        "1001",
-        "2900",
-        "3123"
+    "residential": [
+      "Stockholm City",
+      "Gothenburg City",
+      "Malmo",
+      "Uppsala",
+      "Västerås",
+      "Orebro",
+      "Lund",
+      "Växjö",
+      "Linköping",
+      "Helsingborg",
+      "Norrköping",
+      "Jönköping",
+      "Borås",
+      "Karlstad",
+      "Sundsvall",
+      "Malmö",
+      "Trollhättan",
+      "Värnamo",
+      "Alingsås",
+      "Luleå",
+      "Falun",
+      "Halmstad",
+      "Gävle",
+      "Sundbyberg",
+      "Sollentuna",
+      "Lidingö",
+      "Täby",
+      "Nacka",
+      "Vallentuna",
+      "Upplands Väsby",
+      "Botkyrka",
+      "Ekerö",
+      "Landskrona",
+      "Hässelholm",
+      "Tumba",
+      "Vallentuna",
+      "Skövde",
+      "Borlänge",
+      "Skellefteå",
+      "Mora",
+      "Östersund",
+      "Umeå",
+      "Sundsvall",
+      "Västervik",
+      "Östersund",
+      "Landskrona",
+      "Skövde",
+      "Trollhättan",
+      "Kiruna"
     ]
+  },
+  "streetnames": {
+    "corporate": [
+      "Sveavägen",
+      "Västerlånggatan",
+      "Klarabergsgatan",
+      "Kungsgatan",
+      "Drottninggatan",
+      "Hötorget",
+      "Hamngatan",
+      "Mäster Samuelsgatan",
+      "Storgatan",
+      "Olof Palmes gata",
+      "Vasagatan",
+      "Kungsbroplan",
+      "Norrtull",
+      "Kommendörsgatan",
+      "Birger Jarlsgatan",
+      "Regeringsgatan",
+      "Stadshuset",
+      "Birkastan",
+      "Hornsgatan",
+      "Fridhemsgatan",
+      "Södergatan",
+      "Vasastan",
+      "Lilla Essingen",
+      "Södra Förstadsgatan",
+      "Kaptensgatan",
+      "Avenyn",
+      "Sankt Eriksgatan",
+      "Birger Jarlsgatan",
+      "Sundbybergsgatan",
+      "Högtorget",
+      "Sveavägen",
+      "Drottningholmsvägen",
+      "Lilla Varholmen",
+      "Mölndalsvägen",
+      "Kungsholmsgatan",
+      "Tullgårdsgatan",
+      "Stortorget",
+      "Sundbyberg",
+      "Ostermalmstorg",
+      "Västerbroplan",
+      "Stureplan",
+      "Strandvägen",
+      "Västra Långgatan",
+      "Järnvägsgatan",
+      "Kungsbrogatan"
+    ],
+    "industrial": [
+      "Industriområdet",
+      "Kopparbergsvägen",
+      "Frösundaviks Allé",
+      "Lilla Varholmen",
+      "Tegelvägen",
+      "Norrtull",
+      "Skellefteå Industrivägen",
+      "Sundsvall Industriområde",
+      "Falkenbergsvägen",
+      "Björndammsvägen",
+      "Västerlånggatan",
+      "Högbergsgatan",
+      "Avd 5",
+      "Helsingborgsvägen",
+      "Gamlestadsvägen",
+      "Almedalsvägen",
+      "Östersundsvägen",
+      "Södra Vägen",
+      "Gårda Industrigata",
+      "Ravelsgatan",
+      "Härryda Industriväg",
+      "Sverige Industriområde",
+      "Gävle Industriväg",
+      "Bergslagsvägen",
+      "Malmö Industriväg",
+      "Norrköpings Industriområde",
+      "Linköpings Industriväg",
+      "Trollhättans Industrigata",
+      "Skövdes Industriområde",
+      "Kungsbacka Industriväg",
+      "Växjö Industriområde",
+      "Borlänge Industriväg",
+      "Västerås Industrigata",
+      "Karlskoga Industriväg",
+      "Jönköpings Industriväg",
+      "Sundsvalls Industriväg",
+      "Falun Industrigata",
+      "Borlänge Industriväg",
+      "Värnamo Industriväg",
+      "Skövde Industriväg",
+      "Umeå Industrigata",
+      "Nyköping Industriväg",
+      "Sundbybergs Industriväg"
+    ],
+    "residential": [
+      "Norrtullsgatan",
+      "Birger Jarlsgatan",
+      "Regeringsgatan",
+      "Hötorget",
+      "Vasagatan",
+      "Kommendörsgatan",
+      "Kungsbroplan",
+      "Sundbybergsplan",
+      "Drottninggatan",
+      "Sturegatan",
+      "Södra Förstadsgatan",
+      "Kungsgatan",
+      "Västerlånggatan",
+      "Klarabergsgatan",
+      "Fridhemsgatan",
+      "Mäster Samuelsgatan",
+      "Strandvägen",
+      "Götgatan",
+      "Västerbroplan",
+      "Avenyn",
+      "Kaptensgatan",
+      "Järnvägsgatan",
+      "Götgatan",
+      "Högbergsgatan",
+      "Tullgårdsgatan",
+      "Högkvarteret",
+      "Kopparbergsvägen",
+      "Björndammsvägen",
+      "Hälsingegatan",
+      "Folkungagatan",
+      "Riddargatan",
+      "Frösundaviks Allé",
+      "Mölndalsvägen",
+      "Birkastan",
+      "Hornsgatan",
+      "Folkets Park",
+      "Lilla Essingen",
+      "Järnvägsgatan",
+      "Gårda Industrivägen",
+      "Västra Långgatan",
+      "Sundsvallsgatan",
+      "Drottningholmsvägen",
+      "Mölndalsvägen",
+      "Skara Vägen",
+      "Teglverkshagen"
+    ]
+  },
+  "counties": {
+    "Stockholm": {
+      "name": "Stockholm",
+      "cities": [
+        {
+          "cityname": "Stockholm",
+          "zipcodes": [
+            "10000",
+            "10001",
+            "10002",
+            "10003",
+            "10004"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        {
+          "cityname": "Sundbyberg",
+          "zipcodes": [
+            "17200",
+            "17201",
+            "17202",
+            "17203",
+            "17204"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        {
+          "cityname": "Solna",
+          "zipcodes": [
+            "16900",
+            "16901",
+            "16902",
+            "16903",
+            "16904"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        {
+          "cityname": "Västerhaninge",
+          "zipcodes": [
+            "13700",
+            "13701",
+            "13702",
+            "13703",
+            "13704"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        {
+          "cityname": "Nacka",
+          "zipcodes": [
+            "13100",
+            "13101",
+            "13102",
+            "13103",
+            "13104"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        }
+      ]
+    },
+    "Västra Götaland": {
+      "name": "Västra Götaland",
+      "cities": [
+        {
+          "cityname": "Göteborg",
+          "zipcodes": [
+            "40000",
+            "40001",
+            "40002",
+            "40003",
+            "40004"
+          ],
+          "areacodes": [
+            "031"
+          ]
+        },
+        {
+          "cityname": "Borås",
+          "zipcodes": [
+            "50100",
+            "50101",
+            "50102",
+            "50103",
+            "50104"
+          ],
+          "areacodes": [
+            "033"
+          ]
+        },
+        {
+          "cityname": "Mölndal",
+          "zipcodes": [
+            "43100",
+            "43101",
+            "43102",
+            "43103",
+            "43104"
+          ],
+          "areacodes": [
+            "031"
+          ]
+        },
+        {
+          "cityname": "Skövde",
+          "zipcodes": [
+            "54100",
+            "54101",
+            "54102",
+            "54103",
+            "54104"
+          ],
+          "areacodes": [
+            "0500"
+          ]
+        },
+        {
+          "cityname": "Trollhättan",
+          "zipcodes": [
+            "46100",
+            "46101",
+            "46102",
+            "46103",
+            "46104"
+          ],
+          "areacodes": [
+            "0520"
+          ]
+        }
+      ]
+    },
+    "Skåne": {
+      "name": "Skåne",
+      "cities": [
+        {
+          "cityname": "Malmö",
+          "zipcodes": [
+            "21100",
+            "21101",
+            "21102",
+            "21103",
+            "21104"
+          ],
+          "areacodes": [
+            "040"
+          ]
+        },
+        {
+          "cityname": "Helsingborg",
+          "zipcodes": [
+            "25100",
+            "25101",
+            "25102",
+            "25103",
+            "25104"
+          ],
+          "areacodes": [
+            "042"
+          ]
+        },
+        {
+          "cityname": "Lund",
+          "zipcodes": [
+            "22100",
+            "22101",
+            "22102",
+            "22103",
+            "22104"
+          ],
+          "areacodes": [
+            "046"
+          ]
+        },
+        {
+          "cityname": "Kristianstad",
+          "zipcodes": [
+            "29100",
+            "29101",
+            "29102",
+            "29103",
+            "29104"
+          ],
+          "areacodes": [
+            "044"
+          ]
+        },
+        {
+          "cityname": "Trelleborg",
+          "zipcodes": [
+            "23100",
+            "23101",
+            "23102",
+            "23103",
+            "23104"
+          ],
+          "areacodes": [
+            "0410"
+          ]
+        }
+      ]
+    },
+    "Östergötland": {
+      "name": "Östergötland",
+      "cities": [
+        {
+          "cityname": "Linköping",
+          "zipcodes": [
+            "58100",
+            "58101",
+            "58102",
+            "58103",
+            "58104"
+          ],
+          "areacodes": [
+            "013"
+          ]
+        },
+        {
+          "cityname": "Norrköping",
+          "zipcodes": [
+            "60200",
+            "60201",
+            "60202",
+            "60203",
+            "60204"
+          ],
+          "areacodes": [
+            "011"
+          ]
+        },
+        {
+          "cityname": "Finspång",
+          "zipcodes": [
+            "61200",
+            "61201",
+            "61202",
+            "61203",
+            "61204"
+          ],
+          "areacodes": [
+            "012"
+          ]
+        },
+        {
+          "cityname": "Motala",
+          "zipcodes": [
+            "59100",
+            "59101",
+            "59102",
+            "59103",
+            "59104"
+          ],
+          "areacodes": [
+            "0141"
+          ]
+        },
+        {
+          "cityname": "Kinda",
+          "zipcodes": [
+            "59000",
+            "59001",
+            "59002",
+            "59003",
+            "59004"
+          ],
+          "areacodes": [
+            "0144"
+          ]
+        }
+      ]
+    },
+    "Halland": {
+      "name": "Halland",
+      "cities": [
+        {
+          "cityname": "Halmstad",
+          "zipcodes": [
+            "30100",
+            "30101",
+            "30102",
+            "30103",
+            "30104"
+          ],
+          "areacodes": [
+            "035"
+          ]
+        },
+        {
+          "cityname": "Varberg",
+          "zipcodes": [
+            "43200",
+            "43201",
+            "43202",
+            "43203",
+            "43204"
+          ],
+          "areacodes": [
+            "0340"
+          ]
+        },
+        {
+          "cityname": "Kungsbacka",
+          "zipcodes": [
+            "43400",
+            "43401",
+            "43402",
+            "43403",
+            "43404"
+          ],
+          "areacodes": [
+            "0300"
+          ]
+        },
+        {
+          "cityname": "Laholm",
+          "zipcodes": [
+            "31200",
+            "31201",
+            "31202",
+            "31203",
+            "31204"
+          ],
+          "areacodes": [
+            "0430"
+          ]
+        },
+        {
+          "cityname": "Falkenberg",
+          "zipcodes": [
+            "31100",
+            "31101",
+            "31102",
+            "31103",
+            "31104"
+          ],
+          "areacodes": [
+            "0346"
+          ]
+        }
+      ]
+    },
+    "Uppsala": {
+      "name": "Uppsala",
+      "cities": [
+        {
+          "cityname": "Uppsala",
+          "zipcodes": [
+            "75100",
+            "75101",
+            "75102",
+            "75103",
+            "75104"
+          ],
+          "areacodes": [
+            "018"
+          ]
+        },
+        {
+          "cityname": "Tierp",
+          "zipcodes": [
+            "81500",
+            "81501",
+            "81502",
+            "81503",
+            "81504"
+          ],
+          "areacodes": [
+            "0293"
+          ]
+        },
+        {
+          "cityname": "Enköping",
+          "zipcodes": [
+            "74900",
+            "74901",
+            "74902",
+            "74903",
+            "74904"
+          ],
+          "areacodes": [
+            "0171"
+          ]
+        },
+        {
+          "cityname": "Håbo",
+          "zipcodes": [
+            "74600",
+            "74601",
+            "74602",
+            "74603",
+            "74604"
+          ],
+          "areacodes": [
+            "0173"
+          ]
+        },
+        {
+          "cityname": "Knivsta",
+          "zipcodes": [
+            "74100",
+            "74101",
+            "74102",
+            "74103",
+            "74104"
+          ],
+          "areacodes": [
+            "018"
+          ]
+        }
+      ]
+    },
+    "Värmland": {
+      "name": "Värmland",
+      "cities": [
+        {
+          "cityname": "Karlstad",
+          "zipcodes": [
+            "65200",
+            "65201",
+            "65202",
+            "65203",
+            "65204"
+          ],
+          "areacodes": [
+            "054"
+          ]
+        },
+        {
+          "cityname": "Arvika",
+          "zipcodes": [
+            "67100",
+            "67101",
+            "67102",
+            "67103",
+            "67104"
+          ],
+          "areacodes": [
+            "0570"
+          ]
+        },
+        {
+          "cityname": "Torsby",
+          "zipcodes": [
+            "68500",
+            "68501",
+            "68502",
+            "68503",
+            "68504"
+          ],
+          "areacodes": [
+            "0560"
+          ]
+        },
+        {
+          "cityname": "Sunne",
+          "zipcodes": [
+            "68600",
+            "68601",
+            "68602",
+            "68603",
+            "68604"
+          ],
+          "areacodes": [
+            "0565"
+          ]
+        },
+        {
+          "cityname": "Årjäng",
+          "zipcodes": [
+            "67200",
+            "67201",
+            "67202",
+            "67203",
+            "67204"
+          ],
+          "areacodes": [
+            "0573"
+          ]
+        }
+      ]
+    },
+    "Jönköping": {
+      "name": "Jönköping",
+      "cities": [
+        {
+          "cityname": "Jönköping",
+          "zipcodes": [
+            "55100",
+            "55101",
+            "55102",
+            "55103",
+            "55104"
+          ],
+          "areacodes": [
+            "036"
+          ]
+        },
+        {
+          "cityname": "Värnamo",
+          "zipcodes": [
+            "33100",
+            "33101",
+            "33102",
+            "33103",
+            "33104"
+          ],
+          "areacodes": [
+            "0370"
+          ]
+        },
+        {
+          "cityname": "Nässjö",
+          "zipcodes": [
+            "57100",
+            "57101",
+            "57102",
+            "57103",
+            "57104"
+          ],
+          "areacodes": [
+            "0380"
+          ]
+        },
+        {
+          "cityname": "Gislaved",
+          "zipcodes": [
+            "33200",
+            "33201",
+            "33202",
+            "33203",
+            "33204"
+          ],
+          "areacodes": [
+            "0371"
+          ]
+        },
+        {
+          "cityname": "Eksjö",
+          "zipcodes": [
+            "57500",
+            "57501",
+            "57502",
+            "57503",
+            "57504"
+          ],
+          "areacodes": [
+            "0381"
+          ]
+        }
+      ]
+    },
+    "Södermanland": {
+      "name": "Södermanland",
+      "cities": [
+        {
+          "cityname": "Nyköping",
+          "zipcodes": [
+            "61100",
+            "61101",
+            "61102",
+            "61103",
+            "61104"
+          ],
+          "areacodes": [
+            "0155"
+          ]
+        },
+        {
+          "cityname": "Södertälje",
+          "zipcodes": [
+            "15100",
+            "15101",
+            "15102",
+            "15103",
+            "15104"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        {
+          "cityname": "Eskilstuna",
+          "zipcodes": [
+            "63200",
+            "63201",
+            "63202",
+            "63203",
+            "63204"
+          ],
+          "areacodes": [
+            "016"
+          ]
+        },
+        {
+          "cityname": "Strängnäs",
+          "zipcodes": [
+            "64500",
+            "64501",
+            "64502",
+            "64503",
+            "64504"
+          ],
+          "areacodes": [
+            "0152"
+          ]
+        },
+        {
+          "cityname": "Flen",
+          "zipcodes": [
+            "64000",
+            "64001",
+            "64002",
+            "64003",
+            "64004"
+          ],
+          "areacodes": [
+            "0157"
+          ]
+        }
+      ]
+    },
+    "Norrbotten": {
+      "name": "Norrbotten",
+      "cities": [
+        {
+          "cityname": "Luleå",
+          "zipcodes": [
+            "97100",
+            "97101",
+            "97102",
+            "97103",
+            "97104"
+          ],
+          "areacodes": [
+            "0920"
+          ]
+        },
+        {
+          "cityname": "Piteå",
+          "zipcodes": [
+            "94100",
+            "94101",
+            "94102",
+            "94103",
+            "94104"
+          ],
+          "areacodes": [
+            "0911"
+          ]
+        },
+        {
+          "cityname": "Kiruna",
+          "zipcodes": [
+            "98100",
+            "98101",
+            "98102",
+            "98103",
+            "98104"
+          ],
+          "areacodes": [
+            "0980"
+          ]
+        },
+        {
+          "cityname": "Gällivare",
+          "zipcodes": [
+            "98200",
+            "98201",
+            "98202",
+            "98203",
+            "98204"
+          ],
+          "areacodes": [
+            "0970"
+          ]
+        },
+        {
+          "cityname": "Haparanda",
+          "zipcodes": [
+            "95300",
+            "95301",
+            "95302",
+            "95303",
+            "95304"
+          ],
+          "areacodes": [
+            "0922"
+          ]
+        }
+      ]
+    },
+    "Kronoberg": {
+      "name": "Kronoberg",
+      "cities": [
+        {
+          "cityname": "Växjö",
+          "zipcodes": [
+            "35200",
+            "35201",
+            "35202",
+            "35203",
+            "35204"
+          ],
+          "areacodes": [
+            "0470"
+          ]
+        },
+        {
+          "cityname": "Ljungby",
+          "zipcodes": [
+            "34100",
+            "34101",
+            "34102",
+            "34103",
+            "34104"
+          ],
+          "areacodes": [
+            "0372"
+          ]
+        },
+        {
+          "cityname": "Alvesta",
+          "zipcodes": [
+            "34200",
+            "34201",
+            "34202",
+            "34203",
+            "34204"
+          ],
+          "areacodes": [
+            "0472"
+          ]
+        },
+        {
+          "cityname": "Tingsryd",
+          "zipcodes": [
+            "36200",
+            "36201",
+            "36202",
+            "36203",
+            "36204"
+          ],
+          "areacodes": [
+            "0477"
+          ]
+        },
+        {
+          "cityname": "Älmhult",
+          "zipcodes": [
+            "34300",
+            "34301",
+            "34302",
+            "34303",
+            "34304"
+          ],
+          "areacodes": [
+            "0479"
+          ]
+        }
+      ]
+    },
+    "Västmanland": {
+      "name": "Västmanland",
+      "cities": [
+        {
+          "cityname": "Västerås",
+          "zipcodes": [
+            "72100",
+            "72101",
+            "72102",
+            "72103",
+            "72104"
+          ],
+          "areacodes": [
+            "021"
+          ]
+        },
+        {
+          "cityname": "Kungsör",
+          "zipcodes": [
+            "73100",
+            "73101",
+            "73102",
+            "73103",
+            "73104"
+          ],
+          "areacodes": [
+            "0227"
+          ]
+        },
+        {
+          "cityname": "Sala",
+          "zipcodes": [
+            "73300",
+            "73301",
+            "73302",
+            "73303",
+            "73304"
+          ],
+          "areacodes": [
+            "0224"
+          ]
+        },
+        {
+          "cityname": "Fagersta",
+          "zipcodes": [
+            "73700",
+            "73701",
+            "73702",
+            "73703",
+            "73704"
+          ],
+          "areacodes": [
+            "0223"
+          ]
+        },
+        {
+          "cityname": "Hallstahammar",
+          "zipcodes": [
+            "73400",
+            "73401",
+            "73402",
+            "73403",
+            "73404"
+          ],
+          "areacodes": [
+            "0220"
+          ]
+        }
+      ]
+    },
+    "Blekinge": {
+      "name": "Blekinge",
+      "cities": [
+        {
+          "cityname": "Karlskrona",
+          "zipcodes": [
+            "37100",
+            "37101",
+            "37102",
+            "37103",
+            "37104"
+          ],
+          "areacodes": [
+            "0455"
+          ]
+        },
+        {
+          "cityname": "Ronneby",
+          "zipcodes": [
+            "37200",
+            "37201",
+            "37202",
+            "37203",
+            "37204"
+          ],
+          "areacodes": [
+            "0457"
+          ]
+        },
+        {
+          "cityname": "Karlshamn",
+          "zipcodes": [
+            "37400",
+            "37401",
+            "37402",
+            "37403",
+            "37404"
+          ],
+          "areacodes": [
+            "0454"
+          ]
+        },
+        {
+          "cityname": "Olofström",
+          "zipcodes": [
+            "29300",
+            "29301",
+            "29302",
+            "29303",
+            "29304"
+          ],
+          "areacodes": [
+            "0454"
+          ]
+        },
+        {
+          "cityname": "Sölvesborg",
+          "zipcodes": [
+            "29400",
+            "29401",
+            "29402",
+            "29403",
+            "29404"
+          ],
+          "areacodes": [
+            "0456"
+          ]
+        }
+      ]
+    },
+    "Dalarna": {
+      "name": "Dalarna",
+      "cities": [
+        {
+          "cityname": "Falun",
+          "zipcodes": [
+            "79100",
+            "79101",
+            "79102",
+            "79103",
+            "79104"
+          ],
+          "areacodes": [
+            "023"
+          ]
+        },
+        {
+          "cityname": "Borlänge",
+          "zipcodes": [
+            "78100",
+            "78101",
+            "78102",
+            "78103",
+            "78104"
+          ],
+          "areacodes": [
+            "0243"
+          ]
+        },
+        {
+          "cityname": "Leksand",
+          "zipcodes": [
+            "79300",
+            "79301",
+            "79302",
+            "79303",
+            "79304"
+          ],
+          "areacodes": [
+            "0247"
+          ]
+        },
+        {
+          "cityname": "Rättvik",
+          "zipcodes": [
+            "79500",
+            "79501",
+            "79502",
+            "79503",
+            "79504"
+          ],
+          "areacodes": [
+            "0248"
+          ]
+        },
+        {
+          "cityname": "Mora",
+          "zipcodes": [
+            "79200",
+            "79201",
+            "79202",
+            "79203",
+            "79204"
+          ],
+          "areacodes": [
+            "0250"
+          ]
+        }
+      ]
+    },
+    "Gävleborg": {
+      "name": "Gävleborg",
+      "cities": [
+        {
+          "cityname": "Gävle",
+          "zipcodes": [
+            "80100",
+            "80101",
+            "80102",
+            "80103",
+            "80104"
+          ],
+          "areacodes": [
+            "026"
+          ]
+        },
+        {
+          "cityname": "Hudiksvall",
+          "zipcodes": [
+            "82400",
+            "82401",
+            "82402",
+            "82403",
+            "82404"
+          ],
+          "areacodes": [
+            "0650"
+          ]
+        },
+        {
+          "cityname": "Bollnäs",
+          "zipcodes": [
+            "82100",
+            "82101",
+            "82102",
+            "82103",
+            "82104"
+          ],
+          "areacodes": [
+            "0278"
+          ]
+        },
+        {
+          "cityname": "Ljusdal",
+          "zipcodes": [
+            "82700",
+            "82701",
+            "82702",
+            "82703",
+            "82704"
+          ],
+          "areacodes": [
+            "0651"
+          ]
+        },
+        {
+          "cityname": "Sundsvall",
+          "zipcodes": [
+            "85100",
+            "85101",
+            "85102",
+            "85103",
+            "85104"
+          ],
+          "areacodes": [
+            "060"
+          ]
+        }
+      ]
+    },
+    "citycontainers": [
+      "counties"
+    ]
+  },
+  "citycontainers": [
+    "counties"
+  ],
+  "firstnames": [
+    "Axel",
+    "Alice",
+    "Oskar",
+    "Emma",
+    "Liam",
+    "Elsa",
+    "William",
+    "Maja",
+    "Lucas",
+    "Astrid",
+    "Oliver",
+    "Alice",
+    "Noah",
+    "Ebba",
+    "Elin",
+    "Hugo",
+    "Sofia",
+    "Alma",
+    "Sebastian",
+    "Agnes",
+    "Wilma",
+    "Isak",
+    "Alice",
+    "Nils",
+    "Klara",
+    "Edvin",
+    "Saga",
+    "Vera",
+    "Elliot",
+    "Ella",
+    "Thea",
+    "Alfred",
+    "Lilly",
+    "Max",
+    "Frida",
+    "Adam",
+    "Freja",
+    "Leon",
+    "Iris",
+    "Ellen",
+    "Milo"
+  ],
+  "lastnames": [
+    "Andersson",
+    "Johansson",
+    "Karlsson",
+    "Nilsson",
+    "Eriksson",
+    "Larsson",
+    "Olsson",
+    "Persson",
+    "Svensson",
+    "Gustafsson",
+    "Johansson",
+    "Lindberg",
+    "Bergström",
+    "Olofsson",
+    "Larsson",
+    "Nyström",
+    "Jönsson",
+    "Sjöberg",
+    "Hansson",
+    "Lundqvist",
+    "Wallin",
+    "Sundberg",
+    "Lund",
+    "Lundin",
+    "Fransson",
+    "Eklund",
+    "Axelsson",
+    "Sandberg",
+    "Rosenberg",
+    "Mårtensson",
+    "Hellström",
+    "Eliasson",
+    "Håkansson",
+    "Berglund",
+    "Blomqvist",
+    "Fredriksson",
+    "Wiklund",
+    "Ström",
+    "Jonasson",
+    "Göransson"
+  ]
 }

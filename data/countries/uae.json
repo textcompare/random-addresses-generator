@@ -1,100 +1,1557 @@
 {
-    "streetNames": [
-        "Sheikh Zayed Road",
-        "Al Reem Island Road",
-        "Al Maktoum Bridge Road",
-        "Al Khail Road",
-        "Jumeirah Beach Road",
-        "Al Wasl Road",
-        "Al Safa Street",
-        "Al Majaz Road",
-        "Mohammed Bin Zayed Road",
-        "Emirates Road",
-        "Al Qudra Road",
-        "Dubai Marina Road",
-        "Dubai Silicon Oasis Road",
-        "Abu Dhabi Road",
-        "Shindagha Road",
-        "Dubai Creek Road",
-        "Fujairah Road",
-        "Riyadh Street",
-        "Al Ittihad Road",
-        "Al Waha Road"
+  "countrycode": "+971",
+  "phoneformat": "(A) XXXXX XXX",
+  "country": "UAE",
+  "neighborhoods": {
+    "corporate": [
+      "Dubai Business Bay",
+      "Dubai Downtown",
+      "Dubai International Financial Centre",
+      "Dubai Media City",
+      "Dubai Knowledge Village",
+      "Dubai Silicon Oasis",
+      "Dubai Jumeirah",
+      "Dubai Jebel Ali Free Zone",
+      "Dubai Al Barsha",
+      "Dubai Deira",
+      "Dubai Bur Dubai",
+      "Dubai Marina",
+      "Dubai Palm Jumeirah",
+      "Dubai DIFC",
+      "Dubai Al Quoz",
+      "Abu Dhabi Al Maryah Island",
+      "Abu Dhabi Al Khalidiya",
+      "Abu Dhabi Al Muroor",
+      "Abu Dhabi Khalifa Street",
+      "Abu Dhabi Corniche",
+      "Abu Dhabi Zayed the First Street",
+      "Sharjah Al Majaz",
+      "Sharjah Al Qasba",
+      "Sharjah Al Nahda",
+      "Sharjah Industrial Area",
+      "Sharjah Al Taawun",
+      "Sharjah Al Ittihad",
+      "Sharjah University City",
+      "Ajman Corniche",
+      "Ajman Industrial Area",
+      "Fujairah City Centre",
+      "Fujairah Al Faseel",
+      "Ras Al Khaimah Al Hamra",
+      "Ras Al Khaimah Al Muaither",
+      "Umm Al Quwain City",
+      "Umm Al Quwain Industrial Area",
+      "Al Ain Al Hili",
+      "Al Ain Al Jimi",
+      "Al Ain Al Muwaiji"
     ],
-    "streetNumbers": [
-        "101",
-        "202",
-        "303",
-        "404",
-        "505",
-        "606",
-        "707",
-        "808",
-        "909",
-        "1234",
-        "4321",
-        "5678",
-        "6789",
-        "7890",
-        "8901",
-        "2345",
-        "3456",
-        "4567",
-        "5670",
-        "6781"
+    "industrial": [
+      "Dubai Jebel Ali Free Zone",
+      "Dubai Silicon Oasis",
+      "Dubai International City",
+      "Dubai Al Quoz Industrial Area",
+      "Dubai Al Aweer",
+      "Dubai Industrial City",
+      "Sharjah Industrial Area",
+      "Sharjah Hamriyah Free Zone",
+      "Sharjah Airport Free Zone",
+      "Abu Dhabi Mussafah",
+      "Abu Dhabi Kizad",
+      "Abu Dhabi Industrial City",
+      "Ajman Industrial Area",
+      "Ajman New Industrial Area",
+      "Fujairah Free Zone",
+      "Ras Al Khaimah Free Zone",
+      "Ras Al Khaimah Al Hamra",
+      "Ras Al Khaimah Al Nakheel",
+      "Umm Al Quwain Industrial Area",
+      "Al Ain Industrial Zone",
+      "Al Ain Hili Industrial Area",
+      "Al Ain Al Jimi Industrial Area",
+      "Al Fujairah Free Zone",
+      "Fujairah Free Zone 2",
+      "Dubai Airport Freezone",
+      "Dubai Techno Park",
+      "Sharjah SAIF Zone",
+      "Sharjah Airport International Free Zone",
+      "Dubai Techno Park Industrial Zone",
+      "Dubai Knowledge Village",
+      "Dubai Media City",
+      "Dubai Production City",
+      "Dubai Design District",
+      "Sharjah Airport Free Zone",
+      "Ras Al Khaimah Free Zone"
     ],
-    "cities": [
-        "Dubai",
-        "Abu Dhabi",
-        "Sharjah",
-        "Ajman",
-        "Fujairah",
-        "Ras Al Khaimah",
-        "Umm Al Quwain",
-        "Al Ain",
-        "Khalifa City",
-        "Dubai Marina",
-        "Jumeirah",
-        "Deira",
-        "Business Bay",
-        "Al Garhoud",
-        "Mirdif",
-        "Al Barsha",
-        "Al Jaddaf",
-        "Al Nahda",
-        "Al Safa",
-        "Al Qusais"
-    ],
-    "states": [
-        "Abu Dhabi",
-        "Dubai",
-        "Sharjah",
-        "Ajman",
-        "Umm Al Quwain",
-        "Fujairah",
-        "Ras Al Khaimah",
-        "Al Ain"
-    ],
-    "zipCodes": [
-        "00000",
-        "11223",
-        "20000",
-        "10001",
-        "30001",
-        "40001",
-        "50001",
-        "60001",
-        "70001",
-        "80001",
-        "90001",
-        "11001",
-        "22000",
-        "32000",
-        "41000",
-        "52000",
-        "60001",
-        "71000",
-        "82000",
-        "93000"
+    "residential": [
+      "Dubai Marina",
+      "Dubai Jumeirah",
+      "Dubai Palm Jumeirah",
+      "Dubai Downtown",
+      "Dubai Business Bay",
+      "Dubai Al Barsha",
+      "Dubai Bur Dubai",
+      "Dubai Deira",
+      "Dubai Jumeirah Beach",
+      "Dubai Jumeirah Lakes Towers",
+      "Dubai Discovery Gardens",
+      "Dubai Al Khail Gate",
+      "Abu Dhabi Al Khalidiya",
+      "Abu Dhabi Al Muroor",
+      "Abu Dhabi Al Reem Island",
+      "Abu Dhabi Al Maryah Island",
+      "Abu Dhabi Khalifa City",
+      "Abu Dhabi Yas Island",
+      "Sharjah Al Majaz",
+      "Sharjah Al Taawun",
+      "Sharjah Al Ittihad",
+      "Sharjah Al Qasba",
+      "Sharjah Al Nahda",
+      "Sharjah Al Mamzar",
+      "Sharjah Al Wahda",
+      "Sharjah Al Ramla",
+      "Ajman Al Nuaimiya",
+      "Ajman Al Rawda",
+      "Ajman Corniche",
+      "Fujairah City Centre",
+      "Fujairah Al Faseel",
+      "Ras Al Khaimah Al Hamra",
+      "Ras Al Khaimah Al Nakheel",
+      "Ras Al Khaimah Al Muaither",
+      "Umm Al Quwain City",
+      "Umm Al Quwain Residential Area",
+      "Al Ain Al Hili",
+      "Al Ain Al Jimi",
+      "Al Ain Al Muwaiji",
+      "Al Ain Al Qattara",
+      "Al Ain Al Gharbia"
     ]
+  },
+  "streetnames": {
+    "corporate": [
+      "Sheikh Zayed Road",
+      "Business Bay Street",
+      "Al Maryah Island Road",
+      "Al Khalidiya Street",
+      "Sheikh Khalifa Bin Zayed Street",
+      "Zayed the First Street",
+      "Corniche Street",
+      "Al Muroor Road",
+      "King Abdullah Street",
+      "Jumeirah Beach Road",
+      "Al Barsha Street",
+      "Al Quoz Road",
+      "Al Safa Street",
+      "Palm Jumeirah Road",
+      "Emirates Road",
+      "Sheikh Mohammed Bin Zayed Road",
+      "Al Ittihad Street",
+      "Sheikh Rashid Road",
+      "Khalifa Street",
+      "Sheikh Mohammed Bin Rashid Boulevard",
+      "Al Jumeirah Beach Road",
+      "Al Taawun Road",
+      "Al Ittihad Road",
+      "Al Jadaf Street",
+      "Al Wadi Street",
+      "Al Safa Street",
+      "Al Naseem Street",
+      "Al Yasmeen Road",
+      "Al Nahda Road",
+      "Al Reem Island Road",
+      "Al Muwaiji Road",
+      "Al Jimi Road",
+      "Al Ghadeer Road",
+      "Khalifa City Road",
+      "Al Ramla Street",
+      "Al Faseel Road",
+      "Al Hamra Street",
+      "Al Nakheel Road"
+    ],
+    "industrial": [
+      "Jebel Ali Free Zone",
+      "Dubai Industrial City",
+      "Dubai Silicon Oasis",
+      "Sharjah Industrial Area",
+      "Mussafah Industrial Zone",
+      "Kizad Industrial Area",
+      "Sharjah Airport Free Zone",
+      "Ras Al Khaimah Free Zone",
+      "Al Aweer Road",
+      "Ajman Industrial Area",
+      "Fujairah Free Zone",
+      "Ras Al Khaimah Industrial Zone",
+      "Sharjah Industrial Zone",
+      "Fujairah Industrial Zone",
+      "Ajman Free Zone",
+      "Dubai Techno Park",
+      "Dubai Media City",
+      "Dubai Design District",
+      "Dubai Airport Freezone",
+      "Dubai Knowledge Village",
+      "Sharjah SAIF Zone",
+      "Sharjah Airport International Free Zone",
+      "Ras Al Khaimah Free Zone",
+      "Fujairah Free Zone 2",
+      "Ajman New Industrial Area",
+      "Al Maktoum Free Zone",
+      "Al Jadaf Industrial Zone",
+      "Al Muaither Industrial Area",
+      "Al Aweer Industrial Zone",
+      "Dubai Techno Park Industrial Zone",
+      "Dubai Production City",
+      "Sharjah Hamriyah Free Zone",
+      "Sharjah Airport Free Zone",
+      "Dubai Jebel Ali Port"
+    ],
+    "residential": [
+      "Sheikh Zayed Road",
+      "Jumeirah Road",
+      "Jumeirah Beach Road",
+      "Al Barsha Street",
+      "Al Safa Street",
+      "Dubai Marina Road",
+      "Palm Jumeirah Street",
+      "Dubai Downtown Road",
+      "Al Khail Road",
+      "Al Quoz Road",
+      "Business Bay Road",
+      "Dubai Silicon Oasis Road",
+      "Dubai Al Quoz",
+      "Abu Dhabi Khalifa City Road",
+      "Abu Dhabi Yas Island",
+      "Abu Dhabi Al Maryah Island",
+      "Abu Dhabi Al Reem Island",
+      "Abu Dhabi Al Muroor Road",
+      "Sharjah Al Taawun",
+      "Sharjah Al Majaz",
+      "Sharjah Al Nahda",
+      "Sharjah Al Qasba",
+      "Sharjah Al Wahda",
+      "Sharjah University City",
+      "Ajman Al Rawda",
+      "Ajman Al Nuaimiya",
+      "Fujairah City Centre",
+      "Fujairah Al Faseel",
+      "Ras Al Khaimah Al Hamra",
+      "Umm Al Quwain Residential Area",
+      "Ras Al Khaimah Al Nakheel",
+      "Ras Al Khaimah Al Muaither",
+      "Al Ain Al Hili",
+      "Al Ain Al Jimi",
+      "Al Ain Al Muwaiji",
+      "Al Ain Al Qattara",
+      "Al Ain Al Gharbia",
+      "Ras Al Khaimah Al Hamra",
+      "Al Ain Jebel Hafeet"
+    ]
+  },
+  "emirates": {
+    "Abu Dhabi": {
+      "name": "Abu Dhabi",
+      "cities": [
+        {
+          "cityname": "Abu Dhabi City",
+          "zipcodes": [
+            "00000",
+            "00001",
+            "00002",
+            "00003",
+            "00004"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        {
+          "cityname": "Al Ain",
+          "zipcodes": [
+            "00010",
+            "00011",
+            "00012",
+            "00013",
+            "00014"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        {
+          "cityname": "Al Dhafra",
+          "zipcodes": [
+            "00020",
+            "00021",
+            "00022",
+            "00023",
+            "00024"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        {
+          "cityname": "Sweihan",
+          "zipcodes": [
+            "00030",
+            "00031",
+            "00032",
+            "00033",
+            "00034"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        {
+          "cityname": "Liwa",
+          "zipcodes": [
+            "00040",
+            "00041",
+            "00042",
+            "00043",
+            "00044"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        {
+          "cityname": "Baniyas",
+          "zipcodes": [
+            "00050",
+            "00051",
+            "00052",
+            "00053",
+            "00054"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        {
+          "cityname": "Sila",
+          "zipcodes": [
+            "00060",
+            "00061",
+            "00062",
+            "00063",
+            "00064"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        {
+          "cityname": "Zayed City",
+          "zipcodes": [
+            "00070",
+            "00071",
+            "00072",
+            "00073",
+            "00074"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        {
+          "cityname": "Al Gharbia",
+          "zipcodes": [
+            "00080",
+            "00081",
+            "00082",
+            "00083",
+            "00084"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        {
+          "cityname": "Al Marfa",
+          "zipcodes": [
+            "00090",
+            "00091",
+            "00092",
+            "00093",
+            "00094"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        {
+          "cityname": "Maqta",
+          "zipcodes": [
+            "00100",
+            "00101",
+            "00102",
+            "00103",
+            "00104"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        {
+          "cityname": "Sohar",
+          "zipcodes": [
+            "00110",
+            "00111",
+            "00112",
+            "00113",
+            "00114"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        {
+          "cityname": "Al Mafraq",
+          "zipcodes": [
+            "00120",
+            "00121",
+            "00122",
+            "00123",
+            "00124"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        {
+          "cityname": "Al Khobar",
+          "zipcodes": [
+            "00130",
+            "00131",
+            "00132",
+            "00133",
+            "00134"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        }
+      ]
+    },
+    "Dubai": {
+      "name": "Dubai",
+      "cities": [
+        {
+          "cityname": "Dubai City",
+          "zipcodes": [
+            "00000",
+            "00001",
+            "00002",
+            "00003",
+            "00004"
+          ],
+          "areacodes": [
+            "04"
+          ]
+        },
+        {
+          "cityname": "Al Quoz",
+          "zipcodes": [
+            "00010",
+            "00011",
+            "00012",
+            "00013",
+            "00014"
+          ],
+          "areacodes": [
+            "04"
+          ]
+        },
+        {
+          "cityname": "Jumeirah",
+          "zipcodes": [
+            "00020",
+            "00021",
+            "00022",
+            "00023",
+            "00024"
+          ],
+          "areacodes": [
+            "04"
+          ]
+        },
+        {
+          "cityname": "Bur Dubai",
+          "zipcodes": [
+            "00030",
+            "00031",
+            "00032",
+            "00033",
+            "00034"
+          ],
+          "areacodes": [
+            "04"
+          ]
+        },
+        {
+          "cityname": "Deira",
+          "zipcodes": [
+            "00040",
+            "00041",
+            "00042",
+            "00043",
+            "00044"
+          ],
+          "areacodes": [
+            "04"
+          ]
+        },
+        {
+          "cityname": "Dubai Marina",
+          "zipcodes": [
+            "00050",
+            "00051",
+            "00052",
+            "00053",
+            "00054"
+          ],
+          "areacodes": [
+            "04"
+          ]
+        },
+        {
+          "cityname": "Business Bay",
+          "zipcodes": [
+            "00060",
+            "00061",
+            "00062",
+            "00063",
+            "00064"
+          ],
+          "areacodes": [
+            "04"
+          ]
+        },
+        {
+          "cityname": "Al Jaddaf",
+          "zipcodes": [
+            "00070",
+            "00071",
+            "00072",
+            "00073",
+            "00074"
+          ],
+          "areacodes": [
+            "04"
+          ]
+        },
+        {
+          "cityname": "Al Satwa",
+          "zipcodes": [
+            "00080",
+            "00081",
+            "00082",
+            "00083",
+            "00084"
+          ],
+          "areacodes": [
+            "04"
+          ]
+        },
+        {
+          "cityname": "Al Barsha",
+          "zipcodes": [
+            "00090",
+            "00091",
+            "00092",
+            "00093",
+            "00094"
+          ],
+          "areacodes": [
+            "04"
+          ]
+        },
+        {
+          "cityname": "Al Safa",
+          "zipcodes": [
+            "00100",
+            "00101",
+            "00102",
+            "00103",
+            "00104"
+          ],
+          "areacodes": [
+            "04"
+          ]
+        },
+        {
+          "cityname": "Silicon Oasis",
+          "zipcodes": [
+            "00110",
+            "00111",
+            "00112",
+            "00113",
+            "00114"
+          ],
+          "areacodes": [
+            "04"
+          ]
+        },
+        {
+          "cityname": "Dubai Silicon Oasis",
+          "zipcodes": [
+            "00120",
+            "00121",
+            "00122",
+            "00123",
+            "00124"
+          ],
+          "areacodes": [
+            "04"
+          ]
+        },
+        {
+          "cityname": "International City",
+          "zipcodes": [
+            "00130",
+            "00131",
+            "00132",
+            "00133",
+            "00134"
+          ],
+          "areacodes": [
+            "04"
+          ]
+        }
+      ]
+    },
+    "Sharjah": {
+      "name": "Sharjah",
+      "cities": [
+        {
+          "cityname": "Sharjah City",
+          "zipcodes": [
+            "00000",
+            "00001",
+            "00002",
+            "00003",
+            "00004"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Qasimia",
+          "zipcodes": [
+            "00010",
+            "00011",
+            "00012",
+            "00013",
+            "00014"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Majaz",
+          "zipcodes": [
+            "00020",
+            "00021",
+            "00022",
+            "00023",
+            "00024"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Buhairah",
+          "zipcodes": [
+            "00030",
+            "00031",
+            "00032",
+            "00033",
+            "00034"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Khan",
+          "zipcodes": [
+            "00040",
+            "00041",
+            "00042",
+            "00043",
+            "00044"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Taawun",
+          "zipcodes": [
+            "00050",
+            "00051",
+            "00052",
+            "00053",
+            "00054"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Dhaid",
+          "zipcodes": [
+            "00060",
+            "00061",
+            "00062",
+            "00063",
+            "00064"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Khalid Port",
+          "zipcodes": [
+            "00070",
+            "00071",
+            "00072",
+            "00073",
+            "00074"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Muwailih",
+          "zipcodes": [
+            "00080",
+            "00081",
+            "00082",
+            "00083",
+            "00084"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Fisht",
+          "zipcodes": [
+            "00090",
+            "00091",
+            "00092",
+            "00093",
+            "00094"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Shuwaiheen",
+          "zipcodes": [
+            "00100",
+            "00101",
+            "00102",
+            "00103",
+            "00104"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Muwaihat",
+          "zipcodes": [
+            "00110",
+            "00111",
+            "00112",
+            "00113",
+            "00114"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Buraimi",
+          "zipcodes": [
+            "00120",
+            "00121",
+            "00122",
+            "00123",
+            "00124"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Nuaimia",
+          "zipcodes": [
+            "00130",
+            "00131",
+            "00132",
+            "00133",
+            "00134"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        }
+      ]
+    },
+    "Ajman": {
+      "name": "Ajman",
+      "cities": [
+        {
+          "cityname": "Ajman City",
+          "zipcodes": [
+            "00000",
+            "00001",
+            "00002",
+            "00003",
+            "00004"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Nuaimia",
+          "zipcodes": [
+            "00010",
+            "00011",
+            "00012",
+            "00013",
+            "00014"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Muwaihat",
+          "zipcodes": [
+            "00020",
+            "00021",
+            "00022",
+            "00023",
+            "00024"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Jurf",
+          "zipcodes": [
+            "00030",
+            "00031",
+            "00032",
+            "00033",
+            "00034"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Rashidiya",
+          "zipcodes": [
+            "00040",
+            "00041",
+            "00042",
+            "00043",
+            "00044"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Hamidiya",
+          "zipcodes": [
+            "00050",
+            "00051",
+            "00052",
+            "00053",
+            "00054"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Tallah",
+          "zipcodes": [
+            "00060",
+            "00061",
+            "00062",
+            "00063",
+            "00064"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Gharb",
+          "zipcodes": [
+            "00070",
+            "00071",
+            "00072",
+            "00073",
+            "00074"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Muwaihat 2",
+          "zipcodes": [
+            "00080",
+            "00081",
+            "00082",
+            "00083",
+            "00084"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Matar",
+          "zipcodes": [
+            "00090",
+            "00091",
+            "00092",
+            "00093",
+            "00094"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        }
+      ]
+    },
+    "Umm AI-Quwain": {
+      "name": "Umm Al-Quwain",
+      "cities": [
+        {
+          "cityname": "Umm Al-Quwain City",
+          "zipcodes": [
+            "00000",
+            "00001",
+            "00002",
+            "00003",
+            "00004"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Salama",
+          "zipcodes": [
+            "00010",
+            "00011",
+            "00012",
+            "00013",
+            "00014"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Hamriyah",
+          "zipcodes": [
+            "00020",
+            "00021",
+            "00022",
+            "00023",
+            "00024"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Khor",
+          "zipcodes": [
+            "00030",
+            "00031",
+            "00032",
+            "00033",
+            "00034"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Khobar",
+          "zipcodes": [
+            "00040",
+            "00041",
+            "00042",
+            "00043",
+            "00044"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Rifa",
+          "zipcodes": [
+            "00050",
+            "00051",
+            "00052",
+            "00053",
+            "00054"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Ruwais",
+          "zipcodes": [
+            "00060",
+            "00061",
+            "00062",
+            "00063",
+            "00064"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Shabia",
+          "zipcodes": [
+            "00070",
+            "00071",
+            "00072",
+            "00073",
+            "00074"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Falah",
+          "zipcodes": [
+            "00080",
+            "00081",
+            "00082",
+            "00083",
+            "00084"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        },
+        {
+          "cityname": "Al Wadi",
+          "zipcodes": [
+            "00090",
+            "00091",
+            "00092",
+            "00093",
+            "00094"
+          ],
+          "areacodes": [
+            "06"
+          ]
+        }
+      ]
+    },
+    "Fujairah": {
+      "name": "Fujairah",
+      "cities": [
+        {
+          "cityname": "Fujairah City",
+          "zipcodes": [
+            "00000",
+            "00001",
+            "00002",
+            "00003",
+            "00004"
+          ],
+          "areacodes": [
+            "09"
+          ]
+        },
+        {
+          "cityname": "Dibba",
+          "zipcodes": [
+            "00010",
+            "00011",
+            "00012",
+            "00013",
+            "00014"
+          ],
+          "areacodes": [
+            "09"
+          ]
+        },
+        {
+          "cityname": "Al Bidyah",
+          "zipcodes": [
+            "00020",
+            "00021",
+            "00022",
+            "00023",
+            "00024"
+          ],
+          "areacodes": [
+            "09"
+          ]
+        },
+        {
+          "cityname": "Masafi",
+          "zipcodes": [
+            "00030",
+            "00031",
+            "00032",
+            "00033",
+            "00034"
+          ],
+          "areacodes": [
+            "09"
+          ]
+        },
+        {
+          "cityname": "Al Hayl",
+          "zipcodes": [
+            "00040",
+            "00041",
+            "00042",
+            "00043",
+            "00044"
+          ],
+          "areacodes": [
+            "09"
+          ]
+        },
+        {
+          "cityname": "Al Tawee",
+          "zipcodes": [
+            "00050",
+            "00051",
+            "00052",
+            "00053",
+            "00054"
+          ],
+          "areacodes": [
+            "09"
+          ]
+        },
+        {
+          "cityname": "Al Yassah",
+          "zipcodes": [
+            "00060",
+            "00061",
+            "00062",
+            "00063",
+            "00064"
+          ],
+          "areacodes": [
+            "09"
+          ]
+        },
+        {
+          "cityname": "Al Murbah",
+          "zipcodes": [
+            "00070",
+            "00071",
+            "00072",
+            "00073",
+            "00074"
+          ],
+          "areacodes": [
+            "09"
+          ]
+        },
+        {
+          "cityname": "Al Wurayah",
+          "zipcodes": [
+            "00080",
+            "00081",
+            "00082",
+            "00083",
+            "00084"
+          ],
+          "areacodes": [
+            "09"
+          ]
+        },
+        {
+          "cityname": "Al Faseel",
+          "zipcodes": [
+            "00090",
+            "00091",
+            "00092",
+            "00093",
+            "00094"
+          ],
+          "areacodes": [
+            "09"
+          ]
+        }
+      ]
+    },
+    "Ras Al Khaimah": {
+      "name": "Ras Al Khaimah",
+      "cities": [
+        {
+          "cityname": "Ras Al Khaimah City",
+          "zipcodes": [
+            "00000",
+            "00001",
+            "00002",
+            "00003",
+            "00004"
+          ],
+          "areacodes": [
+            "07"
+          ]
+        },
+        {
+          "cityname": "Al Jazeera Al Hamra",
+          "zipcodes": [
+            "00010",
+            "00011",
+            "00012",
+            "00013",
+            "00014"
+          ],
+          "areacodes": [
+            "07"
+          ]
+        },
+        {
+          "cityname": "Khor Khwair",
+          "zipcodes": [
+            "00020",
+            "00021",
+            "00022",
+            "00023",
+            "00024"
+          ],
+          "areacodes": [
+            "07"
+          ]
+        },
+        {
+          "cityname": "Al Rams",
+          "zipcodes": [
+            "00030",
+            "00031",
+            "00032",
+            "00033",
+            "00034"
+          ],
+          "areacodes": [
+            "07"
+          ]
+        },
+        {
+          "cityname": "Shaam",
+          "zipcodes": [
+            "00040",
+            "00041",
+            "00042",
+            "00043",
+            "00044"
+          ],
+          "areacodes": [
+            "07"
+          ]
+        },
+        {
+          "cityname": "Al Nakheel",
+          "zipcodes": [
+            "00050",
+            "00051",
+            "00052",
+            "00053",
+            "00054"
+          ],
+          "areacodes": [
+            "07"
+          ]
+        },
+        {
+          "cityname": "Al Ghail",
+          "zipcodes": [
+            "00060",
+            "00061",
+            "00062",
+            "00063",
+            "00064"
+          ],
+          "areacodes": [
+            "07"
+          ]
+        },
+        {
+          "cityname": "Wadi Shah",
+          "zipcodes": [
+            "00070",
+            "00071",
+            "00072",
+            "00073",
+            "00074"
+          ],
+          "areacodes": [
+            "07"
+          ]
+        },
+        {
+          "cityname": "Rams",
+          "zipcodes": [
+            "00080",
+            "00081",
+            "00082",
+            "00083",
+            "00084"
+          ],
+          "areacodes": [
+            "07"
+          ]
+        },
+        {
+          "cityname": "Khat",
+          "zipcodes": [
+            "00090",
+            "00091",
+            "00092",
+            "00093",
+            "00094"
+          ],
+          "areacodes": [
+            "07"
+          ]
+        }
+      ]
+    }
+  },
+  "citycontainers": [
+    "emirates"
+  ],
+  "firstnames": [
+    "Mohammed",
+    "Ahmed",
+    "Ali",
+    "Omar",
+    "Hassan",
+    "Hussein",
+    "Abdullah",
+    "Saif",
+    "Salim",
+    "Khalid",
+    "Yousef",
+    "Faisal",
+    "Nasser",
+    "Jassim",
+    "Majid",
+    "Sultan",
+    "Rashid",
+    "Ibrahim",
+    "Tariq",
+    "Zayed",
+    "Hamdan",
+    "Farid",
+    "Bassam",
+    "Fahad",
+    "Mahmoud",
+    "Abdulrahman",
+    "Jamal",
+    "Nabil",
+    "Mansour",
+    "Ziad",
+    "Adel",
+    "Anwar",
+    "Bilal",
+    "Sami",
+    "Hamad",
+    "Karim",
+    "Saeed",
+    "Tamer",
+    "Waleed",
+    "Mustafa",
+    "Ismail",
+    "Marwan",
+    "Rami",
+    "Imran",
+    "Sharif",
+    "Qasim",
+    "Ebrahim",
+    "Badr",
+    "Rayan",
+    "Walid",
+    "Hadi",
+    "Nasir",
+    "Zahir",
+    "Amer",
+    "Shadi",
+    "Abdulaziz",
+    "Tarek",
+    "Fadi",
+    "Aziz",
+    "Rafik",
+    "Kamal",
+    "Ilyas",
+    "Munir",
+    "Amin",
+    "Kareem",
+    "Suhail",
+    "Feras",
+    "Jalal",
+    "Harith",
+    "Hakim",
+    "Laith",
+    "Mazin",
+    "Ghassan",
+    "Ridha",
+    "Mahdi",
+    "Fawwaz",
+    "Jaber",
+    "Saber",
+    "Arif",
+    "Murad",
+    "Nawaf",
+    "Husam",
+    "Saad",
+    "Luay",
+    "Basim",
+    "Hatem",
+    "Samer",
+    "Wissam",
+    "Zaki",
+    "Nayef",
+    "Taha",
+    "Mujahid",
+    "Yahya",
+    "Ehsan",
+    "Aqil",
+    "Abu Bakr",
+    "Sharaf",
+    "Samir",
+    "Fakhri",
+    "Ghazi"
+  ],
+  "lastnames": [
+    "Al Mansouri",
+    "Al Nuaimi",
+    "Al Falasi",
+    "Al Ketbi",
+    "Al Mazrouei",
+    "Al Rumaithi",
+    "Al Kaabi",
+    "Al Shehhi",
+    "Al Shamsi",
+    "Al Hammadi",
+    "Al Marri",
+    "Al Balushi",
+    "Al Suwaidi",
+    "Al Rashed",
+    "Al Qasimi",
+    "Al Maktoum",
+    "Al Nahyan",
+    "Al Sharqi",
+    "Al Mualla",
+    "Al Khoori",
+    "Al Ameri",
+    "Al Tamimi",
+    "Al Darwish",
+    "Al Dossari",
+    "Al Hajri",
+    "Al Jaber",
+    "Al Ghaith",
+    "Al Mehairi",
+    "Al Habtoor",
+    "Al Hashemi",
+    "Al Sayegh",
+    "Al Qubaisi",
+    "Al Obaidli",
+    "Al Gergawi",
+    "Al Kamali",
+    "Al Awar",
+    "Al Zarooni",
+    "Al Reyami",
+    "Al Fardan",
+    "Al Bastaki",
+    "Al Rajhi",
+    "Al Tayer",
+    "Al Thani",
+    "Al Jabri",
+    "Al Awadhi",
+    "Al Hawi",
+    "Al Harmoodi",
+    "Al Qaydi",
+    "Al Dhaheri",
+    "Al Kindi",
+    "Al Saadi",
+    "Al Mutawa",
+    "Al Badi",
+    "Al Saffar",
+    "Al Noman",
+    "Al Madani",
+    "Al Kharusi",
+    "Al Saqri",
+    "Al Rashedi",
+    "Al Dhabiani",
+    "Al Naqbi",
+    "Al Qassimi",
+    "Al Sheibani",
+    "Al Yassi",
+    "Al Mazmi",
+    "Al Samahi",
+    "Al Mahri",
+    "Al Qaydi",
+    "Al Dahmani",
+    "Al Amri",
+    "Al Burashid",
+    "Al Bedwawi",
+    "Al Farsi",
+    "Al Reyaysa",
+    "Al Mazidi",
+    "Al Zadjali",
+    "Al Qassab",
+    "Al Busaeedi",
+    "Al Junaibi",
+    "Al Safar",
+    "Al Noaimi",
+    "Al Rashedan",
+    "Al Humairi",
+    "Al Fahim",
+    "Al Masoudi",
+    "Al Salem",
+    "Al Afari",
+    "Al Harbi",
+    "Al Senaidi",
+    "Al Ghaferi",
+    "Al Rumaithi",
+    "Al Suhaili",
+    "Al Balooshi",
+    "Al Marzouqi",
+    "Al Mamari",
+    "Al Bahri",
+    "Al Riyami",
+    "Al Haddad",
+    "Al Abri",
+    "Al Ajmi"
+  ]
 }
