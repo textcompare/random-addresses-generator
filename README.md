@@ -1,6 +1,11 @@
 
 # Random Address Generator
 
+
+**Here is the [demo](https://addressgenerator.io/) of the npm.**
+**https://addressgenerator.io/**
+
+
 ## Overview
 
 The **Random Address Generator** package generates realistic random addresses based on country data, with customizable formats and additional fields. The package supports generating random addresses for various countries, and allows you to control various aspects of the address, such as the country, address type, and format.
@@ -15,7 +20,7 @@ npm install random-addresses-generator
 **CDN:**
 ```html
 <script type="module">
-        import { getAddress } from 'https://cdn.jsdelivr.net/npm/random-addresses-generator@1.1.0/src/index.js'; 
+        import { getAddress } from 'https://cdn.jsdelivr.net/npm/random-addresses-generator@1.1.2/src/index.js'; 
         console.log(await getAddress(1));
     </script>
 ```
@@ -44,6 +49,13 @@ The address generator can generate the following fields:
 - **Corporate**: Corporate addresses such as company headquarters.
 - **Industrial**: Industrial addresses like factories, warehouses.
 
+**Example:**
+
+```js
+{
+  addressType : "Resedential"
+}
+```
 ### Addon Fields
 
 You can add custom fields to your address data by using the `addon` property. This property allows you to inject additional data into the generated address.
@@ -209,3 +221,9 @@ The package supports generating random addresses for the following countries:
 - **Turkey**
 - **UAE**
 - **Vietnam**
+
+
+
+## What Makes Us Different?
+
+The Random Address Generator stands out by ensuring that the generated addresses are not only random but also relevant and realistic. Each address component, such as the city, zip code, and street name, is carefully matched to ensure consistency and accuracy. This means that the zip code corresponds to the correct city, and the street names are appropriate for the selected country and region. Our generator provides high-quality, believable addresses that can be used for testing, development, and other purposes where realistic data is crucial.

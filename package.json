@@ -32,10 +32,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shubhamsomwanshi11/random-addresses-generator.git"
+    "url": "https://github.com/textcompare/random-addresses-generator.git"
   },
   "bugs": {
-    "url": "https://github.com/shubhamsomwanshi11/random-addresses-generator/issues"
+    "url": "https://github.com/textcompare/random-addresses-generator/issues"
   },
   "devDependencies": {
     "standard-version": "^9.5.0"
