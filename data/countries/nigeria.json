@@ -297,9 +297,8 @@
   },
   "states": {
     "Abia": {
-      "cities": [
-        {
-          "cityname": "Aba",
+      "cities": {
+        "Aba": {
           "zipcodes": [
             "450001",
             "450002",
@@ -311,8 +310,7 @@
             "82"
           ]
         },
-        {
-          "cityname": "Umuahia",
+        "Umuahia": {
           "zipcodes": [
             "440001",
             "440002",
@@ -324,8 +322,7 @@
             "87"
           ]
         },
-        {
-          "cityname": "Ohafia",
+        "Ohafia": {
           "zipcodes": [
             "441001",
             "441002",
@@ -337,8 +334,7 @@
             "88"
           ]
         },
-        {
-          "cityname": "Bende",
+        "Bende": {
           "zipcodes": [
             "442001",
             "442002",
@@ -350,8 +346,7 @@
             "82"
           ]
         },
-        {
-          "cityname": "Arochukwu",
+        "Arochukwu": {
           "zipcodes": [
             "443001",
             "443002",
@@ -363,13 +358,12 @@
             "87"
           ]
         }
-      ],
+      },
       "name": "Abia"
     },
     "Adamawa": {
-      "cities": [
-        {
-          "cityname": "Yola",
+      "cities": {
+        "Yola": {
           "zipcodes": [
             "640001",
             "640002",
@@ -381,8 +375,7 @@
             "66"
           ]
         },
-        {
-          "cityname": "Mubi",
+        "Mubi": {
           "zipcodes": [
             "640101",
             "640102",
@@ -394,8 +387,7 @@
             "66"
           ]
         },
-        {
-          "cityname": "Nigerian Army Barracks",
+        "Nigerian Army Barracks": {
           "zipcodes": [
             "640201",
             "640202",
@@ -407,8 +399,7 @@
             "66"
           ]
         },
-        {
-          "cityname": "Ganye",
+        "Ganye": {
           "zipcodes": [
             "640301",
             "640302",
@@ -420,8 +411,7 @@
             "66"
           ]
         },
-        {
-          "cityname": "Jimeta",
+        "Jimeta": {
           "zipcodes": [
             "640401",
             "640402",
@@ -433,13 +423,12 @@
             "66"
           ]
         }
-      ],
+      },
       "name": "Adamawa"
     },
     "Akwa Ibom": {
-      "cities": [
-        {
-          "cityname": "Uyo",
+      "cities": {
+        "Uyo": {
           "zipcodes": [
             "520001",
             "520002",
@@ -451,8 +440,7 @@
             "85"
           ]
         },
-        {
-          "cityname": "Ikot Ekpene",
+        "Ikot Ekpene": {
           "zipcodes": [
             "520101",
             "520102",
@@ -464,8 +452,7 @@
             "85"
           ]
         },
-        {
-          "cityname": "Abak",
+        "Abak": {
           "zipcodes": [
             "520201",
             "520202",
@@ -477,8 +464,7 @@
             "85"
           ]
         },
-        {
-          "cityname": "Eket",
+        "Eket": {
           "zipcodes": [
             "520301",
             "520302",
@@ -490,8 +476,7 @@
             "85"
           ]
         },
-        {
-          "cityname": "Oron",
+        "Oron": {
           "zipcodes": [
             "520401",
             "520402",
@@ -503,13 +488,12 @@
             "85"
           ]
         }
-      ],
+      },
       "name": "Akwa Ibom"
     },
     "Anambra": {
-      "cities": [
-        {
-          "cityname": "Awka",
+      "cities": {
+        "Awka": {
           "zipcodes": [
             "420001",
             "420002",
@@ -521,8 +505,7 @@
             "47"
           ]
         },
-        {
-          "cityname": "Onitsha",
+        "Onitsha": {
           "zipcodes": [
             "430001",
             "430002",
@@ -534,8 +517,7 @@
             "47"
           ]
         },
-        {
-          "cityname": "Nnewi",
+        "Nnewi": {
           "zipcodes": [
             "420101",
             "420102",
@@ -547,13 +529,12 @@
             "47"
           ]
         }
-      ],
+      },
       "name": "Anambra"
     },
     "Bauchi": {
-      "cities": [
-        {
-          "cityname": "Bauchi",
+      "cities": {
+        "Bauchi": {
           "zipcodes": [
             "740001",
             "740002",
@@ -565,8 +546,7 @@
             "80"
           ]
         },
-        {
-          "cityname": "Azare",
+        "Azare": {
           "zipcodes": [
             "740101",
             "740102",
@@ -578,13 +558,12 @@
             "80"
           ]
         }
-      ],
+      },
       "name": "Bauchi"
     },
     "Bayelsa": {
-      "cities": [
-        {
-          "cityname": "Yenagoa",
+      "cities": {
+        "Yenagoa": {
           "zipcodes": [
             "560001",
             "560002",
@@ -596,8 +575,7 @@
             "84"
           ]
         },
-        {
-          "cityname": "Sagbama",
+        "Sagbama": {
           "zipcodes": [
             "560101",
             "560102",
@@ -609,13 +587,12 @@
             "84"
           ]
         }
-      ],
+      },
       "name": "Bayelsa"
     },
     "Benue": {
-      "cities": [
-        {
-          "cityname": "Makurdi",
+      "cities": {
+        "Makurdi": {
           "zipcodes": [
             "970001",
             "970002",
@@ -627,8 +604,7 @@
             "44"
           ]
         },
-        {
-          "cityname": "Otukpo",
+        "Otukpo": {
           "zipcodes": [
             "970101",
             "970102",
@@ -640,13 +616,12 @@
             "44"
           ]
         }
-      ],
+      },
       "name": "Benue"
     },
     "Borno": {
-      "cities": [
-        {
-          "cityname": "Maiduguri",
+      "cities": {
+        "Maiduguri": {
           "zipcodes": [
             "600001",
             "600002",
@@ -658,8 +633,7 @@
             "77"
           ]
         },
-        {
-          "cityname": "Biu",
+        "Biu": {
           "zipcodes": [
             "600101",
             "600102",
@@ -671,13 +645,12 @@
             "77"
           ]
         }
-      ],
+      },
       "name": "Borno"
     },
     "Cross River": {
-      "cities": [
-        {
-          "cityname": "Calabar",
+      "cities": {
+        "Calabar": {
           "zipcodes": [
             "540001",
             "540002",
@@ -689,8 +662,7 @@
             "87"
           ]
         },
-        {
-          "cityname": "Ikom",
+        "Ikom": {
           "zipcodes": [
             "550101",
             "550102",
@@ -702,8 +674,7 @@
             "87"
           ]
         },
-        {
-          "cityname": "Ogoja",
+        "Ogoja": {
           "zipcodes": [
             "560001",
             "560002",
@@ -715,8 +686,7 @@
             "87"
           ]
         },
-        {
-          "cityname": "Bekwarra",
+        "Bekwarra": {
           "zipcodes": [
             "540101",
             "540102",
@@ -728,8 +698,7 @@
             "87"
           ]
         },
-        {
-          "cityname": "Bokungu",
+        "Bokungu": {
           "zipcodes": [
             "540201",
             "540202",
@@ -741,8 +710,7 @@
             "87"
           ]
         },
-        {
-          "cityname": "Ugep",
+        "Ugep": {
           "zipcodes": [
             "560101",
             "560102",
@@ -754,8 +722,7 @@
             "87"
           ]
         },
-        {
-          "cityname": "Katsina-Ala",
+        "Katsina-Ala": {
           "zipcodes": [
             "540301",
             "540302",
@@ -767,8 +734,7 @@
             "87"
           ]
         },
-        {
-          "cityname": "Etung",
+        "Etung": {
           "zipcodes": [
             "550201",
             "550202",
@@ -780,8 +746,7 @@
             "87"
           ]
         },
-        {
-          "cityname": "Akpabuyo",
+        "Akpabuyo": {
           "zipcodes": [
             "540401",
             "540402",
@@ -793,8 +758,7 @@
             "87"
           ]
         },
-        {
-          "cityname": "Obudu",
+        "Obudu": {
           "zipcodes": [
             "550301",
             "550302",
@@ -806,13 +770,12 @@
             "87"
           ]
         }
-      ],
+      },
       "name": "Cross River"
     },
     "Delta": {
-      "cities": [
-        {
-          "cityname": "Asaba",
+      "cities": {
+        "Asaba": {
           "zipcodes": [
             "320001",
             "320002",
@@ -824,8 +787,7 @@
             "85"
           ]
         },
-        {
-          "cityname": "Warri",
+        "Warri": {
           "zipcodes": [
             "340001",
             "340002",
@@ -837,8 +799,7 @@
             "85"
           ]
         },
-        {
-          "cityname": "Sapele",
+        "Sapele": {
           "zipcodes": [
             "340101",
             "340102",
@@ -850,8 +811,7 @@
             "85"
           ]
         },
-        {
-          "cityname": "Ughelli",
+        "Ughelli": {
           "zipcodes": [
             "340201",
             "340202",
@@ -863,8 +823,7 @@
             "85"
           ]
         },
-        {
-          "cityname": "Oleh",
+        "Oleh": {
           "zipcodes": [
             "320101",
             "320102",
@@ -876,8 +835,7 @@
             "85"
           ]
         },
-        {
-          "cityname": "Agbor",
+        "Agbor": {
           "zipcodes": [
             "320201",
             "320202",
@@ -889,8 +847,7 @@
             "85"
           ]
         },
-        {
-          "cityname": "Bomadi",
+        "Bomadi": {
           "zipcodes": [
             "340301",
             "340302",
@@ -902,8 +859,7 @@
             "85"
           ]
         },
-        {
-          "cityname": "Kwale",
+        "Kwale": {
           "zipcodes": [
             "320301",
             "320302",
@@ -915,8 +871,7 @@
             "85"
           ]
         },
-        {
-          "cityname": "Oghara",
+        "Oghara": {
           "zipcodes": [
             "340401",
             "340402",
@@ -928,8 +883,7 @@
             "85"
           ]
         },
-        {
-          "cityname": "Isele-Uku",
+        "Isele-Uku": {
           "zipcodes": [
             "320401",
             "320402",
@@ -941,13 +895,12 @@
             "85"
           ]
         }
-      ],
+      },
       "name": "Delta"
     },
     "Ebonyi": {
-      "cities": [
-        {
-          "cityname": "Abakaliki",
+      "cities": {
+        "Abakaliki": {
           "zipcodes": [
             "480001",
             "480002",
@@ -959,8 +912,7 @@
             "83"
           ]
         },
-        {
-          "cityname": "Afikpo",
+        "Afikpo": {
           "zipcodes": [
             "480101",
             "480102",
@@ -972,8 +924,7 @@
             "83"
           ]
         },
-        {
-          "cityname": "Ishielu",
+        "Ishielu": {
           "zipcodes": [
             "480201",
             "480202",
@@ -985,8 +936,7 @@
             "83"
           ]
         },
-        {
-          "cityname": "Edda",
+        "Edda": {
           "zipcodes": [
             "480301",
             "480302",
@@ -998,8 +948,7 @@
             "83"
           ]
         },
-        {
-          "cityname": "Ikwo",
+        "Ikwo": {
           "zipcodes": [
             "480401",
             "480402",
@@ -1011,8 +960,7 @@
             "83"
           ]
         },
-        {
-          "cityname": "Ohaozara",
+        "Ohaozara": {
           "zipcodes": [
             "480501",
             "480502",
@@ -1024,8 +972,7 @@
             "83"
           ]
         },
-        {
-          "cityname": "Onueke",
+        "Onueke": {
           "zipcodes": [
             "480601",
             "480602",
@@ -1037,8 +984,7 @@
             "83"
           ]
         },
-        {
-          "cityname": "Ugbodo",
+        "Ugbodo": {
           "zipcodes": [
             "480701",
             "480702",
@@ -1050,8 +996,7 @@
             "83"
           ]
         },
-        {
-          "cityname": "Ngbo",
+        "Ngbo": {
           "zipcodes": [
             "480801",
             "480802",
@@ -1063,8 +1008,7 @@
             "83"
           ]
         },
-        {
-          "cityname": "Afikpo North",
+        "Afikpo North": {
           "zipcodes": [
             "480901",
             "480902",
@@ -1076,13 +1020,12 @@
             "83"
           ]
         }
-      ],
+      },
       "name": "Ebonyi"
     },
     "Edo": {
-      "cities": [
-        {
-          "cityname": "Benin City",
+      "cities": {
+        "Benin City": {
           "zipcodes": [
             "300001",
             "300002",
@@ -1094,8 +1037,7 @@
             "52"
           ]
         },
-        {
-          "cityname": "Auchi",
+        "Auchi": {
           "zipcodes": [
             "310001",
             "310002",
@@ -1107,8 +1049,7 @@
             "52"
           ]
         },
-        {
-          "cityname": "Ekpoma",
+        "Ekpoma": {
           "zipcodes": [
             "310101",
             "310102",
@@ -1120,8 +1061,7 @@
             "52"
           ]
         },
-        {
-          "cityname": "Uromi",
+        "Uromi": {
           "zipcodes": [
             "320101",
             "320102",
@@ -1133,8 +1073,7 @@
             "52"
           ]
         },
-        {
-          "cityname": "Iguobazuwa",
+        "Iguobazuwa": {
           "zipcodes": [
             "310201",
             "310202",
@@ -1146,8 +1085,7 @@
             "52"
           ]
         },
-        {
-          "cityname": "Ovia",
+        "Ovia": {
           "zipcodes": [
             "300101",
             "300102",
@@ -1159,8 +1097,7 @@
             "52"
           ]
         },
-        {
-          "cityname": "Sapele",
+        "Sapele": {
           "zipcodes": [
             "320201",
             "320202",
@@ -1172,8 +1109,7 @@
             "52"
           ]
         },
-        {
-          "cityname": "Okada",
+        "Okada": {
           "zipcodes": [
             "310301",
             "310302",
@@ -1185,8 +1121,7 @@
             "52"
           ]
         },
-        {
-          "cityname": "Ehor",
+        "Ehor": {
           "zipcodes": [
             "300201",
             "300202",
@@ -1198,8 +1133,7 @@
             "52"
           ]
         },
-        {
-          "cityname": "Avianwu",
+        "Avianwu": {
           "zipcodes": [
             "310401",
             "310402",
@@ -1211,13 +1145,12 @@
             "52"
           ]
         }
-      ],
+      },
       "name": "Edo"
     },
     "Ekiti": {
-      "cities": [
-        {
-          "cityname": "Ado Ekiti",
+      "cities": {
+        "Ado Ekiti": {
           "zipcodes": [
             "360001",
             "360002",
@@ -1229,8 +1162,7 @@
             "70"
           ]
         },
-        {
-          "cityname": "Ikere Ekiti",
+        "Ikere Ekiti": {
           "zipcodes": [
             "360101",
             "360102",
@@ -1242,8 +1174,7 @@
             "70"
           ]
         },
-        {
-          "cityname": "Ilejemeje",
+        "Ilejemeje": {
           "zipcodes": [
             "360201",
             "360202",
@@ -1255,8 +1186,7 @@
             "70"
           ]
         },
-        {
-          "cityname": "Emure Ekiti",
+        "Emure Ekiti": {
           "zipcodes": [
             "360301",
             "360302",
@@ -1268,8 +1198,7 @@
             "70"
           ]
         },
-        {
-          "cityname": "Ijero Ekiti",
+        "Ijero Ekiti": {
           "zipcodes": [
             "360401",
             "360402",
@@ -1281,8 +1210,7 @@
             "70"
           ]
         },
-        {
-          "cityname": "Omuo Ekiti",
+        "Omuo Ekiti": {
           "zipcodes": [
             "360501",
             "360502",
@@ -1294,8 +1222,7 @@
             "70"
           ]
         },
-        {
-          "cityname": "Aramoko Ekiti",
+        "Aramoko Ekiti": {
           "zipcodes": [
             "360601",
             "360602",
@@ -1307,8 +1234,7 @@
             "70"
           ]
         },
-        {
-          "cityname": "Irepodun-Ifelodun",
+        "Irepodun-Ifelodun": {
           "zipcodes": [
             "360701",
             "360702",
@@ -1320,8 +1246,7 @@
             "70"
           ]
         },
-        {
-          "cityname": "Oye Ekiti",
+        "Oye Ekiti": {
           "zipcodes": [
             "360801",
             "360802",
@@ -1333,8 +1258,7 @@
             "70"
           ]
         },
-        {
-          "cityname": "Moba",
+        "Moba": {
           "zipcodes": [
             "360901",
             "360902",
@@ -1346,13 +1270,12 @@
             "70"
           ]
         }
-      ],
+      },
       "name": "Ekiti"
     },
     "Enugu": {
-      "cities": [
-        {
-          "cityname": "Enugu City",
+      "cities": {
+        "Enugu City": {
           "zipcodes": [
             "400001",
             "400002",
@@ -1364,8 +1287,7 @@
             "42"
           ]
         },
-        {
-          "cityname": "Nsukka",
+        "Nsukka": {
           "zipcodes": [
             "410001",
             "410002",
@@ -1377,8 +1299,7 @@
             "42"
           ]
         },
-        {
-          "cityname": "Udi",
+        "Udi": {
           "zipcodes": [
             "410101",
             "410102",
@@ -1390,8 +1311,7 @@
             "42"
           ]
         },
-        {
-          "cityname": "Nkanu",
+        "Nkanu": {
           "zipcodes": [
             "410201",
             "410202",
@@ -1403,8 +1323,7 @@
             "42"
           ]
         },
-        {
-          "cityname": "Uzo-Uwani",
+        "Uzo-Uwani": {
           "zipcodes": [
             "410301",
             "410302",
@@ -1416,8 +1335,7 @@
             "42"
           ]
         },
-        {
-          "cityname": "Igbo-Eze North",
+        "Igbo-Eze North": {
           "zipcodes": [
             "410401",
             "410402",
@@ -1429,8 +1347,7 @@
             "42"
           ]
         },
-        {
-          "cityname": "Igbo-Eze South",
+        "Igbo-Eze South": {
           "zipcodes": [
             "410501",
             "410502",
@@ -1442,8 +1359,7 @@
             "42"
           ]
         },
-        {
-          "cityname": "Enugu North",
+        "Enugu North": {
           "zipcodes": [
             "400101",
             "400102",
@@ -1455,8 +1371,7 @@
             "42"
           ]
         },
-        {
-          "cityname": "Enugu East",
+        "Enugu East": {
           "zipcodes": [
             "400201",
             "400202",
@@ -1468,8 +1383,7 @@
             "42"
           ]
         },
-        {
-          "cityname": "Enugu South",
+        "Enugu South": {
           "zipcodes": [
             "400301",
             "400302",
@@ -1481,13 +1395,12 @@
             "42"
           ]
         }
-      ],
+      },
       "name": "Enugu"
     },
     "Gombe": {
-      "cities": [
-        {
-          "cityname": "Gombe City",
+      "cities": {
+        "Gombe City": {
           "zipcodes": [
             "760001",
             "760002",
@@ -1499,8 +1412,7 @@
             "74"
           ]
         },
-        {
-          "cityname": "Kaltungo",
+        "Kaltungo": {
           "zipcodes": [
             "760101",
             "760102",
@@ -1512,8 +1424,7 @@
             "74"
           ]
         },
-        {
-          "cityname": "Kumo",
+        "Kumo": {
           "zipcodes": [
             "760201",
             "760202",
@@ -1525,8 +1436,7 @@
             "74"
           ]
         },
-        {
-          "cityname": "Billiri",
+        "Billiri": {
           "zipcodes": [
             "760301",
             "760302",
@@ -1538,8 +1448,7 @@
             "74"
           ]
         },
-        {
-          "cityname": "Deba",
+        "Deba": {
           "zipcodes": [
             "760401",
             "760402",
@@ -1551,8 +1460,7 @@
             "74"
           ]
         },
-        {
-          "cityname": "Nafada",
+        "Nafada": {
           "zipcodes": [
             "760501",
             "760502",
@@ -1564,8 +1472,7 @@
             "74"
           ]
         },
-        {
-          "cityname": "Bajoga",
+        "Bajoga": {
           "zipcodes": [
             "760601",
             "760602",
@@ -1577,8 +1484,7 @@
             "74"
           ]
         },
-        {
-          "cityname": "Tudun Wada",
+        "Tudun Wada": {
           "zipcodes": [
             "760701",
             "760702",
@@ -1590,8 +1496,7 @@
             "74"
           ]
         },
-        {
-          "cityname": "Yamaltu",
+        "Yamaltu": {
           "zipcodes": [
             "760801",
             "760802",
@@ -1603,8 +1508,7 @@
             "74"
           ]
         },
-        {
-          "cityname": "Akko",
+        "Akko": {
           "zipcodes": [
             "760901",
             "760902",
@@ -1616,13 +1520,12 @@
             "74"
           ]
         }
-      ],
+      },
       "name": "Gombe"
     },
     "Imo": {
-      "cities": [
-        {
-          "cityname": "Owerri",
+      "cities": {
+        "Owerri": {
           "zipcodes": [
             "460001",
             "460002",
@@ -1634,8 +1537,7 @@
             "702"
           ]
         },
-        {
-          "cityname": "Orlu",
+        "Orlu": {
           "zipcodes": [
             "460101",
             "460102",
@@ -1647,8 +1549,7 @@
             "702"
           ]
         },
-        {
-          "cityname": "Okigwe",
+        "Okigwe": {
           "zipcodes": [
             "460201",
             "460202",
@@ -1660,8 +1561,7 @@
             "702"
           ]
         },
-        {
-          "cityname": "Aboh Mbaise",
+        "Aboh Mbaise": {
           "zipcodes": [
             "460301",
             "460302",
@@ -1673,8 +1573,7 @@
             "702"
           ]
         },
-        {
-          "cityname": "Mbaitoli",
+        "Mbaitoli": {
           "zipcodes": [
             "460401",
             "460402",
@@ -1686,8 +1585,7 @@
             "702"
           ]
         },
-        {
-          "cityname": "Ngor Okpala",
+        "Ngor Okpala": {
           "zipcodes": [
             "460501",
             "460502",
@@ -1699,8 +1597,7 @@
             "702"
           ]
         },
-        {
-          "cityname": "Isu",
+        "Isu": {
           "zipcodes": [
             "460601",
             "460602",
@@ -1712,8 +1609,7 @@
             "702"
           ]
         },
-        {
-          "cityname": "Ideato North",
+        "Ideato North": {
           "zipcodes": [
             "460701",
             "460702",
@@ -1725,8 +1621,7 @@
             "702"
           ]
         },
-        {
-          "cityname": "Ideato South",
+        "Ideato South": {
           "zipcodes": [
             "460801",
             "460802",
@@ -1738,8 +1633,7 @@
             "702"
           ]
         },
-        {
-          "cityname": "Oru East",
+        "Oru East": {
           "zipcodes": [
             "460901",
             "460902",
@@ -1751,13 +1645,12 @@
             "702"
           ]
         }
-      ],
+      },
       "name": "Imo"
     },
     "Jigawa": {
-      "cities": [
-        {
-          "cityname": "Dutse",
+      "cities": {
+        "Dutse": {
           "zipcodes": [
             "720001",
             "720002",
@@ -1769,8 +1662,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Hadejia",
+        "Hadejia": {
           "zipcodes": [
             "720101",
             "720102",
@@ -1782,8 +1674,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Birnin Kudu",
+        "Birnin Kudu": {
           "zipcodes": [
             "720201",
             "720202",
@@ -1795,8 +1686,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Kazaure",
+        "Kazaure": {
           "zipcodes": [
             "720301",
             "720302",
@@ -1808,8 +1698,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Ringim",
+        "Ringim": {
           "zipcodes": [
             "720401",
             "720402",
@@ -1821,8 +1710,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Miga",
+        "Miga": {
           "zipcodes": [
             "720501",
             "720502",
@@ -1834,8 +1722,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Sule Tankarkar",
+        "Sule Tankarkar": {
           "zipcodes": [
             "720601",
             "720602",
@@ -1847,8 +1734,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Taura",
+        "Taura": {
           "zipcodes": [
             "720701",
             "720702",
@@ -1860,8 +1746,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Gumel",
+        "Gumel": {
           "zipcodes": [
             "720801",
             "720802",
@@ -1873,8 +1758,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Fune",
+        "Fune": {
           "zipcodes": [
             "720901",
             "720902",
@@ -1886,13 +1770,12 @@
             "71"
           ]
         }
-      ],
+      },
       "name": "Jigawa"
     },
     "Kaduna": {
-      "cities": [
-        {
-          "cityname": "Kaduna",
+      "cities": {
+        "Kaduna": {
           "zipcodes": [
             "800001",
             "800002",
@@ -1904,8 +1787,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Zaria",
+        "Zaria": {
           "zipcodes": [
             "800101",
             "800102",
@@ -1917,8 +1799,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Kafanchan",
+        "Kafanchan": {
           "zipcodes": [
             "800201",
             "800202",
@@ -1930,8 +1811,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Jemaa",
+        "Jemaa": {
           "zipcodes": [
             "800301",
             "800302",
@@ -1943,8 +1823,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Makarfi",
+        "Makarfi": {
           "zipcodes": [
             "800401",
             "800402",
@@ -1956,8 +1835,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Sabon Gari",
+        "Sabon Gari": {
           "zipcodes": [
             "800501",
             "800502",
@@ -1969,8 +1847,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Lere",
+        "Lere": {
           "zipcodes": [
             "800601",
             "800602",
@@ -1982,8 +1859,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Soba",
+        "Soba": {
           "zipcodes": [
             "800701",
             "800702",
@@ -1995,8 +1871,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Kudan",
+        "Kudan": {
           "zipcodes": [
             "800801",
             "800802",
@@ -2008,8 +1883,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Ikara",
+        "Ikara": {
           "zipcodes": [
             "800901",
             "800902",
@@ -2021,13 +1895,12 @@
             "62"
           ]
         }
-      ],
+      },
       "name": "Kaduna"
     },
     "Kano": {
-      "cities": [
-        {
-          "cityname": "Kano",
+      "cities": {
+        "Kano": {
           "zipcodes": [
             "700001",
             "700002",
@@ -2039,8 +1912,7 @@
             "64"
           ]
         },
-        {
-          "cityname": "Wudil",
+        "Wudil": {
           "zipcodes": [
             "700101",
             "700102",
@@ -2052,8 +1924,7 @@
             "64"
           ]
         },
-        {
-          "cityname": "Bebeji",
+        "Bebeji": {
           "zipcodes": [
             "700201",
             "700202",
@@ -2065,8 +1936,7 @@
             "64"
           ]
         },
-        {
-          "cityname": "Kabo",
+        "Kabo": {
           "zipcodes": [
             "700301",
             "700302",
@@ -2078,8 +1948,7 @@
             "64"
           ]
         },
-        {
-          "cityname": "Rano",
+        "Rano": {
           "zipcodes": [
             "700401",
             "700402",
@@ -2091,8 +1960,7 @@
             "64"
           ]
         },
-        {
-          "cityname": "Takai",
+        "Takai": {
           "zipcodes": [
             "700501",
             "700502",
@@ -2104,8 +1972,7 @@
             "64"
           ]
         },
-        {
-          "cityname": "Dawakin Kudu",
+        "Dawakin Kudu": {
           "zipcodes": [
             "700601",
             "700602",
@@ -2117,8 +1984,7 @@
             "64"
           ]
         },
-        {
-          "cityname": "Dawakin Tofa",
+        "Dawakin Tofa": {
           "zipcodes": [
             "700701",
             "700702",
@@ -2130,8 +1996,7 @@
             "64"
           ]
         },
-        {
-          "cityname": "Kunchi",
+        "Kunchi": {
           "zipcodes": [
             "700801",
             "700802",
@@ -2143,8 +2008,7 @@
             "64"
           ]
         },
-        {
-          "cityname": "Madobi",
+        "Madobi": {
           "zipcodes": [
             "700901",
             "700902",
@@ -2156,13 +2020,12 @@
             "64"
           ]
         }
-      ],
+      },
       "name": "Kano"
     },
     "Katsina": {
-      "cities": [
-        {
-          "cityname": "Katsina",
+      "cities": {
+        "Katsina": {
           "zipcodes": [
             "820001",
             "820002",
@@ -2174,8 +2037,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Daura",
+        "Daura": {
           "zipcodes": [
             "820101",
             "820102",
@@ -2187,8 +2049,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Mashi",
+        "Mashi": {
           "zipcodes": [
             "820201",
             "820202",
@@ -2200,8 +2061,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Funtua",
+        "Funtua": {
           "zipcodes": [
             "820301",
             "820302",
@@ -2213,8 +2073,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Malumfashi",
+        "Malumfashi": {
           "zipcodes": [
             "820401",
             "820402",
@@ -2226,8 +2085,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Kankara",
+        "Kankara": {
           "zipcodes": [
             "820501",
             "820502",
@@ -2239,8 +2097,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Batsari",
+        "Batsari": {
           "zipcodes": [
             "820601",
             "820602",
@@ -2252,8 +2109,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Zango",
+        "Zango": {
           "zipcodes": [
             "820701",
             "820702",
@@ -2265,8 +2121,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Jibia",
+        "Jibia": {
           "zipcodes": [
             "820801",
             "820802",
@@ -2278,8 +2133,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Charanchi",
+        "Charanchi": {
           "zipcodes": [
             "820901",
             "820902",
@@ -2291,13 +2145,12 @@
             "62"
           ]
         }
-      ],
+      },
       "name": "Katsina"
     },
     "Kebbi": {
-      "cities": [
-        {
-          "cityname": "Birnin Kebbi",
+      "cities": {
+        "Birnin Kebbi": {
           "zipcodes": [
             "860001",
             "860002",
@@ -2309,8 +2162,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Argungu",
+        "Argungu": {
           "zipcodes": [
             "860101",
             "860102",
@@ -2322,8 +2174,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Jega",
+        "Jega": {
           "zipcodes": [
             "860201",
             "860202",
@@ -2335,8 +2186,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Yauri",
+        "Yauri": {
           "zipcodes": [
             "860301",
             "860302",
@@ -2348,8 +2198,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Zuru",
+        "Zuru": {
           "zipcodes": [
             "860401",
             "860402",
@@ -2361,8 +2210,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Sakaba",
+        "Sakaba": {
           "zipcodes": [
             "860501",
             "860502",
@@ -2374,8 +2222,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Koko",
+        "Koko": {
           "zipcodes": [
             "860601",
             "860602",
@@ -2387,8 +2234,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Dandi",
+        "Dandi": {
           "zipcodes": [
             "860701",
             "860702",
@@ -2400,8 +2246,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Bagudo",
+        "Bagudo": {
           "zipcodes": [
             "860801",
             "860802",
@@ -2413,8 +2258,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Augie",
+        "Augie": {
           "zipcodes": [
             "860901",
             "860902",
@@ -2426,13 +2270,12 @@
             "71"
           ]
         }
-      ],
+      },
       "name": "Kebbi"
     },
     "Kogi": {
-      "cities": [
-        {
-          "cityname": "Lokoja",
+      "cities": {
+        "Lokoja": {
           "zipcodes": [
             "260001",
             "260002",
@@ -2444,8 +2287,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Idah",
+        "Idah": {
           "zipcodes": [
             "260101",
             "260102",
@@ -2457,8 +2299,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Okene",
+        "Okene": {
           "zipcodes": [
             "260201",
             "260202",
@@ -2470,8 +2311,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Anyigba",
+        "Anyigba": {
           "zipcodes": [
             "260301",
             "260302",
@@ -2483,8 +2323,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Ajaokuta",
+        "Ajaokuta": {
           "zipcodes": [
             "260401",
             "260402",
@@ -2496,8 +2335,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Ogori",
+        "Ogori": {
           "zipcodes": [
             "260501",
             "260502",
@@ -2509,8 +2347,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Okehi",
+        "Okehi": {
           "zipcodes": [
             "260601",
             "260602",
@@ -2522,8 +2359,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Igalamela",
+        "Igalamela": {
           "zipcodes": [
             "260701",
             "260702",
@@ -2535,8 +2371,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Dekina",
+        "Dekina": {
           "zipcodes": [
             "260801",
             "260802",
@@ -2548,8 +2383,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Bassa",
+        "Bassa": {
           "zipcodes": [
             "260901",
             "260902",
@@ -2561,13 +2395,12 @@
             "62"
           ]
         }
-      ],
+      },
       "name": "Kogi"
     },
     "Kwara": {
-      "cities": [
-        {
-          "cityname": "Ilorin",
+      "cities": {
+        "Ilorin": {
           "zipcodes": [
             "240001",
             "240002",
@@ -2579,8 +2412,7 @@
             "31"
           ]
         },
-        {
-          "cityname": "Omu-Aran",
+        "Omu-Aran": {
           "zipcodes": [
             "240101",
             "240102",
@@ -2592,8 +2424,7 @@
             "31"
           ]
         },
-        {
-          "cityname": "Offa",
+        "Offa": {
           "zipcodes": [
             "240201",
             "240202",
@@ -2605,8 +2436,7 @@
             "31"
           ]
         },
-        {
-          "cityname": "Ajao",
+        "Ajao": {
           "zipcodes": [
             "240301",
             "240302",
@@ -2618,8 +2448,7 @@
             "31"
           ]
         },
-        {
-          "cityname": "Ekiti",
+        "Ekiti": {
           "zipcodes": [
             "240401",
             "240402",
@@ -2631,8 +2460,7 @@
             "31"
           ]
         },
-        {
-          "cityname": "Shonga",
+        "Shonga": {
           "zipcodes": [
             "240501",
             "240502",
@@ -2644,8 +2472,7 @@
             "31"
           ]
         },
-        {
-          "cityname": "Bode Saadu",
+        "Bode Saadu": {
           "zipcodes": [
             "240601",
             "240602",
@@ -2657,8 +2484,7 @@
             "31"
           ]
         },
-        {
-          "cityname": "Balogun",
+        "Balogun": {
           "zipcodes": [
             "240701",
             "240702",
@@ -2670,8 +2496,7 @@
             "31"
           ]
         },
-        {
-          "cityname": "Ilesha-Baruba",
+        "Ilesha-Baruba": {
           "zipcodes": [
             "240801",
             "240802",
@@ -2683,8 +2508,7 @@
             "31"
           ]
         },
-        {
-          "cityname": "Moro",
+        "Moro": {
           "zipcodes": [
             "240901",
             "240902",
@@ -2696,13 +2520,12 @@
             "31"
           ]
         }
-      ],
+      },
       "name": "Kwara"
     },
     "Lagos": {
-      "cities": [
-        {
-          "cityname": "Ikeja",
+      "cities": {
+        "Ikeja": {
           "zipcodes": [
             "100001",
             "100002",
@@ -2714,8 +2537,7 @@
             "1"
           ]
         },
-        {
-          "cityname": "Lagos Mainland",
+        "Lagos Mainland": {
           "zipcodes": [
             "100011",
             "100012",
@@ -2727,8 +2549,7 @@
             "1"
           ]
         },
-        {
-          "cityname": "Lagos Island",
+        "Lagos Island": {
           "zipcodes": [
             "100021",
             "100022",
@@ -2740,8 +2561,7 @@
             "1"
           ]
         },
-        {
-          "cityname": "Victoria Island",
+        "Victoria Island": {
           "zipcodes": [
             "100031",
             "100032",
@@ -2753,8 +2573,7 @@
             "1"
           ]
         },
-        {
-          "cityname": "Lekki",
+        "Lekki": {
           "zipcodes": [
             "100041",
             "100042",
@@ -2766,8 +2585,7 @@
             "1"
           ]
         },
-        {
-          "cityname": "Epe",
+        "Epe": {
           "zipcodes": [
             "100051",
             "100052",
@@ -2779,8 +2597,7 @@
             "1"
           ]
         },
-        {
-          "cityname": "Badagry",
+        "Badagry": {
           "zipcodes": [
             "100061",
             "100062",
@@ -2792,8 +2609,7 @@
             "1"
           ]
         },
-        {
-          "cityname": "Agege",
+        "Agege": {
           "zipcodes": [
             "100071",
             "100072",
@@ -2805,8 +2621,7 @@
             "1"
           ]
         },
-        {
-          "cityname": "Ikorodu",
+        "Ikorodu": {
           "zipcodes": [
             "100081",
             "100082",
@@ -2818,8 +2633,7 @@
             "1"
           ]
         },
-        {
-          "cityname": "Shomolu",
+        "Shomolu": {
           "zipcodes": [
             "100091",
             "100092",
@@ -2831,13 +2645,12 @@
             "1"
           ]
         }
-      ],
+      },
       "name": "Lagos"
     },
     "Nasarawa": {
-      "cities": [
-        {
-          "cityname": "Lafia",
+      "cities": {
+        "Lafia": {
           "zipcodes": [
             "961001",
             "961002",
@@ -2849,8 +2662,7 @@
             "91"
           ]
         },
-        {
-          "cityname": "Keffi",
+        "Keffi": {
           "zipcodes": [
             "961011",
             "961012",
@@ -2862,8 +2674,7 @@
             "91"
           ]
         },
-        {
-          "cityname": "Nasarawa",
+        "Nasarawa": {
           "zipcodes": [
             "961021",
             "961022",
@@ -2875,8 +2686,7 @@
             "91"
           ]
         },
-        {
-          "cityname": "Akwanga",
+        "Akwanga": {
           "zipcodes": [
             "961031",
             "961032",
@@ -2888,8 +2698,7 @@
             "91"
           ]
         },
-        {
-          "cityname": "Doma",
+        "Doma": {
           "zipcodes": [
             "961041",
             "961042",
@@ -2901,8 +2710,7 @@
             "91"
           ]
         },
-        {
-          "cityname": "Wamba",
+        "Wamba": {
           "zipcodes": [
             "961051",
             "961052",
@@ -2914,8 +2722,7 @@
             "91"
           ]
         },
-        {
-          "cityname": "Toto",
+        "Toto": {
           "zipcodes": [
             "961061",
             "961062",
@@ -2927,8 +2734,7 @@
             "91"
           ]
         },
-        {
-          "cityname": "Umaisha",
+        "Umaisha": {
           "zipcodes": [
             "961071",
             "961072",
@@ -2940,8 +2746,7 @@
             "91"
           ]
         },
-        {
-          "cityname": "Obi",
+        "Obi": {
           "zipcodes": [
             "961081",
             "961082",
@@ -2953,8 +2758,7 @@
             "91"
           ]
         },
-        {
-          "cityname": "Kokona",
+        "Kokona": {
           "zipcodes": [
             "961091",
             "961092",
@@ -2966,13 +2770,12 @@
             "91"
           ]
         }
-      ],
+      },
       "name": "Nasarawa"
     },
     "Niger": {
-      "cities": [
-        {
-          "cityname": "Minna",
+      "cities": {
+        "Minna": {
           "zipcodes": [
             "920001",
             "920002",
@@ -2984,8 +2787,7 @@
             "91"
           ]
         },
-        {
-          "cityname": "Suleja",
+        "Suleja": {
           "zipcodes": [
             "920011",
             "920012",
@@ -2997,8 +2799,7 @@
             "91"
           ]
         },
-        {
-          "cityname": "Bida",
+        "Bida": {
           "zipcodes": [
             "920021",
             "920022",
@@ -3010,8 +2811,7 @@
             "91"
           ]
         },
-        {
-          "cityname": "Kontagora",
+        "Kontagora": {
           "zipcodes": [
             "920031",
             "920032",
@@ -3023,8 +2823,7 @@
             "91"
           ]
         },
-        {
-          "cityname": "Tafa",
+        "Tafa": {
           "zipcodes": [
             "920041",
             "920042",
@@ -3036,8 +2835,7 @@
             "91"
           ]
         },
-        {
-          "cityname": "Katcha",
+        "Katcha": {
           "zipcodes": [
             "920051",
             "920052",
@@ -3049,8 +2847,7 @@
             "91"
           ]
         },
-        {
-          "cityname": "Lapai",
+        "Lapai": {
           "zipcodes": [
             "920061",
             "920062",
@@ -3062,8 +2859,7 @@
             "91"
           ]
         },
-        {
-          "cityname": "Mokwa",
+        "Mokwa": {
           "zipcodes": [
             "920071",
             "920072",
@@ -3075,8 +2871,7 @@
             "91"
           ]
         },
-        {
-          "cityname": "New Bussa",
+        "New Bussa": {
           "zipcodes": [
             "920081",
             "920082",
@@ -3088,8 +2883,7 @@
             "91"
           ]
         },
-        {
-          "cityname": "Rafi",
+        "Rafi": {
           "zipcodes": [
             "920091",
             "920092",
@@ -3101,13 +2895,12 @@
             "91"
           ]
         }
-      ],
+      },
       "name": "Niger"
     },
     "Ogun": {
-      "cities": [
-        {
-          "cityname": "Abeokuta",
+      "cities": {
+        "Abeokuta": {
           "zipcodes": [
             "110101",
             "110102",
@@ -3119,8 +2912,7 @@
             "39"
           ]
         },
-        {
-          "cityname": "Ijebu Ode",
+        "Ijebu Ode": {
           "zipcodes": [
             "120101",
             "120102",
@@ -3132,8 +2924,7 @@
             "29"
           ]
         },
-        {
-          "cityname": "Ota",
+        "Ota": {
           "zipcodes": [
             "120201",
             "120202",
@@ -3145,8 +2936,7 @@
             "39"
           ]
         },
-        {
-          "cityname": "Sagamu",
+        "Sagamu": {
           "zipcodes": [
             "121001",
             "121002",
@@ -3158,8 +2948,7 @@
             "39"
           ]
         },
-        {
-          "cityname": "Ado Odo",
+        "Ado Odo": {
           "zipcodes": [
             "120301",
             "120302",
@@ -3171,8 +2960,7 @@
             "39"
           ]
         },
-        {
-          "cityname": "Ifo",
+        "Ifo": {
           "zipcodes": [
             "120401",
             "120402",
@@ -3184,8 +2972,7 @@
             "39"
           ]
         },
-        {
-          "cityname": "Ogun Waterside",
+        "Ogun Waterside": {
           "zipcodes": [
             "121101",
             "121102",
@@ -3197,8 +2984,7 @@
             "39"
           ]
         },
-        {
-          "cityname": "Ijebu North",
+        "Ijebu North": {
           "zipcodes": [
             "120501",
             "120502",
@@ -3210,8 +2996,7 @@
             "39"
           ]
         },
-        {
-          "cityname": "Ijebu East",
+        "Ijebu East": {
           "zipcodes": [
             "120601",
             "120602",
@@ -3223,8 +3008,7 @@
             "39"
           ]
         },
-        {
-          "cityname": "Ewekoro",
+        "Ewekoro": {
           "zipcodes": [
             "120701",
             "120702",
@@ -3236,13 +3020,12 @@
             "39"
           ]
         }
-      ],
+      },
       "name": "Ogun"
     },
     "Ondo": {
-      "cities": [
-        {
-          "cityname": "Akure",
+      "cities": {
+        "Akure": {
           "zipcodes": [
             "340101",
             "340102",
@@ -3254,8 +3037,7 @@
             "34"
           ]
         },
-        {
-          "cityname": "Ondo",
+        "Ondo": {
           "zipcodes": [
             "340201",
             "340202",
@@ -3267,8 +3049,7 @@
             "34"
           ]
         },
-        {
-          "cityname": "Owo",
+        "Owo": {
           "zipcodes": [
             "340301",
             "340302",
@@ -3280,8 +3061,7 @@
             "34"
           ]
         },
-        {
-          "cityname": "Ikare Akoko",
+        "Ikare Akoko": {
           "zipcodes": [
             "340401",
             "340402",
@@ -3293,8 +3073,7 @@
             "34"
           ]
         },
-        {
-          "cityname": "Ikole",
+        "Ikole": {
           "zipcodes": [
             "340501",
             "340502",
@@ -3306,8 +3085,7 @@
             "34"
           ]
         },
-        {
-          "cityname": "Oka Akoko",
+        "Oka Akoko": {
           "zipcodes": [
             "340601",
             "340602",
@@ -3319,8 +3097,7 @@
             "34"
           ]
         },
-        {
-          "cityname": "Ile Oluji",
+        "Ile Oluji": {
           "zipcodes": [
             "340701",
             "340702",
@@ -3332,8 +3109,7 @@
             "34"
           ]
         },
-        {
-          "cityname": "Emure",
+        "Emure": {
           "zipcodes": [
             "340801",
             "340802",
@@ -3345,8 +3121,7 @@
             "34"
           ]
         },
-        {
-          "cityname": "Irele",
+        "Irele": {
           "zipcodes": [
             "340901",
             "340902",
@@ -3358,8 +3133,7 @@
             "34"
           ]
         },
-        {
-          "cityname": "Akoko North",
+        "Akoko North": {
           "zipcodes": [
             "341001",
             "341002",
@@ -3371,13 +3145,12 @@
             "34"
           ]
         }
-      ],
+      },
       "name": "Ondo"
     },
     "Osun": {
-      "cities": [
-        {
-          "cityname": "Osogbo",
+      "cities": {
+        "Osogbo": {
           "zipcodes": [
             "230101",
             "230102",
@@ -3389,8 +3162,7 @@
             "36"
           ]
         },
-        {
-          "cityname": "Ife",
+        "Ife": {
           "zipcodes": [
             "230201",
             "230202",
@@ -3402,8 +3174,7 @@
             "36"
           ]
         },
-        {
-          "cityname": "Iwo",
+        "Iwo": {
           "zipcodes": [
             "230301",
             "230302",
@@ -3415,8 +3186,7 @@
             "36"
           ]
         },
-        {
-          "cityname": "Ede",
+        "Ede": {
           "zipcodes": [
             "230401",
             "230402",
@@ -3428,8 +3198,7 @@
             "36"
           ]
         },
-        {
-          "cityname": "Oke Ila",
+        "Oke Ila": {
           "zipcodes": [
             "230501",
             "230502",
@@ -3441,8 +3210,7 @@
             "36"
           ]
         },
-        {
-          "cityname": "Ilesha",
+        "Ilesha": {
           "zipcodes": [
             "230601",
             "230602",
@@ -3454,8 +3222,7 @@
             "36"
           ]
         },
-        {
-          "cityname": "Ikirun",
+        "Ikirun": {
           "zipcodes": [
             "230701",
             "230702",
@@ -3467,8 +3234,7 @@
             "36"
           ]
         },
-        {
-          "cityname": "Ola Oluwa",
+        "Ola Oluwa": {
           "zipcodes": [
             "230801",
             "230802",
@@ -3480,8 +3246,7 @@
             "36"
           ]
         },
-        {
-          "cityname": "Obokun",
+        "Obokun": {
           "zipcodes": [
             "230901",
             "230902",
@@ -3493,8 +3258,7 @@
             "36"
           ]
         },
-        {
-          "cityname": "Atakumosa",
+        "Atakumosa": {
           "zipcodes": [
             "231001",
             "231002",
@@ -3506,13 +3270,12 @@
             "36"
           ]
         }
-      ],
+      },
       "name": "Osun"
     },
     "Oyo": {
-      "cities": [
-        {
-          "cityname": "Ibadan",
+      "cities": {
+        "Ibadan": {
           "zipcodes": [
             "200101",
             "200102",
@@ -3524,8 +3287,7 @@
             "2"
           ]
         },
-        {
-          "cityname": "Oyo",
+        "Oyo": {
           "zipcodes": [
             "200201",
             "200202",
@@ -3537,8 +3299,7 @@
             "2"
           ]
         },
-        {
-          "cityname": "Ogbomosho",
+        "Ogbomosho": {
           "zipcodes": [
             "200301",
             "200302",
@@ -3550,8 +3311,7 @@
             "2"
           ]
         },
-        {
-          "cityname": "Iseyin",
+        "Iseyin": {
           "zipcodes": [
             "200401",
             "200402",
@@ -3563,8 +3323,7 @@
             "2"
           ]
         },
-        {
-          "cityname": "Akinyele",
+        "Akinyele": {
           "zipcodes": [
             "200501",
             "200502",
@@ -3576,8 +3335,7 @@
             "2"
           ]
         },
-        {
-          "cityname": "Ogbomoso South",
+        "Ogbomoso South": {
           "zipcodes": [
             "200601",
             "200602",
@@ -3589,8 +3347,7 @@
             "2"
           ]
         },
-        {
-          "cityname": "Atiba",
+        "Atiba": {
           "zipcodes": [
             "200701",
             "200702",
@@ -3602,8 +3359,7 @@
             "2"
           ]
         },
-        {
-          "cityname": "Ibarapa",
+        "Ibarapa": {
           "zipcodes": [
             "200801",
             "200802",
@@ -3615,8 +3371,7 @@
             "2"
           ]
         },
-        {
-          "cityname": "Lagelu",
+        "Lagelu": {
           "zipcodes": [
             "200901",
             "200902",
@@ -3628,8 +3383,7 @@
             "2"
           ]
         },
-        {
-          "cityname": "Surulere",
+        "Surulere": {
           "zipcodes": [
             "201001",
             "201002",
@@ -3641,13 +3395,12 @@
             "2"
           ]
         }
-      ],
+      },
       "name": "Oyo"
     },
     "Plateau": {
-      "cities": [
-        {
-          "cityname": "Jos",
+      "cities": {
+        "Jos": {
           "zipcodes": [
             "930101",
             "930102",
@@ -3659,8 +3412,7 @@
             "73"
           ]
         },
-        {
-          "cityname": "Barkin Ladi",
+        "Barkin Ladi": {
           "zipcodes": [
             "930201",
             "930202",
@@ -3672,8 +3424,7 @@
             "73"
           ]
         },
-        {
-          "cityname": "Shendam",
+        "Shendam": {
           "zipcodes": [
             "930301",
             "930302",
@@ -3685,8 +3436,7 @@
             "73"
           ]
         },
-        {
-          "cityname": "Pankshin",
+        "Pankshin": {
           "zipcodes": [
             "930401",
             "930402",
@@ -3698,8 +3448,7 @@
             "73"
           ]
         },
-        {
-          "cityname": "Mangu",
+        "Mangu": {
           "zipcodes": [
             "930501",
             "930502",
@@ -3711,8 +3460,7 @@
             "73"
           ]
         },
-        {
-          "cityname": "Langtang",
+        "Langtang": {
           "zipcodes": [
             "930601",
             "930602",
@@ -3724,8 +3472,7 @@
             "73"
           ]
         },
-        {
-          "cityname": "Riyom",
+        "Riyom": {
           "zipcodes": [
             "930701",
             "930702",
@@ -3737,8 +3484,7 @@
             "73"
           ]
         },
-        {
-          "cityname": "Wase",
+        "Wase": {
           "zipcodes": [
             "930801",
             "930802",
@@ -3750,8 +3496,7 @@
             "73"
           ]
         },
-        {
-          "cityname": "Bokkos",
+        "Bokkos": {
           "zipcodes": [
             "930901",
             "930902",
@@ -3763,8 +3508,7 @@
             "73"
           ]
         },
-        {
-          "cityname": "Bassa",
+        "Bassa": {
           "zipcodes": [
             "931001",
             "931002",
@@ -3776,13 +3520,12 @@
             "73"
           ]
         }
-      ],
+      },
       "name": "Plateau"
     },
     "Rivers": {
-      "cities": [
-        {
-          "cityname": "Port Harcourt",
+      "cities": {
+        "Port Harcourt": {
           "zipcodes": [
             "500101",
             "500102",
@@ -3794,8 +3537,7 @@
             "84"
           ]
         },
-        {
-          "cityname": "Obio-Akpor",
+        "Obio-Akpor": {
           "zipcodes": [
             "500201",
             "500202",
@@ -3807,8 +3549,7 @@
             "84"
           ]
         },
-        {
-          "cityname": "Ikwerre",
+        "Ikwerre": {
           "zipcodes": [
             "500301",
             "500302",
@@ -3820,8 +3561,7 @@
             "84"
           ]
         },
-        {
-          "cityname": "Emuoha",
+        "Emuoha": {
           "zipcodes": [
             "500401",
             "500402",
@@ -3833,8 +3573,7 @@
             "84"
           ]
         },
-        {
-          "cityname": "Etche",
+        "Etche": {
           "zipcodes": [
             "500501",
             "500502",
@@ -3846,8 +3585,7 @@
             "84"
           ]
         },
-        {
-          "cityname": "Degema",
+        "Degema": {
           "zipcodes": [
             "500601",
             "500602",
@@ -3859,8 +3597,7 @@
             "84"
           ]
         },
-        {
-          "cityname": "Bonny",
+        "Bonny": {
           "zipcodes": [
             "500701",
             "500702",
@@ -3872,8 +3609,7 @@
             "84"
           ]
         },
-        {
-          "cityname": "Abua/Odual",
+        "Abua/Odual": {
           "zipcodes": [
             "500801",
             "500802",
@@ -3885,8 +3621,7 @@
             "84"
           ]
         },
-        {
-          "cityname": "Ahoada East",
+        "Ahoada East": {
           "zipcodes": [
             "500901",
             "500902",
@@ -3898,8 +3633,7 @@
             "84"
           ]
         },
-        {
-          "cityname": "Okrika",
+        "Okrika": {
           "zipcodes": [
             "501001",
             "501002",
@@ -3911,13 +3645,12 @@
             "84"
           ]
         }
-      ],
+      },
       "name": "Rivers"
     },
     "Sokoto": {
-      "cities": [
-        {
-          "cityname": "Sokoto",
+      "cities": {
+        "Sokoto": {
           "zipcodes": [
             "840101",
             "840102",
@@ -3929,8 +3662,7 @@
             "69"
           ]
         },
-        {
-          "cityname": "Tambuwal",
+        "Tambuwal": {
           "zipcodes": [
             "840201",
             "840202",
@@ -3942,8 +3674,7 @@
             "69"
           ]
         },
-        {
-          "cityname": "Bodinga",
+        "Bodinga": {
           "zipcodes": [
             "840301",
             "840302",
@@ -3955,8 +3686,7 @@
             "69"
           ]
         },
-        {
-          "cityname": "Wamako",
+        "Wamako": {
           "zipcodes": [
             "840401",
             "840402",
@@ -3968,8 +3698,7 @@
             "69"
           ]
         },
-        {
-          "cityname": "Gwadabawa",
+        "Gwadabawa": {
           "zipcodes": [
             "840501",
             "840502",
@@ -3981,8 +3710,7 @@
             "69"
           ]
         },
-        {
-          "cityname": "Shagari",
+        "Shagari": {
           "zipcodes": [
             "840601",
             "840602",
@@ -3994,8 +3722,7 @@
             "69"
           ]
         },
-        {
-          "cityname": "Illela",
+        "Illela": {
           "zipcodes": [
             "840701",
             "840702",
@@ -4007,8 +3734,7 @@
             "69"
           ]
         },
-        {
-          "cityname": "Goronyo",
+        "Goronyo": {
           "zipcodes": [
             "840801",
             "840802",
@@ -4020,8 +3746,7 @@
             "69"
           ]
         },
-        {
-          "cityname": "Kebbe",
+        "Kebbe": {
           "zipcodes": [
             "840901",
             "840902",
@@ -4033,8 +3758,7 @@
             "69"
           ]
         },
-        {
-          "cityname": "Sokoto South",
+        "Sokoto South": {
           "zipcodes": [
             "841001",
             "841002",
@@ -4046,13 +3770,12 @@
             "69"
           ]
         }
-      ],
+      },
       "name": "Sokoto"
     },
     "Taraba": {
-      "cities": [
-        {
-          "cityname": "Jalingo",
+      "cities": {
+        "Jalingo": {
           "zipcodes": [
             "660101",
             "660102",
@@ -4064,8 +3787,7 @@
             "73"
           ]
         },
-        {
-          "cityname": "Wukari",
+        "Wukari": {
           "zipcodes": [
             "660201",
             "660202",
@@ -4077,8 +3799,7 @@
             "73"
           ]
         },
-        {
-          "cityname": "Zing",
+        "Zing": {
           "zipcodes": [
             "660301",
             "660302",
@@ -4090,8 +3811,7 @@
             "73"
           ]
         },
-        {
-          "cityname": "Takum",
+        "Takum": {
           "zipcodes": [
             "660401",
             "660402",
@@ -4103,8 +3823,7 @@
             "73"
           ]
         },
-        {
-          "cityname": "Donga",
+        "Donga": {
           "zipcodes": [
             "660501",
             "660502",
@@ -4116,8 +3835,7 @@
             "73"
           ]
         },
-        {
-          "cityname": "Karim-Lamido",
+        "Karim-Lamido": {
           "zipcodes": [
             "660601",
             "660602",
@@ -4129,8 +3847,7 @@
             "73"
           ]
         },
-        {
-          "cityname": "Ardo Kola",
+        "Ardo Kola": {
           "zipcodes": [
             "660701",
             "660702",
@@ -4142,8 +3859,7 @@
             "73"
           ]
         },
-        {
-          "cityname": "Yorro",
+        "Yorro": {
           "zipcodes": [
             "660801",
             "660802",
@@ -4155,8 +3871,7 @@
             "73"
           ]
         },
-        {
-          "cityname": "Bali",
+        "Bali": {
           "zipcodes": [
             "660901",
             "660902",
@@ -4168,8 +3883,7 @@
             "73"
           ]
         },
-        {
-          "cityname": "Jemita",
+        "Jemita": {
           "zipcodes": [
             "661001",
             "661002",
@@ -4181,13 +3895,12 @@
             "73"
           ]
         }
-      ],
+      },
       "name": "Taraba"
     },
     "Yobe": {
-      "cities": [
-        {
-          "cityname": "Damaturu",
+      "cities": {
+        "Damaturu": {
           "zipcodes": [
             "320101",
             "320102",
@@ -4199,8 +3912,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Potiskum",
+        "Potiskum": {
           "zipcodes": [
             "320201",
             "320202",
@@ -4212,8 +3924,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Gashua",
+        "Gashua": {
           "zipcodes": [
             "320301",
             "320302",
@@ -4225,8 +3936,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Nguru",
+        "Nguru": {
           "zipcodes": [
             "320401",
             "320402",
@@ -4238,8 +3948,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Bade",
+        "Bade": {
           "zipcodes": [
             "320501",
             "320502",
@@ -4251,8 +3960,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Fika",
+        "Fika": {
           "zipcodes": [
             "320601",
             "320602",
@@ -4264,8 +3972,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Jajere",
+        "Jajere": {
           "zipcodes": [
             "320701",
             "320702",
@@ -4277,8 +3984,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Jakusko",
+        "Jakusko": {
           "zipcodes": [
             "320801",
             "320802",
@@ -4290,8 +3996,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Machina",
+        "Machina": {
           "zipcodes": [
             "320901",
             "320902",
@@ -4303,8 +4008,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Tarmuwa",
+        "Tarmuwa": {
           "zipcodes": [
             "321001",
             "321002",
@@ -4316,13 +4020,12 @@
             "71"
           ]
         }
-      ],
+      },
       "name": "Yobe"
     },
     "Zamfara": {
-      "cities": [
-        {
-          "cityname": "Gusau",
+      "cities": {
+        "Gusau": {
           "zipcodes": [
             "880101",
             "880102",
@@ -4334,8 +4037,7 @@
             "69"
           ]
         },
-        {
-          "cityname": "Bungudu",
+        "Bungudu": {
           "zipcodes": [
             "880201",
             "880202",
@@ -4347,8 +4049,7 @@
             "69"
           ]
         },
-        {
-          "cityname": "Maru",
+        "Maru": {
           "zipcodes": [
             "880301",
             "880302",
@@ -4360,8 +4061,7 @@
             "69"
           ]
         },
-        {
-          "cityname": "Shinkafi",
+        "Shinkafi": {
           "zipcodes": [
             "880401",
             "880402",
@@ -4373,8 +4073,7 @@
             "69"
           ]
         },
-        {
-          "cityname": "Kaura Namoda",
+        "Kaura Namoda": {
           "zipcodes": [
             "880501",
             "880502",
@@ -4386,8 +4085,7 @@
             "69"
           ]
         },
-        {
-          "cityname": "Anka",
+        "Anka": {
           "zipcodes": [
             "880601",
             "880602",
@@ -4399,8 +4097,7 @@
             "69"
           ]
         },
-        {
-          "cityname": "Tsafe",
+        "Tsafe": {
           "zipcodes": [
             "880701",
             "880702",
@@ -4412,8 +4109,7 @@
             "69"
           ]
         },
-        {
-          "cityname": "Maradun",
+        "Maradun": {
           "zipcodes": [
             "880801",
             "880802",
@@ -4425,8 +4121,7 @@
             "69"
           ]
         },
-        {
-          "cityname": "Gummi",
+        "Gummi": {
           "zipcodes": [
             "880901",
             "880902",
@@ -4438,8 +4133,7 @@
             "69"
           ]
         },
-        {
-          "cityname": "Talata Mafara",
+        "Talata Mafara": {
           "zipcodes": [
             "881001",
             "881002",
@@ -4451,13 +4145,12 @@
             "69"
           ]
         }
-      ],
+      },
       "name": "Zamfara"
     },
     "Federal Capital Territory (FCT) – Abuja": {
-      "cities": [
-        {
-          "cityname": "Abuja",
+      "cities": {
+        "Abuja": {
           "zipcodes": [
             "900101",
             "900102",
@@ -4469,8 +4162,7 @@
             "9"
           ]
         },
-        {
-          "cityname": "Gwagwalada",
+        "Gwagwalada": {
           "zipcodes": [
             "900201",
             "900202",
@@ -4482,8 +4174,7 @@
             "9"
           ]
         },
-        {
-          "cityname": "Kuje",
+        "Kuje": {
           "zipcodes": [
             "900301",
             "900302",
@@ -4495,8 +4186,7 @@
             "9"
           ]
         },
-        {
-          "cityname": "Bwari",
+        "Bwari": {
           "zipcodes": [
             "900401",
             "900402",
@@ -4508,8 +4198,7 @@
             "9"
           ]
         },
-        {
-          "cityname": "Abaji",
+        "Abaji": {
           "zipcodes": [
             "900501",
             "900502",
@@ -4521,8 +4210,7 @@
             "9"
           ]
         },
-        {
-          "cityname": "Lokogoma",
+        "Lokogoma": {
           "zipcodes": [
             "900601",
             "900602",
@@ -4534,8 +4222,7 @@
             "9"
           ]
         },
-        {
-          "cityname": "Wuse",
+        "Wuse": {
           "zipcodes": [
             "900701",
             "900702",
@@ -4547,8 +4234,7 @@
             "9"
           ]
         },
-        {
-          "cityname": "Jabi",
+        "Jabi": {
           "zipcodes": [
             "900801",
             "900802",
@@ -4560,8 +4246,7 @@
             "9"
           ]
         },
-        {
-          "cityname": "Asokoro",
+        "Asokoro": {
           "zipcodes": [
             "900901",
             "900902",
@@ -4573,8 +4258,7 @@
             "9"
           ]
         },
-        {
-          "cityname": "Garki",
+        "Garki": {
           "zipcodes": [
             "901001",
             "901002",
@@ -4586,27 +4270,98 @@
             "9"
           ]
         }
-      ],
+      },
       "name": "Federal Capital Territory (FCT) – Abuja"
     }
   },
-  
-  "citycontainers":[
+  "citycontainers": [
     "states"
   ],
   "firstnames": [
-  "Olumide", "Chidi", "Ayodele", "Ngozi", "Chika", "Umar", "Bola", "Ifeoma", "Ngozi", "Adebayo",
-  "Funke", "Emeka", "Ademola", "Ngozi", "Chinonso", "Amina", "Olamide", "Tope", "Ifeoluwa", "Kehinde",
-  "Tolulope", "Abimbola", "Ifeanyi", "Temitope", "Oluwaseun", "Adeola", "Oluwadamilola", "Chinonso", "Yemisi",
-  "Micheal", "Adebukola", "Tolu", "Kemi", "Fisayo", "Samuel", "Jumoke", "Adebisi", "Temiloluwa", "Modupe",
-  "Kehinde", "Chinonso"
-],
-"lastnames": [
-  "Abubakar", "Adeyemi", "Ogunleye", "Nwosu", "Adebayo", "Okafor", "Akinwale", "Balogun", "Durojaiye", "Ogunyemi",
-  "Okeke", "Obi", "Chukwu", "Akinyemi", "Ademola", "Olaniyi", "Oluwaseun", "Eze", "Ibrahim", "Akinbiyi",
-  "Alabi", "Olugbodi", "Fashola", "Ajayi", "Akinloye", "Akintoye", "Olujimi", "Adegbite", "Ogunjobi", "Olayemi",
-  "Olumide", "Oluwole", "Akinlade", "Raji", "Akinbode", "Abiola", "Adedeji", "Bamidele", "Adebisi", "Ajiboye",
-  "Oluwafemi", "Aderemi"
-]
-
+    "Olumide",
+    "Chidi",
+    "Ayodele",
+    "Ngozi",
+    "Chika",
+    "Umar",
+    "Bola",
+    "Ifeoma",
+    "Ngozi",
+    "Adebayo",
+    "Funke",
+    "Emeka",
+    "Ademola",
+    "Ngozi",
+    "Chinonso",
+    "Amina",
+    "Olamide",
+    "Tope",
+    "Ifeoluwa",
+    "Kehinde",
+    "Tolulope",
+    "Abimbola",
+    "Ifeanyi",
+    "Temitope",
+    "Oluwaseun",
+    "Adeola",
+    "Oluwadamilola",
+    "Chinonso",
+    "Yemisi",
+    "Micheal",
+    "Adebukola",
+    "Tolu",
+    "Kemi",
+    "Fisayo",
+    "Samuel",
+    "Jumoke",
+    "Adebisi",
+    "Temiloluwa",
+    "Modupe",
+    "Kehinde",
+    "Chinonso"
+  ],
+  "lastnames": [
+    "Abubakar",
+    "Adeyemi",
+    "Ogunleye",
+    "Nwosu",
+    "Adebayo",
+    "Okafor",
+    "Akinwale",
+    "Balogun",
+    "Durojaiye",
+    "Ogunyemi",
+    "Okeke",
+    "Obi",
+    "Chukwu",
+    "Akinyemi",
+    "Ademola",
+    "Olaniyi",
+    "Oluwaseun",
+    "Eze",
+    "Ibrahim",
+    "Akinbiyi",
+    "Alabi",
+    "Olugbodi",
+    "Fashola",
+    "Ajayi",
+    "Akinloye",
+    "Akintoye",
+    "Olujimi",
+    "Adegbite",
+    "Ogunjobi",
+    "Olayemi",
+    "Olumide",
+    "Oluwole",
+    "Akinlade",
+    "Raji",
+    "Akinbode",
+    "Abiola",
+    "Adedeji",
+    "Bamidele",
+    "Adebisi",
+    "Ajiboye",
+    "Oluwafemi",
+    "Aderemi"
+  ]
 }

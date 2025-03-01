@@ -1,417 +1,683 @@
 {
-    "name" : "Rhode Island", 
-    "capitcal" : "Providence",
-    "cities" : [
-        {
-            "cityname" : "Providence",
-            "areacodes" : ["401"],
-            "zipcodes" : ["02901", "02902", "02903", "02904", "02905", "02906", "02907", "02908", "02909", "02910", "02911", "02912", "02918", "02940"]
-        },
-        {
-            "cityname" : "Butler",
-            "areacodes" : ["724"],
-            "zipcodes" : ["16001", "16002", "16003"]
-        },
-        {
-            "cityname" : "California",
-            "areacodes" : ["724"],
-            "zipcodes" : ["15419"]
-        },
-        {
-            "cityname" : "Callensburg",
-            "areacodes" : ["814"],
-            "zipcodes" : ["16213"]
-        },
-        {
-            "cityname" : "Callery",
-            "areacodes" : ["724"],
-            "zipcodes" : ["16024"]
-        },
-        {
-            "cityname" : "Calumet",
-            "areacodes" : ["724"],
-            "zipcodes" : ["15621"]
-        },
-        {
-            "cityname" : "Cambridge Springs",
-            "areacodes" : ["814"],
-            "zipcodes" : ["16403"]
-        },
-        {
-            "cityname" : "Camp Hill",
-            "areacodes" : ["717"],
-            "zipcodes" : ["17001", "17011", "17012", "17089"]
-        },
-        {
-            "cityname" : "Campbelltown",
-            "areacodes" : ["717"],
-            "zipcodes" : ["17010"]
-        },
-        {
-            "cityname" : "Canonsburg",
-            "areacodes" : ["724"],
-            "zipcodes" : ["15317"]
-        },
-        {
-            "cityname" : "Canton",
-            "areacodes" : ["570"],
-            "zipcodes" : ["17724"]
-        },
-        {
-            "cityname" : "Carbondale",
-            "areacodes" : ["570"],
-            "zipcodes" : ["18407"]
-        },
-        {
-            "cityname" : "Carlisle",
-            "areacodes" : ["717"],
-            "zipcodes" : ["17013", "17015"]
-        },
-        {
-            "cityname" : "Carmichaels",
-            "areacodes" : ["724"],
-            "zipcodes" : ["15320"]
-        },
-        {
-            "cityname" : "Carnegie",
-            "areacodes" : ["412"],
-            "zipcodes" : ["15106"]
-        },
-        {
-            "cityname" : "Carrolltown",
-            "areacodes" : ["814"],
-            "zipcodes" : ["15722"]
-        },
-        {
-            "cityname" : "Cashtown",
-            "areacodes" : ["717"],
-            "zipcodes" : ["17310"]
-        },
-        {
-            "cityname" : "Catasauqua",
-            "areacodes" : ["610"],
-            "zipcodes" : ["18032"]
-        },
-        {
-            "cityname" : "Catawissa",
-            "areacodes" : ["570"],
-            "zipcodes" : ["17820"]
-        },
-        {
-            "cityname" : "Cecil",
-            "areacodes" : ["724"],
-            "zipcodes" : ["15321"]
-        },
-        {
-            "cityname" : "Centerport",
-            "areacodes" : ["610"],
-            "zipcodes" : ["19516"]
-        },
-        {
-            "cityname" : "Centerville",
-            "areacodes" : ["814"],
-            "zipcodes" : ["16404"]
-        },
-        {
-            "cityname" : "Central City",
-            "areacodes" : ["814"],
-            "zipcodes" : ["15926"]
-        },
-        {
-            "cityname" : "Centre Hall",
-            "areacodes" : ["814"],
-            "zipcodes" : ["16828"]
-        },
-        {
-            "cityname" : "Chalfont",
-            "areacodes" : ["215"],
-            "zipcodes" : ["18914"]
-        },
-        {
-            "cityname" : "Chambersburg",
-            "areacodes" : ["717"],
-            "zipcodes" : ["17201", "17202"]
-        },
-        {
-            "cityname" : "Charleroi",
-            "areacodes" : ["724"],
-            "zipcodes" : ["15022"]
-        },
-        {
-            "cityname" : "Cherry Tree",
-            "areacodes" : ["814"],
-            "zipcodes" : ["15724"]
-        },
-        {
-            "cityname" : "Chester Heights",
-            "areacodes" : ["610"],
-            "zipcodes" : ["19017"]
-        },
-        {
-            "cityname" : "Chester",
-            "areacodes" : ["610"],
-            "zipcodes" : ["19013", "19016"]
-        },
-        {
-            "cityname" : "Chicora",
-            "areacodes" : ["724"],
-            "zipcodes" : ["16025"]
-        },
-        {
-            "cityname" : "Christiana",
-            "areacodes" : ["610"],
-            "zipcodes" : ["17509"]
-        },
-        {
-            "cityname" : "Clairton",
-            "areacodes" : ["412"],
-            "zipcodes" : ["15025"]
-        },
-        {
-            "cityname" : "Clarence",
-            "areacodes" : ["814"],
-            "zipcodes" : ["16829"]
-        },
-        {
-            "cityname" : "Clarendon",
-            "areacodes" : ["814"],
-            "zipcodes" : ["16313"]
-        },
-        {
-            "cityname" : "Clarion",
-            "areacodes" : ["814"],
-            "zipcodes" : ["16214"]
-        },
-        {
-            "cityname" : "Clark",
-            "areacodes" : ["724"],
-            "zipcodes" : ["16113"]
-        },
-        {
-            "cityname" : "Clarks Summit",
-            "areacodes" : ["570"],
-            "zipcodes" : ["18411"]
-        },
-        {
-            "cityname" : "Clarksville",
-            "areacodes" : ["724"],
-            "zipcodes" : ["15322"]
-        },
-        {
-            "cityname" : "Claysburg",
-            "areacodes" : ["814"],
-            "zipcodes" : ["16625"]
-        },
-        {
-            "cityname" : "Claysville",
-            "areacodes" : ["724"],
-            "zipcodes" : ["15323"]
-        },
-        {
-            "cityname" : "Clearfield",
-            "areacodes" : ["814"],
-            "zipcodes" : ["16830"]
-        },
-        {
-            "cityname" : "Clifton Heights",
-            "areacodes" : ["610"],
-            "zipcodes" : ["19018"]
-        },
-        {
-            "cityname" : "Clintonville",
-            "areacodes" : ["814"],
-            "zipcodes" : ["16372"]
-        },
-        {
-            "cityname" : "Clymer",
-            "areacodes" : ["724"],
-            "zipcodes" : ["15728"]
-        },
-        {
-            "cityname" : "Coaldale",
-            "areacodes" : ["570"],
-            "zipcodes" : ["18218"]
-        },
-        {
-            "cityname" : "Coalport",
-            "areacodes" : ["814"],
-            "zipcodes" : ["16627"]
-        },
-        {
-            "cityname" : "Coatesville",
-            "areacodes" : ["610"],
-            "zipcodes" : ["19320"]
-        },
-        {
-            "cityname" : "Cochranton",
-            "areacodes" : ["814"],
-            "zipcodes" : ["16314"]
-        },
-        {
-            "cityname" : "Cokeburg",
-            "areacodes" : ["724"],
-            "zipcodes" : ["15324"]
-        },
-        {
-            "cityname" : "Collegeville",
-            "areacodes" : ["610"],
-            "zipcodes" : ["19426"]
-        },
-        {
-            "cityname" : "Columbia",
-            "areacodes" : ["717"],
-            "zipcodes" : ["17512"]
-        },
-        {
-            "cityname" : "Colver",
-            "areacodes" : ["814"],
-            "zipcodes" : ["15927"]
-        },
-        {
-            "cityname" : "Commodore",
-            "areacodes" : ["814"],
-            "zipcodes" : ["15729"]
-        },
-        {
-            "cityname" : "Confluence",
-            "areacodes" : ["814"],
-            "zipcodes" : ["15424"]
-        },
-        {
-            "cityname" : "Conneaut Lake",
-            "areacodes" : ["814"],
-            "zipcodes" : ["16316"]
-        },
-        {
-            "cityname" : "Conneautville",
-            "areacodes" : ["814"],
-            "zipcodes" : ["16406"]
-        },
-        {
-            "cityname" : "Connellsville",
-            "areacodes" : ["724"],
-            "zipcodes" : ["15425"]
-        },
-        {
-            "cityname" : "Connoquenessing",
-            "areacodes" : ["724"],
-            "zipcodes" : ["16027"]
-        },
-        {
-            "cityname" : "Conshohocken",
-            "areacodes" : ["610"],
-            "zipcodes" : ["19428"]
-        },
-        {
-            "cityname" : "Conway",
-            "areacodes" : ["724"],
-            "zipcodes" : ["15027"]
-        },
-        {
-            "cityname" : "Conyngham",
-            "areacodes" : ["570"],
-            "zipcodes" : ["18219"]
-        },
-        {
-            "cityname" : "Coopersburg",
-            "areacodes" : ["610"],
-            "zipcodes" : ["18036"]
-        },
-        {
-            "cityname" : "Cooperstown",
-            "areacodes" : ["814"],
-            "zipcodes" : ["16317"]
-        },
-        {
-            "cityname" : "Coplay",
-            "areacodes" : ["610"],
-            "zipcodes" : ["18037"]
-        },
-        {
-            "cityname" : "Coraopolis",
-            "areacodes" : ["412"],
-            "zipcodes" : ["15108"]
-        },
-        {
-            "cityname" : "Cornwall",
-            "areacodes" : ["717"],
-            "zipcodes" : ["17016"]
-        },
-        {
-            "cityname" : "Corry",
-            "areacodes" : ["814"],
-            "zipcodes" : ["16407"]
-        },
-        {
-            "cityname" : "Corsica",
-            "areacodes" : ["814"],
-            "zipcodes" : ["15829"]
-        },
-        {
-            "cityname" : "Coudersport",
-            "areacodes" : ["814"],
-            "zipcodes" : ["16915"]
-        },
-        {
-            "cityname" : "Crabtree",
-            "areacodes" : ["724"],
-            "zipcodes" : ["15624"]
-        },
-        {
-            "cityname" : "Cranesville",
-            "areacodes" : ["814"],
-            "zipcodes" : ["16410"]
-        },
-        {
-            "cityname" : "Creekside",
-            "areacodes" : ["724"],
-            "zipcodes" : ["15732"]
-        },
-        {
-            "cityname" : "Cresson",
-            "areacodes" : ["814"],
-            "zipcodes" : ["16630"]
-        },
-        {
-            "cityname" : "Cressona",
-            "areacodes" : ["570"],
-            "zipcodes" : ["17929"]
-        },
-        {
-            "cityname" : "Croydon",
-            "areacodes" : ["215"],
-            "zipcodes" : ["19021"]
-        },
-        {
-            "cityname" : "Curtisville",
-            "areacodes" : ["724"],
-            "zipcodes" : ["15032"]
-        },
-        {
-            "cityname" : "Curwensville",
-            "areacodes" : ["814"],
-            "zipcodes" : ["16833"]
-        },
-        {
-            "cityname" : "Daisytown",
-            "areacodes" : ["724"],
-            "zipcodes" : ["15427"]
-        },
-        {
-            "cityname" : "Dallas",
-            "areacodes" : ["570"],
-            "zipcodes" : ["18612"]
-        },
-        {
-            "cityname" : "Dallastown",
-            "areacodes" : ["717"],
-            "zipcodes" : ["17313"]
-        },
-        {
-            "cityname" : "Dalton",
-            "areacodes" : ["570"],
-            "zipcodes" : ["18414"]
-        }
-
-    ]
+  "name": "Rhode Island",
+  "capitcal": "Providence",
+  "cities": {
+    "Providence": {
+      "zipcodes": [
+        "02901",
+        "02902",
+        "02903",
+        "02904",
+        "02905",
+        "02906",
+        "02907",
+        "02908",
+        "02909",
+        "02910",
+        "02911",
+        "02912",
+        "02918",
+        "02940"
+      ],
+      "areacodes": [
+        "401"
+      ]
+    },
+    "Butler": {
+      "zipcodes": [
+        "16001",
+        "16002",
+        "16003"
+      ],
+      "areacodes": [
+        "724"
+      ]
+    },
+    "California": {
+      "zipcodes": [
+        "15419"
+      ],
+      "areacodes": [
+        "724"
+      ]
+    },
+    "Callensburg": {
+      "zipcodes": [
+        "16213"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Callery": {
+      "zipcodes": [
+        "16024"
+      ],
+      "areacodes": [
+        "724"
+      ]
+    },
+    "Calumet": {
+      "zipcodes": [
+        "15621"
+      ],
+      "areacodes": [
+        "724"
+      ]
+    },
+    "Cambridge Springs": {
+      "zipcodes": [
+        "16403"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Camp Hill": {
+      "zipcodes": [
+        "17001",
+        "17011",
+        "17012",
+        "17089"
+      ],
+      "areacodes": [
+        "717"
+      ]
+    },
+    "Campbelltown": {
+      "zipcodes": [
+        "17010"
+      ],
+      "areacodes": [
+        "717"
+      ]
+    },
+    "Canonsburg": {
+      "zipcodes": [
+        "15317"
+      ],
+      "areacodes": [
+        "724"
+      ]
+    },
+    "Canton": {
+      "zipcodes": [
+        "17724"
+      ],
+      "areacodes": [
+        "570"
+      ]
+    },
+    "Carbondale": {
+      "zipcodes": [
+        "18407"
+      ],
+      "areacodes": [
+        "570"
+      ]
+    },
+    "Carlisle": {
+      "zipcodes": [
+        "17013",
+        "17015"
+      ],
+      "areacodes": [
+        "717"
+      ]
+    },
+    "Carmichaels": {
+      "zipcodes": [
+        "15320"
+      ],
+      "areacodes": [
+        "724"
+      ]
+    },
+    "Carnegie": {
+      "zipcodes": [
+        "15106"
+      ],
+      "areacodes": [
+        "412"
+      ]
+    },
+    "Carrolltown": {
+      "zipcodes": [
+        "15722"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Cashtown": {
+      "zipcodes": [
+        "17310"
+      ],
+      "areacodes": [
+        "717"
+      ]
+    },
+    "Catasauqua": {
+      "zipcodes": [
+        "18032"
+      ],
+      "areacodes": [
+        "610"
+      ]
+    },
+    "Catawissa": {
+      "zipcodes": [
+        "17820"
+      ],
+      "areacodes": [
+        "570"
+      ]
+    },
+    "Cecil": {
+      "zipcodes": [
+        "15321"
+      ],
+      "areacodes": [
+        "724"
+      ]
+    },
+    "Centerport": {
+      "zipcodes": [
+        "19516"
+      ],
+      "areacodes": [
+        "610"
+      ]
+    },
+    "Centerville": {
+      "zipcodes": [
+        "16404"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Central City": {
+      "zipcodes": [
+        "15926"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Centre Hall": {
+      "zipcodes": [
+        "16828"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Chalfont": {
+      "zipcodes": [
+        "18914"
+      ],
+      "areacodes": [
+        "215"
+      ]
+    },
+    "Chambersburg": {
+      "zipcodes": [
+        "17201",
+        "17202"
+      ],
+      "areacodes": [
+        "717"
+      ]
+    },
+    "Charleroi": {
+      "zipcodes": [
+        "15022"
+      ],
+      "areacodes": [
+        "724"
+      ]
+    },
+    "Cherry Tree": {
+      "zipcodes": [
+        "15724"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Chester Heights": {
+      "zipcodes": [
+        "19017"
+      ],
+      "areacodes": [
+        "610"
+      ]
+    },
+    "Chester": {
+      "zipcodes": [
+        "19013",
+        "19016"
+      ],
+      "areacodes": [
+        "610"
+      ]
+    },
+    "Chicora": {
+      "zipcodes": [
+        "16025"
+      ],
+      "areacodes": [
+        "724"
+      ]
+    },
+    "Christiana": {
+      "zipcodes": [
+        "17509"
+      ],
+      "areacodes": [
+        "610"
+      ]
+    },
+    "Clairton": {
+      "zipcodes": [
+        "15025"
+      ],
+      "areacodes": [
+        "412"
+      ]
+    },
+    "Clarence": {
+      "zipcodes": [
+        "16829"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Clarendon": {
+      "zipcodes": [
+        "16313"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Clarion": {
+      "zipcodes": [
+        "16214"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Clark": {
+      "zipcodes": [
+        "16113"
+      ],
+      "areacodes": [
+        "724"
+      ]
+    },
+    "Clarks Summit": {
+      "zipcodes": [
+        "18411"
+      ],
+      "areacodes": [
+        "570"
+      ]
+    },
+    "Clarksville": {
+      "zipcodes": [
+        "15322"
+      ],
+      "areacodes": [
+        "724"
+      ]
+    },
+    "Claysburg": {
+      "zipcodes": [
+        "16625"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Claysville": {
+      "zipcodes": [
+        "15323"
+      ],
+      "areacodes": [
+        "724"
+      ]
+    },
+    "Clearfield": {
+      "zipcodes": [
+        "16830"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Clifton Heights": {
+      "zipcodes": [
+        "19018"
+      ],
+      "areacodes": [
+        "610"
+      ]
+    },
+    "Clintonville": {
+      "zipcodes": [
+        "16372"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Clymer": {
+      "zipcodes": [
+        "15728"
+      ],
+      "areacodes": [
+        "724"
+      ]
+    },
+    "Coaldale": {
+      "zipcodes": [
+        "18218"
+      ],
+      "areacodes": [
+        "570"
+      ]
+    },
+    "Coalport": {
+      "zipcodes": [
+        "16627"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Coatesville": {
+      "zipcodes": [
+        "19320"
+      ],
+      "areacodes": [
+        "610"
+      ]
+    },
+    "Cochranton": {
+      "zipcodes": [
+        "16314"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Cokeburg": {
+      "zipcodes": [
+        "15324"
+      ],
+      "areacodes": [
+        "724"
+      ]
+    },
+    "Collegeville": {
+      "zipcodes": [
+        "19426"
+      ],
+      "areacodes": [
+        "610"
+      ]
+    },
+    "Columbia": {
+      "zipcodes": [
+        "17512"
+      ],
+      "areacodes": [
+        "717"
+      ]
+    },
+    "Colver": {
+      "zipcodes": [
+        "15927"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Commodore": {
+      "zipcodes": [
+        "15729"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Confluence": {
+      "zipcodes": [
+        "15424"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Conneaut Lake": {
+      "zipcodes": [
+        "16316"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Conneautville": {
+      "zipcodes": [
+        "16406"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Connellsville": {
+      "zipcodes": [
+        "15425"
+      ],
+      "areacodes": [
+        "724"
+      ]
+    },
+    "Connoquenessing": {
+      "zipcodes": [
+        "16027"
+      ],
+      "areacodes": [
+        "724"
+      ]
+    },
+    "Conshohocken": {
+      "zipcodes": [
+        "19428"
+      ],
+      "areacodes": [
+        "610"
+      ]
+    },
+    "Conway": {
+      "zipcodes": [
+        "15027"
+      ],
+      "areacodes": [
+        "724"
+      ]
+    },
+    "Conyngham": {
+      "zipcodes": [
+        "18219"
+      ],
+      "areacodes": [
+        "570"
+      ]
+    },
+    "Coopersburg": {
+      "zipcodes": [
+        "18036"
+      ],
+      "areacodes": [
+        "610"
+      ]
+    },
+    "Cooperstown": {
+      "zipcodes": [
+        "16317"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Coplay": {
+      "zipcodes": [
+        "18037"
+      ],
+      "areacodes": [
+        "610"
+      ]
+    },
+    "Coraopolis": {
+      "zipcodes": [
+        "15108"
+      ],
+      "areacodes": [
+        "412"
+      ]
+    },
+    "Cornwall": {
+      "zipcodes": [
+        "17016"
+      ],
+      "areacodes": [
+        "717"
+      ]
+    },
+    "Corry": {
+      "zipcodes": [
+        "16407"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Corsica": {
+      "zipcodes": [
+        "15829"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Coudersport": {
+      "zipcodes": [
+        "16915"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Crabtree": {
+      "zipcodes": [
+        "15624"
+      ],
+      "areacodes": [
+        "724"
+      ]
+    },
+    "Cranesville": {
+      "zipcodes": [
+        "16410"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Creekside": {
+      "zipcodes": [
+        "15732"
+      ],
+      "areacodes": [
+        "724"
+      ]
+    },
+    "Cresson": {
+      "zipcodes": [
+        "16630"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Cressona": {
+      "zipcodes": [
+        "17929"
+      ],
+      "areacodes": [
+        "570"
+      ]
+    },
+    "Croydon": {
+      "zipcodes": [
+        "19021"
+      ],
+      "areacodes": [
+        "215"
+      ]
+    },
+    "Curtisville": {
+      "zipcodes": [
+        "15032"
+      ],
+      "areacodes": [
+        "724"
+      ]
+    },
+    "Curwensville": {
+      "zipcodes": [
+        "16833"
+      ],
+      "areacodes": [
+        "814"
+      ]
+    },
+    "Daisytown": {
+      "zipcodes": [
+        "15427"
+      ],
+      "areacodes": [
+        "724"
+      ]
+    },
+    "Dallas": {
+      "zipcodes": [
+        "18612"
+      ],
+      "areacodes": [
+        "570"
+      ]
+    },
+    "Dallastown": {
+      "zipcodes": [
+        "17313"
+      ],
+      "areacodes": [
+        "717"
+      ]
+    },
+    "Dalton": {
+      "zipcodes": [
+        "18414"
+      ],
+      "areacodes": [
+        "570"
+      ]
+    }
+  }
 }

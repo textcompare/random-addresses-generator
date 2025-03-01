@@ -297,9 +297,8 @@
   },
   "regions": {
     "Central Region": {
-      "cities": [
-        {
-          "cityname": "Singapore",
+      "cities": {
+        "Singapore": {
           "zipcodes": [
             "018",
             "019",
@@ -311,8 +310,7 @@
             "65"
           ]
         },
-        {
-          "cityname": "Bukit Timah",
+        "Bukit Timah": {
           "zipcodes": [
             "589",
             "590",
@@ -324,8 +322,7 @@
             "65"
           ]
         },
-        {
-          "cityname": "Marina Bay",
+        "Marina Bay": {
           "zipcodes": [
             "018",
             "019",
@@ -337,8 +334,7 @@
             "65"
           ]
         },
-        {
-          "cityname": "Orchard",
+        "Orchard": {
           "zipcodes": [
             "238",
             "239",
@@ -350,8 +346,7 @@
             "65"
           ]
         },
-        {
-          "cityname": "Clementi",
+        "Clementi": {
           "zipcodes": [
             "120",
             "121",
@@ -363,13 +358,12 @@
             "65"
           ]
         }
-      ],
+      },
       "name": "Central Region"
     },
     "East Region": {
-      "cities": [
-        {
-          "cityname": "Bedok",
+      "cities": {
+        "Bedok": {
           "zipcodes": [
             "460",
             "461",
@@ -381,8 +375,7 @@
             "65"
           ]
         },
-        {
-          "cityname": "Pasir Ris",
+        "Pasir Ris": {
           "zipcodes": [
             "510",
             "511",
@@ -394,8 +387,7 @@
             "65"
           ]
         },
-        {
-          "cityname": "Tampines",
+        "Tampines": {
           "zipcodes": [
             "520",
             "521",
@@ -407,8 +399,7 @@
             "65"
           ]
         },
-        {
-          "cityname": "Simei",
+        "Simei": {
           "zipcodes": [
             "529",
             "530",
@@ -420,8 +411,7 @@
             "65"
           ]
         },
-        {
-          "cityname": "Changi",
+        "Changi": {
           "zipcodes": [
             "509",
             "510",
@@ -433,13 +423,12 @@
             "65"
           ]
         }
-      ],
+      },
       "name": "East Region"
     },
     "North Region": {
-      "cities": [
-        {
-          "cityname": "Woodlands",
+      "cities": {
+        "Woodlands": {
           "zipcodes": [
             "730",
             "731",
@@ -451,8 +440,7 @@
             "65"
           ]
         },
-        {
-          "cityname": "Sembawang",
+        "Sembawang": {
           "zipcodes": [
             "750",
             "751",
@@ -464,8 +452,7 @@
             "65"
           ]
         },
-        {
-          "cityname": "Yishun",
+        "Yishun": {
           "zipcodes": [
             "760",
             "761",
@@ -477,8 +464,7 @@
             "65"
           ]
         },
-        {
-          "cityname": "Khatib",
+        "Khatib": {
           "zipcodes": [
             "769",
             "770",
@@ -490,8 +476,7 @@
             "65"
           ]
         },
-        {
-          "cityname": "Admiralty",
+        "Admiralty": {
           "zipcodes": [
             "765",
             "766",
@@ -503,13 +488,12 @@
             "65"
           ]
         }
-      ],
+      },
       "name": "North Region"
     },
     "North-East Region": {
-      "cities": [
-        {
-          "cityname": "Punggol",
+      "cities": {
+        "Punggol": {
           "zipcodes": [
             "820",
             "821",
@@ -521,8 +505,7 @@
             "65"
           ]
         },
-        {
-          "cityname": "Sengkang",
+        "Sengkang": {
           "zipcodes": [
             "540",
             "541",
@@ -534,8 +517,7 @@
             "65"
           ]
         },
-        {
-          "cityname": "Hougang",
+        "Hougang": {
           "zipcodes": [
             "530",
             "531",
@@ -547,8 +529,7 @@
             "65"
           ]
         },
-        {
-          "cityname": "Kovan",
+        "Kovan": {
           "zipcodes": [
             "550",
             "551",
@@ -560,8 +541,7 @@
             "65"
           ]
         },
-        {
-          "cityname": "Serangoon",
+        "Serangoon": {
           "zipcodes": [
             "550",
             "551",
@@ -573,13 +553,12 @@
             "65"
           ]
         }
-      ],
+      },
       "name": "North-East Region"
     },
     "West Region": {
-      "cities": [
-        {
-          "cityname": "Jurong East",
+      "cities": {
+        "Jurong East": {
           "zipcodes": [
             "600",
             "601",
@@ -591,8 +570,7 @@
             "65"
           ]
         },
-        {
-          "cityname": "Jurong West",
+        "Jurong West": {
           "zipcodes": [
             "640",
             "641",
@@ -604,8 +582,7 @@
             "65"
           ]
         },
-        {
-          "cityname": "Clementi",
+        "Clementi": {
           "zipcodes": [
             "120",
             "121",
@@ -617,8 +594,7 @@
             "65"
           ]
         },
-        {
-          "cityname": "Bukit Panjang",
+        "Bukit Panjang": {
           "zipcodes": [
             "670",
             "671",
@@ -630,8 +606,7 @@
             "65"
           ]
         },
-        {
-          "cityname": "Choa Chu Kang",
+        "Choa Chu Kang": {
           "zipcodes": [
             "680",
             "681",
@@ -643,7 +618,7 @@
             "65"
           ]
         }
-      ],
+      },
       "name": "West Region"
     }
   },

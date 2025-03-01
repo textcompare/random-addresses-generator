@@ -1,162 +1,290 @@
 {
-    "name": "Montana",
-    "capital": "Helena",
-    "cities": [
-      {
-        "cityname": "Anaconda",
-        "zipcodes": ["59711"],
-        "areacodes": ["406"]
-      },
-      {
-        "cityname": "Belgrade",
-        "zipcodes": ["59714"],
-        "areacodes": ["406"]
-      },
-      {
-        "cityname": "Billings",
-        "zipcodes": ["59101", "59102", "59103", "59104", "59105", "59106", "59107", "59108"],
-        "areacodes": ["406"]
-      },
-      {
-        "cityname": "Bozeman",
-        "zipcodes": ["59715", "59717", "59718", "59719", "59771", "59772", "59773"],
-        "areacodes": ["406"]
-      },
-      {
-        "cityname": "Butte",
-        "zipcodes": ["59701", "59702", "59703", "59707", "59750"],
-        "areacodes": ["406"]
-      },
-      {
-        "cityname": "Columbia Falls",
-        "zipcodes": ["59912"],
-        "areacodes": ["406"]
-      },
-      {
-        "cityname": "Dillon",
-        "zipcodes": ["59725"],
-        "areacodes": ["406"]
-      },
-      {
-        "cityname": "Glendive",
-        "zipcodes": ["59330"],
-        "areacodes": ["406"]
-      },
-      {
-        "cityname": "Great Falls",
-        "zipcodes": ["59401", "59403", "59404", "59405", "59406"],
-        "areacodes": ["406"]
-      },
-    {
-      "cityname": "Hamilton",
-      "zipcodes": ["59840"],
-      "areacodes": ["406"]
+  "name": "Montana",
+  "capital": "Helena",
+  "cities": {
+    "Anaconda": {
+      "zipcodes": [
+        "59711"
+      ],
+      "areacodes": [
+        "406"
+      ]
     },
-    {
-      "cityname": "Hardin",
-      "zipcodes": ["59034"],
-      "areacodes": ["406"]
+    "Belgrade": {
+      "zipcodes": [
+        "59714"
+      ],
+      "areacodes": [
+        "406"
+      ]
     },
-    {
-      "cityname": "Havre",
-      "zipcodes": ["59501"],
-      "areacodes": ["406"]
+    "Billings": {
+      "zipcodes": [
+        "59101",
+        "59102",
+        "59103",
+        "59104",
+        "59105",
+        "59106",
+        "59107",
+        "59108"
+      ],
+      "areacodes": [
+        "406"
+      ]
     },
-    {
-      "cityname": "Helena",
-      "zipcodes": ["59601", "59602", "59604", "59620", "59623", "59624", "59625", "59626"],
-      "areacodes": ["406"]
+    "Bozeman": {
+      "zipcodes": [
+        "59715",
+        "59717",
+        "59718",
+        "59719",
+        "59771",
+        "59772",
+        "59773"
+      ],
+      "areacodes": [
+        "406"
+      ]
     },
-    {
-      "cityname": "Kalispell",
-      "zipcodes": ["59901", "59903", "59904"],
-      "areacodes": ["406"]
+    "Butte": {
+      "zipcodes": [
+        "59701",
+        "59702",
+        "59703",
+        "59707",
+        "59750"
+      ],
+      "areacodes": [
+        "406"
+      ]
     },
-    {
-      "cityname": "Laurel",
-      "zipcodes": ["59044"],
-      "areacodes": ["406"]
+    "Columbia Falls": {
+      "zipcodes": [
+        "59912"
+      ],
+      "areacodes": [
+        "406"
+      ]
     },
-    {
-      "cityname": "Lewistown",
-      "zipcodes": ["59457"],
-      "areacodes": ["406"]
+    "Dillon": {
+      "zipcodes": [
+        "59725"
+      ],
+      "areacodes": [
+        "406"
+      ]
     },
-    {
-      "cityname": "Libby",
-      "zipcodes": ["59923"],
-      "areacodes": ["406"]
+    "Glendive": {
+      "zipcodes": [
+        "59330"
+      ],
+      "areacodes": [
+        "406"
+      ]
     },
-    {
-      "cityname": "Livingston",
-      "zipcodes": ["59047"],
-      "areacodes": ["406"]
+    "Great Falls": {
+      "zipcodes": [
+        "59401",
+        "59403",
+        "59404",
+        "59405",
+        "59406"
+      ],
+      "areacodes": [
+        "406"
+      ]
     },
-    {
-      "cityname": "Miles City",
-      "zipcodes": ["59301"],
-      "areacodes": ["406"]
+    "Hamilton": {
+      "zipcodes": [
+        "59840"
+      ],
+      "areacodes": [
+        "406"
+      ]
     },
-    {
-      "cityname": "Missoula",
-      "zipcodes": ["59801", "59802", "59803", "59804", "59806", "59807", "59808"],
-      "areacodes": ["406"]
+    "Hardin": {
+      "zipcodes": [
+        "59034"
+      ],
+      "areacodes": [
+        "406"
+      ]
     },
-    {
-      "cityname": "Polson",
-      "zipcodes": ["59860"],
-      "areacodes": ["406"]
+    "Havre": {
+      "zipcodes": [
+        "59501"
+      ],
+      "areacodes": [
+        "406"
+      ]
     },
-    {
-      "cityname": "Red Lodge",
-      "zipcodes": ["59068"],
-      "areacodes": ["406"]
+    "Helena": {
+      "zipcodes": [
+        "59601",
+        "59602",
+        "59604",
+        "59620",
+        "59623",
+        "59624",
+        "59625",
+        "59626"
+      ],
+      "areacodes": [
+        "406"
+      ]
     },
-    {
-      "cityname": "Sidney",
-      "zipcodes": ["59270"],
-      "areacodes": ["406"]
+    "Kalispell": {
+      "zipcodes": [
+        "59901",
+        "59903",
+        "59904"
+      ],
+      "areacodes": [
+        "406"
+      ]
     },
-    {
-      "cityname": "Stevensville",
-      "zipcodes": ["59870"],
-      "areacodes": ["406"]
+    "Laurel": {
+      "zipcodes": [
+        "59044"
+      ],
+      "areacodes": [
+        "406"
+      ]
     },
-    {
-      "cityname": "Thompson Falls",
-      "zipcodes": ["59873"],
-      "areacodes": ["406"]
+    "Lewistown": {
+      "zipcodes": [
+        "59457"
+      ],
+      "areacodes": [
+        "406"
+      ]
     },
-    {
-      "cityname": "Three Forks",
-      "zipcodes": ["59752"],
-      "areacodes": ["406"]
+    "Libby": {
+      "zipcodes": [
+        "59923"
+      ],
+      "areacodes": [
+        "406"
+      ]
     },
-    {
-      "cityname": "Townsend",
-      "zipcodes": ["59644"],
-      "areacodes": ["406"]
+    "Livingston": {
+      "zipcodes": [
+        "59047"
+      ],
+      "areacodes": [
+        "406"
+      ]
     },
-    {
-      "cityname": "West Yellowstone",
-      "zipcodes": ["59758"],
-      "areacodes": ["406"]
+    "Miles City": {
+      "zipcodes": [
+        "59301"
+      ],
+      "areacodes": [
+        "406"
+      ]
     },
-    {
-      "cityname": "Whitefish",
-      "zipcodes": ["59937"],
-      "areacodes": ["406"]
+    "Missoula": {
+      "zipcodes": [
+        "59801",
+        "59802",
+        "59803",
+        "59804",
+        "59806",
+        "59807",
+        "59808"
+      ],
+      "areacodes": [
+        "406"
+      ]
     },
-    {
-      "cityname": "Whitehall",
-      "zipcodes": ["59759"],
-      "areacodes": ["406"]
+    "Polson": {
+      "zipcodes": [
+        "59860"
+      ],
+      "areacodes": [
+        "406"
+      ]
     },
-    {
-      "cityname": "Wolf Point",
-      "zipcodes": ["59201"],
-      "areacodes": ["406"]
+    "Red Lodge": {
+      "zipcodes": [
+        "59068"
+      ],
+      "areacodes": [
+        "406"
+      ]
+    },
+    "Sidney": {
+      "zipcodes": [
+        "59270"
+      ],
+      "areacodes": [
+        "406"
+      ]
+    },
+    "Stevensville": {
+      "zipcodes": [
+        "59870"
+      ],
+      "areacodes": [
+        "406"
+      ]
+    },
+    "Thompson Falls": {
+      "zipcodes": [
+        "59873"
+      ],
+      "areacodes": [
+        "406"
+      ]
+    },
+    "Three Forks": {
+      "zipcodes": [
+        "59752"
+      ],
+      "areacodes": [
+        "406"
+      ]
+    },
+    "Townsend": {
+      "zipcodes": [
+        "59644"
+      ],
+      "areacodes": [
+        "406"
+      ]
+    },
+    "West Yellowstone": {
+      "zipcodes": [
+        "59758"
+      ],
+      "areacodes": [
+        "406"
+      ]
+    },
+    "Whitefish": {
+      "zipcodes": [
+        "59937"
+      ],
+      "areacodes": [
+        "406"
+      ]
+    },
+    "Whitehall": {
+      "zipcodes": [
+        "59759"
+      ],
+      "areacodes": [
+        "406"
+      ]
+    },
+    "Wolf Point": {
+      "zipcodes": [
+        "59201"
+      ],
+      "areacodes": [
+        "406"
+      ]
     }
-    ]
   }
-  
+}

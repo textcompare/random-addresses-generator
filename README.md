@@ -20,7 +20,7 @@ npm install random-addresses-generator
 **CDN:**
 ```html
 <script type="module">
-        import { getAddress } from 'https://cdn.jsdelivr.net/npm/random-addresses-generator@1.1.2/src/index.js'; 
+        import { getAddress } from 'https://cdn.jsdelivr.net/npm/random-addresses-generator@1.1.3/src/index.js'; 
         console.log(await getAddress(1));
     </script>
 ```
@@ -93,6 +93,18 @@ You can specify the country to generate addresses from. The default country is t
 ```js
 {
   country: "Canada" // Generates addresses from Canada
+}
+```
+
+### City Selection
+
+You can specify the city to generate addresses from. .
+
+**Example:**
+
+```js
+{
+  city: "New York" // Generates addresses from New York
 }
 ```
 

@@ -1,1343 +1,2172 @@
 {
-    "name": "North Dakota",
-    "capital": "Bismarck",
-    "cities": [
-    {
-      "cityname": "Abercrombie",
-      "zipcodes": ["58001"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Adams",
-      "zipcodes": ["58210"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Alexander",
-      "zipcodes": ["58831"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Alkabo",
-      "zipcodes": ["58845"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Almont",
-      "zipcodes": ["58520"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Alsen",
-      "zipcodes": ["58311"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Amidon",
-      "zipcodes": ["58620"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Anamoose",
-      "zipcodes": ["58710"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Antler",
-      "zipcodes": ["58711"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Arena",
-      "zipcodes": ["58412"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Arnegard",
-      "zipcodes": ["58835"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Arthur",
-      "zipcodes": ["58006"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Arvilla",
-      "zipcodes": ["58214"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Ashley",
-      "zipcodes": ["58413"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Balfour",
-      "zipcodes": ["58712"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Balta",
-      "zipcodes": ["58313"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Beach",
-      "zipcodes": ["58621"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Belcourt",
-      "zipcodes": ["58316"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Belfield",
-      "zipcodes": ["58622"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Berthold",
-      "zipcodes": ["58718"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Beulah",
-      "zipcodes": ["58523"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Binford",
-      "zipcodes": ["58416"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Bismarck & Mandan",
-      "zipcodes": ["58501", "58502", "58503", "58504", "58505", "58506", "58507"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Bottineau",
-      "zipcodes": ["58318"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Bowbells",
-      "zipcodes": ["58721"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Bowdon",
-      "zipcodes": ["58418"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Bowman",
-      "zipcodes": ["58623"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Braddock",
-      "zipcodes": ["58524"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Buffalo",
-      "zipcodes": ["58011"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Burlington",
-      "zipcodes": ["58722"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Butte",
-      "zipcodes": ["58723"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Buxton",
-      "zipcodes": ["58218"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Cando",
-      "zipcodes": ["58324"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Carbury",
-      "zipcodes": ["58783"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Carpio",
-      "zipcodes": ["58725"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Carrington",
-      "zipcodes": ["58421"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Carson",
-      "zipcodes": ["58529"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Cartwright",
-      "zipcodes": ["58838"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Casselton",
-      "zipcodes": ["58012"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Cavalier",
-      "zipcodes": ["58220"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Center",
-      "zipcodes": ["58530"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Christine",
-      "zipcodes": ["58015"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Cleveland",
-      "zipcodes": ["58424"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Clifford",
-      "zipcodes": ["58016"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Coleharbor",
-      "zipcodes": ["58531"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Colfax",
-      "zipcodes": ["58018"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Columbus",
-      "zipcodes": ["58727"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Cooperstown",
-      "zipcodes": ["58425"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Crary",
-      "zipcodes": ["58327"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Crosby",
-      "zipcodes": ["58730"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Crystal",
-      "zipcodes": ["58222"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Crystal Springs",
-      "zipcodes": ["58428"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Davenport",
-      "zipcodes": ["58021"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Dawson",
-      "zipcodes": ["58428"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Deering",
-      "zipcodes": ["58731"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Devils Lake",
-      "zipcodes": ["58301"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Dickey",
-      "zipcodes": ["58431"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Dickinson",
-      "zipcodes": ["58601"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Douglas",
-      "zipcodes": ["58735"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Doyon",
-      "zipcodes": ["58328"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Drake",
-      "zipcodes": ["58736"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Drayton",
-      "zipcodes": ["58225"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Dunn Center",
-      "zipcodes": ["58626"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Dunseith",
-      "zipcodes": ["58329"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Dwight",
-      "zipcodes": ["58075"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Edgeley",
-      "zipcodes": ["58433"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Edmore",
-      "zipcodes": ["58330"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Egeland",
-      "zipcodes": ["58331"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Elgin",
-      "zipcodes": ["58533"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Ellendale",
-      "zipcodes": ["58436"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Emerado",
-      "zipcodes": ["58228"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Enderlin",
-      "zipcodes": ["58027"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Epping",
-      "zipcodes": ["58843"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Erie",
-      "zipcodes": ["58029"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Esmond",
-      "zipcodes": ["58332"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Fargo, West Fargo & Moorhead",
-      "zipcodes": ["58102", "58103", "58104", "58105", "58106", "58107", "58108", "58109", "58121", "58122", "58124", "58125", "58126"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Fessenden",
-      "zipcodes": ["58438"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Fingal",
-      "zipcodes": ["58031"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Finley",
-      "zipcodes": ["58230"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Flasher",
-      "zipcodes": ["58535"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Forbes",
-      "zipcodes": ["58439"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Fordville",
-      "zipcodes": ["58231"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Forman",
-      "zipcodes": ["58032"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Fort Ransom",
-      "zipcodes": ["58033"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Fort Rice",
-      "zipcodes": ["58554"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Fort Totten",
-      "zipcodes": ["58335"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Fort Yates",
-      "zipcodes": ["58538"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Fortuna",
-      "zipcodes": ["58844"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Fullerton",
-      "zipcodes": ["58441"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Gackle",
-      "zipcodes": ["58442"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Galchutt",
-      "zipcodes": ["58075"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Garrison",
-      "zipcodes": ["58540"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Gascoyne",
-      "zipcodes": ["58653"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Glen Ullin",
-      "zipcodes": ["58631"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Glenfield",
-      "zipcodes": ["58443"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Golden Valley",
-      "zipcodes": ["58541"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Golva",
-      "zipcodes": ["58632"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Goodrich",
-      "zipcodes": ["58444"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Grafton",
-      "zipcodes": ["58237"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Grand Forks & East Grand Forks",
-      "zipcodes": ["58201", "58202", "58203", "58206", "58207", "58208"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Grand Rapids",
-      "zipcodes": ["58458"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Granville",
-      "zipcodes": ["58741"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Grassy Butte",
-      "zipcodes": ["58634"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Grenora",
-      "zipcodes": ["58845"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Gwinner",
-      "zipcodes": ["58040"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Hague",
-      "zipcodes": ["58542"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Halliday",
-      "zipcodes": ["58636"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Hampden",
-      "zipcodes": ["58338"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Hankinson",
-      "zipcodes": ["58041"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Hanks",
-      "zipcodes": ["58856"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Hannaford",
-      "zipcodes": ["58448"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Harvey",
-      "zipcodes": ["58341"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Hatton",
-      "zipcodes": ["58240"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Havana",
-      "zipcodes": ["58043"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Haynes",
-      "zipcodes": ["58639"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Hazelton",
-      "zipcodes": ["58544"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Hazen",
-      "zipcodes": ["58545"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Hebron",
-      "zipcodes": ["58638"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Hensler",
-      "zipcodes": ["58530"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Hettinger",
-      "zipcodes": ["58639"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Hillsboro",
-      "zipcodes": ["58045"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Hope",
-      "zipcodes": ["58046"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Huff",
-      "zipcodes": ["58554"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Hunter",
-      "zipcodes": ["58048"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Hurdsfield",
-      "zipcodes": ["58451"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Jamestown",
-      "zipcodes": ["58401", "58402", "58405"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Kathryn",
-      "zipcodes": ["58049"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Kenmare",
-      "zipcodes": ["58746"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Kensal",
-      "zipcodes": ["58455"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Killdeer",
-      "zipcodes": ["58640"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Kindred",
-      "zipcodes": ["58051"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Kintyre",
-      "zipcodes": ["58549"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Kramer",
-      "zipcodes": ["58748"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Kulm",
-      "zipcodes": ["58456"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Lakota",
-      "zipcodes": ["58344"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Lamoure",
-      "zipcodes": ["58458"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Langdon",
-      "zipcodes": ["58249"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Lankin",
-      "zipcodes": ["58250"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Lansford",
-      "zipcodes": ["58750"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Larimore",
-      "zipcodes": ["58251"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Lawton",
-      "zipcodes": ["58345"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Leeds",
-      "zipcodes": ["58346"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Leonard",
-      "zipcodes": ["58052"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Lidgerwood",
-      "zipcodes": ["58053"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Lignite",
-      "zipcodes": ["58752"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Linton",
-      "zipcodes": ["58552"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Lisbon",
-      "zipcodes": ["58054"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Litchville",
-      "zipcodes": ["58461"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Luverne",
-      "zipcodes": ["58056"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Maddock",
-      "zipcodes": ["58348"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Makoti",
-      "zipcodes": ["58756"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Mandan",
-      "zipcodes": ["58554"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Mandaree",
-      "zipcodes": ["58757"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Manfred",
-      "zipcodes": ["58341"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Manning",
-      "zipcodes": ["58642"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Manvel",
-      "zipcodes": ["58256"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Mapleton",
-      "zipcodes": ["58059"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Marmarth",
-      "zipcodes": ["58643"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Martin",
-      "zipcodes": ["58758"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Max",
-      "zipcodes": ["58759"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Maxbass",
-      "zipcodes": ["58760"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Mayville",
-      "zipcodes": ["58257"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "McClusky",
-      "zipcodes": ["58463"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "McHenry",
-      "zipcodes": ["58464"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "McVille",
-      "zipcodes": ["58254"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Medina",
-      "zipcodes": ["58467"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Medora",
-      "zipcodes": ["58645"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Melville",
-      "zipcodes": ["58401"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Menoken",
-      "zipcodes": ["58558"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Mercer",
-      "zipcodes": ["58559"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Michigan",
-      "zipcodes": ["58259"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Milnor",
-      "zipcodes": ["58060"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Minnewaukan",
-      "zipcodes": ["58351"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Minot",
-      "zipcodes": ["58701", "58702", "58703", "58704", "58707"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Minto",
-      "zipcodes": ["58261"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Mohall",
-      "zipcodes": ["58761"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Mooreton",
-      "zipcodes": ["58061"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Mott",
-      "zipcodes": ["58646"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Mountain",
-      "zipcodes": ["58262"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Munich",
-      "zipcodes": ["58352"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Napoleon",
-      "zipcodes": ["58561"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "New England",
-      "zipcodes": ["58647"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "New Leipzig",
-      "zipcodes": ["58562"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "New Rockford",
-      "zipcodes": ["58356"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "New Salem",
-      "zipcodes": ["58563"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "New Town",
-      "zipcodes": ["58763"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Newburg",
-      "zipcodes": ["58764"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Niagara",
-      "zipcodes": ["58266"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Nome",
-      "zipcodes": ["58062"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Noonan",
-      "zipcodes": ["58765"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Northwood",
-      "zipcodes": ["58267"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Norwich",
-      "zipcodes": ["58768"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Oakes",
-      "zipcodes": ["58474"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Oxbow",
-      "zipcodes": ["58047"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Page",
-      "zipcodes": ["58064"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Park River",
-      "zipcodes": ["58270"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Parshall",
-      "zipcodes": ["58770"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Pekin",
-      "zipcodes": ["58361"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Pembina",
-      "zipcodes": ["58271"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Penn",
-      "zipcodes": ["58362"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Pettibone",
-      "zipcodes": ["58475"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Pick City",
-      "zipcodes": ["58545"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Pingree",
-      "zipcodes": ["58476"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Portal",
-      "zipcodes": ["58772"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Powers Lake",
-      "zipcodes": ["58773"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Ray",
-      "zipcodes": ["58849"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Reeder",
-      "zipcodes": ["58649"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Regent",
-      "zipcodes": ["58650"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Reynolds",
-      "zipcodes": ["58275"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Richardton",
-      "zipcodes": ["58652"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Riverdale",
-      "zipcodes": ["58565"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Robinson",
-      "zipcodes": ["58478"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Rock Lake",
-      "zipcodes": ["58365"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Rolette",
-      "zipcodes": ["58366"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Rolla",
-      "zipcodes": ["58367"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Ross",
-      "zipcodes": ["58776"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Rugby",
-      "zipcodes": ["58368"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Rutland",
-      "zipcodes": ["58067"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Ryder",
-      "zipcodes": ["58779"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Sarles",
-      "zipcodes": ["58372"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Sawyer",
-      "zipcodes": ["58781"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Scranton",
-      "zipcodes": ["58653"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Sheldon",
-      "zipcodes": ["58068"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Sheyenne",
-      "zipcodes": ["58374"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "South Heart",
-      "zipcodes": ["58655"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Spiritwood Lake",
-      "zipcodes": ["58401"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Stanley",
-      "zipcodes": ["58784"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Stanton",
-      "zipcodes": ["58571"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Starkweather",
-      "zipcodes": ["58377"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Steele",
-      "zipcodes": ["58482"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Sterling",
-      "zipcodes": ["58572"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Strasburg",
-      "zipcodes": ["58573"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Sykeston",
-      "zipcodes": ["58486"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Tioga",
-      "zipcodes": ["58852"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Tolna",
-      "zipcodes": ["58380"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Tower City",
-      "zipcodes": ["58071"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Towner",
-      "zipcodes": ["58788"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Trenton",
-      "zipcodes": ["58853"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Turtle Lake",
-      "zipcodes": ["58575"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Tuttle",
-      "zipcodes": ["58488"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Underwood",
-      "zipcodes": ["58576"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Upham",
-      "zipcodes": ["58789"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Valley City",
-      "zipcodes": ["58072"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Velva",
-      "zipcodes": ["58790"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Verona",
-      "zipcodes": ["58490"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Wahpeton",
-      "zipcodes": ["58074"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Walhalla",
-      "zipcodes": ["58282"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Warwick",
-      "zipcodes": ["58381"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Washburn",
-      "zipcodes": ["58577"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Watford City",
-      "zipcodes": ["58854"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "West Fargo",
-      "zipcodes": ["58078"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Westhope",
-      "zipcodes": ["58793"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Wheatland",
-      "zipcodes": ["58079"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "White Earth",
-      "zipcodes": ["58794"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "White Shield",
-      "zipcodes": ["58775"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Williston",
-      "zipcodes": ["58801", "58802"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Willow City",
-      "zipcodes": ["58384"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Wilton",
-      "zipcodes": ["58579"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Wimbledon",
-      "zipcodes": ["58492"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Wing",
-      "zipcodes": ["58494"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Wishek",
-      "zipcodes": ["58495"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Wolford",
-      "zipcodes": ["58385"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Woodworth",
-      "zipcodes": ["58496"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Wyndmere",
-      "zipcodes": ["58081"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "York",
-      "zipcodes": ["58386"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Zap",
-      "zipcodes": ["58580"],
-      "areacodes": ["701"]
-    },
-    {
-      "cityname": "Zeeland",
-      "zipcodes": ["58581"],
-      "areacodes": ["701"]
+  "name": "North Dakota",
+  "capital": "Bismarck",
+  "cities": {
+    "Abercrombie": {
+      "zipcodes": [
+        "58001"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Adams": {
+      "zipcodes": [
+        "58210"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Alexander": {
+      "zipcodes": [
+        "58831"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Alkabo": {
+      "zipcodes": [
+        "58845"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Almont": {
+      "zipcodes": [
+        "58520"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Alsen": {
+      "zipcodes": [
+        "58311"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Amidon": {
+      "zipcodes": [
+        "58620"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Anamoose": {
+      "zipcodes": [
+        "58710"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Antler": {
+      "zipcodes": [
+        "58711"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Arena": {
+      "zipcodes": [
+        "58412"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Arnegard": {
+      "zipcodes": [
+        "58835"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Arthur": {
+      "zipcodes": [
+        "58006"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Arvilla": {
+      "zipcodes": [
+        "58214"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Ashley": {
+      "zipcodes": [
+        "58413"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Balfour": {
+      "zipcodes": [
+        "58712"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Balta": {
+      "zipcodes": [
+        "58313"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Beach": {
+      "zipcodes": [
+        "58621"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Belcourt": {
+      "zipcodes": [
+        "58316"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Belfield": {
+      "zipcodes": [
+        "58622"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Berthold": {
+      "zipcodes": [
+        "58718"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Beulah": {
+      "zipcodes": [
+        "58523"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Binford": {
+      "zipcodes": [
+        "58416"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Bismarck & Mandan": {
+      "zipcodes": [
+        "58501",
+        "58502",
+        "58503",
+        "58504",
+        "58505",
+        "58506",
+        "58507"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Bottineau": {
+      "zipcodes": [
+        "58318"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Bowbells": {
+      "zipcodes": [
+        "58721"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Bowdon": {
+      "zipcodes": [
+        "58418"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Bowman": {
+      "zipcodes": [
+        "58623"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Braddock": {
+      "zipcodes": [
+        "58524"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Buffalo": {
+      "zipcodes": [
+        "58011"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Burlington": {
+      "zipcodes": [
+        "58722"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Butte": {
+      "zipcodes": [
+        "58723"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Buxton": {
+      "zipcodes": [
+        "58218"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Cando": {
+      "zipcodes": [
+        "58324"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Carbury": {
+      "zipcodes": [
+        "58783"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Carpio": {
+      "zipcodes": [
+        "58725"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Carrington": {
+      "zipcodes": [
+        "58421"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Carson": {
+      "zipcodes": [
+        "58529"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Cartwright": {
+      "zipcodes": [
+        "58838"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Casselton": {
+      "zipcodes": [
+        "58012"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Cavalier": {
+      "zipcodes": [
+        "58220"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Center": {
+      "zipcodes": [
+        "58530"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Christine": {
+      "zipcodes": [
+        "58015"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Cleveland": {
+      "zipcodes": [
+        "58424"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Clifford": {
+      "zipcodes": [
+        "58016"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Coleharbor": {
+      "zipcodes": [
+        "58531"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Colfax": {
+      "zipcodes": [
+        "58018"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Columbus": {
+      "zipcodes": [
+        "58727"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Cooperstown": {
+      "zipcodes": [
+        "58425"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Crary": {
+      "zipcodes": [
+        "58327"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Crosby": {
+      "zipcodes": [
+        "58730"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Crystal": {
+      "zipcodes": [
+        "58222"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Crystal Springs": {
+      "zipcodes": [
+        "58428"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Davenport": {
+      "zipcodes": [
+        "58021"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Dawson": {
+      "zipcodes": [
+        "58428"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Deering": {
+      "zipcodes": [
+        "58731"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Devils Lake": {
+      "zipcodes": [
+        "58301"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Dickey": {
+      "zipcodes": [
+        "58431"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Dickinson": {
+      "zipcodes": [
+        "58601"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Douglas": {
+      "zipcodes": [
+        "58735"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Doyon": {
+      "zipcodes": [
+        "58328"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Drake": {
+      "zipcodes": [
+        "58736"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Drayton": {
+      "zipcodes": [
+        "58225"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Dunn Center": {
+      "zipcodes": [
+        "58626"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Dunseith": {
+      "zipcodes": [
+        "58329"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Dwight": {
+      "zipcodes": [
+        "58075"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Edgeley": {
+      "zipcodes": [
+        "58433"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Edmore": {
+      "zipcodes": [
+        "58330"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Egeland": {
+      "zipcodes": [
+        "58331"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Elgin": {
+      "zipcodes": [
+        "58533"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Ellendale": {
+      "zipcodes": [
+        "58436"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Emerado": {
+      "zipcodes": [
+        "58228"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Enderlin": {
+      "zipcodes": [
+        "58027"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Epping": {
+      "zipcodes": [
+        "58843"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Erie": {
+      "zipcodes": [
+        "58029"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Esmond": {
+      "zipcodes": [
+        "58332"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Fargo, West Fargo & Moorhead": {
+      "zipcodes": [
+        "58102",
+        "58103",
+        "58104",
+        "58105",
+        "58106",
+        "58107",
+        "58108",
+        "58109",
+        "58121",
+        "58122",
+        "58124",
+        "58125",
+        "58126"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Fessenden": {
+      "zipcodes": [
+        "58438"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Fingal": {
+      "zipcodes": [
+        "58031"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Finley": {
+      "zipcodes": [
+        "58230"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Flasher": {
+      "zipcodes": [
+        "58535"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Forbes": {
+      "zipcodes": [
+        "58439"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Fordville": {
+      "zipcodes": [
+        "58231"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Forman": {
+      "zipcodes": [
+        "58032"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Fort Ransom": {
+      "zipcodes": [
+        "58033"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Fort Rice": {
+      "zipcodes": [
+        "58554"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Fort Totten": {
+      "zipcodes": [
+        "58335"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Fort Yates": {
+      "zipcodes": [
+        "58538"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Fortuna": {
+      "zipcodes": [
+        "58844"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Fullerton": {
+      "zipcodes": [
+        "58441"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Gackle": {
+      "zipcodes": [
+        "58442"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Galchutt": {
+      "zipcodes": [
+        "58075"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Garrison": {
+      "zipcodes": [
+        "58540"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Gascoyne": {
+      "zipcodes": [
+        "58653"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Glen Ullin": {
+      "zipcodes": [
+        "58631"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Glenfield": {
+      "zipcodes": [
+        "58443"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Golden Valley": {
+      "zipcodes": [
+        "58541"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Golva": {
+      "zipcodes": [
+        "58632"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Goodrich": {
+      "zipcodes": [
+        "58444"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Grafton": {
+      "zipcodes": [
+        "58237"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Grand Forks & East Grand Forks": {
+      "zipcodes": [
+        "58201",
+        "58202",
+        "58203",
+        "58206",
+        "58207",
+        "58208"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Grand Rapids": {
+      "zipcodes": [
+        "58458"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Granville": {
+      "zipcodes": [
+        "58741"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Grassy Butte": {
+      "zipcodes": [
+        "58634"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Grenora": {
+      "zipcodes": [
+        "58845"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Gwinner": {
+      "zipcodes": [
+        "58040"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Hague": {
+      "zipcodes": [
+        "58542"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Halliday": {
+      "zipcodes": [
+        "58636"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Hampden": {
+      "zipcodes": [
+        "58338"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Hankinson": {
+      "zipcodes": [
+        "58041"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Hanks": {
+      "zipcodes": [
+        "58856"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Hannaford": {
+      "zipcodes": [
+        "58448"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Harvey": {
+      "zipcodes": [
+        "58341"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Hatton": {
+      "zipcodes": [
+        "58240"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Havana": {
+      "zipcodes": [
+        "58043"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Haynes": {
+      "zipcodes": [
+        "58639"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Hazelton": {
+      "zipcodes": [
+        "58544"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Hazen": {
+      "zipcodes": [
+        "58545"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Hebron": {
+      "zipcodes": [
+        "58638"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Hensler": {
+      "zipcodes": [
+        "58530"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Hettinger": {
+      "zipcodes": [
+        "58639"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Hillsboro": {
+      "zipcodes": [
+        "58045"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Hope": {
+      "zipcodes": [
+        "58046"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Huff": {
+      "zipcodes": [
+        "58554"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Hunter": {
+      "zipcodes": [
+        "58048"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Hurdsfield": {
+      "zipcodes": [
+        "58451"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Jamestown": {
+      "zipcodes": [
+        "58401",
+        "58402",
+        "58405"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Kathryn": {
+      "zipcodes": [
+        "58049"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Kenmare": {
+      "zipcodes": [
+        "58746"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Kensal": {
+      "zipcodes": [
+        "58455"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Killdeer": {
+      "zipcodes": [
+        "58640"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Kindred": {
+      "zipcodes": [
+        "58051"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Kintyre": {
+      "zipcodes": [
+        "58549"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Kramer": {
+      "zipcodes": [
+        "58748"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Kulm": {
+      "zipcodes": [
+        "58456"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Lakota": {
+      "zipcodes": [
+        "58344"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Lamoure": {
+      "zipcodes": [
+        "58458"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Langdon": {
+      "zipcodes": [
+        "58249"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Lankin": {
+      "zipcodes": [
+        "58250"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Lansford": {
+      "zipcodes": [
+        "58750"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Larimore": {
+      "zipcodes": [
+        "58251"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Lawton": {
+      "zipcodes": [
+        "58345"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Leeds": {
+      "zipcodes": [
+        "58346"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Leonard": {
+      "zipcodes": [
+        "58052"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Lidgerwood": {
+      "zipcodes": [
+        "58053"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Lignite": {
+      "zipcodes": [
+        "58752"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Linton": {
+      "zipcodes": [
+        "58552"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Lisbon": {
+      "zipcodes": [
+        "58054"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Litchville": {
+      "zipcodes": [
+        "58461"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Luverne": {
+      "zipcodes": [
+        "58056"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Maddock": {
+      "zipcodes": [
+        "58348"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Makoti": {
+      "zipcodes": [
+        "58756"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Mandan": {
+      "zipcodes": [
+        "58554"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Mandaree": {
+      "zipcodes": [
+        "58757"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Manfred": {
+      "zipcodes": [
+        "58341"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Manning": {
+      "zipcodes": [
+        "58642"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Manvel": {
+      "zipcodes": [
+        "58256"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Mapleton": {
+      "zipcodes": [
+        "58059"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Marmarth": {
+      "zipcodes": [
+        "58643"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Martin": {
+      "zipcodes": [
+        "58758"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Max": {
+      "zipcodes": [
+        "58759"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Maxbass": {
+      "zipcodes": [
+        "58760"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Mayville": {
+      "zipcodes": [
+        "58257"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "McClusky": {
+      "zipcodes": [
+        "58463"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "McHenry": {
+      "zipcodes": [
+        "58464"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "McVille": {
+      "zipcodes": [
+        "58254"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Medina": {
+      "zipcodes": [
+        "58467"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Medora": {
+      "zipcodes": [
+        "58645"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Melville": {
+      "zipcodes": [
+        "58401"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Menoken": {
+      "zipcodes": [
+        "58558"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Mercer": {
+      "zipcodes": [
+        "58559"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Michigan": {
+      "zipcodes": [
+        "58259"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Milnor": {
+      "zipcodes": [
+        "58060"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Minnewaukan": {
+      "zipcodes": [
+        "58351"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Minot": {
+      "zipcodes": [
+        "58701",
+        "58702",
+        "58703",
+        "58704",
+        "58707"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Minto": {
+      "zipcodes": [
+        "58261"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Mohall": {
+      "zipcodes": [
+        "58761"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Mooreton": {
+      "zipcodes": [
+        "58061"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Mott": {
+      "zipcodes": [
+        "58646"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Mountain": {
+      "zipcodes": [
+        "58262"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Munich": {
+      "zipcodes": [
+        "58352"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Napoleon": {
+      "zipcodes": [
+        "58561"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "New England": {
+      "zipcodes": [
+        "58647"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "New Leipzig": {
+      "zipcodes": [
+        "58562"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "New Rockford": {
+      "zipcodes": [
+        "58356"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "New Salem": {
+      "zipcodes": [
+        "58563"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "New Town": {
+      "zipcodes": [
+        "58763"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Newburg": {
+      "zipcodes": [
+        "58764"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Niagara": {
+      "zipcodes": [
+        "58266"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Nome": {
+      "zipcodes": [
+        "58062"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Noonan": {
+      "zipcodes": [
+        "58765"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Northwood": {
+      "zipcodes": [
+        "58267"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Norwich": {
+      "zipcodes": [
+        "58768"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Oakes": {
+      "zipcodes": [
+        "58474"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Oxbow": {
+      "zipcodes": [
+        "58047"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Page": {
+      "zipcodes": [
+        "58064"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Park River": {
+      "zipcodes": [
+        "58270"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Parshall": {
+      "zipcodes": [
+        "58770"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Pekin": {
+      "zipcodes": [
+        "58361"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Pembina": {
+      "zipcodes": [
+        "58271"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Penn": {
+      "zipcodes": [
+        "58362"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Pettibone": {
+      "zipcodes": [
+        "58475"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Pick City": {
+      "zipcodes": [
+        "58545"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Pingree": {
+      "zipcodes": [
+        "58476"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Portal": {
+      "zipcodes": [
+        "58772"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Powers Lake": {
+      "zipcodes": [
+        "58773"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Ray": {
+      "zipcodes": [
+        "58849"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Reeder": {
+      "zipcodes": [
+        "58649"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Regent": {
+      "zipcodes": [
+        "58650"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Reynolds": {
+      "zipcodes": [
+        "58275"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Richardton": {
+      "zipcodes": [
+        "58652"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Riverdale": {
+      "zipcodes": [
+        "58565"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Robinson": {
+      "zipcodes": [
+        "58478"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Rock Lake": {
+      "zipcodes": [
+        "58365"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Rolette": {
+      "zipcodes": [
+        "58366"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Rolla": {
+      "zipcodes": [
+        "58367"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Ross": {
+      "zipcodes": [
+        "58776"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Rugby": {
+      "zipcodes": [
+        "58368"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Rutland": {
+      "zipcodes": [
+        "58067"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Ryder": {
+      "zipcodes": [
+        "58779"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Sarles": {
+      "zipcodes": [
+        "58372"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Sawyer": {
+      "zipcodes": [
+        "58781"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Scranton": {
+      "zipcodes": [
+        "58653"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Sheldon": {
+      "zipcodes": [
+        "58068"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Sheyenne": {
+      "zipcodes": [
+        "58374"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "South Heart": {
+      "zipcodes": [
+        "58655"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Spiritwood Lake": {
+      "zipcodes": [
+        "58401"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Stanley": {
+      "zipcodes": [
+        "58784"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Stanton": {
+      "zipcodes": [
+        "58571"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Starkweather": {
+      "zipcodes": [
+        "58377"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Steele": {
+      "zipcodes": [
+        "58482"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Sterling": {
+      "zipcodes": [
+        "58572"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Strasburg": {
+      "zipcodes": [
+        "58573"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Sykeston": {
+      "zipcodes": [
+        "58486"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Tioga": {
+      "zipcodes": [
+        "58852"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Tolna": {
+      "zipcodes": [
+        "58380"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Tower City": {
+      "zipcodes": [
+        "58071"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Towner": {
+      "zipcodes": [
+        "58788"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Trenton": {
+      "zipcodes": [
+        "58853"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Turtle Lake": {
+      "zipcodes": [
+        "58575"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Tuttle": {
+      "zipcodes": [
+        "58488"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Underwood": {
+      "zipcodes": [
+        "58576"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Upham": {
+      "zipcodes": [
+        "58789"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Valley City": {
+      "zipcodes": [
+        "58072"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Velva": {
+      "zipcodes": [
+        "58790"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Verona": {
+      "zipcodes": [
+        "58490"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Wahpeton": {
+      "zipcodes": [
+        "58074"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Walhalla": {
+      "zipcodes": [
+        "58282"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Warwick": {
+      "zipcodes": [
+        "58381"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Washburn": {
+      "zipcodes": [
+        "58577"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Watford City": {
+      "zipcodes": [
+        "58854"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "West Fargo": {
+      "zipcodes": [
+        "58078"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Westhope": {
+      "zipcodes": [
+        "58793"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Wheatland": {
+      "zipcodes": [
+        "58079"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "White Earth": {
+      "zipcodes": [
+        "58794"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "White Shield": {
+      "zipcodes": [
+        "58775"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Williston": {
+      "zipcodes": [
+        "58801",
+        "58802"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Willow City": {
+      "zipcodes": [
+        "58384"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Wilton": {
+      "zipcodes": [
+        "58579"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Wimbledon": {
+      "zipcodes": [
+        "58492"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Wing": {
+      "zipcodes": [
+        "58494"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Wishek": {
+      "zipcodes": [
+        "58495"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Wolford": {
+      "zipcodes": [
+        "58385"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Woodworth": {
+      "zipcodes": [
+        "58496"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Wyndmere": {
+      "zipcodes": [
+        "58081"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "York": {
+      "zipcodes": [
+        "58386"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Zap": {
+      "zipcodes": [
+        "58580"
+      ],
+      "areacodes": [
+        "701"
+      ]
+    },
+    "Zeeland": {
+      "zipcodes": [
+        "58581"
+      ],
+      "areacodes": [
+        "701"
+      ]
     }
-      
-    ]
   }
-  
+}

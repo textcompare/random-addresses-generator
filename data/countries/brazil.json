@@ -1,3706 +1,3505 @@
 {
-    "countrycode": "+55",
-    "phoneformat": "(A) XXXXX-XXXX",
-    "country": "Brazil",
-    "neighborhoods": {
-        "corporate": [
-            "Paulista Avenue",
-            "Faria Lima",
-            "Jardins",
-            "Itaim Bibi",
-            "Vila Olímpia",
-            "Barra Funda",
-            "Centro Empresarial São Paulo",
-            "Berrini",
-            "Avenida Rio Branco",
-            "Zona Norte Industrial District",
-            "São Bernardo do Campo Industrial District",
-            "Campinas Tech Park",
-            "Vila Progredior",
-            "São Caetano do Sul Business Park",
-            "Cidade Jardim",
-            "Vila Mariana",
-            "Chácara Santo Antônio",
-            "Pinheiros Business Area",
-            "Zona Oeste Business Hub",
-            "Tatuapé",
-            "Brooklin Paulista",
-            "Moema",
-            "Aeroporto Internacional de São Paulo",
-            "Vila Mascote",
-            "Barra da Tijuca",
-            "Distrito Industrial de Campinas",
-            "Belo Horizonte Business Center",
-            "Porto Alegre Corporate Park",
-            "Campinas Industrial Zone",
-            "São Paulo North Zone",
-            "Salvador Economic District",
-            "Santos Business District",
-            "Distrito Industrial de Guarulhos",
-            "São José dos Campos Business District",
-            "Florianópolis Commercial Center",
-            "Curitiba Industrial Zone",
-            "Brasília Administrative Area",
-            "Zona Leste",
-            "Lajeado Industrial Zone",
-            "Belo Horizonte Tech Hub",
-            "João Pessoa Business Area",
-            "Recife Corporate Complex",
-            "Vitória Business Center",
-            "Porto Alegre Tech Park",
-            "Maceió Business District",
-            "São Luís Corporate District",
-            "Avenida do Estado"
-        ],
-        "industrial": [
-            "Cubatão Industrial Zone",
-            "Ponta Grossa Industrial Complex",
-            "Jundiaí Industrial District",
-            "Vila Progredior Industrial Area",
-            "São Bernardo Industrial Hub",
-            "Guarulhos Industrial Zone",
-            "São José dos Campos Industrial District",
-            "Santos Industrial Area",
-            "Itu Industrial Park",
-            "Mogi das Cruzes Industrial Zone",
-            "Curitiba Industrial Park",
-            "Distrito Industrial de Campinas",
-            "Joinville Industrial Complex",
-            "Recife Industrial Hub",
-            "Belo Horizonte Industrial Zone",
-            "Porto Alegre Industrial District",
-            "Anápolis Industrial Park",
-            "Fortaleza Industrial Area",
-            "Manaus Industrial Hub",
-            "Vitória Industrial Complex",
-            "Londrina Industrial Zone",
-            "São José Industrial Park",
-            "Distrito Industrial de Rio Claro",
-            "São Paulo Industrial District",
-            "Araucária Industrial Hub",
-            "Montes Claros Industrial Area",
-            "Caxias do Sul Industrial District",
-            "Bauru Industrial Park",
-            "Canoas Industrial Complex",
-            "Belo Horizonte Heavy Industry Zone",
-            "Maceió Industrial District",
-            "Recife Industrial Zone",
-            "Rio de Janeiro Industrial Hub",
-            "Macapá Industrial Park",
-            "Aracaju Industrial Area",
-            "Caruaru Industrial District",
-            "São Luís Industrial Park",
-            "Teresina Industrial Zone",
-            "Campo Grande Industrial Park",
-            "Uberlândia Industrial District",
-            "Vitória da Conquista Industrial Hub",
-            "Ribeirão Preto Industrial Zone",
-            "Belém Industrial Park",
-            "Vitoria Industrial Area",
-            "Araxá Industrial Complex",
-            "São Gonçalo Industrial Park",
-            "Diadema Industrial District",
-            "Petrolina Industrial Zone"
-        ],
-        "residential": [
-            "Itaim Bibi",
-            "Jardins",
-            "Pinheiros",
-            "Vila Progredior",
-            "Vila Madalena",
-            "Vila Olimpia",
-            "Liberdade",
-            "Vila Mariana",
-            "Morumbi",
-            "Bela Vista",
-            "Alto da Lapa",
-            "Campo Belo",
-            "Bairro do Limão",
-            "Vila Nova Conceição",
-            "Vila Sônia",
-            "Vila Alpina",
-            "Vila Andrade",
-            "Vila Clementino",
-            "Vila Azevedo",
-            "Moema",
-            "Tatuapé",
-            "Vila Osasco",
-            "Brooklin Paulista",
-            "Jabaquara",
-            "Zona Oeste",
-            "Vila Progresso",
-            "Vila Guarani",
-            "Vila Prudente",
-            "Perdizes",
-            "Avenida Paulista",
-            "Vila Buarque",
-            "Santa Cecília",
-            "Cidade Jardim",
-            "Chácara Santo Antônio",
-            "Vila das Belezas",
-            "Pinheiros District",
-            "Bela Vista District",
-            "Jardim América",
-            "Vila Suzana",
-            "Vila Esperança",
-            "Vila Luciana",
-            "Vila Dom Pedro",
-            "Vila São Francisco",
-            "Vila Estrela",
-            "Vila Real",
-            "Vila Progresso",
-            "Ibirapuera",
-            "Alto da Boa Vista",
-            "Tatuapé",
-            "Jardim Paulista",
-            "Itaim Paulista",
-            "Jardim da Saúde",
-            "Vila Irmãos",
-            "Vila Nova Paulista"
-        ]
-    },
-    "streetnames": {
-        "corporate": [
-            "Avenida Paulista",
-            "Avenida Rio Branco",
-            "Rua Faria Lima",
-            "Rua das Figueiras",
-            "Rua dos Três Irmãos",
-            "Rua José Bonifácio",
-            "Rua dos Três Irmãos",
-            "Rua Berrini",
-            "Avenida Brigadeiro Faria Lima",
-            "Rua Cardoso Pimentel",
-            "Avenida Rio Branco",
-            "Rua Joaquim Floriano",
-            "Rua dos Três Irmãos",
-            "Rua Campos Salles",
-            "Avenida Henrique Schaumann",
-            "Rua dos Três Irmãos",
-            "Rua dos Três Irmãos",
-            "Avenida Ministro Nelson Hungria",
-            "Avenida Nações Unidas",
-            "Rua Paulista",
-            "Rua Amazonas",
-            "Rua Alto da Boa Vista",
-            "Avenida Lins de Vasconcelos",
-            "Rua Mário de Andrade",
-            "Rua São Paulo",
-            "Rua Mourato Coelho",
-            "Rua dos Três Irmãos",
-            "Avenida Brasil",
-            "Rua dos Três Irmãos",
-            "Rua Antônio de Carvalho",
-            "Rua dos Três Irmãos",
-            "Rua Francisco José de Lima",
-            "Rua Av. dos Bandeirantes",
-            "Rua dos Três Irmãos",
-            "Rua José Lins do Rego",
-            "Avenida Nove de Julho",
-            "Avenida Engenheiro Luís Carlos Berrini",
-            "Rua XV de Novembro",
-            "Rua dos Três Irmãos",
-            "Rua Antônio de Carvalho",
-            "Rua do Riacho",
-            "Rua dos Três Irmãos",
-            "Rua Doutor Heitor de Almeida"
-        ],
-        "industrial": [
-            "Rua dos Três Irmãos",
-            "Avenida Rio Claro",
-            "Avenida das Indústrias",
-            "Rua Geraldo Barreto",
-            "Rua Armação",
-            "Rua dos Três Irmãos",
-            "Avenida Raposo Tavares",
-            "Avenida das Indústrias",
-            "Rua Euzébio Lima",
-            "Rua Dona Tomásia",
-            "Rua dos Três Irmãos",
-            "Rua Ayrton Senna",
-            "Avenida São João",
-            "Avenida Nações Unidas",
-            "Avenida Benjamin Constant",
-            "Avenida da Industria",
-            "Rua Prof. Vila Real",
-            "Rua São Gabriel",
-            "Avenida do Estado",
-            "Rua do Comercio",
-            "Rua José Francisco",
-            "Rua Cristóvão Colombo",
-            "Rua Atílio Luz",
-            "Avenida Velha",
-            "Rua das Industrias",
-            "Rua Carlos Câmara",
-            "Rua dos Três Irmãos",
-            "Rua Humberto de Campos",
-            "Avenida Professor Doutor Vicente",
-            "Rua Alfredo Santana",
-            "Rua Abílio Soares",
-            "Rua João Bianchi",
-            "Rua Três Irmãos",
-            "Rua José Clemente",
-            "Avenida dos Trabalhadores",
-            "Rua da Indústria",
-            "Rua General Carneiro",
-            "Rua do Trabalhador",
-            "Rua Rodrigo Tavares",
-            "Rua de Indústria",
-            "Rua Benedito Góis",
-            "Rua Carlos Barreto",
-            "Rua do Cometa"
-        ],
-        "residential": [
-            "Rua Pindorama",
-            "Rua Anchieta",
-            "Rua das Palmeiras",
-            "Avenida Parque dos Príncipes",
-            "Rua Cid Leme",
-            "Rua Tiradentes",
-            "Rua Maria de Lourdes",
-            "Rua Carlos Drummond de Andrade",
-            "Rua Cipriano Lima",
-            "Rua Emaús",
-            "Rua Três Irmãos",
-            "Rua João Bertioga",
-            "Rua Amaral Gurgel",
-            "Rua de São Paulo",
-            "Rua das Laranjeiras",
-            "Rua Santa Rita",
-            "Rua da Paz",
-            "Rua das Flores",
-            "Rua Faria Lima",
-            "Rua Castelo Branco",
-            "Rua Cristóvão de Almeida",
-            "Rua dos Três Irmãos",
-            "Rua Leopoldo Pereira",
-            "Rua Engenheiro Roberto Simonsen",
-            "Rua São Carlos",
-            "Rua dos Ingleses",
-            "Rua Pontal",
-            "Rua Boa Vista",
-            "Rua José Costa",
-            "Rua dos Três Irmãos",
-            "Rua Ana Maria",
-            "Rua Antônio da Costa",
-            "Rua Júlio Barbosa",
-            "Rua das Palmeiras",
-            "Rua de Castelar",
-            "Rua da Ladeira",
-            "Rua João de Mello",
-            "Rua dos Três Irmãos",
-            "Rua Alfredo de Castilho",
-            "Rua das Almas",
-            "Rua do Silvério",
-            "Rua Maracás",
-            "Rua Santa Catarina"
-        ]
-    },
-    "states": {
-        "Acre": {
-            "capital": "Rio Branco",
-            "cities": [
-                {
-                    "cityname": "Rio Branco",
-                    "zipcodes": [
-                        "69900-000",
-                        "69901-000",
-                        "69902-000",
-                        "69903-000",
-                        "69904-000"
-                    ],
-                    "areacodes": [
-                        "068"
-                    ]
-                },
-                {
-                    "cityname": "Cruzeiro do Sul",
-                    "zipcodes": [
-                        "69980-000",
-                        "69981-000",
-                        "69982-000",
-                        "69983-000",
-                        "69984-000"
-                    ],
-                    "areacodes": [
-                        "068"
-                    ]
-                },
-                {
-                    "cityname": "Sena Madureira",
-                    "zipcodes": [
-                        "69920-000",
-                        "69921-000",
-                        "69922-000",
-                        "69923-000",
-                        "69924-000"
-                    ],
-                    "areacodes": [
-                        "068"
-                    ]
-                },
-                {
-                    "cityname": "Tarauacá",
-                    "zipcodes": [
-                        "69925-000",
-                        "69926-000",
-                        "69927-000",
-                        "69928-000",
-                        "69929-000"
-                    ],
-                    "areacodes": [
-                        "068"
-                    ]
-                },
-                {
-                    "cityname": "Feijó",
-                    "zipcodes": [
-                        "69930-000",
-                        "69931-000",
-                        "69932-000",
-                        "69933-000",
-                        "69934-000"
-                    ],
-                    "areacodes": [
-                        "068"
-                    ]
-                },
-                {
-                    "cityname": "Xapuri",
-                    "zipcodes": [
-                        "69935-000",
-                        "69936-000",
-                        "69937-000",
-                        "69938-000",
-                        "69939-000"
-                    ],
-                    "areacodes": [
-                        "068"
-                    ]
-                },
-                {
-                    "cityname": "Brasileia",
-                    "zipcodes": [
-                        "69940-000",
-                        "69941-000",
-                        "69942-000",
-                        "69943-000",
-                        "69944-000"
-                    ],
-                    "areacodes": [
-                        "068"
-                    ]
-                },
-                {
-                    "cityname": "Assis Brasil",
-                    "zipcodes": [
-                        "69950-000",
-                        "69951-000",
-                        "69952-000",
-                        "69953-000",
-                        "69954-000"
-                    ],
-                    "areacodes": [
-                        "068"
-                    ]
-                },
-                {
-                    "cityname": "Bujari",
-                    "zipcodes": [
-                        "69960-000",
-                        "69961-000",
-                        "69962-000",
-                        "69963-000",
-                        "69964-000"
-                    ],
-                    "areacodes": [
-                        "068"
-                    ]
-                }
-            ],
-            "name": "Acre"
-        },
-        "Alagoas": {
-            "capital": "Maceió",
-            "cities": [
-                {
-                    "cityname": "Maceió",
-                    "zipcodes": [
-                        "57000-000",
-                        "57001-000",
-                        "57002-000",
-                        "57003-000",
-                        "57004-000"
-                    ],
-                    "areacodes": [
-                        "082"
-                    ]
-                },
-                {
-                    "cityname": "Arapiraca",
-                    "zipcodes": [
-                        "57300-000",
-                        "57301-000",
-                        "57302-000",
-                        "57303-000",
-                        "57304-000"
-                    ],
-                    "areacodes": [
-                        "082"
-                    ]
-                },
-                {
-                    "cityname": "Palmeira dos Índios",
-                    "zipcodes": [
-                        "57600-000",
-                        "57601-000",
-                        "57602-000",
-                        "57603-000",
-                        "57604-000"
-                    ],
-                    "areacodes": [
-                        "082"
-                    ]
-                },
-                {
-                    "cityname": "Rio Largo",
-                    "zipcodes": [
-                        "57100-000",
-                        "57101-000",
-                        "57102-000",
-                        "57103-000",
-                        "57104-000"
-                    ],
-                    "areacodes": [
-                        "082"
-                    ]
-                },
-                {
-                    "cityname": "Delmiro Gouveia",
-                    "zipcodes": [
-                        "57650-000",
-                        "57651-000",
-                        "57652-000",
-                        "57653-000",
-                        "57654-000"
-                    ],
-                    "areacodes": [
-                        "082"
-                    ]
-                },
-                {
-                    "cityname": "Penedo",
-                    "zipcodes": [
-                        "57200-000",
-                        "57201-000",
-                        "57202-000",
-                        "57203-000",
-                        "57204-000"
-                    ],
-                    "areacodes": [
-                        "082"
-                    ]
-                },
-                {
-                    "cityname": "Santa Luzia do Norte",
-                    "zipcodes": [
-                        "57130-000",
-                        "57131-000",
-                        "57132-000",
-                        "57133-000",
-                        "57134-000"
-                    ],
-                    "areacodes": [
-                        "082"
-                    ]
-                },
-                {
-                    "cityname": "União dos Palmares",
-                    "zipcodes": [
-                        "57800-000",
-                        "57801-000",
-                        "57802-000",
-                        "57803-000",
-                        "57804-000"
-                    ],
-                    "areacodes": [
-                        "082"
-                    ]
-                },
-                {
-                    "cityname": "Marechal Deodoro",
-                    "zipcodes": [
-                        "57105-000",
-                        "57106-000",
-                        "57107-000",
-                        "57108-000",
-                        "57109-000"
-                    ],
-                    "areacodes": [
-                        "082"
-                    ]
-                },
-                {
-                    "cityname": "São Miguel dos Campos",
-                    "zipcodes": [
-                        "57250-000",
-                        "57251-000",
-                        "57252-000",
-                        "57253-000",
-                        "57254-000"
-                    ],
-                    "areacodes": [
-                        "082"
-                    ]
-                }
-            ],
-            "name": "Alagoas"
-        },
-        "Amazonas": {
-            "capital": "Manaus",
-            "cities": [
-                {
-                    "cityname": "Manaus",
-                    "zipcodes": [
-                        "69000-000",
-                        "69001-000",
-                        "69002-000",
-                        "69003-000",
-                        "69004-000"
-                    ],
-                    "areacodes": [
-                        "092"
-                    ]
-                },
-                {
-                    "cityname": "Parintins",
-                    "zipcodes": [
-                        "69150-000",
-                        "69151-000",
-                        "69152-000",
-                        "69153-000",
-                        "69154-000"
-                    ],
-                    "areacodes": [
-                        "097"
-                    ]
-                },
-                {
-                    "cityname": "Itacoatiara",
-                    "zipcodes": [
-                        "69100-000",
-                        "69101-000",
-                        "69102-000",
-                        "69103-000",
-                        "69104-000"
-                    ],
-                    "areacodes": [
-                        "097"
-                    ]
-                },
-                {
-                    "cityname": "Manacapuru",
-                    "zipcodes": [
-                        "69400-000",
-                        "69401-000",
-                        "69402-000",
-                        "69403-000",
-                        "69404-000"
-                    ],
-                    "areacodes": [
-                        "097"
-                    ]
-                },
-                {
-                    "cityname": "Tabatinga",
-                    "zipcodes": [
-                        "69640-000",
-                        "69641-000",
-                        "69642-000",
-                        "69643-000",
-                        "69644-000"
-                    ],
-                    "areacodes": [
-                        "097"
-                    ]
-                },
-                {
-                    "cityname": "Coari",
-                    "zipcodes": [
-                        "69460-000",
-                        "69461-000",
-                        "69462-000",
-                        "69463-000",
-                        "69464-000"
-                    ],
-                    "areacodes": [
-                        "097"
-                    ]
-                },
-                {
-                    "cityname": "Tefé",
-                    "zipcodes": [
-                        "69470-000",
-                        "69471-000",
-                        "69472-000",
-                        "69473-000",
-                        "69474-000"
-                    ],
-                    "areacodes": [
-                        "097"
-                    ]
-                },
-                {
-                    "cityname": "Boca do Acre",
-                    "zipcodes": [
-                        "69870-000",
-                        "69871-000",
-                        "69872-000",
-                        "69873-000",
-                        "69874-000"
-                    ],
-                    "areacodes": [
-                        "097"
-                    ]
-                },
-                {
-                    "cityname": "Beruri",
-                    "zipcodes": [
-                        "69480-000",
-                        "69481-000",
-                        "69482-000",
-                        "69483-000",
-                        "69484-000"
-                    ],
-                    "areacodes": [
-                        "097"
-                    ]
-                },
-                {
-                    "cityname": "Lábrea",
-                    "zipcodes": [
-                        "69880-000",
-                        "69881-000",
-                        "69882-000",
-                        "69883-000",
-                        "69884-000"
-                    ],
-                    "areacodes": [
-                        "097"
-                    ]
-                }
-            ],
-            "name": "Amazonas"
-        },
-        "Bahia": {
-            "capital": "Salvador",
-            "cities": [
-                {
-                    "cityname": "Salvador",
-                    "zipcodes": [
-                        "40000-000",
-                        "40001-000",
-                        "40002-000",
-                        "40003-000",
-                        "40004-000"
-                    ],
-                    "areacodes": [
-                        "071"
-                    ]
-                },
-                {
-                    "cityname": "Feira de Santana",
-                    "zipcodes": [
-                        "44000-000",
-                        "44001-000",
-                        "44002-000",
-                        "44003-000",
-                        "44004-000"
-                    ],
-                    "areacodes": [
-                        "075"
-                    ]
-                },
-                {
-                    "cityname": "Vitória da Conquista",
-                    "zipcodes": [
-                        "45000-000",
-                        "45001-000",
-                        "45002-000",
-                        "45003-000",
-                        "45004-000"
-                    ],
-                    "areacodes": [
-                        "077"
-                    ]
-                },
-                {
-                    "cityname": "Camaçari",
-                    "zipcodes": [
-                        "42800-000",
-                        "42801-000",
-                        "42802-000",
-                        "42803-000",
-                        "42804-000"
-                    ],
-                    "areacodes": [
-                        "071"
-                    ]
-                },
-                {
-                    "cityname": "Itabuna",
-                    "zipcodes": [
-                        "45600-000",
-                        "45601-000",
-                        "45602-000",
-                        "45603-000",
-                        "45604-000"
-                    ],
-                    "areacodes": [
-                        "073"
-                    ]
-                },
-                {
-                    "cityname": "Ilhéus",
-                    "zipcodes": [
-                        "45650-000",
-                        "45651-000",
-                        "45652-000",
-                        "45653-000",
-                        "45654-000"
-                    ],
-                    "areacodes": [
-                        "073"
-                    ]
-                },
-                {
-                    "cityname": "Juazeiro",
-                    "zipcodes": [
-                        "48900-000",
-                        "48901-000",
-                        "48902-000",
-                        "48903-000",
-                        "48904-000"
-                    ],
-                    "areacodes": [
-                        "074"
-                    ]
-                },
-                {
-                    "cityname": "Lauro de Freitas",
-                    "zipcodes": [
-                        "42700-000",
-                        "42701-000",
-                        "42702-000",
-                        "42703-000",
-                        "42704-000"
-                    ],
-                    "areacodes": [
-                        "071"
-                    ]
-                },
-                {
-                    "cityname": "Barreiras",
-                    "zipcodes": [
-                        "47800-000",
-                        "47801-000",
-                        "47802-000",
-                        "47803-000",
-                        "47804-000"
-                    ],
-                    "areacodes": [
-                        "077"
-                    ]
-                },
-                {
-                    "cityname": "Alagoinhas",
-                    "zipcodes": [
-                        "48100-000",
-                        "48101-000",
-                        "48102-000",
-                        "48103-000",
-                        "48104-000"
-                    ],
-                    "areacodes": [
-                        "071"
-                    ]
-                }
-            ],
-            "name": "Bahia"
-        },
-        "Ceará": {
-            "capital": "Fortaleza",
-            "cities": [
-                {
-                    "cityname": "Fortaleza",
-                    "zipcodes": [
-                        "60000-000",
-                        "60001-000",
-                        "60002-000",
-                        "60003-000",
-                        "60004-000"
-                    ],
-                    "areacodes": [
-                        "085"
-                    ]
-                },
-                {
-                    "cityname": "Caucaia",
-                    "zipcodes": [
-                        "61600-000",
-                        "61601-000",
-                        "61602-000",
-                        "61603-000",
-                        "61604-000"
-                    ],
-                    "areacodes": [
-                        "085"
-                    ]
-                },
-                {
-                    "cityname": "Sobral",
-                    "zipcodes": [
-                        "62000-000",
-                        "62001-000",
-                        "62002-000",
-                        "62003-000",
-                        "62004-000"
-                    ],
-                    "areacodes": [
-                        "088"
-                    ]
-                },
-                {
-                    "cityname": "Juazeiro do Norte",
-                    "zipcodes": [
-                        "63000-000",
-                        "63001-000",
-                        "63002-000",
-                        "63003-000",
-                        "63004-000"
-                    ],
-                    "areacodes": [
-                        "088"
-                    ]
-                },
-                {
-                    "cityname": "Maracanaú",
-                    "zipcodes": [
-                        "61900-000",
-                        "61901-000",
-                        "61902-000",
-                        "61903-000",
-                        "61904-000"
-                    ],
-                    "areacodes": [
-                        "085"
-                    ]
-                },
-                {
-                    "cityname": "Crato",
-                    "zipcodes": [
-                        "63100-000",
-                        "63101-000",
-                        "63102-000",
-                        "63103-000",
-                        "63104-000"
-                    ],
-                    "areacodes": [
-                        "088"
-                    ]
-                },
-                {
-                    "cityname": "Iguatu",
-                    "zipcodes": [
-                        "63500-000",
-                        "63501-000",
-                        "63502-000",
-                        "63503-000",
-                        "63504-000"
-                    ],
-                    "areacodes": [
-                        "088"
-                    ]
-                },
-                {
-                    "cityname": "Limoeiro do Norte",
-                    "zipcodes": [
-                        "62900-000",
-                        "62901-000",
-                        "62902-000",
-                        "62903-000",
-                        "62904-000"
-                    ],
-                    "areacodes": [
-                        "088"
-                    ]
-                },
-                {
-                    "cityname": "Quixadá",
-                    "zipcodes": [
-                        "63900-000",
-                        "63901-000",
-                        "63902-000",
-                        "63903-000",
-                        "63904-000"
-                    ],
-                    "areacodes": [
-                        "088"
-                    ]
-                },
-                {
-                    "cityname": "Russas",
-                    "zipcodes": [
-                        "62800-000",
-                        "62801-000",
-                        "62802-000",
-                        "62803-000",
-                        "62804-000"
-                    ],
-                    "areacodes": [
-                        "088"
-                    ]
-                }
-            ],
-            "name": "Ceará"
-        },
-        "Espírito Santo": {
-            "capital": "Vitória",
-            "cities": [
-                {
-                    "cityname": "Vitória",
-                    "zipcodes": [
-                        "29000-000",
-                        "29001-000",
-                        "29002-000",
-                        "29003-000",
-                        "29004-000"
-                    ],
-                    "areacodes": [
-                        "027"
-                    ]
-                },
-                {
-                    "cityname": "Vila Velha",
-                    "zipcodes": [
-                        "29100-000",
-                        "29101-000",
-                        "29102-000",
-                        "29103-000",
-                        "29104-000"
-                    ],
-                    "areacodes": [
-                        "027"
-                    ]
-                },
-                {
-                    "cityname": "Serra",
-                    "zipcodes": [
-                        "29160-000",
-                        "29161-000",
-                        "29162-000",
-                        "29163-000",
-                        "29164-000"
-                    ],
-                    "areacodes": [
-                        "027"
-                    ]
-                },
-                {
-                    "cityname": "Cariacica",
-                    "zipcodes": [
-                        "29150-000",
-                        "29151-000",
-                        "29152-000",
-                        "29153-000",
-                        "29154-000"
-                    ],
-                    "areacodes": [
-                        "027"
-                    ]
-                },
-                {
-                    "cityname": "Linhares",
-                    "zipcodes": [
-                        "29900-000",
-                        "29901-000",
-                        "29902-000",
-                        "29903-000",
-                        "29904-000"
-                    ],
-                    "areacodes": [
-                        "027"
-                    ]
-                },
-                {
-                    "cityname": "Cachoeiro de Itapemirim",
-                    "zipcodes": [
-                        "29300-000",
-                        "29301-000",
-                        "29302-000",
-                        "29303-000",
-                        "29304-000"
-                    ],
-                    "areacodes": [
-                        "028"
-                    ]
-                },
-                {
-                    "cityname": "Colatina",
-                    "zipcodes": [
-                        "29700-000",
-                        "29701-000",
-                        "29702-000",
-                        "29703-000",
-                        "29704-000"
-                    ],
-                    "areacodes": [
-                        "027"
-                    ]
-                },
-                {
-                    "cityname": "Guarapari",
-                    "zipcodes": [
-                        "29200-000",
-                        "29201-000",
-                        "29202-000",
-                        "29203-000",
-                        "29204-000"
-                    ],
-                    "areacodes": [
-                        "027"
-                    ]
-                },
-                {
-                    "cityname": "São Mateus",
-                    "zipcodes": [
-                        "29930-000",
-                        "29931-000",
-                        "29932-000",
-                        "29933-000",
-                        "29934-000"
-                    ],
-                    "areacodes": [
-                        "027"
-                    ]
-                },
-                {
-                    "cityname": "Alegre",
-                    "zipcodes": [
-                        "29350-000",
-                        "29351-000",
-                        "29352-000",
-                        "29353-000",
-                        "29354-000"
-                    ],
-                    "areacodes": [
-                        "028"
-                    ]
-                }
-            ],
-            "name": "Espírito Santo"
-        },
-        "Maranhão": {
-            "capital": "São Luís",
-            "cities": [
-                {
-                    "cityname": "São Luís",
-                    "zipcodes": [
-                        "65000-000",
-                        "65001-000",
-                        "65002-000",
-                        "65003-000",
-                        "65004-000"
-                    ],
-                    "areacodes": [
-                        "098"
-                    ]
-                },
-                {
-                    "cityname": "Imperatriz",
-                    "zipcodes": [
-                        "65900-000",
-                        "65901-000",
-                        "65902-000",
-                        "65903-000",
-                        "65904-000"
-                    ],
-                    "areacodes": [
-                        "099"
-                    ]
-                },
-                {
-                    "cityname": "Caxias",
-                    "zipcodes": [
-                        "65600-000",
-                        "65601-000",
-                        "65602-000",
-                        "65603-000",
-                        "65604-000"
-                    ],
-                    "areacodes": [
-                        "099"
-                    ]
-                },
-                {
-                    "cityname": "São José de Ribamar",
-                    "zipcodes": [
-                        "65030-000",
-                        "65031-000",
-                        "65032-000",
-                        "65033-000",
-                        "65034-000"
-                    ],
-                    "areacodes": [
-                        "098"
-                    ]
-                },
-                {
-                    "cityname": "Timon",
-                    "zipcodes": [
-                        "65630-000",
-                        "65631-000",
-                        "65632-000",
-                        "65633-000",
-                        "65634-000"
-                    ],
-                    "areacodes": [
-                        "099"
-                    ]
-                },
-                {
-                    "cityname": "Bacabal",
-                    "zipcodes": [
-                        "65700-000",
-                        "65701-000",
-                        "65702-000",
-                        "65703-000",
-                        "65704-000"
-                    ],
-                    "areacodes": [
-                        "099"
-                    ]
-                },
-                {
-                    "cityname": "Codó",
-                    "zipcodes": [
-                        "65650-000",
-                        "65651-000",
-                        "65652-000",
-                        "65653-000",
-                        "65654-000"
-                    ],
-                    "areacodes": [
-                        "099"
-                    ]
-                },
-                {
-                    "cityname": "Açailândia",
-                    "zipcodes": [
-                        "65930-000",
-                        "65931-000",
-                        "65932-000",
-                        "65933-000",
-                        "65934-000"
-                    ],
-                    "areacodes": [
-                        "099"
-                    ]
-                },
-                {
-                    "cityname": "Chapadinha",
-                    "zipcodes": [
-                        "65500-000",
-                        "65501-000",
-                        "65502-000",
-                        "65503-000",
-                        "65504-000"
-                    ],
-                    "areacodes": [
-                        "099"
-                    ]
-                },
-                {
-                    "cityname": "Paço do Lumiar",
-                    "zipcodes": [
-                        "65040-000",
-                        "65041-000",
-                        "65042-000",
-                        "65043-000",
-                        "65044-000"
-                    ],
-                    "areacodes": [
-                        "098"
-                    ]
-                }
-            ],
-            "name": "Maranhão"
-        },
-        "Mato Grosso": {
-            "capital": "Cuiabá",
-            "cities": [
-                {
-                    "cityname": "Cuiabá",
-                    "zipcodes": [
-                        "78000-000",
-                        "78001-000",
-                        "78002-000",
-                        "78003-000",
-                        "78004-000"
-                    ],
-                    "areacodes": [
-                        "065"
-                    ]
-                },
-                {
-                    "cityname": "Várzea Grande",
-                    "zipcodes": [
-                        "78100-000",
-                        "78101-000",
-                        "78102-000",
-                        "78103-000",
-                        "78104-000"
-                    ],
-                    "areacodes": [
-                        "065"
-                    ]
-                },
-                {
-                    "cityname": "Rondonópolis",
-                    "zipcodes": [
-                        "78700-000",
-                        "78701-000",
-                        "78702-000",
-                        "78703-000",
-                        "78704-000"
-                    ],
-                    "areacodes": [
-                        "066"
-                    ]
-                },
-                {
-                    "cityname": "Sinop",
-                    "zipcodes": [
-                        "78500-000",
-                        "78501-000",
-                        "78502-000",
-                        "78503-000",
-                        "78504-000"
-                    ],
-                    "areacodes": [
-                        "066"
-                    ]
-                },
-                {
-                    "cityname": "Cáceres",
-                    "zipcodes": [
-                        "78200-000",
-                        "78201-000",
-                        "78202-000",
-                        "78203-000",
-                        "78204-000"
-                    ],
-                    "areacodes": [
-                        "065"
-                    ]
-                },
-                {
-                    "cityname": "Tangará da Serra",
-                    "zipcodes": [
-                        "78190-000",
-                        "78191-000",
-                        "78192-000",
-                        "78193-000",
-                        "78194-000"
-                    ],
-                    "areacodes": [
-                        "065"
-                    ]
-                },
-                {
-                    "cityname": "Lucas do Rio Verde",
-                    "zipcodes": [
-                        "78455-000",
-                        "78456-000",
-                        "78457-000",
-                        "78458-000",
-                        "78459-000"
-                    ],
-                    "areacodes": [
-                        "065"
-                    ]
-                },
-                {
-                    "cityname": "Sorriso",
-                    "zipcodes": [
-                        "78890-000",
-                        "78891-000",
-                        "78892-000",
-                        "78893-000",
-                        "78894-000"
-                    ],
-                    "areacodes": [
-                        "065"
-                    ]
-                },
-                {
-                    "cityname": "Barra do Garças",
-                    "zipcodes": [
-                        "78600-000",
-                        "78601-000",
-                        "78602-000",
-                        "78603-000",
-                        "78604-000"
-                    ],
-                    "areacodes": [
-                        "066"
-                    ]
-                },
-                {
-                    "cityname": "Alta Floresta",
-                    "zipcodes": [
-                        "78580-000",
-                        "78581-000",
-                        "78582-000",
-                        "78583-000",
-                        "78584-000"
-                    ],
-                    "areacodes": [
-                        "066"
-                    ]
-                }
-            ],
-            "name": "Mato Grosso"
-        },
-        "Mato Grosso do Sul": {
-            "capital": "Campo Grande",
-            "cities": [
-                {
-                    "cityname": "Campo Grande",
-                    "zipcodes": [
-                        "79000-000",
-                        "79001-000",
-                        "79002-000",
-                        "79003-000",
-                        "79004-000"
-                    ],
-                    "areacodes": [
-                        "067"
-                    ]
-                },
-                {
-                    "cityname": "Dourados",
-                    "zipcodes": [
-                        "79800-000",
-                        "79801-000",
-                        "79802-000",
-                        "79803-000",
-                        "79804-000"
-                    ],
-                    "areacodes": [
-                        "067"
-                    ]
-                },
-                {
-                    "cityname": "Três Lagoas",
-                    "zipcodes": [
-                        "79600-000",
-                        "79601-000",
-                        "79602-000",
-                        "79603-000",
-                        "79604-000"
-                    ],
-                    "areacodes": [
-                        "067"
-                    ]
-                },
-                {
-                    "cityname": "Ponta Porã",
-                    "zipcodes": [
-                        "79900-000",
-                        "79901-000",
-                        "79902-000",
-                        "79903-000",
-                        "79904-000"
-                    ],
-                    "areacodes": [
-                        "067"
-                    ]
-                },
-                {
-                    "cityname": "Corumbá",
-                    "zipcodes": [
-                        "79300-000",
-                        "79301-000",
-                        "79302-000",
-                        "79303-000",
-                        "79304-000"
-                    ],
-                    "areacodes": [
-                        "067"
-                    ]
-                },
-                {
-                    "cityname": "Aquidauana",
-                    "zipcodes": [
-                        "79200-000",
-                        "79201-000",
-                        "79202-000",
-                        "79203-000",
-                        "79204-000"
-                    ],
-                    "areacodes": [
-                        "067"
-                    ]
-                },
-                {
-                    "cityname": "Nova Andradina",
-                    "zipcodes": [
-                        "79700-000",
-                        "79701-000",
-                        "79702-000",
-                        "79703-000",
-                        "79704-000"
-                    ],
-                    "areacodes": [
-                        "067"
-                    ]
-                },
-                {
-                    "cityname": "Costa Rica",
-                    "zipcodes": [
-                        "79150-000",
-                        "79151-000",
-                        "79152-000",
-                        "79153-000",
-                        "79154-000"
-                    ],
-                    "areacodes": [
-                        "067"
-                    ]
-                },
-                {
-                    "cityname": "São Gabriel do Oeste",
-                    "zipcodes": [
-                        "79170-000",
-                        "79171-000",
-                        "79172-000",
-                        "79173-000",
-                        "79174-000"
-                    ],
-                    "areacodes": [
-                        "067"
-                    ]
-                },
-                {
-                    "cityname": "Ivinhema",
-                    "zipcodes": [
-                        "79750-000",
-                        "79751-000",
-                        "79752-000",
-                        "79753-000",
-                        "79754-000"
-                    ],
-                    "areacodes": [
-                        "067"
-                    ]
-                }
-            ],
-            "name": "Mato Grosso do Sul"
-        },
-        "Minas Gerais": {
-            "capital": "Belo Horizonte",
-            "cities": [
-                {
-                    "cityname": "Belo Horizonte",
-                    "zipcodes": [
-                        "30100-000",
-                        "30101-000",
-                        "30102-000",
-                        "30103-000",
-                        "30104-000"
-                    ],
-                    "areacodes": [
-                        "031"
-                    ]
-                },
-                {
-                    "cityname": "Uberlândia",
-                    "zipcodes": [
-                        "38400-000",
-                        "38401-000",
-                        "38402-000",
-                        "38403-000",
-                        "38404-000"
-                    ],
-                    "areacodes": [
-                        "034"
-                    ]
-                },
-                {
-                    "cityname": "Contagem",
-                    "zipcodes": [
-                        "32200-000",
-                        "32201-000",
-                        "32202-000",
-                        "32203-000",
-                        "32204-000"
-                    ],
-                    "areacodes": [
-                        "031"
-                    ]
-                },
-                {
-                    "cityname": "Juiz de Fora",
-                    "zipcodes": [
-                        "36000-000",
-                        "36001-000",
-                        "36002-000",
-                        "36003-000",
-                        "36004-000"
-                    ],
-                    "areacodes": [
-                        "032"
-                    ]
-                },
-                {
-                    "cityname": "Betim",
-                    "zipcodes": [
-                        "32600-000",
-                        "32601-000",
-                        "32602-000",
-                        "32603-000",
-                        "32604-000"
-                    ],
-                    "areacodes": [
-                        "031"
-                    ]
-                },
-                {
-                    "cityname": "Ipatinga",
-                    "zipcodes": [
-                        "35160-000",
-                        "35161-000",
-                        "35162-000",
-                        "35163-000",
-                        "35164-000"
-                    ],
-                    "areacodes": [
-                        "031"
-                    ]
-                },
-                {
-                    "cityname": "Montes Claros",
-                    "zipcodes": [
-                        "39400-000",
-                        "39401-000",
-                        "39402-000",
-                        "39403-000",
-                        "39404-000"
-                    ],
-                    "areacodes": [
-                        "038"
-                    ]
-                },
-                {
-                    "cityname": "Governador Valadares",
-                    "zipcodes": [
-                        "35010-000",
-                        "35011-000",
-                        "35012-000",
-                        "35013-000",
-                        "35014-000"
-                    ],
-                    "areacodes": [
-                        "033"
-                    ]
-                },
-                {
-                    "cityname": "Sete Lagoas",
-                    "zipcodes": [
-                        "35700-000",
-                        "35701-000",
-                        "35702-000",
-                        "35703-000",
-                        "35704-000"
-                    ],
-                    "areacodes": [
-                        "031"
-                    ]
-                },
-                {
-                    "cityname": "Divinópolis",
-                    "zipcodes": [
-                        "35500-000",
-                        "35501-000",
-                        "35502-000",
-                        "35503-000",
-                        "35504-000"
-                    ],
-                    "areacodes": [
-                        "037"
-                    ]
-                }
-            ],
-            "name": "Minas Gerais"
-        },
-        "Pará": {
-            "capital": "Belém",
-            "cities": [
-                {
-                    "cityname": "Belém",
-                    "zipcodes": [
-                        "66000-000",
-                        "66001-000",
-                        "66002-000",
-                        "66003-000",
-                        "66004-000"
-                    ],
-                    "areacodes": [
-                        "091"
-                    ]
-                },
-                {
-                    "cityname": "Ananindeua",
-                    "zipcodes": [
-                        "67000-000",
-                        "67001-000",
-                        "67002-000",
-                        "67003-000",
-                        "67004-000"
-                    ],
-                    "areacodes": [
-                        "091"
-                    ]
-                },
-                {
-                    "cityname": "Santarém",
-                    "zipcodes": [
-                        "68000-000",
-                        "68001-000",
-                        "68002-000",
-                        "68003-000",
-                        "68004-000"
-                    ],
-                    "areacodes": [
-                        "093"
-                    ]
-                },
-                {
-                    "cityname": "Marabá",
-                    "zipcodes": [
-                        "68500-000",
-                        "68501-000",
-                        "68502-000",
-                        "68503-000",
-                        "68504-000"
-                    ],
-                    "areacodes": [
-                        "094"
-                    ]
-                },
-                {
-                    "cityname": "Parauapebas",
-                    "zipcodes": [
-                        "68515-000",
-                        "68516-000",
-                        "68517-000",
-                        "68518-000",
-                        "68519-000"
-                    ],
-                    "areacodes": [
-                        "094"
-                    ]
-                },
-                {
-                    "cityname": "Castanhal",
-                    "zipcodes": [
-                        "68740-000",
-                        "68741-000",
-                        "68742-000",
-                        "68743-000",
-                        "68744-000"
-                    ],
-                    "areacodes": [
-                        "091"
-                    ]
-                },
-                {
-                    "cityname": "Águas Lindas de Goiás",
-                    "zipcodes": [
-                        "68790-000",
-                        "68791-000",
-                        "68792-000",
-                        "68793-000",
-                        "68794-000"
-                    ],
-                    "areacodes": [
-                        "091"
-                    ]
-                },
-                {
-                    "cityname": "Tucuruí",
-                    "zipcodes": [
-                        "68450-000",
-                        "68451-000",
-                        "68452-000",
-                        "68453-000",
-                        "68454-000"
-                    ],
-                    "areacodes": [
-                        "094"
-                    ]
-                },
-                {
-                    "cityname": "Redenção",
-                    "zipcodes": [
-                        "68560-000",
-                        "68561-000",
-                        "68562-000",
-                        "68563-000",
-                        "68564-000"
-                    ],
-                    "areacodes": [
-                        "094"
-                    ]
-                },
-                {
-                    "cityname": "Xinguara",
-                    "zipcodes": [
-                        "68580-000",
-                        "68581-000",
-                        "68582-000",
-                        "68583-000",
-                        "68584-000"
-                    ],
-                    "areacodes": [
-                        "094"
-                    ]
-                }
-            ],
-            "name": "Pará"
-        },
-        "Paraíba": {
-            "capital": "João Pessoa",
-            "cities": [
-                {
-                    "cityname": "João Pessoa",
-                    "zipcodes": [
-                        "58000-000",
-                        "58001-000",
-                        "58002-000",
-                        "58003-000",
-                        "58004-000"
-                    ],
-                    "areacodes": [
-                        "083"
-                    ]
-                },
-                {
-                    "cityname": "Campina Grande",
-                    "zipcodes": [
-                        "58400-000",
-                        "58401-000",
-                        "58402-000",
-                        "58403-000",
-                        "58404-000"
-                    ],
-                    "areacodes": [
-                        "083"
-                    ]
-                },
-                {
-                    "cityname": "Santa Rita",
-                    "zipcodes": [
-                        "58300-000",
-                        "58301-000",
-                        "58302-000",
-                        "58303-000",
-                        "58304-000"
-                    ],
-                    "areacodes": [
-                        "083"
-                    ]
-                },
-                {
-                    "cityname": "Patos",
-                    "zipcodes": [
-                        "58700-000",
-                        "58701-000",
-                        "58702-000",
-                        "58703-000",
-                        "58704-000"
-                    ],
-                    "areacodes": [
-                        "083"
-                    ]
-                },
-                {
-                    "cityname": "Bayeux",
-                    "zipcodes": [
-                        "58305-000",
-                        "58306-000",
-                        "58307-000",
-                        "58308-000",
-                        "58309-000"
-                    ],
-                    "areacodes": [
-                        "083"
-                    ]
-                },
-                {
-                    "cityname": "Cabo Branco",
-                    "zipcodes": [
-                        "58058-000",
-                        "58059-000",
-                        "58060-000",
-                        "58061-000",
-                        "58062-000"
-                    ],
-                    "areacodes": [
-                        "083"
-                    ]
-                },
-                {
-                    "cityname": "Sousa",
-                    "zipcodes": [
-                        "58800-000",
-                        "58801-000",
-                        "58802-000",
-                        "58803-000",
-                        "58804-000"
-                    ],
-                    "areacodes": [
-                        "083"
-                    ]
-                },
-                {
-                    "cityname": "Queimadas",
-                    "zipcodes": [
-                        "58200-000",
-                        "58201-000",
-                        "58202-000",
-                        "58203-000",
-                        "58204-000"
-                    ],
-                    "areacodes": [
-                        "083"
-                    ]
-                },
-                {
-                    "cityname": "Monteiro",
-                    "zipcodes": [
-                        "58500-000",
-                        "58501-000",
-                        "58502-000",
-                        "58503-000",
-                        "58504-000"
-                    ],
-                    "areacodes": [
-                        "083"
-                    ]
-                },
-                {
-                    "cityname": "Guarabira",
-                    "zipcodes": [
-                        "58300-000",
-                        "58301-000",
-                        "58302-000",
-                        "58303-000",
-                        "58304-000"
-                    ],
-                    "areacodes": [
-                        "083"
-                    ]
-                }
-            ],
-            "name": "Paraíba"
-        },
-        "Paraná": {
-            "capital": "Curitiba",
-            "cities": [
-                {
-                    "cityname": "Curitiba",
-                    "zipcodes": [
-                        "80000-000",
-                        "80010-000",
-                        "80020-000",
-                        "80030-000",
-                        "80040-000"
-                    ],
-                    "areacodes": [
-                        "041"
-                    ]
-                },
-                {
-                    "cityname": "Londrina",
-                    "zipcodes": [
-                        "86000-000",
-                        "86010-000",
-                        "86020-000",
-                        "86030-000",
-                        "86040-000"
-                    ],
-                    "areacodes": [
-                        "043"
-                    ]
-                },
-                {
-                    "cityname": "Maringá",
-                    "zipcodes": [
-                        "87000-000",
-                        "87010-000",
-                        "87020-000",
-                        "87030-000",
-                        "87040-000"
-                    ],
-                    "areacodes": [
-                        "044"
-                    ]
-                },
-                {
-                    "cityname": "Ponta Grossa",
-                    "zipcodes": [
-                        "84000-000",
-                        "84010-000",
-                        "84020-000",
-                        "84030-000",
-                        "84040-000"
-                    ],
-                    "areacodes": [
-                        "042"
-                    ]
-                },
-                {
-                    "cityname": "Foz do Iguaçu",
-                    "zipcodes": [
-                        "85850-000",
-                        "85851-000",
-                        "85852-000",
-                        "85853-000",
-                        "85854-000"
-                    ],
-                    "areacodes": [
-                        "045"
-                    ]
-                },
-                {
-                    "cityname": "Cascavel",
-                    "zipcodes": [
-                        "85810-000",
-                        "85811-000",
-                        "85812-000",
-                        "85813-000",
-                        "85814-000"
-                    ],
-                    "areacodes": [
-                        "045"
-                    ]
-                },
-                {
-                    "cityname": "São José dos Pinhais",
-                    "zipcodes": [
-                        "83000-000",
-                        "83010-000",
-                        "83020-000",
-                        "83030-000",
-                        "83040-000"
-                    ],
-                    "areacodes": [
-                        "041"
-                    ]
-                },
-                {
-                    "cityname": "Colombo",
-                    "zipcodes": [
-                        "83400-000",
-                        "83401-000",
-                        "83402-000",
-                        "83403-000",
-                        "83404-000"
-                    ],
-                    "areacodes": [
-                        "041"
-                    ]
-                },
-                {
-                    "cityname": "Araucária",
-                    "zipcodes": [
-                        "83410-000",
-                        "83411-000",
-                        "83412-000",
-                        "83413-000",
-                        "83414-000"
-                    ],
-                    "areacodes": [
-                        "041"
-                    ]
-                },
-                {
-                    "cityname": "Paranaguá",
-                    "zipcodes": [
-                        "83200-000",
-                        "83201-000",
-                        "83202-000",
-                        "83203-000",
-                        "83204-000"
-                    ],
-                    "areacodes": [
-                        "041"
-                    ]
-                }
-            ],
-            "name": "Paraná"
-        },
-        "Pernambuco": {
-            "capital": "Recife",
-            "cities": [
-                {
-                    "cityname": "Recife",
-                    "zipcodes": [
-                        "50000-000",
-                        "50010-000",
-                        "50020-000",
-                        "50030-000",
-                        "50040-000"
-                    ],
-                    "areacodes": [
-                        "081"
-                    ]
-                },
-                {
-                    "cityname": "Olinda",
-                    "zipcodes": [
-                        "53000-000",
-                        "53010-000",
-                        "53020-000",
-                        "53030-000",
-                        "53040-000"
-                    ],
-                    "areacodes": [
-                        "081"
-                    ]
-                },
-                {
-                    "cityname": "Jaboatão dos Guararapes",
-                    "zipcodes": [
-                        "54000-000",
-                        "54010-000",
-                        "54020-000",
-                        "54030-000",
-                        "54040-000"
-                    ],
-                    "areacodes": [
-                        "081"
-                    ]
-                },
-                {
-                    "cityname": "Caruaru",
-                    "zipcodes": [
-                        "55000-000",
-                        "55010-000",
-                        "55020-000",
-                        "55030-000",
-                        "55040-000"
-                    ],
-                    "areacodes": [
-                        "081"
-                    ]
-                },
-                {
-                    "cityname": "Petrolina",
-                    "zipcodes": [
-                        "56300-000",
-                        "56301-000",
-                        "56302-000",
-                        "56303-000",
-                        "56304-000"
-                    ],
-                    "areacodes": [
-                        "087"
-                    ]
-                },
-                {
-                    "cityname": "Camaragibe",
-                    "zipcodes": [
-                        "54700-000",
-                        "54701-000",
-                        "54702-000",
-                        "54703-000",
-                        "54704-000"
-                    ],
-                    "areacodes": [
-                        "081"
-                    ]
-                },
-                {
-                    "cityname": "Ipojuca",
-                    "zipcodes": [
-                        "55590-000",
-                        "55591-000",
-                        "55592-000",
-                        "55593-000",
-                        "55594-000"
-                    ],
-                    "areacodes": [
-                        "081"
-                    ]
-                },
-                {
-                    "cityname": "Garanhuns",
-                    "zipcodes": [
-                        "55290-000",
-                        "55291-000",
-                        "55292-000",
-                        "55293-000",
-                        "55294-000"
-                    ],
-                    "areacodes": [
-                        "087"
-                    ]
-                },
-                {
-                    "cityname": "Araripina",
-                    "zipcodes": [
-                        "56200-000",
-                        "56201-000",
-                        "56202-000",
-                        "56203-000",
-                        "56204-000"
-                    ],
-                    "areacodes": [
-                        "087"
-                    ]
-                },
-                {
-                    "cityname": "Gravatá",
-                    "zipcodes": [
-                        "55600-000",
-                        "55601-000",
-                        "55602-000",
-                        "55603-000",
-                        "55604-000"
-                    ],
-                    "areacodes": [
-                        "081"
-                    ]
-                }
-            ],
-            "name": "Pernambuco"
-        },
-        "Piauí": {
-            "capital": "Teresina",
-            "cities": [
-                {
-                    "cityname": "Teresina",
-                    "zipcodes": [
-                        "64000-000",
-                        "64010-000",
-                        "64020-000",
-                        "64030-000",
-                        "64040-000"
-                    ],
-                    "areacodes": [
-                        "086"
-                    ]
-                },
-                {
-                    "cityname": "Parnaíba",
-                    "zipcodes": [
-                        "64200-000",
-                        "64201-000",
-                        "64202-000",
-                        "64203-000",
-                        "64204-000"
-                    ],
-                    "areacodes": [
-                        "086"
-                    ]
-                },
-                {
-                    "cityname": "Picos",
-                    "zipcodes": [
-                        "64600-000",
-                        "64601-000",
-                        "64602-000",
-                        "64603-000",
-                        "64604-000"
-                    ],
-                    "areacodes": [
-                        "086"
-                    ]
-                },
-                {
-                    "cityname": "Floriano",
-                    "zipcodes": [
-                        "64800-000",
-                        "64801-000",
-                        "64802-000",
-                        "64803-000",
-                        "64804-000"
-                    ],
-                    "areacodes": [
-                        "086"
-                    ]
-                },
-                {
-                    "cityname": "Bom Jesus",
-                    "zipcodes": [
-                        "64900-000",
-                        "64901-000",
-                        "64902-000",
-                        "64903-000",
-                        "64904-000"
-                    ],
-                    "areacodes": [
-                        "086"
-                    ]
-                },
-                {
-                    "cityname": "São Raimundo Nonato",
-                    "zipcodes": [
-                        "64700-000",
-                        "64701-000",
-                        "64702-000",
-                        "64703-000",
-                        "64704-000"
-                    ],
-                    "areacodes": [
-                        "086"
-                    ]
-                },
-                {
-                    "cityname": "Campo Maior",
-                    "zipcodes": [
-                        "64210-000",
-                        "64211-000",
-                        "64212-000",
-                        "64213-000",
-                        "64214-000"
-                    ],
-                    "areacodes": [
-                        "086"
-                    ]
-                },
-                {
-                    "cityname": "Timon",
-                    "zipcodes": [
-                        "65600-000",
-                        "65601-000",
-                        "65602-000",
-                        "65603-000",
-                        "65604-000"
-                    ],
-                    "areacodes": [
-                        "086"
-                    ]
-                },
-                {
-                    "cityname": "Piripiri",
-                    "zipcodes": [
-                        "64300-000",
-                        "64301-000",
-                        "64302-000",
-                        "64303-000",
-                        "64304-000"
-                    ],
-                    "areacodes": [
-                        "086"
-                    ]
-                },
-                {
-                    "cityname": "Canto do Buriti",
-                    "zipcodes": [
-                        "64760-000",
-                        "64761-000",
-                        "64762-000",
-                        "64763-000",
-                        "64764-000"
-                    ],
-                    "areacodes": [
-                        "086"
-                    ]
-                }
-            ],
-            "name": "Piauí"
-        },
-        "Rio de Janeiro": {
-            "capital": "Rio de Janeiro",
-            "cities": [
-                {
-                    "cityname": "Rio de Janeiro",
-                    "zipcodes": [
-                        "20000-000",
-                        "20010-000",
-                        "20020-000",
-                        "20030-000",
-                        "20040-000"
-                    ],
-                    "areacodes": [
-                        "021"
-                    ]
-                },
-                {
-                    "cityname": "Niterói",
-                    "zipcodes": [
-                        "24000-000",
-                        "24010-000",
-                        "24020-000",
-                        "24030-000",
-                        "24040-000"
-                    ],
-                    "areacodes": [
-                        "021"
-                    ]
-                },
-                {
-                    "cityname": "Duque de Caxias",
-                    "zipcodes": [
-                        "25000-000",
-                        "25010-000",
-                        "25020-000",
-                        "25030-000",
-                        "25040-000"
-                    ],
-                    "areacodes": [
-                        "021"
-                    ]
-                },
-                {
-                    "cityname": "São Gonçalo",
-                    "zipcodes": [
-                        "24400-000",
-                        "24410-000",
-                        "24420-000",
-                        "24430-000",
-                        "24440-000"
-                    ],
-                    "areacodes": [
-                        "021"
-                    ]
-                },
-                {
-                    "cityname": "Nova Iguaçu",
-                    "zipcodes": [
-                        "26000-000",
-                        "26010-000",
-                        "26020-000",
-                        "26030-000",
-                        "26040-000"
-                    ],
-                    "areacodes": [
-                        "021"
-                    ]
-                },
-                {
-                    "cityname": "Campos dos Goytacazes",
-                    "zipcodes": [
-                        "28000-000",
-                        "28010-000",
-                        "28020-000",
-                        "28030-000",
-                        "28040-000"
-                    ],
-                    "areacodes": [
-                        "022"
-                    ]
-                },
-                {
-                    "cityname": "Macaé",
-                    "zipcodes": [
-                        "27900-000",
-                        "27901-000",
-                        "27902-000",
-                        "27903-000",
-                        "27904-000"
-                    ],
-                    "areacodes": [
-                        "022"
-                    ]
-                },
-                {
-                    "cityname": "Volta Redonda",
-                    "zipcodes": [
-                        "27200-000",
-                        "27210-000",
-                        "27220-000",
-                        "27230-000",
-                        "27240-000"
-                    ],
-                    "areacodes": [
-                        "024"
-                    ]
-                },
-                {
-                    "cityname": "Angra dos Reis",
-                    "zipcodes": [
-                        "23900-000",
-                        "23901-000",
-                        "23902-000",
-                        "23903-000",
-                        "23904-000"
-                    ],
-                    "areacodes": [
-                        "024"
-                    ]
-                },
-                {
-                    "cityname": "Resende",
-                    "zipcodes": [
-                        "27500-000",
-                        "27510-000",
-                        "27520-000",
-                        "27530-000",
-                        "27540-000"
-                    ],
-                    "areacodes": [
-                        "024"
-                    ]
-                }
-            ],
-            "name": "Rio de Janeiro"
-        },
-        "Rio Grande do Norte": {
-            "capital": "Natal",
-            "cities": [
-                {
-                    "cityname": "Natal",
-                    "zipcodes": [
-                        "59000-000",
-                        "59010-000",
-                        "59020-000",
-                        "59030-000",
-                        "59040-000"
-                    ],
-                    "areacodes": [
-                        "084"
-                    ]
-                },
-                {
-                    "cityname": "Mossoró",
-                    "zipcodes": [
-                        "59600-000",
-                        "59601-000",
-                        "59602-000",
-                        "59603-000",
-                        "59604-000"
-                    ],
-                    "areacodes": [
-                        "084"
-                    ]
-                },
-                {
-                    "cityname": "Parnamirim",
-                    "zipcodes": [
-                        "59100-000",
-                        "59110-000",
-                        "59120-000",
-                        "59130-000",
-                        "59140-000"
-                    ],
-                    "areacodes": [
-                        "084"
-                    ]
-                },
-                {
-                    "cityname": "São Gonçalo do Amarante",
-                    "zipcodes": [
-                        "59200-000",
-                        "59210-000",
-                        "59220-000",
-                        "59230-000",
-                        "59240-000"
-                    ],
-                    "areacodes": [
-                        "084"
-                    ]
-                },
-                {
-                    "cityname": "Ceará-Mirim",
-                    "zipcodes": [
-                        "59500-000",
-                        "59501-000",
-                        "59502-000",
-                        "59503-000",
-                        "59504-000"
-                    ],
-                    "areacodes": [
-                        "084"
-                    ]
-                },
-                {
-                    "cityname": "Caicó",
-                    "zipcodes": [
-                        "59300-000",
-                        "59301-000",
-                        "59302-000",
-                        "59303-000",
-                        "59304-000"
-                    ],
-                    "areacodes": [
-                        "084"
-                    ]
-                },
-                {
-                    "cityname": "Assu",
-                    "zipcodes": [
-                        "59600-000",
-                        "59601-000",
-                        "59602-000",
-                        "59603-000",
-                        "59604-000"
-                    ],
-                    "areacodes": [
-                        "084"
-                    ]
-                },
-                {
-                    "cityname": "Angicos",
-                    "zipcodes": [
-                        "59560-000",
-                        "59561-000",
-                        "59562-000",
-                        "59563-000",
-                        "59564-000"
-                    ],
-                    "areacodes": [
-                        "084"
-                    ]
-                },
-                {
-                    "cityname": "Currais Novos",
-                    "zipcodes": [
-                        "59380-000",
-                        "59381-000",
-                        "59382-000",
-                        "59383-000",
-                        "59384-000"
-                    ],
-                    "areacodes": [
-                        "084"
-                    ]
-                },
-                {
-                    "cityname": "Santa Cruz",
-                    "zipcodes": [
-                        "59200-000",
-                        "59201-000",
-                        "59202-000",
-                        "59203-000",
-                        "59204-000"
-                    ],
-                    "areacodes": [
-                        "084"
-                    ]
-                }
-            ],
-            "name": "Rio Grande do Norte"
-        },
-        "Rio Grande do Sul": {
-            "capital": "Porto Alegre",
-            "cities": [
-                {
-                    "cityname": "Porto Alegre",
-                    "zipcodes": [
-                        "90000-000",
-                        "90010-000",
-                        "90020-000",
-                        "90030-000",
-                        "90040-000"
-                    ],
-                    "areacodes": [
-                        "051"
-                    ]
-                },
-                {
-                    "cityname": "Caxias do Sul",
-                    "zipcodes": [
-                        "95000-000",
-                        "95010-000",
-                        "95020-000",
-                        "95030-000",
-                        "95040-000"
-                    ],
-                    "areacodes": [
-                        "054"
-                    ]
-                },
-                {
-                    "cityname": "Pelotas",
-                    "zipcodes": [
-                        "96000-000",
-                        "96010-000",
-                        "96020-000",
-                        "96030-000",
-                        "96040-000"
-                    ],
-                    "areacodes": [
-                        "053"
-                    ]
-                },
-                {
-                    "cityname": "Santa Maria",
-                    "zipcodes": [
-                        "97000-000",
-                        "97010-000",
-                        "97020-000",
-                        "97030-000",
-                        "97040-000"
-                    ],
-                    "areacodes": [
-                        "055"
-                    ]
-                },
-                {
-                    "cityname": "Gravataí",
-                    "zipcodes": [
-                        "94000-000",
-                        "94010-000",
-                        "94020-000",
-                        "94030-000",
-                        "94040-000"
-                    ],
-                    "areacodes": [
-                        "051"
-                    ]
-                },
-                {
-                    "cityname": "Canoas",
-                    "zipcodes": [
-                        "92000-000",
-                        "92010-000",
-                        "92020-000",
-                        "92030-000",
-                        "92040-000"
-                    ],
-                    "areacodes": [
-                        "051"
-                    ]
-                },
-                {
-                    "cityname": "São Leopoldo",
-                    "zipcodes": [
-                        "93000-000",
-                        "93010-000",
-                        "93020-000",
-                        "93030-000",
-                        "93040-000"
-                    ],
-                    "areacodes": [
-                        "051"
-                    ]
-                },
-                {
-                    "cityname": "Novo Hamburgo",
-                    "zipcodes": [
-                        "93300-000",
-                        "93310-000",
-                        "93320-000",
-                        "93330-000",
-                        "93340-000"
-                    ],
-                    "areacodes": [
-                        "051"
-                    ]
-                },
-                {
-                    "cityname": "Rio Grande",
-                    "zipcodes": [
-                        "96200-000",
-                        "96210-000",
-                        "96220-000",
-                        "96230-000",
-                        "96240-000"
-                    ],
-                    "areacodes": [
-                        "053"
-                    ]
-                },
-                {
-                    "cityname": "Passo Fundo",
-                    "zipcodes": [
-                        "99000-000",
-                        "99010-000",
-                        "99020-000",
-                        "99030-000",
-                        "99040-000"
-                    ],
-                    "areacodes": [
-                        "054"
-                    ]
-                }
-            ],
-            "name": "Rio Grande do Sul"
-        },
-        "Rondônia": {
-            "capital": "Porto Velho",
-            "cities": [
-                {
-                    "cityname": "Porto Velho",
-                    "zipcodes": [
-                        "76800-000",
-                        "76801-000",
-                        "76802-000",
-                        "76803-000",
-                        "76804-000"
-                    ],
-                    "areacodes": [
-                        "069"
-                    ]
-                },
-                {
-                    "cityname": "Ji-Paraná",
-                    "zipcodes": [
-                        "76900-000",
-                        "76910-000",
-                        "76920-000",
-                        "76930-000",
-                        "76940-000"
-                    ],
-                    "areacodes": [
-                        "069"
-                    ]
-                },
-                {
-                    "cityname": "Ariquemes",
-                    "zipcodes": [
-                        "76820-000",
-                        "76821-000",
-                        "76822-000",
-                        "76823-000",
-                        "76824-000"
-                    ],
-                    "areacodes": [
-                        "069"
-                    ]
-                },
-                {
-                    "cityname": "Vilhena",
-                    "zipcodes": [
-                        "76980-000",
-                        "76981-000",
-                        "76982-000",
-                        "76983-000",
-                        "76984-000"
-                    ],
-                    "areacodes": [
-                        "069"
-                    ]
-                },
-                {
-                    "cityname": "Cacoal",
-                    "zipcodes": [
-                        "76960-000",
-                        "76961-000",
-                        "76962-000",
-                        "76963-000",
-                        "76964-000"
-                    ],
-                    "areacodes": [
-                        "069"
-                    ]
-                },
-                {
-                    "cityname": "Rolim de Moura",
-                    "zipcodes": [
-                        "76940-000",
-                        "76941-000",
-                        "76942-000",
-                        "76943-000",
-                        "76944-000"
-                    ],
-                    "areacodes": [
-                        "069"
-                    ]
-                },
-                {
-                    "cityname": "Ouro Preto do Oeste",
-                    "zipcodes": [
-                        "76840-000",
-                        "76841-000",
-                        "76842-000",
-                        "76843-000",
-                        "76844-000"
-                    ],
-                    "areacodes": [
-                        "069"
-                    ]
-                },
-                {
-                    "cityname": "Guajará-Mirim",
-                    "zipcodes": [
-                        "76870-000",
-                        "76871-000",
-                        "76872-000",
-                        "76873-000",
-                        "76874-000"
-                    ],
-                    "areacodes": [
-                        "069"
-                    ]
-                },
-                {
-                    "cityname": "São Francisco do Guaporé",
-                    "zipcodes": [
-                        "76885-000",
-                        "76886-000",
-                        "76887-000",
-                        "76888-000",
-                        "76889-000"
-                    ],
-                    "areacodes": [
-                        "069"
-                    ]
-                },
-                {
-                    "cityname": "Espigão do Oeste",
-                    "zipcodes": [
-                        "76950-000",
-                        "76951-000",
-                        "76952-000",
-                        "76953-000",
-                        "76954-000"
-                    ],
-                    "areacodes": [
-                        "069"
-                    ]
-                }
-            ],
-            "name": "Rondônia"
-        },
-        "Roraima": {
-            "capital": "Boa Vista",
-            "cities": [
-                {
-                    "cityname": "Boa Vista",
-                    "zipcodes": [
-                        "69300-000",
-                        "69301-000",
-                        "69302-000",
-                        "69303-000",
-                        "69304-000"
-                    ],
-                    "areacodes": [
-                        "095"
-                    ]
-                },
-                {
-                    "cityname": "Rorainópolis",
-                    "zipcodes": [
-                        "69380-000",
-                        "69381-000",
-                        "69382-000",
-                        "69383-000",
-                        "69384-000"
-                    ],
-                    "areacodes": [
-                        "095"
-                    ]
-                },
-                {
-                    "cityname": "Caracaraí",
-                    "zipcodes": [
-                        "69360-000",
-                        "69361-000",
-                        "69362-000",
-                        "69363-000",
-                        "69364-000"
-                    ],
-                    "areacodes": [
-                        "095"
-                    ]
-                },
-                {
-                    "cityname": "São João da Baliza",
-                    "zipcodes": [
-                        "69370-000",
-                        "69371-000",
-                        "69372-000",
-                        "69373-000",
-                        "69374-000"
-                    ],
-                    "areacodes": [
-                        "095"
-                    ]
-                },
-                {
-                    "cityname": "Mucajaí",
-                    "zipcodes": [
-                        "69390-000",
-                        "69391-000",
-                        "69392-000",
-                        "69393-000",
-                        "69394-000"
-                    ],
-                    "areacodes": [
-                        "095"
-                    ]
-                },
-                {
-                    "cityname": "Normandia",
-                    "zipcodes": [
-                        "69340-000",
-                        "69341-000",
-                        "69342-000",
-                        "69343-000",
-                        "69344-000"
-                    ],
-                    "areacodes": [
-                        "095"
-                    ]
-                },
-                {
-                    "cityname": "Cantá",
-                    "zipcodes": [
-                        "69330-000",
-                        "69331-000",
-                        "69332-000",
-                        "69333-000",
-                        "69334-000"
-                    ],
-                    "areacodes": [
-                        "095"
-                    ]
-                },
-                {
-                    "cityname": "Uiramutã",
-                    "zipcodes": [
-                        "69350-000",
-                        "69351-000",
-                        "69352-000",
-                        "69353-000",
-                        "69354-000"
-                    ],
-                    "areacodes": [
-                        "095"
-                    ]
-                },
-                {
-                    "cityname": "Bonfim",
-                    "zipcodes": [
-                        "69320-000",
-                        "69321-000",
-                        "69322-000",
-                        "69323-000",
-                        "69324-000"
-                    ],
-                    "areacodes": [
-                        "095"
-                    ]
-                },
-                {
-                    "cityname": "Ixias",
-                    "zipcodes": [
-                        "69310-000",
-                        "69311-000",
-                        "69312-000",
-                        "69313-000",
-                        "69314-000"
-                    ],
-                    "areacodes": [
-                        "095"
-                    ]
-                }
-            ],
-            "name": "Roraima"
-        },
-        "Santa Catarina": {
-            "capital": "Florianópolis",
-            "cities": [
-                {
-                    "cityname": "Florianópolis",
-                    "zipcodes": [
-                        "88000-000",
-                        "88010-000",
-                        "88020-000",
-                        "88030-000",
-                        "88040-000"
-                    ],
-                    "areacodes": [
-                        "048"
-                    ]
-                },
-                {
-                    "cityname": "Joinville",
-                    "zipcodes": [
-                        "89200-000",
-                        "89210-000",
-                        "89220-000",
-                        "89230-000",
-                        "89240-000"
-                    ],
-                    "areacodes": [
-                        "047"
-                    ]
-                },
-                {
-                    "cityname": "Blumenau",
-                    "zipcodes": [
-                        "89000-000",
-                        "89010-000",
-                        "89020-000",
-                        "89030-000",
-                        "89040-000"
-                    ],
-                    "areacodes": [
-                        "047"
-                    ]
-                },
-                {
-                    "cityname": "São José",
-                    "zipcodes": [
-                        "88100-000",
-                        "88110-000",
-                        "88120-000",
-                        "88130-000",
-                        "88140-000"
-                    ],
-                    "areacodes": [
-                        "048"
-                    ]
-                },
-                {
-                    "cityname": "Chapecó",
-                    "zipcodes": [
-                        "89800-000",
-                        "89810-000",
-                        "89820-000",
-                        "89830-000",
-                        "89840-000"
-                    ],
-                    "areacodes": [
-                        "049"
-                    ]
-                },
-                {
-                    "cityname": "Itajaí",
-                    "zipcodes": [
-                        "88300-000",
-                        "88310-000",
-                        "88320-000",
-                        "88330-000",
-                        "88340-000"
-                    ],
-                    "areacodes": [
-                        "047"
-                    ]
-                },
-                {
-                    "cityname": "Criciúma",
-                    "zipcodes": [
-                        "88800-000",
-                        "88810-000",
-                        "88820-000",
-                        "88830-000",
-                        "88840-000"
-                    ],
-                    "areacodes": [
-                        "048"
-                    ]
-                },
-                {
-                    "cityname": "Tubarão",
-                    "zipcodes": [
-                        "88700-000",
-                        "88710-000",
-                        "88720-000",
-                        "88730-000",
-                        "88740-000"
-                    ],
-                    "areacodes": [
-                        "048"
-                    ]
-                },
-                {
-                    "cityname": "Lages",
-                    "zipcodes": [
-                        "88500-000",
-                        "88510-000",
-                        "88520-000",
-                        "88530-000",
-                        "88540-000"
-                    ],
-                    "areacodes": [
-                        "049"
-                    ]
-                },
-                {
-                    "cityname": "Blumenau",
-                    "zipcodes": [
-                        "89000-000",
-                        "89010-000",
-                        "89020-000",
-                        "89030-000",
-                        "89040-000"
-                    ],
-                    "areacodes": [
-                        "047"
-                    ]
-                }
-            ],
-            "name": "Santa Catarina"
-        },
-        "Sergipe": {
-            "capital": "Aracaju",
-            "cities": [
-                {
-                    "cityname": "Aracaju",
-                    "zipcodes": [
-                        "49000-000",
-                        "49010-000",
-                        "49020-000",
-                        "49030-000",
-                        "49040-000"
-                    ],
-                    "areacodes": [
-                        "079"
-                    ]
-                },
-                {
-                    "cityname": "Lagarto",
-                    "zipcodes": [
-                        "49500-000",
-                        "49510-000",
-                        "49520-000",
-                        "49530-000",
-                        "49540-000"
-                    ],
-                    "areacodes": [
-                        "079"
-                    ]
-                },
-                {
-                    "cityname": "Itabaiana",
-                    "zipcodes": [
-                        "49500-000",
-                        "49510-000",
-                        "49520-000",
-                        "49530-000",
-                        "49540-000"
-                    ],
-                    "areacodes": [
-                        "079"
-                    ]
-                },
-                {
-                    "cityname": "Estância",
-                    "zipcodes": [
-                        "49200-000",
-                        "49210-000",
-                        "49220-000",
-                        "49230-000",
-                        "49240-000"
-                    ],
-                    "areacodes": [
-                        "079"
-                    ]
-                },
-                {
-                    "cityname": "Nossa Senhora do Socorro",
-                    "zipcodes": [
-                        "49100-000",
-                        "49110-000",
-                        "49120-000",
-                        "49130-000",
-                        "49140-000"
-                    ],
-                    "areacodes": [
-                        "079"
-                    ]
-                },
-                {
-                    "cityname": "São Cristóvão",
-                    "zipcodes": [
-                        "49150-000",
-                        "49160-000",
-                        "49170-000",
-                        "49180-000",
-                        "49190-000"
-                    ],
-                    "areacodes": [
-                        "079"
-                    ]
-                },
-                {
-                    "cityname": "Simão Dias",
-                    "zipcodes": [
-                        "49250-000",
-                        "49251-000",
-                        "49252-000",
-                        "49253-000",
-                        "49254-000"
-                    ],
-                    "areacodes": [
-                        "079"
-                    ]
-                },
-                {
-                    "cityname": "Barra dos Coqueiros",
-                    "zipcodes": [
-                        "49160-000",
-                        "49161-000",
-                        "49162-000",
-                        "49163-000",
-                        "49164-000"
-                    ],
-                    "areacodes": [
-                        "079"
-                    ]
-                },
-                {
-                    "cityname": "Indiaroba",
-                    "zipcodes": [
-                        "49190-000",
-                        "49191-000",
-                        "49192-000",
-                        "49193-000",
-                        "49194-000"
-                    ],
-                    "areacodes": [
-                        "079"
-                    ]
-                },
-                {
-                    "cityname": "Aracaju",
-                    "zipcodes": [
-                        "49000-000",
-                        "49010-000",
-                        "49020-000",
-                        "49030-000",
-                        "49040-000"
-                    ],
-                    "areacodes": [
-                        "079"
-                    ]
-                }
-            ],
-            "name": "Sergipe"
-        },
-        "Tocantins": {
-            "capital": "Palmas",
-            "cities": [
-                {
-                    "cityname": "Palmas",
-                    "zipcodes": [
-                        "77000-000",
-                        "77010-000",
-                        "77020-000",
-                        "77030-000",
-                        "77040-000"
-                    ],
-                    "areacodes": [
-                        "063"
-                    ]
-                },
-                {
-                    "cityname": "Araguaína",
-                    "zipcodes": [
-                        "77800-000",
-                        "77810-000",
-                        "77820-000",
-                        "77830-000",
-                        "77840-000"
-                    ],
-                    "areacodes": [
-                        "063"
-                    ]
-                },
-                {
-                    "cityname": "Gurupi",
-                    "zipcodes": [
-                        "77400-000",
-                        "77410-000",
-                        "77420-000",
-                        "77430-000",
-                        "77440-000"
-                    ],
-                    "areacodes": [
-                        "063"
-                    ]
-                },
-                {
-                    "cityname": "Porto Nacional",
-                    "zipcodes": [
-                        "77500-000",
-                        "77510-000",
-                        "77520-000",
-                        "77530-000",
-                        "77540-000"
-                    ],
-                    "areacodes": [
-                        "063"
-                    ]
-                },
-                {
-                    "cityname": "Paraíso do Tocantins",
-                    "zipcodes": [
-                        "77600-000",
-                        "77610-000",
-                        "77620-000",
-                        "77630-000",
-                        "77640-000"
-                    ],
-                    "areacodes": [
-                        "063"
-                    ]
-                },
-                {
-                    "cityname": "Miracema do Tocantins",
-                    "zipcodes": [
-                        "77650-000",
-                        "77651-000",
-                        "77652-000",
-                        "77653-000",
-                        "77654-000"
-                    ],
-                    "areacodes": [
-                        "063"
-                    ]
-                },
-                {
-                    "cityname": "Tocantinópolis",
-                    "zipcodes": [
-                        "77860-000",
-                        "77861-000",
-                        "77862-000",
-                        "77863-000",
-                        "77864-000"
-                    ],
-                    "areacodes": [
-                        "063"
-                    ]
-                },
-                {
-                    "cityname": "Colinas do Tocantins",
-                    "zipcodes": [
-                        "77700-000",
-                        "77710-000",
-                        "77720-000",
-                        "77730-000",
-                        "77740-000"
-                    ],
-                    "areacodes": [
-                        "063"
-                    ]
-                },
-                {
-                    "cityname": "Palmeirante",
-                    "zipcodes": [
-                        "77550-000",
-                        "77551-000",
-                        "77552-000",
-                        "77553-000",
-                        "77554-000"
-                    ],
-                    "areacodes": [
-                        "063"
-                    ]
-                },
-                {
-                    "cityname": "Axixá do Tocantins",
-                    "zipcodes": [
-                        "77900-000",
-                        "77901-000",
-                        "77902-000",
-                        "77903-000",
-                        "77904-000"
-                    ],
-                    "areacodes": [
-                        "063"
-                    ]
-                }
-            ],
-            "name": "Tocantins"
-        },
-        "Amapá": {
-            "capital": "Macapá",
-            "cities": [
-                {
-                    "cityname": "Macapá",
-                    "zipcodes": [
-                        "68900-000",
-                        "68910-000",
-                        "68920-000",
-                        "68930-000",
-                        "68940-000"
-                    ],
-                    "areacodes": [
-                        "096"
-                    ]
-                },
-                {
-                    "cityname": "Santana",
-                    "zipcodes": [
-                        "68925-000",
-                        "68926-000",
-                        "68927-000",
-                        "68928-000",
-                        "68929-000"
-                    ],
-                    "areacodes": [
-                        "096"
-                    ]
-                },
-                {
-                    "cityname": "Laranjal do Jari",
-                    "zipcodes": [
-                        "68980-000",
-                        "68981-000",
-                        "68982-000",
-                        "68983-000",
-                        "68984-000"
-                    ],
-                    "areacodes": [
-                        "096"
-                    ]
-                },
-                {
-                    "cityname": "Porto Grande",
-                    "zipcodes": [
-                        "68940-000",
-                        "68941-000",
-                        "68942-000",
-                        "68943-000",
-                        "68944-000"
-                    ],
-                    "areacodes": [
-                        "096"
-                    ]
-                },
-                {
-                    "cityname": "Mazagão",
-                    "zipcodes": [
-                        "68950-000",
-                        "68951-000",
-                        "68952-000",
-                        "68953-000",
-                        "68954-000"
-                    ],
-                    "areacodes": [
-                        "096"
-                    ]
-                },
-                {
-                    "cityname": "Oiapoque",
-                    "zipcodes": [
-                        "68970-000",
-                        "68971-000",
-                        "68972-000",
-                        "68973-000",
-                        "68974-000"
-                    ],
-                    "areacodes": [
-                        "096"
-                    ]
-                },
-                {
-                    "cityname": "Calçoene",
-                    "zipcodes": [
-                        "68985-000",
-                        "68986-000",
-                        "68987-000",
-                        "68988-000",
-                        "68989-000"
-                    ],
-                    "areacodes": [
-                        "096"
-                    ]
-                },
-                {
-                    "cityname": "Tartarugalzinho",
-                    "zipcodes": [
-                        "68990-000",
-                        "68991-000",
-                        "68992-000",
-                        "68993-000",
-                        "68994-000"
-                    ],
-                    "areacodes": [
-                        "096"
-                    ]
-                },
-                {
-                    "cityname": "Cutias",
-                    "zipcodes": [
-                        "68975-000",
-                        "68976-000",
-                        "68977-000",
-                        "68978-000",
-                        "68979-000"
-                    ],
-                    "areacodes": [
-                        "096"
-                    ]
-                },
-                {
-                    "cityname": "Ferreira Gomes",
-                    "zipcodes": [
-                        "68960-000",
-                        "68961-000",
-                        "68962-000",
-                        "68963-000",
-                        "68964-000"
-                    ],
-                    "areacodes": [
-                        "096"
-                    ]
-                }
-            ],
-            "name": "Amapá"
-        },
-        "São Paulo": {
-            "capital": "São Paulo",
-            "cities": [
-                {
-                    "cityname": "São Paulo",
-                    "zipcodes": [
-                        "01000-000",
-                        "01010-000",
-                        "01020-000",
-                        "01030-000",
-                        "01040-000"
-                    ],
-                    "areacodes": [
-                        "011"
-                    ]
-                },
-                {
-                    "cityname": "Campinas",
-                    "zipcodes": [
-                        "13000-000",
-                        "13010-000",
-                        "13020-000",
-                        "13030-000",
-                        "13040-000"
-                    ],
-                    "areacodes": [
-                        "019"
-                    ]
-                },
-                {
-                    "cityname": "Guarulhos",
-                    "zipcodes": [
-                        "07000-000",
-                        "07010-000",
-                        "07020-000",
-                        "07030-000",
-                        "07040-000"
-                    ],
-                    "areacodes": [
-                        "011"
-                    ]
-                },
-                {
-                    "cityname": "Santos",
-                    "zipcodes": [
-                        "11000-000",
-                        "11010-000",
-                        "11020-000",
-                        "11030-000",
-                        "11040-000"
-                    ],
-                    "areacodes": [
-                        "013"
-                    ]
-                },
-                {
-                    "cityname": "São Bernardo do Campo",
-                    "zipcodes": [
-                        "09600-000",
-                        "09610-000",
-                        "09620-000",
-                        "09630-000",
-                        "09640-000"
-                    ],
-                    "areacodes": [
-                        "011"
-                    ]
-                },
-                {
-                    "cityname": "Ribeirão Preto",
-                    "zipcodes": [
-                        "14000-000",
-                        "14010-000",
-                        "14020-000",
-                        "14030-000",
-                        "14040-000"
-                    ],
-                    "areacodes": [
-                        "016"
-                    ]
-                },
-                {
-                    "cityname": "Sorocaba",
-                    "zipcodes": [
-                        "18000-000",
-                        "18010-000",
-                        "18020-000",
-                        "18030-000",
-                        "18040-000"
-                    ],
-                    "areacodes": [
-                        "015"
-                    ]
-                },
-                {
-                    "cityname": "Osasco",
-                    "zipcodes": [
-                        "06000-000",
-                        "06010-000",
-                        "06020-000",
-                        "06030-000",
-                        "06040-000"
-                    ],
-                    "areacodes": [
-                        "011"
-                    ]
-                },
-                {
-                    "cityname": "São José dos Campos",
-                    "zipcodes": [
-                        "12200-000",
-                        "12210-000",
-                        "12220-000",
-                        "12230-000",
-                        "12240-000"
-                    ],
-                    "areacodes": [
-                        "012"
-                    ]
-                },
-                {
-                    "cityname": "Bauru",
-                    "zipcodes": [
-                        "17000-000",
-                        "17010-000",
-                        "17020-000",
-                        "17030-000",
-                        "17040-000"
-                    ],
-                    "areacodes": [
-                        "014"
-                    ]
-                }
-            ],
-            "name": "São Paulo"
-        }
-    },
-    "citycontainers": [
-        "states"
+  "countrycode": "+55",
+  "phoneformat": "(A) XXXXX-XXXX",
+  "country": "Brazil",
+  "neighborhoods": {
+    "corporate": [
+      "Paulista Avenue",
+      "Faria Lima",
+      "Jardins",
+      "Itaim Bibi",
+      "Vila Olímpia",
+      "Barra Funda",
+      "Centro Empresarial São Paulo",
+      "Berrini",
+      "Avenida Rio Branco",
+      "Zona Norte Industrial District",
+      "São Bernardo do Campo Industrial District",
+      "Campinas Tech Park",
+      "Vila Progredior",
+      "São Caetano do Sul Business Park",
+      "Cidade Jardim",
+      "Vila Mariana",
+      "Chácara Santo Antônio",
+      "Pinheiros Business Area",
+      "Zona Oeste Business Hub",
+      "Tatuapé",
+      "Brooklin Paulista",
+      "Moema",
+      "Aeroporto Internacional de São Paulo",
+      "Vila Mascote",
+      "Barra da Tijuca",
+      "Distrito Industrial de Campinas",
+      "Belo Horizonte Business Center",
+      "Porto Alegre Corporate Park",
+      "Campinas Industrial Zone",
+      "São Paulo North Zone",
+      "Salvador Economic District",
+      "Santos Business District",
+      "Distrito Industrial de Guarulhos",
+      "São José dos Campos Business District",
+      "Florianópolis Commercial Center",
+      "Curitiba Industrial Zone",
+      "Brasília Administrative Area",
+      "Zona Leste",
+      "Lajeado Industrial Zone",
+      "Belo Horizonte Tech Hub",
+      "João Pessoa Business Area",
+      "Recife Corporate Complex",
+      "Vitória Business Center",
+      "Porto Alegre Tech Park",
+      "Maceió Business District",
+      "São Luís Corporate District",
+      "Avenida do Estado"
     ],
-    "firstnames": [
-  "Miguel", "Arthur", "Davi", "Lucas", "Pedro", "Gabriel", "Bernardo", "Matheus", "Rafael", "Guilherme",
-  "Lucas", "Felipe", "Enzo", "Vitor", "Samuel", "Marcos", "João", "Henrique", "Thiago", "Carlos",
-  "Igor", "Eduardo", "Júlio", "Daniel", "Leandro", "Antonio", "David", "Ricardo", "Augusto", "José",
-  "Vinícius", "Sergio", "Fabio", "Diego", "Bruno", "Luan", "Rodrigo", "Caio", "Thiago", "Fábio",
-  "Larissa", "Gabriela"
-],
-"lastnames": [
-  "Silva", "Santos", "Oliveira", "Souza", "Costa", "Pereira", "Rodrigues", "Almeida", "Lima", "Gomes",
-  "Martins", "Carvalho", "Ribeiro", "Moura", "Nascimento", "Fernandes", "Araujo", "Barbosa", "Maciel", "Dias",
-  "Moreira", "Teixeira", "Ferreira", "Nascimento", "Machado", "Campos", "Vieira", "Pinto", "Ramos", "Costa",
-  "Vieira", "Andrade", "Cavalcante", "Martins", "Campos", "Macedo", "Cunha", "Farias", "Pacheco", "César",
-  "Lima"
-]
-
+    "industrial": [
+      "Cubatão Industrial Zone",
+      "Ponta Grossa Industrial Complex",
+      "Jundiaí Industrial District",
+      "Vila Progredior Industrial Area",
+      "São Bernardo Industrial Hub",
+      "Guarulhos Industrial Zone",
+      "São José dos Campos Industrial District",
+      "Santos Industrial Area",
+      "Itu Industrial Park",
+      "Mogi das Cruzes Industrial Zone",
+      "Curitiba Industrial Park",
+      "Distrito Industrial de Campinas",
+      "Joinville Industrial Complex",
+      "Recife Industrial Hub",
+      "Belo Horizonte Industrial Zone",
+      "Porto Alegre Industrial District",
+      "Anápolis Industrial Park",
+      "Fortaleza Industrial Area",
+      "Manaus Industrial Hub",
+      "Vitória Industrial Complex",
+      "Londrina Industrial Zone",
+      "São José Industrial Park",
+      "Distrito Industrial de Rio Claro",
+      "São Paulo Industrial District",
+      "Araucária Industrial Hub",
+      "Montes Claros Industrial Area",
+      "Caxias do Sul Industrial District",
+      "Bauru Industrial Park",
+      "Canoas Industrial Complex",
+      "Belo Horizonte Heavy Industry Zone",
+      "Maceió Industrial District",
+      "Recife Industrial Zone",
+      "Rio de Janeiro Industrial Hub",
+      "Macapá Industrial Park",
+      "Aracaju Industrial Area",
+      "Caruaru Industrial District",
+      "São Luís Industrial Park",
+      "Teresina Industrial Zone",
+      "Campo Grande Industrial Park",
+      "Uberlândia Industrial District",
+      "Vitória da Conquista Industrial Hub",
+      "Ribeirão Preto Industrial Zone",
+      "Belém Industrial Park",
+      "Vitoria Industrial Area",
+      "Araxá Industrial Complex",
+      "São Gonçalo Industrial Park",
+      "Diadema Industrial District",
+      "Petrolina Industrial Zone"
+    ],
+    "residential": [
+      "Itaim Bibi",
+      "Jardins",
+      "Pinheiros",
+      "Vila Progredior",
+      "Vila Madalena",
+      "Vila Olimpia",
+      "Liberdade",
+      "Vila Mariana",
+      "Morumbi",
+      "Bela Vista",
+      "Alto da Lapa",
+      "Campo Belo",
+      "Bairro do Limão",
+      "Vila Nova Conceição",
+      "Vila Sônia",
+      "Vila Alpina",
+      "Vila Andrade",
+      "Vila Clementino",
+      "Vila Azevedo",
+      "Moema",
+      "Tatuapé",
+      "Vila Osasco",
+      "Brooklin Paulista",
+      "Jabaquara",
+      "Zona Oeste",
+      "Vila Progresso",
+      "Vila Guarani",
+      "Vila Prudente",
+      "Perdizes",
+      "Avenida Paulista",
+      "Vila Buarque",
+      "Santa Cecília",
+      "Cidade Jardim",
+      "Chácara Santo Antônio",
+      "Vila das Belezas",
+      "Pinheiros District",
+      "Bela Vista District",
+      "Jardim América",
+      "Vila Suzana",
+      "Vila Esperança",
+      "Vila Luciana",
+      "Vila Dom Pedro",
+      "Vila São Francisco",
+      "Vila Estrela",
+      "Vila Real",
+      "Vila Progresso",
+      "Ibirapuera",
+      "Alto da Boa Vista",
+      "Tatuapé",
+      "Jardim Paulista",
+      "Itaim Paulista",
+      "Jardim da Saúde",
+      "Vila Irmãos",
+      "Vila Nova Paulista"
+    ]
+  },
+  "streetnames": {
+    "corporate": [
+      "Avenida Paulista",
+      "Avenida Rio Branco",
+      "Rua Faria Lima",
+      "Rua das Figueiras",
+      "Rua dos Três Irmãos",
+      "Rua José Bonifácio",
+      "Rua dos Três Irmãos",
+      "Rua Berrini",
+      "Avenida Brigadeiro Faria Lima",
+      "Rua Cardoso Pimentel",
+      "Avenida Rio Branco",
+      "Rua Joaquim Floriano",
+      "Rua dos Três Irmãos",
+      "Rua Campos Salles",
+      "Avenida Henrique Schaumann",
+      "Rua dos Três Irmãos",
+      "Rua dos Três Irmãos",
+      "Avenida Ministro Nelson Hungria",
+      "Avenida Nações Unidas",
+      "Rua Paulista",
+      "Rua Amazonas",
+      "Rua Alto da Boa Vista",
+      "Avenida Lins de Vasconcelos",
+      "Rua Mário de Andrade",
+      "Rua São Paulo",
+      "Rua Mourato Coelho",
+      "Rua dos Três Irmãos",
+      "Avenida Brasil",
+      "Rua dos Três Irmãos",
+      "Rua Antônio de Carvalho",
+      "Rua dos Três Irmãos",
+      "Rua Francisco José de Lima",
+      "Rua Av. dos Bandeirantes",
+      "Rua dos Três Irmãos",
+      "Rua José Lins do Rego",
+      "Avenida Nove de Julho",
+      "Avenida Engenheiro Luís Carlos Berrini",
+      "Rua XV de Novembro",
+      "Rua dos Três Irmãos",
+      "Rua Antônio de Carvalho",
+      "Rua do Riacho",
+      "Rua dos Três Irmãos",
+      "Rua Doutor Heitor de Almeida"
+    ],
+    "industrial": [
+      "Rua dos Três Irmãos",
+      "Avenida Rio Claro",
+      "Avenida das Indústrias",
+      "Rua Geraldo Barreto",
+      "Rua Armação",
+      "Rua dos Três Irmãos",
+      "Avenida Raposo Tavares",
+      "Avenida das Indústrias",
+      "Rua Euzébio Lima",
+      "Rua Dona Tomásia",
+      "Rua dos Três Irmãos",
+      "Rua Ayrton Senna",
+      "Avenida São João",
+      "Avenida Nações Unidas",
+      "Avenida Benjamin Constant",
+      "Avenida da Industria",
+      "Rua Prof. Vila Real",
+      "Rua São Gabriel",
+      "Avenida do Estado",
+      "Rua do Comercio",
+      "Rua José Francisco",
+      "Rua Cristóvão Colombo",
+      "Rua Atílio Luz",
+      "Avenida Velha",
+      "Rua das Industrias",
+      "Rua Carlos Câmara",
+      "Rua dos Três Irmãos",
+      "Rua Humberto de Campos",
+      "Avenida Professor Doutor Vicente",
+      "Rua Alfredo Santana",
+      "Rua Abílio Soares",
+      "Rua João Bianchi",
+      "Rua Três Irmãos",
+      "Rua José Clemente",
+      "Avenida dos Trabalhadores",
+      "Rua da Indústria",
+      "Rua General Carneiro",
+      "Rua do Trabalhador",
+      "Rua Rodrigo Tavares",
+      "Rua de Indústria",
+      "Rua Benedito Góis",
+      "Rua Carlos Barreto",
+      "Rua do Cometa"
+    ],
+    "residential": [
+      "Rua Pindorama",
+      "Rua Anchieta",
+      "Rua das Palmeiras",
+      "Avenida Parque dos Príncipes",
+      "Rua Cid Leme",
+      "Rua Tiradentes",
+      "Rua Maria de Lourdes",
+      "Rua Carlos Drummond de Andrade",
+      "Rua Cipriano Lima",
+      "Rua Emaús",
+      "Rua Três Irmãos",
+      "Rua João Bertioga",
+      "Rua Amaral Gurgel",
+      "Rua de São Paulo",
+      "Rua das Laranjeiras",
+      "Rua Santa Rita",
+      "Rua da Paz",
+      "Rua das Flores",
+      "Rua Faria Lima",
+      "Rua Castelo Branco",
+      "Rua Cristóvão de Almeida",
+      "Rua dos Três Irmãos",
+      "Rua Leopoldo Pereira",
+      "Rua Engenheiro Roberto Simonsen",
+      "Rua São Carlos",
+      "Rua dos Ingleses",
+      "Rua Pontal",
+      "Rua Boa Vista",
+      "Rua José Costa",
+      "Rua dos Três Irmãos",
+      "Rua Ana Maria",
+      "Rua Antônio da Costa",
+      "Rua Júlio Barbosa",
+      "Rua das Palmeiras",
+      "Rua de Castelar",
+      "Rua da Ladeira",
+      "Rua João de Mello",
+      "Rua dos Três Irmãos",
+      "Rua Alfredo de Castilho",
+      "Rua das Almas",
+      "Rua do Silvério",
+      "Rua Maracás",
+      "Rua Santa Catarina"
+    ]
+  },
+  "states": {
+    "Acre": {
+      "capital": "Rio Branco",
+      "cities": {
+        "Rio Branco": {
+          "zipcodes": [
+            "69900-000",
+            "69901-000",
+            "69902-000",
+            "69903-000",
+            "69904-000"
+          ],
+          "areacodes": [
+            "068"
+          ]
+        },
+        "Cruzeiro do Sul": {
+          "zipcodes": [
+            "69980-000",
+            "69981-000",
+            "69982-000",
+            "69983-000",
+            "69984-000"
+          ],
+          "areacodes": [
+            "068"
+          ]
+        },
+        "Sena Madureira": {
+          "zipcodes": [
+            "69920-000",
+            "69921-000",
+            "69922-000",
+            "69923-000",
+            "69924-000"
+          ],
+          "areacodes": [
+            "068"
+          ]
+        },
+        "Tarauacá": {
+          "zipcodes": [
+            "69925-000",
+            "69926-000",
+            "69927-000",
+            "69928-000",
+            "69929-000"
+          ],
+          "areacodes": [
+            "068"
+          ]
+        },
+        "Feijó": {
+          "zipcodes": [
+            "69930-000",
+            "69931-000",
+            "69932-000",
+            "69933-000",
+            "69934-000"
+          ],
+          "areacodes": [
+            "068"
+          ]
+        },
+        "Xapuri": {
+          "zipcodes": [
+            "69935-000",
+            "69936-000",
+            "69937-000",
+            "69938-000",
+            "69939-000"
+          ],
+          "areacodes": [
+            "068"
+          ]
+        },
+        "Brasileia": {
+          "zipcodes": [
+            "69940-000",
+            "69941-000",
+            "69942-000",
+            "69943-000",
+            "69944-000"
+          ],
+          "areacodes": [
+            "068"
+          ]
+        },
+        "Assis Brasil": {
+          "zipcodes": [
+            "69950-000",
+            "69951-000",
+            "69952-000",
+            "69953-000",
+            "69954-000"
+          ],
+          "areacodes": [
+            "068"
+          ]
+        },
+        "Bujari": {
+          "zipcodes": [
+            "69960-000",
+            "69961-000",
+            "69962-000",
+            "69963-000",
+            "69964-000"
+          ],
+          "areacodes": [
+            "068"
+          ]
+        }
+      },
+      "name": "Acre"
+    },
+    "Alagoas": {
+      "capital": "Maceió",
+      "cities": {
+        "Maceió": {
+          "zipcodes": [
+            "57000-000",
+            "57001-000",
+            "57002-000",
+            "57003-000",
+            "57004-000"
+          ],
+          "areacodes": [
+            "082"
+          ]
+        },
+        "Arapiraca": {
+          "zipcodes": [
+            "57300-000",
+            "57301-000",
+            "57302-000",
+            "57303-000",
+            "57304-000"
+          ],
+          "areacodes": [
+            "082"
+          ]
+        },
+        "Palmeira dos Índios": {
+          "zipcodes": [
+            "57600-000",
+            "57601-000",
+            "57602-000",
+            "57603-000",
+            "57604-000"
+          ],
+          "areacodes": [
+            "082"
+          ]
+        },
+        "Rio Largo": {
+          "zipcodes": [
+            "57100-000",
+            "57101-000",
+            "57102-000",
+            "57103-000",
+            "57104-000"
+          ],
+          "areacodes": [
+            "082"
+          ]
+        },
+        "Delmiro Gouveia": {
+          "zipcodes": [
+            "57650-000",
+            "57651-000",
+            "57652-000",
+            "57653-000",
+            "57654-000"
+          ],
+          "areacodes": [
+            "082"
+          ]
+        },
+        "Penedo": {
+          "zipcodes": [
+            "57200-000",
+            "57201-000",
+            "57202-000",
+            "57203-000",
+            "57204-000"
+          ],
+          "areacodes": [
+            "082"
+          ]
+        },
+        "Santa Luzia do Norte": {
+          "zipcodes": [
+            "57130-000",
+            "57131-000",
+            "57132-000",
+            "57133-000",
+            "57134-000"
+          ],
+          "areacodes": [
+            "082"
+          ]
+        },
+        "União dos Palmares": {
+          "zipcodes": [
+            "57800-000",
+            "57801-000",
+            "57802-000",
+            "57803-000",
+            "57804-000"
+          ],
+          "areacodes": [
+            "082"
+          ]
+        },
+        "Marechal Deodoro": {
+          "zipcodes": [
+            "57105-000",
+            "57106-000",
+            "57107-000",
+            "57108-000",
+            "57109-000"
+          ],
+          "areacodes": [
+            "082"
+          ]
+        },
+        "São Miguel dos Campos": {
+          "zipcodes": [
+            "57250-000",
+            "57251-000",
+            "57252-000",
+            "57253-000",
+            "57254-000"
+          ],
+          "areacodes": [
+            "082"
+          ]
+        }
+      },
+      "name": "Alagoas"
+    },
+    "Amazonas": {
+      "capital": "Manaus",
+      "cities": {
+        "Manaus": {
+          "zipcodes": [
+            "69000-000",
+            "69001-000",
+            "69002-000",
+            "69003-000",
+            "69004-000"
+          ],
+          "areacodes": [
+            "092"
+          ]
+        },
+        "Parintins": {
+          "zipcodes": [
+            "69150-000",
+            "69151-000",
+            "69152-000",
+            "69153-000",
+            "69154-000"
+          ],
+          "areacodes": [
+            "097"
+          ]
+        },
+        "Itacoatiara": {
+          "zipcodes": [
+            "69100-000",
+            "69101-000",
+            "69102-000",
+            "69103-000",
+            "69104-000"
+          ],
+          "areacodes": [
+            "097"
+          ]
+        },
+        "Manacapuru": {
+          "zipcodes": [
+            "69400-000",
+            "69401-000",
+            "69402-000",
+            "69403-000",
+            "69404-000"
+          ],
+          "areacodes": [
+            "097"
+          ]
+        },
+        "Tabatinga": {
+          "zipcodes": [
+            "69640-000",
+            "69641-000",
+            "69642-000",
+            "69643-000",
+            "69644-000"
+          ],
+          "areacodes": [
+            "097"
+          ]
+        },
+        "Coari": {
+          "zipcodes": [
+            "69460-000",
+            "69461-000",
+            "69462-000",
+            "69463-000",
+            "69464-000"
+          ],
+          "areacodes": [
+            "097"
+          ]
+        },
+        "Tefé": {
+          "zipcodes": [
+            "69470-000",
+            "69471-000",
+            "69472-000",
+            "69473-000",
+            "69474-000"
+          ],
+          "areacodes": [
+            "097"
+          ]
+        },
+        "Boca do Acre": {
+          "zipcodes": [
+            "69870-000",
+            "69871-000",
+            "69872-000",
+            "69873-000",
+            "69874-000"
+          ],
+          "areacodes": [
+            "097"
+          ]
+        },
+        "Beruri": {
+          "zipcodes": [
+            "69480-000",
+            "69481-000",
+            "69482-000",
+            "69483-000",
+            "69484-000"
+          ],
+          "areacodes": [
+            "097"
+          ]
+        },
+        "Lábrea": {
+          "zipcodes": [
+            "69880-000",
+            "69881-000",
+            "69882-000",
+            "69883-000",
+            "69884-000"
+          ],
+          "areacodes": [
+            "097"
+          ]
+        }
+      },
+      "name": "Amazonas"
+    },
+    "Bahia": {
+      "capital": "Salvador",
+      "cities": {
+        "Salvador": {
+          "zipcodes": [
+            "40000-000",
+            "40001-000",
+            "40002-000",
+            "40003-000",
+            "40004-000"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        },
+        "Feira de Santana": {
+          "zipcodes": [
+            "44000-000",
+            "44001-000",
+            "44002-000",
+            "44003-000",
+            "44004-000"
+          ],
+          "areacodes": [
+            "075"
+          ]
+        },
+        "Vitória da Conquista": {
+          "zipcodes": [
+            "45000-000",
+            "45001-000",
+            "45002-000",
+            "45003-000",
+            "45004-000"
+          ],
+          "areacodes": [
+            "077"
+          ]
+        },
+        "Camaçari": {
+          "zipcodes": [
+            "42800-000",
+            "42801-000",
+            "42802-000",
+            "42803-000",
+            "42804-000"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        },
+        "Itabuna": {
+          "zipcodes": [
+            "45600-000",
+            "45601-000",
+            "45602-000",
+            "45603-000",
+            "45604-000"
+          ],
+          "areacodes": [
+            "073"
+          ]
+        },
+        "Ilhéus": {
+          "zipcodes": [
+            "45650-000",
+            "45651-000",
+            "45652-000",
+            "45653-000",
+            "45654-000"
+          ],
+          "areacodes": [
+            "073"
+          ]
+        },
+        "Juazeiro": {
+          "zipcodes": [
+            "48900-000",
+            "48901-000",
+            "48902-000",
+            "48903-000",
+            "48904-000"
+          ],
+          "areacodes": [
+            "074"
+          ]
+        },
+        "Lauro de Freitas": {
+          "zipcodes": [
+            "42700-000",
+            "42701-000",
+            "42702-000",
+            "42703-000",
+            "42704-000"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        },
+        "Barreiras": {
+          "zipcodes": [
+            "47800-000",
+            "47801-000",
+            "47802-000",
+            "47803-000",
+            "47804-000"
+          ],
+          "areacodes": [
+            "077"
+          ]
+        },
+        "Alagoinhas": {
+          "zipcodes": [
+            "48100-000",
+            "48101-000",
+            "48102-000",
+            "48103-000",
+            "48104-000"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        }
+      },
+      "name": "Bahia"
+    },
+    "Ceará": {
+      "capital": "Fortaleza",
+      "cities": {
+        "Fortaleza": {
+          "zipcodes": [
+            "60000-000",
+            "60001-000",
+            "60002-000",
+            "60003-000",
+            "60004-000"
+          ],
+          "areacodes": [
+            "085"
+          ]
+        },
+        "Caucaia": {
+          "zipcodes": [
+            "61600-000",
+            "61601-000",
+            "61602-000",
+            "61603-000",
+            "61604-000"
+          ],
+          "areacodes": [
+            "085"
+          ]
+        },
+        "Sobral": {
+          "zipcodes": [
+            "62000-000",
+            "62001-000",
+            "62002-000",
+            "62003-000",
+            "62004-000"
+          ],
+          "areacodes": [
+            "088"
+          ]
+        },
+        "Juazeiro do Norte": {
+          "zipcodes": [
+            "63000-000",
+            "63001-000",
+            "63002-000",
+            "63003-000",
+            "63004-000"
+          ],
+          "areacodes": [
+            "088"
+          ]
+        },
+        "Maracanaú": {
+          "zipcodes": [
+            "61900-000",
+            "61901-000",
+            "61902-000",
+            "61903-000",
+            "61904-000"
+          ],
+          "areacodes": [
+            "085"
+          ]
+        },
+        "Crato": {
+          "zipcodes": [
+            "63100-000",
+            "63101-000",
+            "63102-000",
+            "63103-000",
+            "63104-000"
+          ],
+          "areacodes": [
+            "088"
+          ]
+        },
+        "Iguatu": {
+          "zipcodes": [
+            "63500-000",
+            "63501-000",
+            "63502-000",
+            "63503-000",
+            "63504-000"
+          ],
+          "areacodes": [
+            "088"
+          ]
+        },
+        "Limoeiro do Norte": {
+          "zipcodes": [
+            "62900-000",
+            "62901-000",
+            "62902-000",
+            "62903-000",
+            "62904-000"
+          ],
+          "areacodes": [
+            "088"
+          ]
+        },
+        "Quixadá": {
+          "zipcodes": [
+            "63900-000",
+            "63901-000",
+            "63902-000",
+            "63903-000",
+            "63904-000"
+          ],
+          "areacodes": [
+            "088"
+          ]
+        },
+        "Russas": {
+          "zipcodes": [
+            "62800-000",
+            "62801-000",
+            "62802-000",
+            "62803-000",
+            "62804-000"
+          ],
+          "areacodes": [
+            "088"
+          ]
+        }
+      },
+      "name": "Ceará"
+    },
+    "Espírito Santo": {
+      "capital": "Vitória",
+      "cities": {
+        "Vitória": {
+          "zipcodes": [
+            "29000-000",
+            "29001-000",
+            "29002-000",
+            "29003-000",
+            "29004-000"
+          ],
+          "areacodes": [
+            "027"
+          ]
+        },
+        "Vila Velha": {
+          "zipcodes": [
+            "29100-000",
+            "29101-000",
+            "29102-000",
+            "29103-000",
+            "29104-000"
+          ],
+          "areacodes": [
+            "027"
+          ]
+        },
+        "Serra": {
+          "zipcodes": [
+            "29160-000",
+            "29161-000",
+            "29162-000",
+            "29163-000",
+            "29164-000"
+          ],
+          "areacodes": [
+            "027"
+          ]
+        },
+        "Cariacica": {
+          "zipcodes": [
+            "29150-000",
+            "29151-000",
+            "29152-000",
+            "29153-000",
+            "29154-000"
+          ],
+          "areacodes": [
+            "027"
+          ]
+        },
+        "Linhares": {
+          "zipcodes": [
+            "29900-000",
+            "29901-000",
+            "29902-000",
+            "29903-000",
+            "29904-000"
+          ],
+          "areacodes": [
+            "027"
+          ]
+        },
+        "Cachoeiro de Itapemirim": {
+          "zipcodes": [
+            "29300-000",
+            "29301-000",
+            "29302-000",
+            "29303-000",
+            "29304-000"
+          ],
+          "areacodes": [
+            "028"
+          ]
+        },
+        "Colatina": {
+          "zipcodes": [
+            "29700-000",
+            "29701-000",
+            "29702-000",
+            "29703-000",
+            "29704-000"
+          ],
+          "areacodes": [
+            "027"
+          ]
+        },
+        "Guarapari": {
+          "zipcodes": [
+            "29200-000",
+            "29201-000",
+            "29202-000",
+            "29203-000",
+            "29204-000"
+          ],
+          "areacodes": [
+            "027"
+          ]
+        },
+        "São Mateus": {
+          "zipcodes": [
+            "29930-000",
+            "29931-000",
+            "29932-000",
+            "29933-000",
+            "29934-000"
+          ],
+          "areacodes": [
+            "027"
+          ]
+        },
+        "Alegre": {
+          "zipcodes": [
+            "29350-000",
+            "29351-000",
+            "29352-000",
+            "29353-000",
+            "29354-000"
+          ],
+          "areacodes": [
+            "028"
+          ]
+        }
+      },
+      "name": "Espírito Santo"
+    },
+    "Maranhão": {
+      "capital": "São Luís",
+      "cities": {
+        "São Luís": {
+          "zipcodes": [
+            "65000-000",
+            "65001-000",
+            "65002-000",
+            "65003-000",
+            "65004-000"
+          ],
+          "areacodes": [
+            "098"
+          ]
+        },
+        "Imperatriz": {
+          "zipcodes": [
+            "65900-000",
+            "65901-000",
+            "65902-000",
+            "65903-000",
+            "65904-000"
+          ],
+          "areacodes": [
+            "099"
+          ]
+        },
+        "Caxias": {
+          "zipcodes": [
+            "65600-000",
+            "65601-000",
+            "65602-000",
+            "65603-000",
+            "65604-000"
+          ],
+          "areacodes": [
+            "099"
+          ]
+        },
+        "São José de Ribamar": {
+          "zipcodes": [
+            "65030-000",
+            "65031-000",
+            "65032-000",
+            "65033-000",
+            "65034-000"
+          ],
+          "areacodes": [
+            "098"
+          ]
+        },
+        "Timon": {
+          "zipcodes": [
+            "65630-000",
+            "65631-000",
+            "65632-000",
+            "65633-000",
+            "65634-000"
+          ],
+          "areacodes": [
+            "099"
+          ]
+        },
+        "Bacabal": {
+          "zipcodes": [
+            "65700-000",
+            "65701-000",
+            "65702-000",
+            "65703-000",
+            "65704-000"
+          ],
+          "areacodes": [
+            "099"
+          ]
+        },
+        "Codó": {
+          "zipcodes": [
+            "65650-000",
+            "65651-000",
+            "65652-000",
+            "65653-000",
+            "65654-000"
+          ],
+          "areacodes": [
+            "099"
+          ]
+        },
+        "Açailândia": {
+          "zipcodes": [
+            "65930-000",
+            "65931-000",
+            "65932-000",
+            "65933-000",
+            "65934-000"
+          ],
+          "areacodes": [
+            "099"
+          ]
+        },
+        "Chapadinha": {
+          "zipcodes": [
+            "65500-000",
+            "65501-000",
+            "65502-000",
+            "65503-000",
+            "65504-000"
+          ],
+          "areacodes": [
+            "099"
+          ]
+        },
+        "Paço do Lumiar": {
+          "zipcodes": [
+            "65040-000",
+            "65041-000",
+            "65042-000",
+            "65043-000",
+            "65044-000"
+          ],
+          "areacodes": [
+            "098"
+          ]
+        }
+      },
+      "name": "Maranhão"
+    },
+    "Mato Grosso": {
+      "capital": "Cuiabá",
+      "cities": {
+        "Cuiabá": {
+          "zipcodes": [
+            "78000-000",
+            "78001-000",
+            "78002-000",
+            "78003-000",
+            "78004-000"
+          ],
+          "areacodes": [
+            "065"
+          ]
+        },
+        "Várzea Grande": {
+          "zipcodes": [
+            "78100-000",
+            "78101-000",
+            "78102-000",
+            "78103-000",
+            "78104-000"
+          ],
+          "areacodes": [
+            "065"
+          ]
+        },
+        "Rondonópolis": {
+          "zipcodes": [
+            "78700-000",
+            "78701-000",
+            "78702-000",
+            "78703-000",
+            "78704-000"
+          ],
+          "areacodes": [
+            "066"
+          ]
+        },
+        "Sinop": {
+          "zipcodes": [
+            "78500-000",
+            "78501-000",
+            "78502-000",
+            "78503-000",
+            "78504-000"
+          ],
+          "areacodes": [
+            "066"
+          ]
+        },
+        "Cáceres": {
+          "zipcodes": [
+            "78200-000",
+            "78201-000",
+            "78202-000",
+            "78203-000",
+            "78204-000"
+          ],
+          "areacodes": [
+            "065"
+          ]
+        },
+        "Tangará da Serra": {
+          "zipcodes": [
+            "78190-000",
+            "78191-000",
+            "78192-000",
+            "78193-000",
+            "78194-000"
+          ],
+          "areacodes": [
+            "065"
+          ]
+        },
+        "Lucas do Rio Verde": {
+          "zipcodes": [
+            "78455-000",
+            "78456-000",
+            "78457-000",
+            "78458-000",
+            "78459-000"
+          ],
+          "areacodes": [
+            "065"
+          ]
+        },
+        "Sorriso": {
+          "zipcodes": [
+            "78890-000",
+            "78891-000",
+            "78892-000",
+            "78893-000",
+            "78894-000"
+          ],
+          "areacodes": [
+            "065"
+          ]
+        },
+        "Barra do Garças": {
+          "zipcodes": [
+            "78600-000",
+            "78601-000",
+            "78602-000",
+            "78603-000",
+            "78604-000"
+          ],
+          "areacodes": [
+            "066"
+          ]
+        },
+        "Alta Floresta": {
+          "zipcodes": [
+            "78580-000",
+            "78581-000",
+            "78582-000",
+            "78583-000",
+            "78584-000"
+          ],
+          "areacodes": [
+            "066"
+          ]
+        }
+      },
+      "name": "Mato Grosso"
+    },
+    "Mato Grosso do Sul": {
+      "capital": "Campo Grande",
+      "cities": {
+        "Campo Grande": {
+          "zipcodes": [
+            "79000-000",
+            "79001-000",
+            "79002-000",
+            "79003-000",
+            "79004-000"
+          ],
+          "areacodes": [
+            "067"
+          ]
+        },
+        "Dourados": {
+          "zipcodes": [
+            "79800-000",
+            "79801-000",
+            "79802-000",
+            "79803-000",
+            "79804-000"
+          ],
+          "areacodes": [
+            "067"
+          ]
+        },
+        "Três Lagoas": {
+          "zipcodes": [
+            "79600-000",
+            "79601-000",
+            "79602-000",
+            "79603-000",
+            "79604-000"
+          ],
+          "areacodes": [
+            "067"
+          ]
+        },
+        "Ponta Porã": {
+          "zipcodes": [
+            "79900-000",
+            "79901-000",
+            "79902-000",
+            "79903-000",
+            "79904-000"
+          ],
+          "areacodes": [
+            "067"
+          ]
+        },
+        "Corumbá": {
+          "zipcodes": [
+            "79300-000",
+            "79301-000",
+            "79302-000",
+            "79303-000",
+            "79304-000"
+          ],
+          "areacodes": [
+            "067"
+          ]
+        },
+        "Aquidauana": {
+          "zipcodes": [
+            "79200-000",
+            "79201-000",
+            "79202-000",
+            "79203-000",
+            "79204-000"
+          ],
+          "areacodes": [
+            "067"
+          ]
+        },
+        "Nova Andradina": {
+          "zipcodes": [
+            "79700-000",
+            "79701-000",
+            "79702-000",
+            "79703-000",
+            "79704-000"
+          ],
+          "areacodes": [
+            "067"
+          ]
+        },
+        "Costa Rica": {
+          "zipcodes": [
+            "79150-000",
+            "79151-000",
+            "79152-000",
+            "79153-000",
+            "79154-000"
+          ],
+          "areacodes": [
+            "067"
+          ]
+        },
+        "São Gabriel do Oeste": {
+          "zipcodes": [
+            "79170-000",
+            "79171-000",
+            "79172-000",
+            "79173-000",
+            "79174-000"
+          ],
+          "areacodes": [
+            "067"
+          ]
+        },
+        "Ivinhema": {
+          "zipcodes": [
+            "79750-000",
+            "79751-000",
+            "79752-000",
+            "79753-000",
+            "79754-000"
+          ],
+          "areacodes": [
+            "067"
+          ]
+        }
+      },
+      "name": "Mato Grosso do Sul"
+    },
+    "Minas Gerais": {
+      "capital": "Belo Horizonte",
+      "cities": {
+        "Belo Horizonte": {
+          "zipcodes": [
+            "30100-000",
+            "30101-000",
+            "30102-000",
+            "30103-000",
+            "30104-000"
+          ],
+          "areacodes": [
+            "031"
+          ]
+        },
+        "Uberlândia": {
+          "zipcodes": [
+            "38400-000",
+            "38401-000",
+            "38402-000",
+            "38403-000",
+            "38404-000"
+          ],
+          "areacodes": [
+            "034"
+          ]
+        },
+        "Contagem": {
+          "zipcodes": [
+            "32200-000",
+            "32201-000",
+            "32202-000",
+            "32203-000",
+            "32204-000"
+          ],
+          "areacodes": [
+            "031"
+          ]
+        },
+        "Juiz de Fora": {
+          "zipcodes": [
+            "36000-000",
+            "36001-000",
+            "36002-000",
+            "36003-000",
+            "36004-000"
+          ],
+          "areacodes": [
+            "032"
+          ]
+        },
+        "Betim": {
+          "zipcodes": [
+            "32600-000",
+            "32601-000",
+            "32602-000",
+            "32603-000",
+            "32604-000"
+          ],
+          "areacodes": [
+            "031"
+          ]
+        },
+        "Ipatinga": {
+          "zipcodes": [
+            "35160-000",
+            "35161-000",
+            "35162-000",
+            "35163-000",
+            "35164-000"
+          ],
+          "areacodes": [
+            "031"
+          ]
+        },
+        "Montes Claros": {
+          "zipcodes": [
+            "39400-000",
+            "39401-000",
+            "39402-000",
+            "39403-000",
+            "39404-000"
+          ],
+          "areacodes": [
+            "038"
+          ]
+        },
+        "Governador Valadares": {
+          "zipcodes": [
+            "35010-000",
+            "35011-000",
+            "35012-000",
+            "35013-000",
+            "35014-000"
+          ],
+          "areacodes": [
+            "033"
+          ]
+        },
+        "Sete Lagoas": {
+          "zipcodes": [
+            "35700-000",
+            "35701-000",
+            "35702-000",
+            "35703-000",
+            "35704-000"
+          ],
+          "areacodes": [
+            "031"
+          ]
+        },
+        "Divinópolis": {
+          "zipcodes": [
+            "35500-000",
+            "35501-000",
+            "35502-000",
+            "35503-000",
+            "35504-000"
+          ],
+          "areacodes": [
+            "037"
+          ]
+        }
+      },
+      "name": "Minas Gerais"
+    },
+    "Pará": {
+      "capital": "Belém",
+      "cities": {
+        "Belém": {
+          "zipcodes": [
+            "66000-000",
+            "66001-000",
+            "66002-000",
+            "66003-000",
+            "66004-000"
+          ],
+          "areacodes": [
+            "091"
+          ]
+        },
+        "Ananindeua": {
+          "zipcodes": [
+            "67000-000",
+            "67001-000",
+            "67002-000",
+            "67003-000",
+            "67004-000"
+          ],
+          "areacodes": [
+            "091"
+          ]
+        },
+        "Santarém": {
+          "zipcodes": [
+            "68000-000",
+            "68001-000",
+            "68002-000",
+            "68003-000",
+            "68004-000"
+          ],
+          "areacodes": [
+            "093"
+          ]
+        },
+        "Marabá": {
+          "zipcodes": [
+            "68500-000",
+            "68501-000",
+            "68502-000",
+            "68503-000",
+            "68504-000"
+          ],
+          "areacodes": [
+            "094"
+          ]
+        },
+        "Parauapebas": {
+          "zipcodes": [
+            "68515-000",
+            "68516-000",
+            "68517-000",
+            "68518-000",
+            "68519-000"
+          ],
+          "areacodes": [
+            "094"
+          ]
+        },
+        "Castanhal": {
+          "zipcodes": [
+            "68740-000",
+            "68741-000",
+            "68742-000",
+            "68743-000",
+            "68744-000"
+          ],
+          "areacodes": [
+            "091"
+          ]
+        },
+        "Águas Lindas de Goiás": {
+          "zipcodes": [
+            "68790-000",
+            "68791-000",
+            "68792-000",
+            "68793-000",
+            "68794-000"
+          ],
+          "areacodes": [
+            "091"
+          ]
+        },
+        "Tucuruí": {
+          "zipcodes": [
+            "68450-000",
+            "68451-000",
+            "68452-000",
+            "68453-000",
+            "68454-000"
+          ],
+          "areacodes": [
+            "094"
+          ]
+        },
+        "Redenção": {
+          "zipcodes": [
+            "68560-000",
+            "68561-000",
+            "68562-000",
+            "68563-000",
+            "68564-000"
+          ],
+          "areacodes": [
+            "094"
+          ]
+        },
+        "Xinguara": {
+          "zipcodes": [
+            "68580-000",
+            "68581-000",
+            "68582-000",
+            "68583-000",
+            "68584-000"
+          ],
+          "areacodes": [
+            "094"
+          ]
+        }
+      },
+      "name": "Pará"
+    },
+    "Paraíba": {
+      "capital": "João Pessoa",
+      "cities": {
+        "João Pessoa": {
+          "zipcodes": [
+            "58000-000",
+            "58001-000",
+            "58002-000",
+            "58003-000",
+            "58004-000"
+          ],
+          "areacodes": [
+            "083"
+          ]
+        },
+        "Campina Grande": {
+          "zipcodes": [
+            "58400-000",
+            "58401-000",
+            "58402-000",
+            "58403-000",
+            "58404-000"
+          ],
+          "areacodes": [
+            "083"
+          ]
+        },
+        "Santa Rita": {
+          "zipcodes": [
+            "58300-000",
+            "58301-000",
+            "58302-000",
+            "58303-000",
+            "58304-000"
+          ],
+          "areacodes": [
+            "083"
+          ]
+        },
+        "Patos": {
+          "zipcodes": [
+            "58700-000",
+            "58701-000",
+            "58702-000",
+            "58703-000",
+            "58704-000"
+          ],
+          "areacodes": [
+            "083"
+          ]
+        },
+        "Bayeux": {
+          "zipcodes": [
+            "58305-000",
+            "58306-000",
+            "58307-000",
+            "58308-000",
+            "58309-000"
+          ],
+          "areacodes": [
+            "083"
+          ]
+        },
+        "Cabo Branco": {
+          "zipcodes": [
+            "58058-000",
+            "58059-000",
+            "58060-000",
+            "58061-000",
+            "58062-000"
+          ],
+          "areacodes": [
+            "083"
+          ]
+        },
+        "Sousa": {
+          "zipcodes": [
+            "58800-000",
+            "58801-000",
+            "58802-000",
+            "58803-000",
+            "58804-000"
+          ],
+          "areacodes": [
+            "083"
+          ]
+        },
+        "Queimadas": {
+          "zipcodes": [
+            "58200-000",
+            "58201-000",
+            "58202-000",
+            "58203-000",
+            "58204-000"
+          ],
+          "areacodes": [
+            "083"
+          ]
+        },
+        "Monteiro": {
+          "zipcodes": [
+            "58500-000",
+            "58501-000",
+            "58502-000",
+            "58503-000",
+            "58504-000"
+          ],
+          "areacodes": [
+            "083"
+          ]
+        },
+        "Guarabira": {
+          "zipcodes": [
+            "58300-000",
+            "58301-000",
+            "58302-000",
+            "58303-000",
+            "58304-000"
+          ],
+          "areacodes": [
+            "083"
+          ]
+        }
+      },
+      "name": "Paraíba"
+    },
+    "Paraná": {
+      "capital": "Curitiba",
+      "cities": {
+        "Curitiba": {
+          "zipcodes": [
+            "80000-000",
+            "80010-000",
+            "80020-000",
+            "80030-000",
+            "80040-000"
+          ],
+          "areacodes": [
+            "041"
+          ]
+        },
+        "Londrina": {
+          "zipcodes": [
+            "86000-000",
+            "86010-000",
+            "86020-000",
+            "86030-000",
+            "86040-000"
+          ],
+          "areacodes": [
+            "043"
+          ]
+        },
+        "Maringá": {
+          "zipcodes": [
+            "87000-000",
+            "87010-000",
+            "87020-000",
+            "87030-000",
+            "87040-000"
+          ],
+          "areacodes": [
+            "044"
+          ]
+        },
+        "Ponta Grossa": {
+          "zipcodes": [
+            "84000-000",
+            "84010-000",
+            "84020-000",
+            "84030-000",
+            "84040-000"
+          ],
+          "areacodes": [
+            "042"
+          ]
+        },
+        "Foz do Iguaçu": {
+          "zipcodes": [
+            "85850-000",
+            "85851-000",
+            "85852-000",
+            "85853-000",
+            "85854-000"
+          ],
+          "areacodes": [
+            "045"
+          ]
+        },
+        "Cascavel": {
+          "zipcodes": [
+            "85810-000",
+            "85811-000",
+            "85812-000",
+            "85813-000",
+            "85814-000"
+          ],
+          "areacodes": [
+            "045"
+          ]
+        },
+        "São José dos Pinhais": {
+          "zipcodes": [
+            "83000-000",
+            "83010-000",
+            "83020-000",
+            "83030-000",
+            "83040-000"
+          ],
+          "areacodes": [
+            "041"
+          ]
+        },
+        "Colombo": {
+          "zipcodes": [
+            "83400-000",
+            "83401-000",
+            "83402-000",
+            "83403-000",
+            "83404-000"
+          ],
+          "areacodes": [
+            "041"
+          ]
+        },
+        "Araucária": {
+          "zipcodes": [
+            "83410-000",
+            "83411-000",
+            "83412-000",
+            "83413-000",
+            "83414-000"
+          ],
+          "areacodes": [
+            "041"
+          ]
+        },
+        "Paranaguá": {
+          "zipcodes": [
+            "83200-000",
+            "83201-000",
+            "83202-000",
+            "83203-000",
+            "83204-000"
+          ],
+          "areacodes": [
+            "041"
+          ]
+        }
+      },
+      "name": "Paraná"
+    },
+    "Pernambuco": {
+      "capital": "Recife",
+      "cities": {
+        "Recife": {
+          "zipcodes": [
+            "50000-000",
+            "50010-000",
+            "50020-000",
+            "50030-000",
+            "50040-000"
+          ],
+          "areacodes": [
+            "081"
+          ]
+        },
+        "Olinda": {
+          "zipcodes": [
+            "53000-000",
+            "53010-000",
+            "53020-000",
+            "53030-000",
+            "53040-000"
+          ],
+          "areacodes": [
+            "081"
+          ]
+        },
+        "Jaboatão dos Guararapes": {
+          "zipcodes": [
+            "54000-000",
+            "54010-000",
+            "54020-000",
+            "54030-000",
+            "54040-000"
+          ],
+          "areacodes": [
+            "081"
+          ]
+        },
+        "Caruaru": {
+          "zipcodes": [
+            "55000-000",
+            "55010-000",
+            "55020-000",
+            "55030-000",
+            "55040-000"
+          ],
+          "areacodes": [
+            "081"
+          ]
+        },
+        "Petrolina": {
+          "zipcodes": [
+            "56300-000",
+            "56301-000",
+            "56302-000",
+            "56303-000",
+            "56304-000"
+          ],
+          "areacodes": [
+            "087"
+          ]
+        },
+        "Camaragibe": {
+          "zipcodes": [
+            "54700-000",
+            "54701-000",
+            "54702-000",
+            "54703-000",
+            "54704-000"
+          ],
+          "areacodes": [
+            "081"
+          ]
+        },
+        "Ipojuca": {
+          "zipcodes": [
+            "55590-000",
+            "55591-000",
+            "55592-000",
+            "55593-000",
+            "55594-000"
+          ],
+          "areacodes": [
+            "081"
+          ]
+        },
+        "Garanhuns": {
+          "zipcodes": [
+            "55290-000",
+            "55291-000",
+            "55292-000",
+            "55293-000",
+            "55294-000"
+          ],
+          "areacodes": [
+            "087"
+          ]
+        },
+        "Araripina": {
+          "zipcodes": [
+            "56200-000",
+            "56201-000",
+            "56202-000",
+            "56203-000",
+            "56204-000"
+          ],
+          "areacodes": [
+            "087"
+          ]
+        },
+        "Gravatá": {
+          "zipcodes": [
+            "55600-000",
+            "55601-000",
+            "55602-000",
+            "55603-000",
+            "55604-000"
+          ],
+          "areacodes": [
+            "081"
+          ]
+        }
+      },
+      "name": "Pernambuco"
+    },
+    "Piauí": {
+      "capital": "Teresina",
+      "cities": {
+        "Teresina": {
+          "zipcodes": [
+            "64000-000",
+            "64010-000",
+            "64020-000",
+            "64030-000",
+            "64040-000"
+          ],
+          "areacodes": [
+            "086"
+          ]
+        },
+        "Parnaíba": {
+          "zipcodes": [
+            "64200-000",
+            "64201-000",
+            "64202-000",
+            "64203-000",
+            "64204-000"
+          ],
+          "areacodes": [
+            "086"
+          ]
+        },
+        "Picos": {
+          "zipcodes": [
+            "64600-000",
+            "64601-000",
+            "64602-000",
+            "64603-000",
+            "64604-000"
+          ],
+          "areacodes": [
+            "086"
+          ]
+        },
+        "Floriano": {
+          "zipcodes": [
+            "64800-000",
+            "64801-000",
+            "64802-000",
+            "64803-000",
+            "64804-000"
+          ],
+          "areacodes": [
+            "086"
+          ]
+        },
+        "Bom Jesus": {
+          "zipcodes": [
+            "64900-000",
+            "64901-000",
+            "64902-000",
+            "64903-000",
+            "64904-000"
+          ],
+          "areacodes": [
+            "086"
+          ]
+        },
+        "São Raimundo Nonato": {
+          "zipcodes": [
+            "64700-000",
+            "64701-000",
+            "64702-000",
+            "64703-000",
+            "64704-000"
+          ],
+          "areacodes": [
+            "086"
+          ]
+        },
+        "Campo Maior": {
+          "zipcodes": [
+            "64210-000",
+            "64211-000",
+            "64212-000",
+            "64213-000",
+            "64214-000"
+          ],
+          "areacodes": [
+            "086"
+          ]
+        },
+        "Timon": {
+          "zipcodes": [
+            "65600-000",
+            "65601-000",
+            "65602-000",
+            "65603-000",
+            "65604-000"
+          ],
+          "areacodes": [
+            "086"
+          ]
+        },
+        "Piripiri": {
+          "zipcodes": [
+            "64300-000",
+            "64301-000",
+            "64302-000",
+            "64303-000",
+            "64304-000"
+          ],
+          "areacodes": [
+            "086"
+          ]
+        },
+        "Canto do Buriti": {
+          "zipcodes": [
+            "64760-000",
+            "64761-000",
+            "64762-000",
+            "64763-000",
+            "64764-000"
+          ],
+          "areacodes": [
+            "086"
+          ]
+        }
+      },
+      "name": "Piauí"
+    },
+    "Rio de Janeiro": {
+      "capital": "Rio de Janeiro",
+      "cities": {
+        "Rio de Janeiro": {
+          "zipcodes": [
+            "20000-000",
+            "20010-000",
+            "20020-000",
+            "20030-000",
+            "20040-000"
+          ],
+          "areacodes": [
+            "021"
+          ]
+        },
+        "Niterói": {
+          "zipcodes": [
+            "24000-000",
+            "24010-000",
+            "24020-000",
+            "24030-000",
+            "24040-000"
+          ],
+          "areacodes": [
+            "021"
+          ]
+        },
+        "Duque de Caxias": {
+          "zipcodes": [
+            "25000-000",
+            "25010-000",
+            "25020-000",
+            "25030-000",
+            "25040-000"
+          ],
+          "areacodes": [
+            "021"
+          ]
+        },
+        "São Gonçalo": {
+          "zipcodes": [
+            "24400-000",
+            "24410-000",
+            "24420-000",
+            "24430-000",
+            "24440-000"
+          ],
+          "areacodes": [
+            "021"
+          ]
+        },
+        "Nova Iguaçu": {
+          "zipcodes": [
+            "26000-000",
+            "26010-000",
+            "26020-000",
+            "26030-000",
+            "26040-000"
+          ],
+          "areacodes": [
+            "021"
+          ]
+        },
+        "Campos dos Goytacazes": {
+          "zipcodes": [
+            "28000-000",
+            "28010-000",
+            "28020-000",
+            "28030-000",
+            "28040-000"
+          ],
+          "areacodes": [
+            "022"
+          ]
+        },
+        "Macaé": {
+          "zipcodes": [
+            "27900-000",
+            "27901-000",
+            "27902-000",
+            "27903-000",
+            "27904-000"
+          ],
+          "areacodes": [
+            "022"
+          ]
+        },
+        "Volta Redonda": {
+          "zipcodes": [
+            "27200-000",
+            "27210-000",
+            "27220-000",
+            "27230-000",
+            "27240-000"
+          ],
+          "areacodes": [
+            "024"
+          ]
+        },
+        "Angra dos Reis": {
+          "zipcodes": [
+            "23900-000",
+            "23901-000",
+            "23902-000",
+            "23903-000",
+            "23904-000"
+          ],
+          "areacodes": [
+            "024"
+          ]
+        },
+        "Resende": {
+          "zipcodes": [
+            "27500-000",
+            "27510-000",
+            "27520-000",
+            "27530-000",
+            "27540-000"
+          ],
+          "areacodes": [
+            "024"
+          ]
+        }
+      },
+      "name": "Rio de Janeiro"
+    },
+    "Rio Grande do Norte": {
+      "capital": "Natal",
+      "cities": {
+        "Natal": {
+          "zipcodes": [
+            "59000-000",
+            "59010-000",
+            "59020-000",
+            "59030-000",
+            "59040-000"
+          ],
+          "areacodes": [
+            "084"
+          ]
+        },
+        "Mossoró": {
+          "zipcodes": [
+            "59600-000",
+            "59601-000",
+            "59602-000",
+            "59603-000",
+            "59604-000"
+          ],
+          "areacodes": [
+            "084"
+          ]
+        },
+        "Parnamirim": {
+          "zipcodes": [
+            "59100-000",
+            "59110-000",
+            "59120-000",
+            "59130-000",
+            "59140-000"
+          ],
+          "areacodes": [
+            "084"
+          ]
+        },
+        "São Gonçalo do Amarante": {
+          "zipcodes": [
+            "59200-000",
+            "59210-000",
+            "59220-000",
+            "59230-000",
+            "59240-000"
+          ],
+          "areacodes": [
+            "084"
+          ]
+        },
+        "Ceará-Mirim": {
+          "zipcodes": [
+            "59500-000",
+            "59501-000",
+            "59502-000",
+            "59503-000",
+            "59504-000"
+          ],
+          "areacodes": [
+            "084"
+          ]
+        },
+        "Caicó": {
+          "zipcodes": [
+            "59300-000",
+            "59301-000",
+            "59302-000",
+            "59303-000",
+            "59304-000"
+          ],
+          "areacodes": [
+            "084"
+          ]
+        },
+        "Assu": {
+          "zipcodes": [
+            "59600-000",
+            "59601-000",
+            "59602-000",
+            "59603-000",
+            "59604-000"
+          ],
+          "areacodes": [
+            "084"
+          ]
+        },
+        "Angicos": {
+          "zipcodes": [
+            "59560-000",
+            "59561-000",
+            "59562-000",
+            "59563-000",
+            "59564-000"
+          ],
+          "areacodes": [
+            "084"
+          ]
+        },
+        "Currais Novos": {
+          "zipcodes": [
+            "59380-000",
+            "59381-000",
+            "59382-000",
+            "59383-000",
+            "59384-000"
+          ],
+          "areacodes": [
+            "084"
+          ]
+        },
+        "Santa Cruz": {
+          "zipcodes": [
+            "59200-000",
+            "59201-000",
+            "59202-000",
+            "59203-000",
+            "59204-000"
+          ],
+          "areacodes": [
+            "084"
+          ]
+        }
+      },
+      "name": "Rio Grande do Norte"
+    },
+    "Rio Grande do Sul": {
+      "capital": "Porto Alegre",
+      "cities": {
+        "Porto Alegre": {
+          "zipcodes": [
+            "90000-000",
+            "90010-000",
+            "90020-000",
+            "90030-000",
+            "90040-000"
+          ],
+          "areacodes": [
+            "051"
+          ]
+        },
+        "Caxias do Sul": {
+          "zipcodes": [
+            "95000-000",
+            "95010-000",
+            "95020-000",
+            "95030-000",
+            "95040-000"
+          ],
+          "areacodes": [
+            "054"
+          ]
+        },
+        "Pelotas": {
+          "zipcodes": [
+            "96000-000",
+            "96010-000",
+            "96020-000",
+            "96030-000",
+            "96040-000"
+          ],
+          "areacodes": [
+            "053"
+          ]
+        },
+        "Santa Maria": {
+          "zipcodes": [
+            "97000-000",
+            "97010-000",
+            "97020-000",
+            "97030-000",
+            "97040-000"
+          ],
+          "areacodes": [
+            "055"
+          ]
+        },
+        "Gravataí": {
+          "zipcodes": [
+            "94000-000",
+            "94010-000",
+            "94020-000",
+            "94030-000",
+            "94040-000"
+          ],
+          "areacodes": [
+            "051"
+          ]
+        },
+        "Canoas": {
+          "zipcodes": [
+            "92000-000",
+            "92010-000",
+            "92020-000",
+            "92030-000",
+            "92040-000"
+          ],
+          "areacodes": [
+            "051"
+          ]
+        },
+        "São Leopoldo": {
+          "zipcodes": [
+            "93000-000",
+            "93010-000",
+            "93020-000",
+            "93030-000",
+            "93040-000"
+          ],
+          "areacodes": [
+            "051"
+          ]
+        },
+        "Novo Hamburgo": {
+          "zipcodes": [
+            "93300-000",
+            "93310-000",
+            "93320-000",
+            "93330-000",
+            "93340-000"
+          ],
+          "areacodes": [
+            "051"
+          ]
+        },
+        "Rio Grande": {
+          "zipcodes": [
+            "96200-000",
+            "96210-000",
+            "96220-000",
+            "96230-000",
+            "96240-000"
+          ],
+          "areacodes": [
+            "053"
+          ]
+        },
+        "Passo Fundo": {
+          "zipcodes": [
+            "99000-000",
+            "99010-000",
+            "99020-000",
+            "99030-000",
+            "99040-000"
+          ],
+          "areacodes": [
+            "054"
+          ]
+        }
+      },
+      "name": "Rio Grande do Sul"
+    },
+    "Rondônia": {
+      "capital": "Porto Velho",
+      "cities": {
+        "Porto Velho": {
+          "zipcodes": [
+            "76800-000",
+            "76801-000",
+            "76802-000",
+            "76803-000",
+            "76804-000"
+          ],
+          "areacodes": [
+            "069"
+          ]
+        },
+        "Ji-Paraná": {
+          "zipcodes": [
+            "76900-000",
+            "76910-000",
+            "76920-000",
+            "76930-000",
+            "76940-000"
+          ],
+          "areacodes": [
+            "069"
+          ]
+        },
+        "Ariquemes": {
+          "zipcodes": [
+            "76820-000",
+            "76821-000",
+            "76822-000",
+            "76823-000",
+            "76824-000"
+          ],
+          "areacodes": [
+            "069"
+          ]
+        },
+        "Vilhena": {
+          "zipcodes": [
+            "76980-000",
+            "76981-000",
+            "76982-000",
+            "76983-000",
+            "76984-000"
+          ],
+          "areacodes": [
+            "069"
+          ]
+        },
+        "Cacoal": {
+          "zipcodes": [
+            "76960-000",
+            "76961-000",
+            "76962-000",
+            "76963-000",
+            "76964-000"
+          ],
+          "areacodes": [
+            "069"
+          ]
+        },
+        "Rolim de Moura": {
+          "zipcodes": [
+            "76940-000",
+            "76941-000",
+            "76942-000",
+            "76943-000",
+            "76944-000"
+          ],
+          "areacodes": [
+            "069"
+          ]
+        },
+        "Ouro Preto do Oeste": {
+          "zipcodes": [
+            "76840-000",
+            "76841-000",
+            "76842-000",
+            "76843-000",
+            "76844-000"
+          ],
+          "areacodes": [
+            "069"
+          ]
+        },
+        "Guajará-Mirim": {
+          "zipcodes": [
+            "76870-000",
+            "76871-000",
+            "76872-000",
+            "76873-000",
+            "76874-000"
+          ],
+          "areacodes": [
+            "069"
+          ]
+        },
+        "São Francisco do Guaporé": {
+          "zipcodes": [
+            "76885-000",
+            "76886-000",
+            "76887-000",
+            "76888-000",
+            "76889-000"
+          ],
+          "areacodes": [
+            "069"
+          ]
+        },
+        "Espigão do Oeste": {
+          "zipcodes": [
+            "76950-000",
+            "76951-000",
+            "76952-000",
+            "76953-000",
+            "76954-000"
+          ],
+          "areacodes": [
+            "069"
+          ]
+        }
+      },
+      "name": "Rondônia"
+    },
+    "Roraima": {
+      "capital": "Boa Vista",
+      "cities": {
+        "Boa Vista": {
+          "zipcodes": [
+            "69300-000",
+            "69301-000",
+            "69302-000",
+            "69303-000",
+            "69304-000"
+          ],
+          "areacodes": [
+            "095"
+          ]
+        },
+        "Rorainópolis": {
+          "zipcodes": [
+            "69380-000",
+            "69381-000",
+            "69382-000",
+            "69383-000",
+            "69384-000"
+          ],
+          "areacodes": [
+            "095"
+          ]
+        },
+        "Caracaraí": {
+          "zipcodes": [
+            "69360-000",
+            "69361-000",
+            "69362-000",
+            "69363-000",
+            "69364-000"
+          ],
+          "areacodes": [
+            "095"
+          ]
+        },
+        "São João da Baliza": {
+          "zipcodes": [
+            "69370-000",
+            "69371-000",
+            "69372-000",
+            "69373-000",
+            "69374-000"
+          ],
+          "areacodes": [
+            "095"
+          ]
+        },
+        "Mucajaí": {
+          "zipcodes": [
+            "69390-000",
+            "69391-000",
+            "69392-000",
+            "69393-000",
+            "69394-000"
+          ],
+          "areacodes": [
+            "095"
+          ]
+        },
+        "Normandia": {
+          "zipcodes": [
+            "69340-000",
+            "69341-000",
+            "69342-000",
+            "69343-000",
+            "69344-000"
+          ],
+          "areacodes": [
+            "095"
+          ]
+        },
+        "Cantá": {
+          "zipcodes": [
+            "69330-000",
+            "69331-000",
+            "69332-000",
+            "69333-000",
+            "69334-000"
+          ],
+          "areacodes": [
+            "095"
+          ]
+        },
+        "Uiramutã": {
+          "zipcodes": [
+            "69350-000",
+            "69351-000",
+            "69352-000",
+            "69353-000",
+            "69354-000"
+          ],
+          "areacodes": [
+            "095"
+          ]
+        },
+        "Bonfim": {
+          "zipcodes": [
+            "69320-000",
+            "69321-000",
+            "69322-000",
+            "69323-000",
+            "69324-000"
+          ],
+          "areacodes": [
+            "095"
+          ]
+        },
+        "Ixias": {
+          "zipcodes": [
+            "69310-000",
+            "69311-000",
+            "69312-000",
+            "69313-000",
+            "69314-000"
+          ],
+          "areacodes": [
+            "095"
+          ]
+        }
+      },
+      "name": "Roraima"
+    },
+    "Santa Catarina": {
+      "capital": "Florianópolis",
+      "cities": {
+        "Florianópolis": {
+          "zipcodes": [
+            "88000-000",
+            "88010-000",
+            "88020-000",
+            "88030-000",
+            "88040-000"
+          ],
+          "areacodes": [
+            "048"
+          ]
+        },
+        "Joinville": {
+          "zipcodes": [
+            "89200-000",
+            "89210-000",
+            "89220-000",
+            "89230-000",
+            "89240-000"
+          ],
+          "areacodes": [
+            "047"
+          ]
+        },
+        "Blumenau": {
+          "zipcodes": [
+            "89000-000",
+            "89010-000",
+            "89020-000",
+            "89030-000",
+            "89040-000"
+          ],
+          "areacodes": [
+            "047"
+          ]
+        },
+        "São José": {
+          "zipcodes": [
+            "88100-000",
+            "88110-000",
+            "88120-000",
+            "88130-000",
+            "88140-000"
+          ],
+          "areacodes": [
+            "048"
+          ]
+        },
+        "Chapecó": {
+          "zipcodes": [
+            "89800-000",
+            "89810-000",
+            "89820-000",
+            "89830-000",
+            "89840-000"
+          ],
+          "areacodes": [
+            "049"
+          ]
+        },
+        "Itajaí": {
+          "zipcodes": [
+            "88300-000",
+            "88310-000",
+            "88320-000",
+            "88330-000",
+            "88340-000"
+          ],
+          "areacodes": [
+            "047"
+          ]
+        },
+        "Criciúma": {
+          "zipcodes": [
+            "88800-000",
+            "88810-000",
+            "88820-000",
+            "88830-000",
+            "88840-000"
+          ],
+          "areacodes": [
+            "048"
+          ]
+        },
+        "Tubarão": {
+          "zipcodes": [
+            "88700-000",
+            "88710-000",
+            "88720-000",
+            "88730-000",
+            "88740-000"
+          ],
+          "areacodes": [
+            "048"
+          ]
+        },
+        "Lages": {
+          "zipcodes": [
+            "88500-000",
+            "88510-000",
+            "88520-000",
+            "88530-000",
+            "88540-000"
+          ],
+          "areacodes": [
+            "049"
+          ]
+        }
+      },
+      "name": "Santa Catarina"
+    },
+    "Sergipe": {
+      "capital": "Aracaju",
+      "cities": {
+        "Aracaju": {
+          "zipcodes": [
+            "49000-000",
+            "49010-000",
+            "49020-000",
+            "49030-000",
+            "49040-000"
+          ],
+          "areacodes": [
+            "079"
+          ]
+        },
+        "Lagarto": {
+          "zipcodes": [
+            "49500-000",
+            "49510-000",
+            "49520-000",
+            "49530-000",
+            "49540-000"
+          ],
+          "areacodes": [
+            "079"
+          ]
+        },
+        "Itabaiana": {
+          "zipcodes": [
+            "49500-000",
+            "49510-000",
+            "49520-000",
+            "49530-000",
+            "49540-000"
+          ],
+          "areacodes": [
+            "079"
+          ]
+        },
+        "Estância": {
+          "zipcodes": [
+            "49200-000",
+            "49210-000",
+            "49220-000",
+            "49230-000",
+            "49240-000"
+          ],
+          "areacodes": [
+            "079"
+          ]
+        },
+        "Nossa Senhora do Socorro": {
+          "zipcodes": [
+            "49100-000",
+            "49110-000",
+            "49120-000",
+            "49130-000",
+            "49140-000"
+          ],
+          "areacodes": [
+            "079"
+          ]
+        },
+        "São Cristóvão": {
+          "zipcodes": [
+            "49150-000",
+            "49160-000",
+            "49170-000",
+            "49180-000",
+            "49190-000"
+          ],
+          "areacodes": [
+            "079"
+          ]
+        },
+        "Simão Dias": {
+          "zipcodes": [
+            "49250-000",
+            "49251-000",
+            "49252-000",
+            "49253-000",
+            "49254-000"
+          ],
+          "areacodes": [
+            "079"
+          ]
+        },
+        "Barra dos Coqueiros": {
+          "zipcodes": [
+            "49160-000",
+            "49161-000",
+            "49162-000",
+            "49163-000",
+            "49164-000"
+          ],
+          "areacodes": [
+            "079"
+          ]
+        },
+        "Indiaroba": {
+          "zipcodes": [
+            "49190-000",
+            "49191-000",
+            "49192-000",
+            "49193-000",
+            "49194-000"
+          ],
+          "areacodes": [
+            "079"
+          ]
+        }
+      },
+      "name": "Sergipe"
+    },
+    "Tocantins": {
+      "capital": "Palmas",
+      "cities": {
+        "Palmas": {
+          "zipcodes": [
+            "77000-000",
+            "77010-000",
+            "77020-000",
+            "77030-000",
+            "77040-000"
+          ],
+          "areacodes": [
+            "063"
+          ]
+        },
+        "Araguaína": {
+          "zipcodes": [
+            "77800-000",
+            "77810-000",
+            "77820-000",
+            "77830-000",
+            "77840-000"
+          ],
+          "areacodes": [
+            "063"
+          ]
+        },
+        "Gurupi": {
+          "zipcodes": [
+            "77400-000",
+            "77410-000",
+            "77420-000",
+            "77430-000",
+            "77440-000"
+          ],
+          "areacodes": [
+            "063"
+          ]
+        },
+        "Porto Nacional": {
+          "zipcodes": [
+            "77500-000",
+            "77510-000",
+            "77520-000",
+            "77530-000",
+            "77540-000"
+          ],
+          "areacodes": [
+            "063"
+          ]
+        },
+        "Paraíso do Tocantins": {
+          "zipcodes": [
+            "77600-000",
+            "77610-000",
+            "77620-000",
+            "77630-000",
+            "77640-000"
+          ],
+          "areacodes": [
+            "063"
+          ]
+        },
+        "Miracema do Tocantins": {
+          "zipcodes": [
+            "77650-000",
+            "77651-000",
+            "77652-000",
+            "77653-000",
+            "77654-000"
+          ],
+          "areacodes": [
+            "063"
+          ]
+        },
+        "Tocantinópolis": {
+          "zipcodes": [
+            "77860-000",
+            "77861-000",
+            "77862-000",
+            "77863-000",
+            "77864-000"
+          ],
+          "areacodes": [
+            "063"
+          ]
+        },
+        "Colinas do Tocantins": {
+          "zipcodes": [
+            "77700-000",
+            "77710-000",
+            "77720-000",
+            "77730-000",
+            "77740-000"
+          ],
+          "areacodes": [
+            "063"
+          ]
+        },
+        "Palmeirante": {
+          "zipcodes": [
+            "77550-000",
+            "77551-000",
+            "77552-000",
+            "77553-000",
+            "77554-000"
+          ],
+          "areacodes": [
+            "063"
+          ]
+        },
+        "Axixá do Tocantins": {
+          "zipcodes": [
+            "77900-000",
+            "77901-000",
+            "77902-000",
+            "77903-000",
+            "77904-000"
+          ],
+          "areacodes": [
+            "063"
+          ]
+        }
+      },
+      "name": "Tocantins"
+    },
+    "Amapá": {
+      "capital": "Macapá",
+      "cities": {
+        "Macapá": {
+          "zipcodes": [
+            "68900-000",
+            "68910-000",
+            "68920-000",
+            "68930-000",
+            "68940-000"
+          ],
+          "areacodes": [
+            "096"
+          ]
+        },
+        "Santana": {
+          "zipcodes": [
+            "68925-000",
+            "68926-000",
+            "68927-000",
+            "68928-000",
+            "68929-000"
+          ],
+          "areacodes": [
+            "096"
+          ]
+        },
+        "Laranjal do Jari": {
+          "zipcodes": [
+            "68980-000",
+            "68981-000",
+            "68982-000",
+            "68983-000",
+            "68984-000"
+          ],
+          "areacodes": [
+            "096"
+          ]
+        },
+        "Porto Grande": {
+          "zipcodes": [
+            "68940-000",
+            "68941-000",
+            "68942-000",
+            "68943-000",
+            "68944-000"
+          ],
+          "areacodes": [
+            "096"
+          ]
+        },
+        "Mazagão": {
+          "zipcodes": [
+            "68950-000",
+            "68951-000",
+            "68952-000",
+            "68953-000",
+            "68954-000"
+          ],
+          "areacodes": [
+            "096"
+          ]
+        },
+        "Oiapoque": {
+          "zipcodes": [
+            "68970-000",
+            "68971-000",
+            "68972-000",
+            "68973-000",
+            "68974-000"
+          ],
+          "areacodes": [
+            "096"
+          ]
+        },
+        "Calçoene": {
+          "zipcodes": [
+            "68985-000",
+            "68986-000",
+            "68987-000",
+            "68988-000",
+            "68989-000"
+          ],
+          "areacodes": [
+            "096"
+          ]
+        },
+        "Tartarugalzinho": {
+          "zipcodes": [
+            "68990-000",
+            "68991-000",
+            "68992-000",
+            "68993-000",
+            "68994-000"
+          ],
+          "areacodes": [
+            "096"
+          ]
+        },
+        "Cutias": {
+          "zipcodes": [
+            "68975-000",
+            "68976-000",
+            "68977-000",
+            "68978-000",
+            "68979-000"
+          ],
+          "areacodes": [
+            "096"
+          ]
+        },
+        "Ferreira Gomes": {
+          "zipcodes": [
+            "68960-000",
+            "68961-000",
+            "68962-000",
+            "68963-000",
+            "68964-000"
+          ],
+          "areacodes": [
+            "096"
+          ]
+        }
+      },
+      "name": "Amapá"
+    },
+    "São Paulo": {
+      "capital": "São Paulo",
+      "cities": {
+        "São Paulo": {
+          "zipcodes": [
+            "01000-000",
+            "01010-000",
+            "01020-000",
+            "01030-000",
+            "01040-000"
+          ],
+          "areacodes": [
+            "011"
+          ]
+        },
+        "Campinas": {
+          "zipcodes": [
+            "13000-000",
+            "13010-000",
+            "13020-000",
+            "13030-000",
+            "13040-000"
+          ],
+          "areacodes": [
+            "019"
+          ]
+        },
+        "Guarulhos": {
+          "zipcodes": [
+            "07000-000",
+            "07010-000",
+            "07020-000",
+            "07030-000",
+            "07040-000"
+          ],
+          "areacodes": [
+            "011"
+          ]
+        },
+        "Santos": {
+          "zipcodes": [
+            "11000-000",
+            "11010-000",
+            "11020-000",
+            "11030-000",
+            "11040-000"
+          ],
+          "areacodes": [
+            "013"
+          ]
+        },
+        "São Bernardo do Campo": {
+          "zipcodes": [
+            "09600-000",
+            "09610-000",
+            "09620-000",
+            "09630-000",
+            "09640-000"
+          ],
+          "areacodes": [
+            "011"
+          ]
+        },
+        "Ribeirão Preto": {
+          "zipcodes": [
+            "14000-000",
+            "14010-000",
+            "14020-000",
+            "14030-000",
+            "14040-000"
+          ],
+          "areacodes": [
+            "016"
+          ]
+        },
+        "Sorocaba": {
+          "zipcodes": [
+            "18000-000",
+            "18010-000",
+            "18020-000",
+            "18030-000",
+            "18040-000"
+          ],
+          "areacodes": [
+            "015"
+          ]
+        },
+        "Osasco": {
+          "zipcodes": [
+            "06000-000",
+            "06010-000",
+            "06020-000",
+            "06030-000",
+            "06040-000"
+          ],
+          "areacodes": [
+            "011"
+          ]
+        },
+        "São José dos Campos": {
+          "zipcodes": [
+            "12200-000",
+            "12210-000",
+            "12220-000",
+            "12230-000",
+            "12240-000"
+          ],
+          "areacodes": [
+            "012"
+          ]
+        },
+        "Bauru": {
+          "zipcodes": [
+            "17000-000",
+            "17010-000",
+            "17020-000",
+            "17030-000",
+            "17040-000"
+          ],
+          "areacodes": [
+            "014"
+          ]
+        }
+      },
+      "name": "São Paulo"
+    }
+  },
+  "citycontainers": [
+    "states"
+  ],
+  "firstnames": [
+    "Miguel",
+    "Arthur",
+    "Davi",
+    "Lucas",
+    "Pedro",
+    "Gabriel",
+    "Bernardo",
+    "Matheus",
+    "Rafael",
+    "Guilherme",
+    "Lucas",
+    "Felipe",
+    "Enzo",
+    "Vitor",
+    "Samuel",
+    "Marcos",
+    "João",
+    "Henrique",
+    "Thiago",
+    "Carlos",
+    "Igor",
+    "Eduardo",
+    "Júlio",
+    "Daniel",
+    "Leandro",
+    "Antonio",
+    "David",
+    "Ricardo",
+    "Augusto",
+    "José",
+    "Vinícius",
+    "Sergio",
+    "Fabio",
+    "Diego",
+    "Bruno",
+    "Luan",
+    "Rodrigo",
+    "Caio",
+    "Thiago",
+    "Fábio",
+    "Larissa",
+    "Gabriela"
+  ],
+  "lastnames": [
+    "Silva",
+    "Santos",
+    "Oliveira",
+    "Souza",
+    "Costa",
+    "Pereira",
+    "Rodrigues",
+    "Almeida",
+    "Lima",
+    "Gomes",
+    "Martins",
+    "Carvalho",
+    "Ribeiro",
+    "Moura",
+    "Nascimento",
+    "Fernandes",
+    "Araujo",
+    "Barbosa",
+    "Maciel",
+    "Dias",
+    "Moreira",
+    "Teixeira",
+    "Ferreira",
+    "Nascimento",
+    "Machado",
+    "Campos",
+    "Vieira",
+    "Pinto",
+    "Ramos",
+    "Costa",
+    "Vieira",
+    "Andrade",
+    "Cavalcante",
+    "Martins",
+    "Campos",
+    "Macedo",
+    "Cunha",
+    "Farias",
+    "Pacheco",
+    "César",
+    "Lima"
+  ]
 }

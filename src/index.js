@@ -148,15 +148,34 @@ async function generateAddress(count, info) {
             addressData.municipalities?.[selectedRegion];
 
         // Select a random city from the selected region
-        let cityData, data;
+        let cityData, cityName, data;
         const countryName = normalizeCountryName(country);
+
         if (countryName == 'usa') {
             data = await dataContainer.loadJSON(`../data/regions/${countryName}/${addressData.states[selectedRegion]}.json`);
-            cityData = getRandomElement(data.cities);
+            if (info.city ) {
+                cityData = data.cities[info.city];
+                cityName = info.city;
+            }
+            else {
+                const cityNames = Object.keys(data.cities); // Get all city names (keys)
+                cityName = getRandomElement(cityNames); // Select a random city key
+                cityData = data.cities[cityName]; // Access the city data
+            }
         } else {
-            cityData = getRandomElement(regionData.cities);
+            if (info.city && regionData.cities[info.city]) {
+                cityData = regionData.cities[info.city];
+                cityName = info.city;
+            }
+            else {
+                const cityNames = Object.keys(regionData.cities); // Get all city names (keys)
+                cityName = getRandomElement(cityNames); // Select a random city key
+                cityData = regionData.cities[cityName]; // Access the city data
+            }
         }
-        const { cityname, zipcodes, areacodes } = cityData;
+
+        const { zipcodes, areacodes } = cityData;
+
 
         // Select a random zip code and area code
         const zipCode = getRandomElement(zipcodes);
@@ -194,7 +213,7 @@ async function generateAddress(count, info) {
                     address["province"] = regionData.name;
                 }
             } else if (updatedField === 'city') {
-                address[field] = cityname;
+                address[field] = cityName;
             } else if (updatedField === 'zipcode') {
                 address[field] = zipCode;
             } else if (updatedField === 'phone' || updatedField === 'phoneno') {
@@ -259,4 +278,4 @@ async function generateAddress(count, info) {
 
 export const getAddress = async (count, info = infoObject) => {
     return await generateAddress(count, info);
-}
+};

@@ -1,3860 +1,3668 @@
 {
-    "countrycode": "+20",
-    "phoneformat": "(A) XXXX XXXX",
-    "country": "Egypt",
-    "neighborhoods": {
-        "corporate": [
-            "Zamalek",
-            "Maadi",
-            "Downtown Cairo",
-            "New Cairo",
-            "Mohandiseen",
-            "Nasr City",
-            "Heliopolis",
-            "Dokki",
-            "5th Settlement",
-            "Cairo Business District",
-            "October City",
-            "Shorouk City",
-            "Mokattam",
-            "Heliopolis Gardens",
-            "Garden City",
-            "Cairo International Airport Area",
-            "Heliopolis Sheraton",
-            "Giza",
-            "Alexandria City Center",
-            "New Capital City",
-            "Nasr City Business Park",
-            "Riverside Tower",
-            "Sheraton Heliopolis",
-            "New Administrative Capital",
-            "6th October City",
-            "Maadi Corniche",
-            "New Cairo City Center",
-            "Zayed City",
-            "Fifth District",
-            "Nasr City Central",
-            "Heliopolis Main Square",
-            "Mokattam Heights",
-            "Tahrir Square",
-            "Mohandessin Commercial Area",
-            "El Tagammu",
-            "Zayed Business District",
-            "Sharm El Sheikh Business Zone",
-            "Mokattam Heights",
-            "Downtown Alexandria",
-            "Alexandria Business District",
-            "October Industrial Area",
-            "New Giza Business Park",
-            "Al-Maadi Industrial Zone",
-            "Mohandiseen Commercial"
-        ],
-        "industrial": [
-            "Suez Industrial Zone",
-            "6th October Industrial Zone",
-            "Nasr City Industrial Area",
-            "Giza Industrial Zone",
-            "Alexandria Port Industrial Zone",
-            "Kafr El Sheikh Industrial Park",
-            "Banha Industrial Area",
-            "Helwan Industrial District",
-            "Mansoura Industrial Park",
-            "Port Said Industrial Zone",
-            "Sharm El Sheikh Industrial Zone",
-            "Tanta Industrial Area",
-            "Zagazig Industrial District",
-            "Beni Suef Industrial Zone",
-            "Minya Industrial Area",
-            "Assiut Industrial Zone",
-            "Luxor Industrial Complex",
-            "Ismailia Industrial Zone",
-            "Damietta Industrial Park",
-            "Port Said Free Zone",
-            "Cairo Industrial City",
-            "Al-Mahalla Industrial Zone",
-            "Damanhour Industrial Park",
-            "Marsa Matrouh Industrial Zone",
-            "Fayoum Industrial Complex",
-            "Suez Canal Industrial Area",
-            "Qena Industrial District",
-            "El-Mansoura Industrial Zone",
-            "Mersa Matrouh Free Zone",
-            "Shubra El Kheima Industrial District",
-            "Dakhla Industrial Park",
-            "Beni Suef Industrial Complex",
-            "Wadi El Natron Industrial Area",
-            "Cairo South Industrial Zone",
-            "Port Tawfik Industrial Park",
-            "Zefta Industrial Zone",
-            "Zagazig Business Park",
-            "Banha Industrial Park",
-            "Sohag Industrial Complex",
-            "Shandawil Industrial Area",
-            "Fayoum Industrial Park",
-            "Beni Mazar Industrial Zone",
-            "Hurghada Industrial Zone",
-            "Al-Obour Industrial Area",
-            "Helwan Factory Zone"
-        ],
-        "residential": [
-            "New Cairo",
-            "Zamalek",
-            "Maadi",
-            "Heliopolis",
-            "Mohandiseen",
-            "Nasr City",
-            "Garden City",
-            "Mokattam",
-            "5th Settlement",
-            "Dokki",
-            "Cairo",
-            "Hadayek El Ahram",
-            "Shorouk City",
-            "October City",
-            "Al Rehab City",
-            "6th October City",
-            "Nasr City Residential Area",
-            "Al Madinaty",
-            "Mansourah",
-            "Tanta",
-            "Alexandria",
-            "Sharm El Sheikh",
-            "Port Said",
-            "Luxor",
-            "Aswan",
-            "Damietta",
-            "Suez",
-            "Giza",
-            "Beni Suef",
-            "Minya",
-            "Ismailia",
-            "Qena",
-            "Fayoum",
-            "Assiut",
-            "Damanhour",
-            "Sohag",
-            "Zagazig",
-            "Banha",
-            "New Giza",
-            "Helwan",
-            "Shubra El Kheima",
-            "El Mahalla",
-            "Shandawil",
-            "Gharbia",
-            "Haram",
-            "Fayoum City",
-            "Cairo West",
-            "Zayed City",
-            "Kafr El Sheikh",
-            "El-Sadat City",
-            "Marsa Matrouh",
-            "Hurghada",
-            "Ras Sudr",
-            "Mansoura New City",
-            "October Residential Area",
-            "Zayed Residential Zone",
-            "Cairo South"
-        ]
+  "countrycode": "+20",
+  "phoneformat": "(A) XXXX XXXX",
+  "country": "Egypt",
+  "neighborhoods": {
+    "corporate": [
+      "Zamalek",
+      "Maadi",
+      "Downtown Cairo",
+      "New Cairo",
+      "Mohandiseen",
+      "Nasr City",
+      "Heliopolis",
+      "Dokki",
+      "5th Settlement",
+      "Cairo Business District",
+      "October City",
+      "Shorouk City",
+      "Mokattam",
+      "Heliopolis Gardens",
+      "Garden City",
+      "Cairo International Airport Area",
+      "Heliopolis Sheraton",
+      "Giza",
+      "Alexandria City Center",
+      "New Capital City",
+      "Nasr City Business Park",
+      "Riverside Tower",
+      "Sheraton Heliopolis",
+      "New Administrative Capital",
+      "6th October City",
+      "Maadi Corniche",
+      "New Cairo City Center",
+      "Zayed City",
+      "Fifth District",
+      "Nasr City Central",
+      "Heliopolis Main Square",
+      "Mokattam Heights",
+      "Tahrir Square",
+      "Mohandessin Commercial Area",
+      "El Tagammu",
+      "Zayed Business District",
+      "Sharm El Sheikh Business Zone",
+      "Mokattam Heights",
+      "Downtown Alexandria",
+      "Alexandria Business District",
+      "October Industrial Area",
+      "New Giza Business Park",
+      "Al-Maadi Industrial Zone",
+      "Mohandiseen Commercial"
+    ],
+    "industrial": [
+      "Suez Industrial Zone",
+      "6th October Industrial Zone",
+      "Nasr City Industrial Area",
+      "Giza Industrial Zone",
+      "Alexandria Port Industrial Zone",
+      "Kafr El Sheikh Industrial Park",
+      "Banha Industrial Area",
+      "Helwan Industrial District",
+      "Mansoura Industrial Park",
+      "Port Said Industrial Zone",
+      "Sharm El Sheikh Industrial Zone",
+      "Tanta Industrial Area",
+      "Zagazig Industrial District",
+      "Beni Suef Industrial Zone",
+      "Minya Industrial Area",
+      "Assiut Industrial Zone",
+      "Luxor Industrial Complex",
+      "Ismailia Industrial Zone",
+      "Damietta Industrial Park",
+      "Port Said Free Zone",
+      "Cairo Industrial City",
+      "Al-Mahalla Industrial Zone",
+      "Damanhour Industrial Park",
+      "Marsa Matrouh Industrial Zone",
+      "Fayoum Industrial Complex",
+      "Suez Canal Industrial Area",
+      "Qena Industrial District",
+      "El-Mansoura Industrial Zone",
+      "Mersa Matrouh Free Zone",
+      "Shubra El Kheima Industrial District",
+      "Dakhla Industrial Park",
+      "Beni Suef Industrial Complex",
+      "Wadi El Natron Industrial Area",
+      "Cairo South Industrial Zone",
+      "Port Tawfik Industrial Park",
+      "Zefta Industrial Zone",
+      "Zagazig Business Park",
+      "Banha Industrial Park",
+      "Sohag Industrial Complex",
+      "Shandawil Industrial Area",
+      "Fayoum Industrial Park",
+      "Beni Mazar Industrial Zone",
+      "Hurghada Industrial Zone",
+      "Al-Obour Industrial Area",
+      "Helwan Factory Zone"
+    ],
+    "residential": [
+      "New Cairo",
+      "Zamalek",
+      "Maadi",
+      "Heliopolis",
+      "Mohandiseen",
+      "Nasr City",
+      "Garden City",
+      "Mokattam",
+      "5th Settlement",
+      "Dokki",
+      "Cairo",
+      "Hadayek El Ahram",
+      "Shorouk City",
+      "October City",
+      "Al Rehab City",
+      "6th October City",
+      "Nasr City Residential Area",
+      "Al Madinaty",
+      "Mansourah",
+      "Tanta",
+      "Alexandria",
+      "Sharm El Sheikh",
+      "Port Said",
+      "Luxor",
+      "Aswan",
+      "Damietta",
+      "Suez",
+      "Giza",
+      "Beni Suef",
+      "Minya",
+      "Ismailia",
+      "Qena",
+      "Fayoum",
+      "Assiut",
+      "Damanhour",
+      "Sohag",
+      "Zagazig",
+      "Banha",
+      "New Giza",
+      "Helwan",
+      "Shubra El Kheima",
+      "El Mahalla",
+      "Shandawil",
+      "Gharbia",
+      "Haram",
+      "Fayoum City",
+      "Cairo West",
+      "Zayed City",
+      "Kafr El Sheikh",
+      "El-Sadat City",
+      "Marsa Matrouh",
+      "Hurghada",
+      "Ras Sudr",
+      "Mansoura New City",
+      "October Residential Area",
+      "Zayed Residential Zone",
+      "Cairo South"
+    ]
+  },
+  "streetnames": {
+    "corporate": [
+      "El-Giza Street",
+      "Tahrir Street",
+      "Ahram Street",
+      "Mohamed Mahmoud Street",
+      "Cairo International Airport Road",
+      "Sheraton Heliopolis Street",
+      "Gamal Abdel Nasser Street",
+      "Mohamed Farid Street",
+      "Pyramids Road",
+      "Cairo Downtown Street",
+      "Ramlet Boulac",
+      "Cairo Ring Road",
+      "Sheikh Zayed Street",
+      "Cairo-Heliopolis Road",
+      "El-Maadi Street",
+      "El-Tahrir Square",
+      "Ramses Street",
+      "Cairo Airport Road",
+      "Omar Mokhtar Street",
+      "Mansourah Street",
+      "Cairo University Street",
+      "Qasr El Nil Street",
+      "Mokattam Heights Road",
+      "El-Nasr Street",
+      "El-Maadi Corniche",
+      "Abbasia Street",
+      "Khaled Ibn Al-Walid Street",
+      "5th Settlement Road",
+      "Abdel Moneim Riad Street",
+      "Giza Mohandiseen Road",
+      "Pyramids Road",
+      "Alexandria Road",
+      "Mohamed Ali Street",
+      "Mohamed Said Street",
+      "Zamalek Street",
+      "Dokki Street",
+      "Ramallah Street",
+      "Cairo Airport Circle",
+      "Giza Pyramids Road",
+      "Cairo City Center",
+      "Al-Tagamoa El Khames Street",
+      "El-Nahda Street",
+      "El-Khalifa Street",
+      "Cairo Ring Road",
+      "Cairo Corniche Road"
+    ],
+    "industrial": [
+      "Industrial Zone 6th October",
+      "Suez Canal Industrial Road",
+      "El-Maadi Industrial Zone",
+      "Giza Industrial Road",
+      "Alexandria Port Road",
+      "Suez Industrial Road",
+      "Sharm El Sheikh Free Zone",
+      "Port Said Industrial Road",
+      "Beni Suef Industrial Road",
+      "Tanta Industrial Road",
+      "Damanhour Industrial Zone",
+      "Mansoura Industrial Road",
+      "Helwan Industrial Road",
+      "Minya Industrial Road",
+      "Assiut Industrial Road",
+      "Ismailia Industrial Road",
+      "Damietta Industrial Road",
+      "Luxor Industrial Road",
+      "Giza Industrial Park Road",
+      "Shorouk Industrial Zone",
+      "October Industrial Zone",
+      "Banha Industrial Zone",
+      "Fayoum Industrial Road",
+      "El-Obour Industrial Road",
+      "New Giza Industrial Zone",
+      "Cairo Industrial City Road",
+      "Wadi El Natron Industrial Zone",
+      "Sohag Industrial Park Road",
+      "Beni Mazar Industrial Road",
+      "Shubra El Kheima Industrial Zone",
+      "Zagazig Industrial Area",
+      "Qena Industrial Park",
+      "Sohag Industrial District",
+      "Hurghada Industrial Zone",
+      "Marsa Matrouh Industrial Road",
+      "Mokattam Industrial Area",
+      "Tanta Industrial Zone",
+      "Sharm El Sheikh Industrial District",
+      "Alexandria Free Zone",
+      "Zayed Industrial District",
+      "Kafr El Sheikh Industrial Road",
+      "Zagazig Industrial Road",
+      "Beni Suef Industrial Area",
+      "Dakhla Industrial Zone",
+      "Fayoum Industrial Park"
+    ],
+    "residential": [
+      "Al Rehab Street",
+      "Zamalek Street",
+      "Maadi Corniche",
+      "Mohandiseen Street",
+      "Nasr City Street",
+      "Heliopolis Square",
+      "Dokki Street",
+      "Mokattam Heights Road",
+      "5th Settlement Street",
+      "Garden City Road",
+      "Mansourah Road",
+      "New Cairo Street",
+      "Shorouk City Road",
+      "6th October City Road",
+      "Al Madinaty Road",
+      "Sharm El Sheikh Road",
+      "Luxor Road",
+      "Ismailia Road",
+      "Damietta Street",
+      "Tanta Road",
+      "Beni Suef Road",
+      "Minya Road",
+      "Port Said Road",
+      "Giza Road",
+      "Helwan Road",
+      "Shubra El Kheima Street",
+      "Fayoum Street",
+      "Sohag Street",
+      "Qena Street",
+      "Assiut Road",
+      "Damanhour Road",
+      "Beni Mazar Street",
+      "Suez Road",
+      "Marsa Matrouh Road",
+      "Hurghada Road",
+      "Alexandria Road",
+      "Kafr El Sheikh Road",
+      "El Tagamu Street",
+      "Zayed City Street",
+      "Fayoum City Street",
+      "Cairo South Road",
+      "Gharbia Road",
+      "Haram Road",
+      "Sohag Residential Zone",
+      "October Residential Street",
+      "Mokattam Residential Zone",
+      "Shandawil Road",
+      "Giza Residential Street"
+    ]
+  },
+  "governorates": {
+    "Cairo": {
+      "capital": "Cairo",
+      "cities": {
+        "Heliopolis": {
+          "zipcodes": [
+            "11341",
+            "11342",
+            "11343",
+            "11344",
+            "11345"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Nasr City": {
+          "zipcodes": [
+            "11471",
+            "11472",
+            "11473",
+            "11474",
+            "11475"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Maadi": {
+          "zipcodes": [
+            "11728",
+            "11729",
+            "11730",
+            "11731",
+            "11732"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Zamalek": {
+          "zipcodes": [
+            "11211",
+            "11212",
+            "11213",
+            "11214",
+            "11215"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Downtown Cairo": {
+          "zipcodes": [
+            "11511",
+            "11512",
+            "11513",
+            "11514",
+            "11515"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "New Cairo": {
+          "zipcodes": [
+            "11835",
+            "11836",
+            "11837",
+            "11838",
+            "11839"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Shubra": {
+          "zipcodes": [
+            "11611",
+            "11612",
+            "11613",
+            "11614",
+            "11615"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Garden City": {
+          "zipcodes": [
+            "11519",
+            "11520",
+            "11521",
+            "11522",
+            "11523"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Mohandiseen": {
+          "zipcodes": [
+            "12654",
+            "12655",
+            "12656",
+            "12657",
+            "12658"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "El Marg": {
+          "zipcodes": [
+            "13711",
+            "13712",
+            "13713",
+            "13714",
+            "13715"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        }
+      },
+      "name": "Cairo"
     },
-    "streetnames": {
-        "corporate": [
-            "El-Giza Street",
-            "Tahrir Street",
-            "Ahram Street",
-            "Mohamed Mahmoud Street",
-            "Cairo International Airport Road",
-            "Sheraton Heliopolis Street",
-            "Gamal Abdel Nasser Street",
-            "Mohamed Farid Street",
-            "Pyramids Road",
-            "Cairo Downtown Street",
-            "Ramlet Boulac",
-            "Cairo Ring Road",
-            "Sheikh Zayed Street",
-            "Cairo-Heliopolis Road",
-            "El-Maadi Street",
-            "El-Tahrir Square",
-            "Ramses Street",
-            "Cairo Airport Road",
-            "Omar Mokhtar Street",
-            "Mansourah Street",
-            "Cairo University Street",
-            "Qasr El Nil Street",
-            "Mokattam Heights Road",
-            "El-Nasr Street",
-            "El-Maadi Corniche",
-            "Abbasia Street",
-            "Khaled Ibn Al-Walid Street",
-            "5th Settlement Road",
-            "Abdel Moneim Riad Street",
-            "Giza Mohandiseen Road",
-            "Pyramids Road",
-            "Alexandria Road",
-            "Mohamed Ali Street",
-            "Mohamed Said Street",
-            "Zamalek Street",
-            "Dokki Street",
-            "Ramallah Street",
-            "Cairo Airport Circle",
-            "Giza Pyramids Road",
-            "Cairo City Center",
-            "Al-Tagamoa El Khames Street",
-            "El-Nahda Street",
-            "El-Khalifa Street",
-            "Cairo Ring Road",
-            "Cairo Corniche Road"
-        ],
-        "industrial": [
-            "Industrial Zone 6th October",
-            "Suez Canal Industrial Road",
-            "El-Maadi Industrial Zone",
-            "Giza Industrial Road",
-            "Alexandria Port Road",
-            "Suez Industrial Road",
-            "Sharm El Sheikh Free Zone",
-            "Port Said Industrial Road",
-            "Beni Suef Industrial Road",
-            "Tanta Industrial Road",
-            "Damanhour Industrial Zone",
-            "Mansoura Industrial Road",
-            "Helwan Industrial Road",
-            "Minya Industrial Road",
-            "Assiut Industrial Road",
-            "Ismailia Industrial Road",
-            "Damietta Industrial Road",
-            "Luxor Industrial Road",
-            "Giza Industrial Park Road",
-            "Shorouk Industrial Zone",
-            "October Industrial Zone",
-            "Banha Industrial Zone",
-            "Fayoum Industrial Road",
-            "El-Obour Industrial Road",
-            "New Giza Industrial Zone",
-            "Cairo Industrial City Road",
-            "Wadi El Natron Industrial Zone",
-            "Sohag Industrial Park Road",
-            "Beni Mazar Industrial Road",
-            "Shubra El Kheima Industrial Zone",
-            "Zagazig Industrial Area",
-            "Qena Industrial Park",
-            "Sohag Industrial District",
-            "Hurghada Industrial Zone",
-            "Marsa Matrouh Industrial Road",
-            "Mokattam Industrial Area",
-            "Tanta Industrial Zone",
-            "Sharm El Sheikh Industrial District",
-            "Alexandria Free Zone",
-            "Zayed Industrial District",
-            "Kafr El Sheikh Industrial Road",
-            "Zagazig Industrial Road",
-            "Beni Suef Industrial Area",
-            "Dakhla Industrial Zone",
-            "Fayoum Industrial Park"
-        ],
-        "residential": [
-            "Al Rehab Street",
-            "Zamalek Street",
-            "Maadi Corniche",
-            "Mohandiseen Street",
-            "Nasr City Street",
-            "Heliopolis Square",
-            "Dokki Street",
-            "Mokattam Heights Road",
-            "5th Settlement Street",
-            "Garden City Road",
-            "Mansourah Road",
-            "New Cairo Street",
-            "Shorouk City Road",
-            "6th October City Road",
-            "Al Madinaty Road",
-            "Sharm El Sheikh Road",
-            "Luxor Road",
-            "Ismailia Road",
-            "Damietta Street",
-            "Tanta Road",
-            "Beni Suef Road",
-            "Minya Road",
-            "Port Said Road",
-            "Giza Road",
-            "Helwan Road",
-            "Shubra El Kheima Street",
-            "Fayoum Street",
-            "Sohag Street",
-            "Qena Street",
-            "Assiut Road",
-            "Damanhour Road",
-            "Beni Mazar Street",
-            "Suez Road",
-            "Marsa Matrouh Road",
-            "Hurghada Road",
-            "Alexandria Road",
-            "Kafr El Sheikh Road",
-            "El Tagamu Street",
-            "Zayed City Street",
-            "Fayoum City Street",
-            "Cairo South Road",
-            "Gharbia Road",
-            "Haram Road",
-            "Sohag Residential Zone",
-            "October Residential Street",
-            "Mokattam Residential Zone",
-            "Shandawil Road",
-            "Giza Residential Street"
-        ]
+    "Alexandria": {
+      "capital": "Alexandria",
+      "cities": {
+        "El Mansheya": {
+          "zipcodes": [
+            "21519",
+            "21520",
+            "21521",
+            "21522",
+            "21523"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Sidi Gaber": {
+          "zipcodes": [
+            "21618",
+            "21619",
+            "21620",
+            "21621",
+            "21622"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "El Raml": {
+          "zipcodes": [
+            "21534",
+            "21535",
+            "21536",
+            "21537",
+            "21538"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Bacos": {
+          "zipcodes": [
+            "21611",
+            "21612",
+            "21613",
+            "21614",
+            "21615"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Smouha": {
+          "zipcodes": [
+            "21575",
+            "21576",
+            "21577",
+            "21578",
+            "21579"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "El Max": {
+          "zipcodes": [
+            "21632",
+            "21633",
+            "21634",
+            "21635",
+            "21636"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Al Mandara": {
+          "zipcodes": [
+            "21616",
+            "21617",
+            "21618",
+            "21619",
+            "21620"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Agami": {
+          "zipcodes": [
+            "21912",
+            "21913",
+            "21914",
+            "21915",
+            "21916"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "El Gomrok": {
+          "zipcodes": [
+            "21527",
+            "21528",
+            "21529",
+            "21530",
+            "21531"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Montaza": {
+          "zipcodes": [
+            "21911",
+            "21912",
+            "21913",
+            "21914",
+            "21915"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        }
+      },
+      "name": "Alexandria"
     },
-    "governorates": {
-        "Cairo": {
-            "capital": "Cairo",
-            "cities": [
-                {
-                    "cityname": "Heliopolis",
-                    "zipcodes": [
-                        "11341",
-                        "11342",
-                        "11343",
-                        "11344",
-                        "11345"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Nasr City",
-                    "zipcodes": [
-                        "11471",
-                        "11472",
-                        "11473",
-                        "11474",
-                        "11475"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Maadi",
-                    "zipcodes": [
-                        "11728",
-                        "11729",
-                        "11730",
-                        "11731",
-                        "11732"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Zamalek",
-                    "zipcodes": [
-                        "11211",
-                        "11212",
-                        "11213",
-                        "11214",
-                        "11215"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Downtown Cairo",
-                    "zipcodes": [
-                        "11511",
-                        "11512",
-                        "11513",
-                        "11514",
-                        "11515"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "New Cairo",
-                    "zipcodes": [
-                        "11835",
-                        "11836",
-                        "11837",
-                        "11838",
-                        "11839"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Shubra",
-                    "zipcodes": [
-                        "11611",
-                        "11612",
-                        "11613",
-                        "11614",
-                        "11615"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Garden City",
-                    "zipcodes": [
-                        "11519",
-                        "11520",
-                        "11521",
-                        "11522",
-                        "11523"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Mohandiseen",
-                    "zipcodes": [
-                        "12654",
-                        "12655",
-                        "12656",
-                        "12657",
-                        "12658"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "El Marg",
-                    "zipcodes": [
-                        "13711",
-                        "13712",
-                        "13713",
-                        "13714",
-                        "13715"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                }
-            ],
-            "name": "Cairo"
+    "Giza": {
+      "capital": "Giza",
+      "cities": {
+        "Dokki": {
+          "zipcodes": [
+            "12311",
+            "12312",
+            "12313",
+            "12314",
+            "12315"
+          ],
+          "areacodes": [
+            "02"
+          ]
         },
-        "Alexandria": {
-            "capital": "Alexandria",
-            "cities": [
-                {
-                    "cityname": "El Mansheya",
-                    "zipcodes": [
-                        "21519",
-                        "21520",
-                        "21521",
-                        "21522",
-                        "21523"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Sidi Gaber",
-                    "zipcodes": [
-                        "21618",
-                        "21619",
-                        "21620",
-                        "21621",
-                        "21622"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "El Raml",
-                    "zipcodes": [
-                        "21534",
-                        "21535",
-                        "21536",
-                        "21537",
-                        "21538"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Bacos",
-                    "zipcodes": [
-                        "21611",
-                        "21612",
-                        "21613",
-                        "21614",
-                        "21615"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Smouha",
-                    "zipcodes": [
-                        "21575",
-                        "21576",
-                        "21577",
-                        "21578",
-                        "21579"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "El Max",
-                    "zipcodes": [
-                        "21632",
-                        "21633",
-                        "21634",
-                        "21635",
-                        "21636"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Al Mandara",
-                    "zipcodes": [
-                        "21616",
-                        "21617",
-                        "21618",
-                        "21619",
-                        "21620"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Agami",
-                    "zipcodes": [
-                        "21912",
-                        "21913",
-                        "21914",
-                        "21915",
-                        "21916"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "El Gomrok",
-                    "zipcodes": [
-                        "21527",
-                        "21528",
-                        "21529",
-                        "21530",
-                        "21531"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Montaza",
-                    "zipcodes": [
-                        "21911",
-                        "21912",
-                        "21913",
-                        "21914",
-                        "21915"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                }
-            ],
-            "name": "Alexandria"
+        "Agouza": {
+          "zipcodes": [
+            "12654",
+            "12655",
+            "12656",
+            "12657",
+            "12658"
+          ],
+          "areacodes": [
+            "02"
+          ]
         },
-        "Giza": {
-            "capital": "Giza",
-            "cities": [
-                {
-                    "cityname": "Dokki",
-                    "zipcodes": [
-                        "12311",
-                        "12312",
-                        "12313",
-                        "12314",
-                        "12315"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Agouza",
-                    "zipcodes": [
-                        "12654",
-                        "12655",
-                        "12656",
-                        "12657",
-                        "12658"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "6th of October City",
-                    "zipcodes": [
-                        "12566",
-                        "12567",
-                        "12568",
-                        "12569",
-                        "12570"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Sheikh Zayed",
-                    "zipcodes": [
-                        "12588",
-                        "12589",
-                        "12590",
-                        "12591",
-                        "12592"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Haram",
-                    "zipcodes": [
-                        "12556",
-                        "12557",
-                        "12558",
-                        "12559",
-                        "12560"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Faisal",
-                    "zipcodes": [
-                        "12562",
-                        "12563",
-                        "12564",
-                        "12565",
-                        "12566"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Imbaba",
-                    "zipcodes": [
-                        "12611",
-                        "12612",
-                        "12613",
-                        "12614",
-                        "12615"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Al Barajil",
-                    "zipcodes": [
-                        "12821",
-                        "12822",
-                        "12823",
-                        "12824",
-                        "12825"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Bulaq Dakrour",
-                    "zipcodes": [
-                        "12711",
-                        "12712",
-                        "12713",
-                        "12714",
-                        "12715"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Kerdasa",
-                    "zipcodes": [
-                        "12956",
-                        "12957",
-                        "12958",
-                        "12959",
-                        "12960"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                }
-            ],
-            "name": "Giza"
+        "6th of October City": {
+          "zipcodes": [
+            "12566",
+            "12567",
+            "12568",
+            "12569",
+            "12570"
+          ],
+          "areacodes": [
+            "02"
+          ]
         },
-        "Qalyubia": {
-            "capital": "Banha",
-            "cities": [
-                {
-                    "cityname": "Banha",
-                    "zipcodes": [
-                        "13511",
-                        "13512",
-                        "13513",
-                        "13514",
-                        "13515"
-                    ],
-                    "areacodes": [
-                        "013"
-                    ]
-                },
-                {
-                    "cityname": "Qalyub",
-                    "zipcodes": [
-                        "13621",
-                        "13622",
-                        "13623",
-                        "13624",
-                        "13625"
-                    ],
-                    "areacodes": [
-                        "013"
-                    ]
-                },
-                {
-                    "cityname": "Shubra El Kheima",
-                    "zipcodes": [
-                        "13711",
-                        "13712",
-                        "13713",
-                        "13714",
-                        "13715"
-                    ],
-                    "areacodes": [
-                        "013"
-                    ]
-                },
-                {
-                    "cityname": "Toukh",
-                    "zipcodes": [
-                        "13631",
-                        "13632",
-                        "13633",
-                        "13634",
-                        "13635"
-                    ],
-                    "areacodes": [
-                        "013"
-                    ]
-                },
-                {
-                    "cityname": "Kafr Shukr",
-                    "zipcodes": [
-                        "13641",
-                        "13642",
-                        "13643",
-                        "13644",
-                        "13645"
-                    ],
-                    "areacodes": [
-                        "013"
-                    ]
-                },
-                {
-                    "cityname": "Shebin El Qanater",
-                    "zipcodes": [
-                        "13651",
-                        "13652",
-                        "13653",
-                        "13654",
-                        "13655"
-                    ],
-                    "areacodes": [
-                        "013"
-                    ]
-                },
-                {
-                    "cityname": "El Qanater El Khayreya",
-                    "zipcodes": [
-                        "13721",
-                        "13722",
-                        "13723",
-                        "13724",
-                        "13725"
-                    ],
-                    "areacodes": [
-                        "013"
-                    ]
-                },
-                {
-                    "cityname": "Khosous",
-                    "zipcodes": [
-                        "13731",
-                        "13732",
-                        "13733",
-                        "13734",
-                        "13735"
-                    ],
-                    "areacodes": [
-                        "013"
-                    ]
-                },
-                {
-                    "cityname": "Mostorod",
-                    "zipcodes": [
-                        "13741",
-                        "13742",
-                        "13743",
-                        "13744",
-                        "13745"
-                    ],
-                    "areacodes": [
-                        "013"
-                    ]
-                },
-                {
-                    "cityname": "El Khanka",
-                    "zipcodes": [
-                        "13751",
-                        "13752",
-                        "13753",
-                        "13754",
-                        "13755"
-                    ],
-                    "areacodes": [
-                        "013"
-                    ]
-                }
-            ],
-            "name": "Qalyubia"
+        "Sheikh Zayed": {
+          "zipcodes": [
+            "12588",
+            "12589",
+            "12590",
+            "12591",
+            "12592"
+          ],
+          "areacodes": [
+            "02"
+          ]
         },
-        "Port Said": {
-            "capital": "Port Said",
-            "cities": [
-                {
-                    "cityname": "Port Said City",
-                    "zipcodes": [
-                        "42111",
-                        "42112",
-                        "42113",
-                        "42114",
-                        "42115"
-                    ],
-                    "areacodes": [
-                        "066"
-                    ]
-                },
-                {
-                    "cityname": "El Manakh",
-                    "zipcodes": [
-                        "42211",
-                        "42212",
-                        "42213",
-                        "42214",
-                        "42215"
-                    ],
-                    "areacodes": [
-                        "066"
-                    ]
-                },
-                {
-                    "cityname": "El Arab",
-                    "zipcodes": [
-                        "42311",
-                        "42312",
-                        "42313",
-                        "42314",
-                        "42315"
-                    ],
-                    "areacodes": [
-                        "066"
-                    ]
-                },
-                {
-                    "cityname": "El Zohour",
-                    "zipcodes": [
-                        "42411",
-                        "42412",
-                        "42413",
-                        "42414",
-                        "42415"
-                    ],
-                    "areacodes": [
-                        "066"
-                    ]
-                },
-                {
-                    "cityname": "Port Fouad",
-                    "zipcodes": [
-                        "42511",
-                        "42512",
-                        "42513",
-                        "42514",
-                        "42515"
-                    ],
-                    "areacodes": [
-                        "066"
-                    ]
-                },
-                {
-                    "cityname": "El Sharq",
-                    "zipcodes": [
-                        "42611",
-                        "42612",
-                        "42613",
-                        "42614",
-                        "42615"
-                    ],
-                    "areacodes": [
-                        "066"
-                    ]
-                },
-                {
-                    "cityname": "El Dawahi",
-                    "zipcodes": [
-                        "42711",
-                        "42712",
-                        "42713",
-                        "42714",
-                        "42715"
-                    ],
-                    "areacodes": [
-                        "066"
-                    ]
-                },
-                {
-                    "cityname": "Mubarak Area",
-                    "zipcodes": [
-                        "42811",
-                        "42812",
-                        "42813",
-                        "42814",
-                        "42815"
-                    ],
-                    "areacodes": [
-                        "066"
-                    ]
-                },
-                {
-                    "cityname": "South District",
-                    "zipcodes": [
-                        "42911",
-                        "42912",
-                        "42913",
-                        "42914",
-                        "42915"
-                    ],
-                    "areacodes": [
-                        "066"
-                    ]
-                },
-                {
-                    "cityname": "West District",
-                    "zipcodes": [
-                        "43011",
-                        "43012",
-                        "43013",
-                        "43014",
-                        "43015"
-                    ],
-                    "areacodes": [
-                        "066"
-                    ]
-                }
-            ],
-            "name": "Port Said"
+        "Haram": {
+          "zipcodes": [
+            "12556",
+            "12557",
+            "12558",
+            "12559",
+            "12560"
+          ],
+          "areacodes": [
+            "02"
+          ]
         },
-        "Suez": {
-            "capital": "Suez",
-            "cities": [
-                {
-                    "cityname": "Suez City",
-                    "zipcodes": [
-                        "43511",
-                        "43512",
-                        "43513",
-                        "43514",
-                        "43515"
-                    ],
-                    "areacodes": [
-                        "062"
-                    ]
-                },
-                {
-                    "cityname": "Port Tawfiq",
-                    "zipcodes": [
-                        "43611",
-                        "43612",
-                        "43613",
-                        "43614",
-                        "43615"
-                    ],
-                    "areacodes": [
-                        "062"
-                    ]
-                },
-                {
-                    "cityname": "Al-Arbaeen",
-                    "zipcodes": [
-                        "43711",
-                        "43712",
-                        "43713",
-                        "43714",
-                        "43715"
-                    ],
-                    "areacodes": [
-                        "062"
-                    ]
-                },
-                {
-                    "cityname": "Attaka",
-                    "zipcodes": [
-                        "43811",
-                        "43812",
-                        "43813",
-                        "43814",
-                        "43815"
-                    ],
-                    "areacodes": [
-                        "062"
-                    ]
-                },
-                {
-                    "cityname": "Ash-Shallalah",
-                    "zipcodes": [
-                        "43911",
-                        "43912",
-                        "43913",
-                        "43914",
-                        "43915"
-                    ],
-                    "areacodes": [
-                        "062"
-                    ]
-                },
-                {
-                    "cityname": "Al-Hamra",
-                    "zipcodes": [
-                        "44011",
-                        "44012",
-                        "44013",
-                        "44014",
-                        "44015"
-                    ],
-                    "areacodes": [
-                        "062"
-                    ]
-                },
-                {
-                    "cityname": "Al-Mahmoudia",
-                    "zipcodes": [
-                        "44111",
-                        "44112",
-                        "44113",
-                        "44114",
-                        "44115"
-                    ],
-                    "areacodes": [
-                        "062"
-                    ]
-                },
-                {
-                    "cityname": "El-Bustan",
-                    "zipcodes": [
-                        "44211",
-                        "44212",
-                        "44213",
-                        "44214",
-                        "44215"
-                    ],
-                    "areacodes": [
-                        "062"
-                    ]
-                },
-                {
-                    "cityname": "Suez Port",
-                    "zipcodes": [
-                        "44311",
-                        "44312",
-                        "44313",
-                        "44314",
-                        "44315"
-                    ],
-                    "areacodes": [
-                        "062"
-                    ]
-                },
-                {
-                    "cityname": "New Suez",
-                    "zipcodes": [
-                        "44411",
-                        "44412",
-                        "44413",
-                        "44414",
-                        "44415"
-                    ],
-                    "areacodes": [
-                        "062"
-                    ]
-                }
-            ],
-            "name": "Suez"
+        "Faisal": {
+          "zipcodes": [
+            "12562",
+            "12563",
+            "12564",
+            "12565",
+            "12566"
+          ],
+          "areacodes": [
+            "02"
+          ]
         },
-        "Ismailia": {
-            "capital": "Ismailia",
-            "cities": [
-                {
-                    "cityname": "Ismailia City",
-                    "zipcodes": [
-                        "41611",
-                        "41612",
-                        "41613",
-                        "41614",
-                        "41615"
-                    ],
-                    "areacodes": [
-                        "064"
-                    ]
-                },
-                {
-                    "cityname": "El Tarf",
-                    "zipcodes": [
-                        "41711",
-                        "41712",
-                        "41713",
-                        "41714",
-                        "41715"
-                    ],
-                    "areacodes": [
-                        "064"
-                    ]
-                },
-                {
-                    "cityname": "El Qantara",
-                    "zipcodes": [
-                        "41811",
-                        "41812",
-                        "41813",
-                        "41814",
-                        "41815"
-                    ],
-                    "areacodes": [
-                        "064"
-                    ]
-                },
-                {
-                    "cityname": "Abu Suwir",
-                    "zipcodes": [
-                        "41911",
-                        "41912",
-                        "41913",
-                        "41914",
-                        "41915"
-                    ],
-                    "areacodes": [
-                        "064"
-                    ]
-                },
-                {
-                    "cityname": "El Giza",
-                    "zipcodes": [
-                        "42011",
-                        "42012",
-                        "42013",
-                        "42014",
-                        "42015"
-                    ],
-                    "areacodes": [
-                        "064"
-                    ]
-                },
-                {
-                    "cityname": "Fayed",
-                    "zipcodes": [
-                        "42111",
-                        "42112",
-                        "42113",
-                        "42114",
-                        "42115"
-                    ],
-                    "areacodes": [
-                        "064"
-                    ]
-                },
-                {
-                    "cityname": "Abu Sultan",
-                    "zipcodes": [
-                        "42211",
-                        "42212",
-                        "42213",
-                        "42214",
-                        "42215"
-                    ],
-                    "areacodes": [
-                        "064"
-                    ]
-                },
-                {
-                    "cityname": "El Khatatba",
-                    "zipcodes": [
-                        "42311",
-                        "42312",
-                        "42313",
-                        "42314",
-                        "42315"
-                    ],
-                    "areacodes": [
-                        "064"
-                    ]
-                },
-                {
-                    "cityname": "Suez Canal",
-                    "zipcodes": [
-                        "42411",
-                        "42412",
-                        "42413",
-                        "42414",
-                        "42415"
-                    ],
-                    "areacodes": [
-                        "064"
-                    ]
-                },
-                {
-                    "cityname": "El Nasha",
-                    "zipcodes": [
-                        "42511",
-                        "42512",
-                        "42513",
-                        "42514",
-                        "42515"
-                    ],
-                    "areacodes": [
-                        "064"
-                    ]
-                }
-            ],
-            "name": "Ismailia"
+        "Imbaba": {
+          "zipcodes": [
+            "12611",
+            "12612",
+            "12613",
+            "12614",
+            "12615"
+          ],
+          "areacodes": [
+            "02"
+          ]
         },
-        "Dakahlia": {
-            "capital": "Mansoura",
-            "cities": [
-                {
-                    "cityname": "Mansoura",
-                    "zipcodes": [
-                        "35511",
-                        "35512",
-                        "35513",
-                        "35514",
-                        "35515"
-                    ],
-                    "areacodes": [
-                        "050"
-                    ]
-                },
-                {
-                    "cityname": "Tala",
-                    "zipcodes": [
-                        "35611",
-                        "35612",
-                        "35613",
-                        "35614",
-                        "35615"
-                    ],
-                    "areacodes": [
-                        "050"
-                    ]
-                },
-                {
-                    "cityname": "Dekernes",
-                    "zipcodes": [
-                        "35711",
-                        "35712",
-                        "35713",
-                        "35714",
-                        "35715"
-                    ],
-                    "areacodes": [
-                        "050"
-                    ]
-                },
-                {
-                    "cityname": "Banha",
-                    "zipcodes": [
-                        "35811",
-                        "35812",
-                        "35813",
-                        "35814",
-                        "35815"
-                    ],
-                    "areacodes": [
-                        "050"
-                    ]
-                },
-                {
-                    "cityname": "El Matareya",
-                    "zipcodes": [
-                        "35911",
-                        "35912",
-                        "35913",
-                        "35914",
-                        "35915"
-                    ],
-                    "areacodes": [
-                        "050"
-                    ]
-                },
-                {
-                    "cityname": "El Sherbeen",
-                    "zipcodes": [
-                        "36011",
-                        "36012",
-                        "36013",
-                        "36014",
-                        "36015"
-                    ],
-                    "areacodes": [
-                        "050"
-                    ]
-                },
-                {
-                    "cityname": "Kafr Saad",
-                    "zipcodes": [
-                        "36111",
-                        "36112",
-                        "36113",
-                        "36114",
-                        "36115"
-                    ],
-                    "areacodes": [
-                        "050"
-                    ]
-                },
-                {
-                    "cityname": "Belqas",
-                    "zipcodes": [
-                        "36211",
-                        "36212",
-                        "36213",
-                        "36214",
-                        "36215"
-                    ],
-                    "areacodes": [
-                        "050"
-                    ]
-                },
-                {
-                    "cityname": "Aga",
-                    "zipcodes": [
-                        "36311",
-                        "36312",
-                        "36313",
-                        "36314",
-                        "36315"
-                    ],
-                    "areacodes": [
-                        "050"
-                    ]
-                },
-                {
-                    "cityname": "El Mahalla",
-                    "zipcodes": [
-                        "36411",
-                        "36412",
-                        "36413",
-                        "36414",
-                        "36415"
-                    ],
-                    "areacodes": [
-                        "050"
-                    ]
-                }
-            ],
-            "name": "Dakahlia"
+        "Al Barajil": {
+          "zipcodes": [
+            "12821",
+            "12822",
+            "12823",
+            "12824",
+            "12825"
+          ],
+          "areacodes": [
+            "02"
+          ]
         },
-        "Damietta": {
-            "capital": "Damietta City",
-            "cities": [
-                {
-                    "cityname": "Damietta City",
-                    "zipcodes": [
-                        "34511",
-                        "34512",
-                        "34513",
-                        "34514",
-                        "34515"
-                    ],
-                    "areacodes": [
-                        "057"
-                    ]
-                },
-                {
-                    "cityname": "New Damietta",
-                    "zipcodes": [
-                        "34611",
-                        "34612",
-                        "34613",
-                        "34614",
-                        "34615"
-                    ],
-                    "areacodes": [
-                        "057"
-                    ]
-                },
-                {
-                    "cityname": "Ras El Bar",
-                    "zipcodes": [
-                        "34711",
-                        "34712",
-                        "34713",
-                        "34714",
-                        "34715"
-                    ],
-                    "areacodes": [
-                        "057"
-                    ]
-                },
-                {
-                    "cityname": "Kafr Saad",
-                    "zipcodes": [
-                        "34811",
-                        "34812",
-                        "34813",
-                        "34814",
-                        "34815"
-                    ],
-                    "areacodes": [
-                        "057"
-                    ]
-                },
-                {
-                    "cityname": "El Zarka",
-                    "zipcodes": [
-                        "34911",
-                        "34912",
-                        "34913",
-                        "34914",
-                        "34915"
-                    ],
-                    "areacodes": [
-                        "057"
-                    ]
-                },
-                {
-                    "cityname": "Shata",
-                    "zipcodes": [
-                        "35011",
-                        "35012",
-                        "35013",
-                        "35014",
-                        "35015"
-                    ],
-                    "areacodes": [
-                        "057"
-                    ]
-                },
-                {
-                    "cityname": "Faruqiya",
-                    "zipcodes": [
-                        "35111",
-                        "35112",
-                        "35113",
-                        "35114",
-                        "35115"
-                    ],
-                    "areacodes": [
-                        "057"
-                    ]
-                },
-                {
-                    "cityname": "Sahl El Hossain",
-                    "zipcodes": [
-                        "35211",
-                        "35212",
-                        "35213",
-                        "35214",
-                        "35215"
-                    ],
-                    "areacodes": [
-                        "057"
-                    ]
-                },
-                {
-                    "cityname": "El Qantara",
-                    "zipcodes": [
-                        "35311",
-                        "35312",
-                        "35313",
-                        "35314",
-                        "35315"
-                    ],
-                    "areacodes": [
-                        "057"
-                    ]
-                },
-                {
-                    "cityname": "Az Zarqa",
-                    "zipcodes": [
-                        "35411",
-                        "35412",
-                        "35413",
-                        "35414",
-                        "35415"
-                    ],
-                    "areacodes": [
-                        "057"
-                    ]
-                }
-            ],
-            "name": "Damietta"
+        "Bulaq Dakrour": {
+          "zipcodes": [
+            "12711",
+            "12712",
+            "12713",
+            "12714",
+            "12715"
+          ],
+          "areacodes": [
+            "02"
+          ]
         },
-        "Sharqia": {
-            "capital": "Zagazig",
-            "cities": [
-                {
-                    "cityname": "Zagazig",
-                    "zipcodes": [
-                        "44511",
-                        "44512",
-                        "44513",
-                        "44514",
-                        "44515"
-                    ],
-                    "areacodes": [
-                        "055"
-                    ]
-                },
-                {
-                    "cityname": "10th of Ramadan City",
-                    "zipcodes": [
-                        "44611",
-                        "44612",
-                        "44613",
-                        "44614",
-                        "44615"
-                    ],
-                    "areacodes": [
-                        "055"
-                    ]
-                },
-                {
-                    "cityname": "Belbais",
-                    "zipcodes": [
-                        "44711",
-                        "44712",
-                        "44713",
-                        "44714",
-                        "44715"
-                    ],
-                    "areacodes": [
-                        "055"
-                    ]
-                },
-                {
-                    "cityname": "Dairut",
-                    "zipcodes": [
-                        "44811",
-                        "44812",
-                        "44813",
-                        "44814",
-                        "44815"
-                    ],
-                    "areacodes": [
-                        "055"
-                    ]
-                },
-                {
-                    "cityname": "Faqous",
-                    "zipcodes": [
-                        "44911",
-                        "44912",
-                        "44913",
-                        "44914",
-                        "44915"
-                    ],
-                    "areacodes": [
-                        "055"
-                    ]
-                },
-                {
-                    "cityname": "Kafr Saqr",
-                    "zipcodes": [
-                        "45011",
-                        "45012",
-                        "45013",
-                        "45014",
-                        "45015"
-                    ],
-                    "areacodes": [
-                        "055"
-                    ]
-                },
-                {
-                    "cityname": "Minya El Qamh",
-                    "zipcodes": [
-                        "45111",
-                        "45112",
-                        "45113",
-                        "45114",
-                        "45115"
-                    ],
-                    "areacodes": [
-                        "055"
-                    ]
-                },
-                {
-                    "cityname": "El Husseiniya",
-                    "zipcodes": [
-                        "45211",
-                        "45212",
-                        "45213",
-                        "45214",
-                        "45215"
-                    ],
-                    "areacodes": [
-                        "055"
-                    ]
-                },
-                {
-                    "cityname": "Abu Hammad",
-                    "zipcodes": [
-                        "45311",
-                        "45312",
-                        "45313",
-                        "45314",
-                        "45315"
-                    ],
-                    "areacodes": [
-                        "055"
-                    ]
-                },
-                {
-                    "cityname": "Banha",
-                    "zipcodes": [
-                        "45411",
-                        "45412",
-                        "45413",
-                        "45414",
-                        "45415"
-                    ],
-                    "areacodes": [
-                        "055"
-                    ]
-                }
-            ],
-            "name": "Sharqia"
+        "Kerdasa": {
+          "zipcodes": [
+            "12956",
+            "12957",
+            "12958",
+            "12959",
+            "12960"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        }
+      },
+      "name": "Giza"
+    },
+    "Qalyubia": {
+      "capital": "Banha",
+      "cities": {
+        "Banha": {
+          "zipcodes": [
+            "13511",
+            "13512",
+            "13513",
+            "13514",
+            "13515"
+          ],
+          "areacodes": [
+            "013"
+          ]
         },
-        "Kafr El Sheikh": {
-            "capital": "Kafr El Sheikh City",
-            "cities": [
-                {
-                    "cityname": "Kafr El Sheikh City",
-                    "zipcodes": [
-                        "33511",
-                        "33512",
-                        "33513",
-                        "33514",
-                        "33515"
-                    ],
-                    "areacodes": [
-                        "047"
-                    ]
-                },
-                {
-                    "cityname": "Desouk",
-                    "zipcodes": [
-                        "33611",
-                        "33612",
-                        "33613",
-                        "33614",
-                        "33615"
-                    ],
-                    "areacodes": [
-                        "047"
-                    ]
-                },
-                {
-                    "cityname": "Riyad",
-                    "zipcodes": [
-                        "33711",
-                        "33712",
-                        "33713",
-                        "33714",
-                        "33715"
-                    ],
-                    "areacodes": [
-                        "047"
-                    ]
-                },
-                {
-                    "cityname": "Balteem",
-                    "zipcodes": [
-                        "33811",
-                        "33812",
-                        "33813",
-                        "33814",
-                        "33815"
-                    ],
-                    "areacodes": [
-                        "047"
-                    ]
-                },
-                {
-                    "cityname": "Qallin",
-                    "zipcodes": [
-                        "33911",
-                        "33912",
-                        "33913",
-                        "33914",
-                        "33915"
-                    ],
-                    "areacodes": [
-                        "047"
-                    ]
-                },
-                {
-                    "cityname": "Fuwah",
-                    "zipcodes": [
-                        "34011",
-                        "34012",
-                        "34013",
-                        "34014",
-                        "34015"
-                    ],
-                    "areacodes": [
-                        "047"
-                    ]
-                },
-                {
-                    "cityname": "El Hamool",
-                    "zipcodes": [
-                        "34111",
-                        "34112",
-                        "34113",
-                        "34114",
-                        "34115"
-                    ],
-                    "areacodes": [
-                        "047"
-                    ]
-                },
-                {
-                    "cityname": "Sidi Salem",
-                    "zipcodes": [
-                        "34211",
-                        "34212",
-                        "34213",
-                        "34214",
-                        "34215"
-                    ],
-                    "areacodes": [
-                        "047"
-                    ]
-                },
-                {
-                    "cityname": "Biyala",
-                    "zipcodes": [
-                        "34311",
-                        "34312",
-                        "34313",
-                        "34314",
-                        "34315"
-                    ],
-                    "areacodes": [
-                        "047"
-                    ]
-                },
-                {
-                    "cityname": "Kafr Saad",
-                    "zipcodes": [
-                        "34411",
-                        "34412",
-                        "34413",
-                        "34414",
-                        "34415"
-                    ],
-                    "areacodes": [
-                        "047"
-                    ]
-                }
-            ],
-            "name": "Kafr El Sheikh"
+        "Qalyub": {
+          "zipcodes": [
+            "13621",
+            "13622",
+            "13623",
+            "13624",
+            "13625"
+          ],
+          "areacodes": [
+            "013"
+          ]
         },
-        "Gharbia": {
-            "capital": "Tanta",
-            "cities": [
-                {
-                    "cityname": "Tanta",
-                    "zipcodes": [
-                        "31911",
-                        "31912",
-                        "31913",
-                        "31914",
-                        "31915"
-                    ],
-                    "areacodes": [
-                        "040"
-                    ]
-                },
-                {
-                    "cityname": "Mahalla al-Kubra",
-                    "zipcodes": [
-                        "31921",
-                        "31922",
-                        "31923",
-                        "31924",
-                        "31925"
-                    ],
-                    "areacodes": [
-                        "040"
-                    ]
-                },
-                {
-                    "cityname": "Kafr El Zayat",
-                    "zipcodes": [
-                        "31931",
-                        "31932",
-                        "31933",
-                        "31934",
-                        "31935"
-                    ],
-                    "areacodes": [
-                        "040"
-                    ]
-                },
-                {
-                    "cityname": "Zefta",
-                    "zipcodes": [
-                        "31941",
-                        "31942",
-                        "31943",
-                        "31944",
-                        "31945"
-                    ],
-                    "areacodes": [
-                        "040"
-                    ]
-                },
-                {
-                    "cityname": "El-Santa",
-                    "zipcodes": [
-                        "31951",
-                        "31952",
-                        "31953",
-                        "31954",
-                        "31955"
-                    ],
-                    "areacodes": [
-                        "040"
-                    ]
-                },
-                {
-                    "cityname": "Basyoun",
-                    "zipcodes": [
-                        "31961",
-                        "31962",
-                        "31963",
-                        "31964",
-                        "31965"
-                    ],
-                    "areacodes": [
-                        "040"
-                    ]
-                },
-                {
-                    "cityname": "Kafr El-Dawar",
-                    "zipcodes": [
-                        "31971",
-                        "31972",
-                        "31973",
-                        "31974",
-                        "31975"
-                    ],
-                    "areacodes": [
-                        "040"
-                    ]
-                },
-                {
-                    "cityname": "Banha",
-                    "zipcodes": [
-                        "31981",
-                        "31982",
-                        "31983",
-                        "31984",
-                        "31985"
-                    ],
-                    "areacodes": [
-                        "040"
-                    ]
-                },
-                {
-                    "cityname": "Tamiya",
-                    "zipcodes": [
-                        "31991",
-                        "31992",
-                        "31993",
-                        "31994",
-                        "31995"
-                    ],
-                    "areacodes": [
-                        "040"
-                    ]
-                },
-                {
-                    "cityname": "Samanoud",
-                    "zipcodes": [
-                        "32011",
-                        "32012",
-                        "32013",
-                        "32014",
-                        "32015"
-                    ],
-                    "areacodes": [
-                        "040"
-                    ]
-                }
-            ],
-            "name": "Gharbia"
+        "Shubra El Kheima": {
+          "zipcodes": [
+            "13711",
+            "13712",
+            "13713",
+            "13714",
+            "13715"
+          ],
+          "areacodes": [
+            "013"
+          ]
         },
-        "Menoufia": {
-            "capital": "Shebin El-Kom",
-            "cities": [
-                {
-                    "cityname": "Shebin El-Kom",
-                    "zipcodes": [
-                        "32511",
-                        "32512",
-                        "32513",
-                        "32514",
-                        "32515"
-                    ],
-                    "areacodes": [
-                        "048"
-                    ]
-                },
-                {
-                    "cityname": "Benha",
-                    "zipcodes": [
-                        "32521",
-                        "32522",
-                        "32523",
-                        "32524",
-                        "32525"
-                    ],
-                    "areacodes": [
-                        "048"
-                    ]
-                },
-                {
-                    "cityname": "Quesna",
-                    "zipcodes": [
-                        "32531",
-                        "32532",
-                        "32533",
-                        "32534",
-                        "32535"
-                    ],
-                    "areacodes": [
-                        "048"
-                    ]
-                },
-                {
-                    "cityname": "Ashmoun",
-                    "zipcodes": [
-                        "32541",
-                        "32542",
-                        "32543",
-                        "32544",
-                        "32545"
-                    ],
-                    "areacodes": [
-                        "048"
-                    ]
-                },
-                {
-                    "cityname": "Shibin El-Qanater",
-                    "zipcodes": [
-                        "32551",
-                        "32552",
-                        "32553",
-                        "32554",
-                        "32555"
-                    ],
-                    "areacodes": [
-                        "048"
-                    ]
-                },
-                {
-                    "cityname": "Menouf",
-                    "zipcodes": [
-                        "32561",
-                        "32562",
-                        "32563",
-                        "32564",
-                        "32565"
-                    ],
-                    "areacodes": [
-                        "048"
-                    ]
-                },
-                {
-                    "cityname": "Tanta",
-                    "zipcodes": [
-                        "32571",
-                        "32572",
-                        "32573",
-                        "32574",
-                        "32575"
-                    ],
-                    "areacodes": [
-                        "048"
-                    ]
-                },
-                {
-                    "cityname": "Sadat City",
-                    "zipcodes": [
-                        "32581",
-                        "32582",
-                        "32583",
-                        "32584",
-                        "32585"
-                    ],
-                    "areacodes": [
-                        "048"
-                    ]
-                },
-                {
-                    "cityname": "Banha",
-                    "zipcodes": [
-                        "32591",
-                        "32592",
-                        "32593",
-                        "32594",
-                        "32595"
-                    ],
-                    "areacodes": [
-                        "048"
-                    ]
-                },
-                {
-                    "cityname": "Samannoud",
-                    "zipcodes": [
-                        "32611",
-                        "32612",
-                        "32613",
-                        "32614",
-                        "32615"
-                    ],
-                    "areacodes": [
-                        "048"
-                    ]
-                }
-            ],
-            "name": "Menoufia"
+        "Toukh": {
+          "zipcodes": [
+            "13631",
+            "13632",
+            "13633",
+            "13634",
+            "13635"
+          ],
+          "areacodes": [
+            "013"
+          ]
         },
-        "Beheira": {
-            "capital": "Damanhur",
-            "cities": [
-                {
-                    "cityname": "Damanhur",
-                    "zipcodes": [
-                        "22511",
-                        "22512",
-                        "22513",
-                        "22514",
-                        "22515"
-                    ],
-                    "areacodes": [
-                        "045"
-                    ]
-                },
-                {
-                    "cityname": "Kafr El-Dawar",
-                    "zipcodes": [
-                        "22521",
-                        "22522",
-                        "22523",
-                        "22524",
-                        "22525"
-                    ],
-                    "areacodes": [
-                        "045"
-                    ]
-                },
-                {
-                    "cityname": "Rashid",
-                    "zipcodes": [
-                        "22531",
-                        "22532",
-                        "22533",
-                        "22534",
-                        "22535"
-                    ],
-                    "areacodes": [
-                        "045"
-                    ]
-                },
-                {
-                    "cityname": "El-Bostan",
-                    "zipcodes": [
-                        "22541",
-                        "22542",
-                        "22543",
-                        "22544",
-                        "22545"
-                    ],
-                    "areacodes": [
-                        "045"
-                    ]
-                },
-                {
-                    "cityname": "Shubrakhit",
-                    "zipcodes": [
-                        "22551",
-                        "22552",
-                        "22553",
-                        "22554",
-                        "22555"
-                    ],
-                    "areacodes": [
-                        "045"
-                    ]
-                },
-                {
-                    "cityname": "Itay El-Barud",
-                    "zipcodes": [
-                        "22561",
-                        "22562",
-                        "22563",
-                        "22564",
-                        "22565"
-                    ],
-                    "areacodes": [
-                        "045"
-                    ]
-                },
-                {
-                    "cityname": "Abu Hummus",
-                    "zipcodes": [
-                        "22571",
-                        "22572",
-                        "22573",
-                        "22574",
-                        "22575"
-                    ],
-                    "areacodes": [
-                        "045"
-                    ]
-                },
-                {
-                    "cityname": "Kom Hamada",
-                    "zipcodes": [
-                        "22581",
-                        "22582",
-                        "22583",
-                        "22584",
-                        "22585"
-                    ],
-                    "areacodes": [
-                        "045"
-                    ]
-                },
-                {
-                    "cityname": "Wadi El-Natrun",
-                    "zipcodes": [
-                        "22591",
-                        "22592",
-                        "22593",
-                        "22594",
-                        "22595"
-                    ],
-                    "areacodes": [
-                        "045"
-                    ]
-                },
-                {
-                    "cityname": "Hosh Issa",
-                    "zipcodes": [
-                        "22611",
-                        "22612",
-                        "22613",
-                        "22614",
-                        "22615"
-                    ],
-                    "areacodes": [
-                        "045"
-                    ]
-                }
-            ],
-            "name": "Beheira"
+        "Kafr Shukr": {
+          "zipcodes": [
+            "13641",
+            "13642",
+            "13643",
+            "13644",
+            "13645"
+          ],
+          "areacodes": [
+            "013"
+          ]
         },
+        "Shebin El Qanater": {
+          "zipcodes": [
+            "13651",
+            "13652",
+            "13653",
+            "13654",
+            "13655"
+          ],
+          "areacodes": [
+            "013"
+          ]
+        },
+        "El Qanater El Khayreya": {
+          "zipcodes": [
+            "13721",
+            "13722",
+            "13723",
+            "13724",
+            "13725"
+          ],
+          "areacodes": [
+            "013"
+          ]
+        },
+        "Khosous": {
+          "zipcodes": [
+            "13731",
+            "13732",
+            "13733",
+            "13734",
+            "13735"
+          ],
+          "areacodes": [
+            "013"
+          ]
+        },
+        "Mostorod": {
+          "zipcodes": [
+            "13741",
+            "13742",
+            "13743",
+            "13744",
+            "13745"
+          ],
+          "areacodes": [
+            "013"
+          ]
+        },
+        "El Khanka": {
+          "zipcodes": [
+            "13751",
+            "13752",
+            "13753",
+            "13754",
+            "13755"
+          ],
+          "areacodes": [
+            "013"
+          ]
+        }
+      },
+      "name": "Qalyubia"
+    },
+    "Port Said": {
+      "capital": "Port Said",
+      "cities": {
+        "Port Said City": {
+          "zipcodes": [
+            "42111",
+            "42112",
+            "42113",
+            "42114",
+            "42115"
+          ],
+          "areacodes": [
+            "066"
+          ]
+        },
+        "El Manakh": {
+          "zipcodes": [
+            "42211",
+            "42212",
+            "42213",
+            "42214",
+            "42215"
+          ],
+          "areacodes": [
+            "066"
+          ]
+        },
+        "El Arab": {
+          "zipcodes": [
+            "42311",
+            "42312",
+            "42313",
+            "42314",
+            "42315"
+          ],
+          "areacodes": [
+            "066"
+          ]
+        },
+        "El Zohour": {
+          "zipcodes": [
+            "42411",
+            "42412",
+            "42413",
+            "42414",
+            "42415"
+          ],
+          "areacodes": [
+            "066"
+          ]
+        },
+        "Port Fouad": {
+          "zipcodes": [
+            "42511",
+            "42512",
+            "42513",
+            "42514",
+            "42515"
+          ],
+          "areacodes": [
+            "066"
+          ]
+        },
+        "El Sharq": {
+          "zipcodes": [
+            "42611",
+            "42612",
+            "42613",
+            "42614",
+            "42615"
+          ],
+          "areacodes": [
+            "066"
+          ]
+        },
+        "El Dawahi": {
+          "zipcodes": [
+            "42711",
+            "42712",
+            "42713",
+            "42714",
+            "42715"
+          ],
+          "areacodes": [
+            "066"
+          ]
+        },
+        "Mubarak Area": {
+          "zipcodes": [
+            "42811",
+            "42812",
+            "42813",
+            "42814",
+            "42815"
+          ],
+          "areacodes": [
+            "066"
+          ]
+        },
+        "South District": {
+          "zipcodes": [
+            "42911",
+            "42912",
+            "42913",
+            "42914",
+            "42915"
+          ],
+          "areacodes": [
+            "066"
+          ]
+        },
+        "West District": {
+          "zipcodes": [
+            "43011",
+            "43012",
+            "43013",
+            "43014",
+            "43015"
+          ],
+          "areacodes": [
+            "066"
+          ]
+        }
+      },
+      "name": "Port Said"
+    },
+    "Suez": {
+      "capital": "Suez",
+      "cities": {
+        "Suez City": {
+          "zipcodes": [
+            "43511",
+            "43512",
+            "43513",
+            "43514",
+            "43515"
+          ],
+          "areacodes": [
+            "062"
+          ]
+        },
+        "Port Tawfiq": {
+          "zipcodes": [
+            "43611",
+            "43612",
+            "43613",
+            "43614",
+            "43615"
+          ],
+          "areacodes": [
+            "062"
+          ]
+        },
+        "Al-Arbaeen": {
+          "zipcodes": [
+            "43711",
+            "43712",
+            "43713",
+            "43714",
+            "43715"
+          ],
+          "areacodes": [
+            "062"
+          ]
+        },
+        "Attaka": {
+          "zipcodes": [
+            "43811",
+            "43812",
+            "43813",
+            "43814",
+            "43815"
+          ],
+          "areacodes": [
+            "062"
+          ]
+        },
+        "Ash-Shallalah": {
+          "zipcodes": [
+            "43911",
+            "43912",
+            "43913",
+            "43914",
+            "43915"
+          ],
+          "areacodes": [
+            "062"
+          ]
+        },
+        "Al-Hamra": {
+          "zipcodes": [
+            "44011",
+            "44012",
+            "44013",
+            "44014",
+            "44015"
+          ],
+          "areacodes": [
+            "062"
+          ]
+        },
+        "Al-Mahmoudia": {
+          "zipcodes": [
+            "44111",
+            "44112",
+            "44113",
+            "44114",
+            "44115"
+          ],
+          "areacodes": [
+            "062"
+          ]
+        },
+        "El-Bustan": {
+          "zipcodes": [
+            "44211",
+            "44212",
+            "44213",
+            "44214",
+            "44215"
+          ],
+          "areacodes": [
+            "062"
+          ]
+        },
+        "Suez Port": {
+          "zipcodes": [
+            "44311",
+            "44312",
+            "44313",
+            "44314",
+            "44315"
+          ],
+          "areacodes": [
+            "062"
+          ]
+        },
+        "New Suez": {
+          "zipcodes": [
+            "44411",
+            "44412",
+            "44413",
+            "44414",
+            "44415"
+          ],
+          "areacodes": [
+            "062"
+          ]
+        }
+      },
+      "name": "Suez"
+    },
+    "Ismailia": {
+      "capital": "Ismailia",
+      "cities": {
+        "Ismailia City": {
+          "zipcodes": [
+            "41611",
+            "41612",
+            "41613",
+            "41614",
+            "41615"
+          ],
+          "areacodes": [
+            "064"
+          ]
+        },
+        "El Tarf": {
+          "zipcodes": [
+            "41711",
+            "41712",
+            "41713",
+            "41714",
+            "41715"
+          ],
+          "areacodes": [
+            "064"
+          ]
+        },
+        "El Qantara": {
+          "zipcodes": [
+            "41811",
+            "41812",
+            "41813",
+            "41814",
+            "41815"
+          ],
+          "areacodes": [
+            "064"
+          ]
+        },
+        "Abu Suwir": {
+          "zipcodes": [
+            "41911",
+            "41912",
+            "41913",
+            "41914",
+            "41915"
+          ],
+          "areacodes": [
+            "064"
+          ]
+        },
+        "El Giza": {
+          "zipcodes": [
+            "42011",
+            "42012",
+            "42013",
+            "42014",
+            "42015"
+          ],
+          "areacodes": [
+            "064"
+          ]
+        },
+        "Fayed": {
+          "zipcodes": [
+            "42111",
+            "42112",
+            "42113",
+            "42114",
+            "42115"
+          ],
+          "areacodes": [
+            "064"
+          ]
+        },
+        "Abu Sultan": {
+          "zipcodes": [
+            "42211",
+            "42212",
+            "42213",
+            "42214",
+            "42215"
+          ],
+          "areacodes": [
+            "064"
+          ]
+        },
+        "El Khatatba": {
+          "zipcodes": [
+            "42311",
+            "42312",
+            "42313",
+            "42314",
+            "42315"
+          ],
+          "areacodes": [
+            "064"
+          ]
+        },
+        "Suez Canal": {
+          "zipcodes": [
+            "42411",
+            "42412",
+            "42413",
+            "42414",
+            "42415"
+          ],
+          "areacodes": [
+            "064"
+          ]
+        },
+        "El Nasha": {
+          "zipcodes": [
+            "42511",
+            "42512",
+            "42513",
+            "42514",
+            "42515"
+          ],
+          "areacodes": [
+            "064"
+          ]
+        }
+      },
+      "name": "Ismailia"
+    },
+    "Dakahlia": {
+      "capital": "Mansoura",
+      "cities": {
+        "Mansoura": {
+          "zipcodes": [
+            "35511",
+            "35512",
+            "35513",
+            "35514",
+            "35515"
+          ],
+          "areacodes": [
+            "050"
+          ]
+        },
+        "Tala": {
+          "zipcodes": [
+            "35611",
+            "35612",
+            "35613",
+            "35614",
+            "35615"
+          ],
+          "areacodes": [
+            "050"
+          ]
+        },
+        "Dekernes": {
+          "zipcodes": [
+            "35711",
+            "35712",
+            "35713",
+            "35714",
+            "35715"
+          ],
+          "areacodes": [
+            "050"
+          ]
+        },
+        "Banha": {
+          "zipcodes": [
+            "35811",
+            "35812",
+            "35813",
+            "35814",
+            "35815"
+          ],
+          "areacodes": [
+            "050"
+          ]
+        },
+        "El Matareya": {
+          "zipcodes": [
+            "35911",
+            "35912",
+            "35913",
+            "35914",
+            "35915"
+          ],
+          "areacodes": [
+            "050"
+          ]
+        },
+        "El Sherbeen": {
+          "zipcodes": [
+            "36011",
+            "36012",
+            "36013",
+            "36014",
+            "36015"
+          ],
+          "areacodes": [
+            "050"
+          ]
+        },
+        "Kafr Saad": {
+          "zipcodes": [
+            "36111",
+            "36112",
+            "36113",
+            "36114",
+            "36115"
+          ],
+          "areacodes": [
+            "050"
+          ]
+        },
+        "Belqas": {
+          "zipcodes": [
+            "36211",
+            "36212",
+            "36213",
+            "36214",
+            "36215"
+          ],
+          "areacodes": [
+            "050"
+          ]
+        },
+        "Aga": {
+          "zipcodes": [
+            "36311",
+            "36312",
+            "36313",
+            "36314",
+            "36315"
+          ],
+          "areacodes": [
+            "050"
+          ]
+        },
+        "El Mahalla": {
+          "zipcodes": [
+            "36411",
+            "36412",
+            "36413",
+            "36414",
+            "36415"
+          ],
+          "areacodes": [
+            "050"
+          ]
+        }
+      },
+      "name": "Dakahlia"
+    },
+    "Damietta": {
+      "capital": "Damietta City",
+      "cities": {
+        "Damietta City": {
+          "zipcodes": [
+            "34511",
+            "34512",
+            "34513",
+            "34514",
+            "34515"
+          ],
+          "areacodes": [
+            "057"
+          ]
+        },
+        "New Damietta": {
+          "zipcodes": [
+            "34611",
+            "34612",
+            "34613",
+            "34614",
+            "34615"
+          ],
+          "areacodes": [
+            "057"
+          ]
+        },
+        "Ras El Bar": {
+          "zipcodes": [
+            "34711",
+            "34712",
+            "34713",
+            "34714",
+            "34715"
+          ],
+          "areacodes": [
+            "057"
+          ]
+        },
+        "Kafr Saad": {
+          "zipcodes": [
+            "34811",
+            "34812",
+            "34813",
+            "34814",
+            "34815"
+          ],
+          "areacodes": [
+            "057"
+          ]
+        },
+        "El Zarka": {
+          "zipcodes": [
+            "34911",
+            "34912",
+            "34913",
+            "34914",
+            "34915"
+          ],
+          "areacodes": [
+            "057"
+          ]
+        },
+        "Shata": {
+          "zipcodes": [
+            "35011",
+            "35012",
+            "35013",
+            "35014",
+            "35015"
+          ],
+          "areacodes": [
+            "057"
+          ]
+        },
+        "Faruqiya": {
+          "zipcodes": [
+            "35111",
+            "35112",
+            "35113",
+            "35114",
+            "35115"
+          ],
+          "areacodes": [
+            "057"
+          ]
+        },
+        "Sahl El Hossain": {
+          "zipcodes": [
+            "35211",
+            "35212",
+            "35213",
+            "35214",
+            "35215"
+          ],
+          "areacodes": [
+            "057"
+          ]
+        },
+        "El Qantara": {
+          "zipcodes": [
+            "35311",
+            "35312",
+            "35313",
+            "35314",
+            "35315"
+          ],
+          "areacodes": [
+            "057"
+          ]
+        },
+        "Az Zarqa": {
+          "zipcodes": [
+            "35411",
+            "35412",
+            "35413",
+            "35414",
+            "35415"
+          ],
+          "areacodes": [
+            "057"
+          ]
+        }
+      },
+      "name": "Damietta"
+    },
+    "Sharqia": {
+      "capital": "Zagazig",
+      "cities": {
+        "Zagazig": {
+          "zipcodes": [
+            "44511",
+            "44512",
+            "44513",
+            "44514",
+            "44515"
+          ],
+          "areacodes": [
+            "055"
+          ]
+        },
+        "10th of Ramadan City": {
+          "zipcodes": [
+            "44611",
+            "44612",
+            "44613",
+            "44614",
+            "44615"
+          ],
+          "areacodes": [
+            "055"
+          ]
+        },
+        "Belbais": {
+          "zipcodes": [
+            "44711",
+            "44712",
+            "44713",
+            "44714",
+            "44715"
+          ],
+          "areacodes": [
+            "055"
+          ]
+        },
+        "Dairut": {
+          "zipcodes": [
+            "44811",
+            "44812",
+            "44813",
+            "44814",
+            "44815"
+          ],
+          "areacodes": [
+            "055"
+          ]
+        },
+        "Faqous": {
+          "zipcodes": [
+            "44911",
+            "44912",
+            "44913",
+            "44914",
+            "44915"
+          ],
+          "areacodes": [
+            "055"
+          ]
+        },
+        "Kafr Saqr": {
+          "zipcodes": [
+            "45011",
+            "45012",
+            "45013",
+            "45014",
+            "45015"
+          ],
+          "areacodes": [
+            "055"
+          ]
+        },
+        "Minya El Qamh": {
+          "zipcodes": [
+            "45111",
+            "45112",
+            "45113",
+            "45114",
+            "45115"
+          ],
+          "areacodes": [
+            "055"
+          ]
+        },
+        "El Husseiniya": {
+          "zipcodes": [
+            "45211",
+            "45212",
+            "45213",
+            "45214",
+            "45215"
+          ],
+          "areacodes": [
+            "055"
+          ]
+        },
+        "Abu Hammad": {
+          "zipcodes": [
+            "45311",
+            "45312",
+            "45313",
+            "45314",
+            "45315"
+          ],
+          "areacodes": [
+            "055"
+          ]
+        },
+        "Banha": {
+          "zipcodes": [
+            "45411",
+            "45412",
+            "45413",
+            "45414",
+            "45415"
+          ],
+          "areacodes": [
+            "055"
+          ]
+        }
+      },
+      "name": "Sharqia"
+    },
+    "Kafr El Sheikh": {
+      "capital": "Kafr El Sheikh City",
+      "cities": {
+        "Kafr El Sheikh City": {
+          "zipcodes": [
+            "33511",
+            "33512",
+            "33513",
+            "33514",
+            "33515"
+          ],
+          "areacodes": [
+            "047"
+          ]
+        },
+        "Desouk": {
+          "zipcodes": [
+            "33611",
+            "33612",
+            "33613",
+            "33614",
+            "33615"
+          ],
+          "areacodes": [
+            "047"
+          ]
+        },
+        "Riyad": {
+          "zipcodes": [
+            "33711",
+            "33712",
+            "33713",
+            "33714",
+            "33715"
+          ],
+          "areacodes": [
+            "047"
+          ]
+        },
+        "Balteem": {
+          "zipcodes": [
+            "33811",
+            "33812",
+            "33813",
+            "33814",
+            "33815"
+          ],
+          "areacodes": [
+            "047"
+          ]
+        },
+        "Qallin": {
+          "zipcodes": [
+            "33911",
+            "33912",
+            "33913",
+            "33914",
+            "33915"
+          ],
+          "areacodes": [
+            "047"
+          ]
+        },
+        "Fuwah": {
+          "zipcodes": [
+            "34011",
+            "34012",
+            "34013",
+            "34014",
+            "34015"
+          ],
+          "areacodes": [
+            "047"
+          ]
+        },
+        "El Hamool": {
+          "zipcodes": [
+            "34111",
+            "34112",
+            "34113",
+            "34114",
+            "34115"
+          ],
+          "areacodes": [
+            "047"
+          ]
+        },
+        "Sidi Salem": {
+          "zipcodes": [
+            "34211",
+            "34212",
+            "34213",
+            "34214",
+            "34215"
+          ],
+          "areacodes": [
+            "047"
+          ]
+        },
+        "Biyala": {
+          "zipcodes": [
+            "34311",
+            "34312",
+            "34313",
+            "34314",
+            "34315"
+          ],
+          "areacodes": [
+            "047"
+          ]
+        },
+        "Kafr Saad": {
+          "zipcodes": [
+            "34411",
+            "34412",
+            "34413",
+            "34414",
+            "34415"
+          ],
+          "areacodes": [
+            "047"
+          ]
+        }
+      },
+      "name": "Kafr El Sheikh"
+    },
+    "Gharbia": {
+      "capital": "Tanta",
+      "cities": {
+        "Tanta": {
+          "zipcodes": [
+            "31911",
+            "31912",
+            "31913",
+            "31914",
+            "31915"
+          ],
+          "areacodes": [
+            "040"
+          ]
+        },
+        "Mahalla al-Kubra": {
+          "zipcodes": [
+            "31921",
+            "31922",
+            "31923",
+            "31924",
+            "31925"
+          ],
+          "areacodes": [
+            "040"
+          ]
+        },
+        "Kafr El Zayat": {
+          "zipcodes": [
+            "31931",
+            "31932",
+            "31933",
+            "31934",
+            "31935"
+          ],
+          "areacodes": [
+            "040"
+          ]
+        },
+        "Zefta": {
+          "zipcodes": [
+            "31941",
+            "31942",
+            "31943",
+            "31944",
+            "31945"
+          ],
+          "areacodes": [
+            "040"
+          ]
+        },
+        "El-Santa": {
+          "zipcodes": [
+            "31951",
+            "31952",
+            "31953",
+            "31954",
+            "31955"
+          ],
+          "areacodes": [
+            "040"
+          ]
+        },
+        "Basyoun": {
+          "zipcodes": [
+            "31961",
+            "31962",
+            "31963",
+            "31964",
+            "31965"
+          ],
+          "areacodes": [
+            "040"
+          ]
+        },
+        "Kafr El-Dawar": {
+          "zipcodes": [
+            "31971",
+            "31972",
+            "31973",
+            "31974",
+            "31975"
+          ],
+          "areacodes": [
+            "040"
+          ]
+        },
+        "Banha": {
+          "zipcodes": [
+            "31981",
+            "31982",
+            "31983",
+            "31984",
+            "31985"
+          ],
+          "areacodes": [
+            "040"
+          ]
+        },
+        "Tamiya": {
+          "zipcodes": [
+            "31991",
+            "31992",
+            "31993",
+            "31994",
+            "31995"
+          ],
+          "areacodes": [
+            "040"
+          ]
+        },
+        "Samanoud": {
+          "zipcodes": [
+            "32011",
+            "32012",
+            "32013",
+            "32014",
+            "32015"
+          ],
+          "areacodes": [
+            "040"
+          ]
+        }
+      },
+      "name": "Gharbia"
+    },
+    "Menoufia": {
+      "capital": "Shebin El-Kom",
+      "cities": {
+        "Shebin El-Kom": {
+          "zipcodes": [
+            "32511",
+            "32512",
+            "32513",
+            "32514",
+            "32515"
+          ],
+          "areacodes": [
+            "048"
+          ]
+        },
+        "Benha": {
+          "zipcodes": [
+            "32521",
+            "32522",
+            "32523",
+            "32524",
+            "32525"
+          ],
+          "areacodes": [
+            "048"
+          ]
+        },
+        "Quesna": {
+          "zipcodes": [
+            "32531",
+            "32532",
+            "32533",
+            "32534",
+            "32535"
+          ],
+          "areacodes": [
+            "048"
+          ]
+        },
+        "Ashmoun": {
+          "zipcodes": [
+            "32541",
+            "32542",
+            "32543",
+            "32544",
+            "32545"
+          ],
+          "areacodes": [
+            "048"
+          ]
+        },
+        "Shibin El-Qanater": {
+          "zipcodes": [
+            "32551",
+            "32552",
+            "32553",
+            "32554",
+            "32555"
+          ],
+          "areacodes": [
+            "048"
+          ]
+        },
+        "Menouf": {
+          "zipcodes": [
+            "32561",
+            "32562",
+            "32563",
+            "32564",
+            "32565"
+          ],
+          "areacodes": [
+            "048"
+          ]
+        },
+        "Tanta": {
+          "zipcodes": [
+            "32571",
+            "32572",
+            "32573",
+            "32574",
+            "32575"
+          ],
+          "areacodes": [
+            "048"
+          ]
+        },
+        "Sadat City": {
+          "zipcodes": [
+            "32581",
+            "32582",
+            "32583",
+            "32584",
+            "32585"
+          ],
+          "areacodes": [
+            "048"
+          ]
+        },
+        "Banha": {
+          "zipcodes": [
+            "32591",
+            "32592",
+            "32593",
+            "32594",
+            "32595"
+          ],
+          "areacodes": [
+            "048"
+          ]
+        },
+        "Samannoud": {
+          "zipcodes": [
+            "32611",
+            "32612",
+            "32613",
+            "32614",
+            "32615"
+          ],
+          "areacodes": [
+            "048"
+          ]
+        }
+      },
+      "name": "Menoufia"
+    },
+    "Beheira": {
+      "capital": "Damanhur",
+      "cities": {
+        "Damanhur": {
+          "zipcodes": [
+            "22511",
+            "22512",
+            "22513",
+            "22514",
+            "22515"
+          ],
+          "areacodes": [
+            "045"
+          ]
+        },
+        "Kafr El-Dawar": {
+          "zipcodes": [
+            "22521",
+            "22522",
+            "22523",
+            "22524",
+            "22525"
+          ],
+          "areacodes": [
+            "045"
+          ]
+        },
+        "Rashid": {
+          "zipcodes": [
+            "22531",
+            "22532",
+            "22533",
+            "22534",
+            "22535"
+          ],
+          "areacodes": [
+            "045"
+          ]
+        },
+        "El-Bostan": {
+          "zipcodes": [
+            "22541",
+            "22542",
+            "22543",
+            "22544",
+            "22545"
+          ],
+          "areacodes": [
+            "045"
+          ]
+        },
+        "Shubrakhit": {
+          "zipcodes": [
+            "22551",
+            "22552",
+            "22553",
+            "22554",
+            "22555"
+          ],
+          "areacodes": [
+            "045"
+          ]
+        },
+        "Itay El-Barud": {
+          "zipcodes": [
+            "22561",
+            "22562",
+            "22563",
+            "22564",
+            "22565"
+          ],
+          "areacodes": [
+            "045"
+          ]
+        },
+        "Abu Hummus": {
+          "zipcodes": [
+            "22571",
+            "22572",
+            "22573",
+            "22574",
+            "22575"
+          ],
+          "areacodes": [
+            "045"
+          ]
+        },
+        "Kom Hamada": {
+          "zipcodes": [
+            "22581",
+            "22582",
+            "22583",
+            "22584",
+            "22585"
+          ],
+          "areacodes": [
+            "045"
+          ]
+        },
+        "Wadi El-Natrun": {
+          "zipcodes": [
+            "22591",
+            "22592",
+            "22593",
+            "22594",
+            "22595"
+          ],
+          "areacodes": [
+            "045"
+          ]
+        },
+        "Hosh Issa": {
+          "zipcodes": [
+            "22611",
+            "22612",
+            "22613",
+            "22614",
+            "22615"
+          ],
+          "areacodes": [
+            "045"
+          ]
+        }
+      },
+      "name": "Beheira"
+    },
+    "Beni Suef": {
+      "capital": "Beni Suef",
+      "cities": {
         "Beni Suef": {
-            "capital": "Beni Suef",
-            "cities": [
-                {
-                    "cityname": "Beni Suef",
-                    "zipcodes": [
-                        "62911",
-                        "62912",
-                        "62913",
-                        "62914",
-                        "62915"
-                    ],
-                    "areacodes": [
-                        "082"
-                    ]
-                },
-                {
-                    "cityname": "El-Fashn",
-                    "zipcodes": [
-                        "62921",
-                        "62922",
-                        "62923",
-                        "62924",
-                        "62925"
-                    ],
-                    "areacodes": [
-                        "082"
-                    ]
-                },
-                {
-                    "cityname": "Somasta",
-                    "zipcodes": [
-                        "62931",
-                        "62932",
-                        "62933",
-                        "62934",
-                        "62935"
-                    ],
-                    "areacodes": [
-                        "082"
-                    ]
-                },
-                {
-                    "cityname": "Biba",
-                    "zipcodes": [
-                        "62941",
-                        "62942",
-                        "62943",
-                        "62944",
-                        "62945"
-                    ],
-                    "areacodes": [
-                        "082"
-                    ]
-                },
-                {
-                    "cityname": "Nasser",
-                    "zipcodes": [
-                        "62951",
-                        "62952",
-                        "62953",
-                        "62954",
-                        "62955"
-                    ],
-                    "areacodes": [
-                        "082"
-                    ]
-                },
-                {
-                    "cityname": "Ehnasia",
-                    "zipcodes": [
-                        "62961",
-                        "62962",
-                        "62963",
-                        "62964",
-                        "62965"
-                    ],
-                    "areacodes": [
-                        "082"
-                    ]
-                },
-                {
-                    "cityname": "El-Wasta",
-                    "zipcodes": [
-                        "62971",
-                        "62972",
-                        "62973",
-                        "62974",
-                        "62975"
-                    ],
-                    "areacodes": [
-                        "082"
-                    ]
-                },
-                {
-                    "cityname": "El-Osim",
-                    "zipcodes": [
-                        "62981",
-                        "62982",
-                        "62983",
-                        "62984",
-                        "62985"
-                    ],
-                    "areacodes": [
-                        "082"
-                    ]
-                },
-                {
-                    "cityname": "Sohag",
-                    "zipcodes": [
-                        "62991",
-                        "62992",
-                        "62993",
-                        "62994",
-                        "62995"
-                    ],
-                    "areacodes": [
-                        "082"
-                    ]
-                },
-                {
-                    "cityname": "El-Mahalla",
-                    "zipcodes": [
-                        "63011",
-                        "63012",
-                        "63013",
-                        "63014",
-                        "63015"
-                    ],
-                    "areacodes": [
-                        "082"
-                    ]
-                }
-            ],
-            "name": "Beni Suef"
+          "zipcodes": [
+            "62911",
+            "62912",
+            "62913",
+            "62914",
+            "62915"
+          ],
+          "areacodes": [
+            "082"
+          ]
+        },
+        "El-Fashn": {
+          "zipcodes": [
+            "62921",
+            "62922",
+            "62923",
+            "62924",
+            "62925"
+          ],
+          "areacodes": [
+            "082"
+          ]
+        },
+        "Somasta": {
+          "zipcodes": [
+            "62931",
+            "62932",
+            "62933",
+            "62934",
+            "62935"
+          ],
+          "areacodes": [
+            "082"
+          ]
+        },
+        "Biba": {
+          "zipcodes": [
+            "62941",
+            "62942",
+            "62943",
+            "62944",
+            "62945"
+          ],
+          "areacodes": [
+            "082"
+          ]
+        },
+        "Nasser": {
+          "zipcodes": [
+            "62951",
+            "62952",
+            "62953",
+            "62954",
+            "62955"
+          ],
+          "areacodes": [
+            "082"
+          ]
+        },
+        "Ehnasia": {
+          "zipcodes": [
+            "62961",
+            "62962",
+            "62963",
+            "62964",
+            "62965"
+          ],
+          "areacodes": [
+            "082"
+          ]
+        },
+        "El-Wasta": {
+          "zipcodes": [
+            "62971",
+            "62972",
+            "62973",
+            "62974",
+            "62975"
+          ],
+          "areacodes": [
+            "082"
+          ]
+        },
+        "El-Osim": {
+          "zipcodes": [
+            "62981",
+            "62982",
+            "62983",
+            "62984",
+            "62985"
+          ],
+          "areacodes": [
+            "082"
+          ]
+        },
+        "Sohag": {
+          "zipcodes": [
+            "62991",
+            "62992",
+            "62993",
+            "62994",
+            "62995"
+          ],
+          "areacodes": [
+            "082"
+          ]
+        },
+        "El-Mahalla": {
+          "zipcodes": [
+            "63011",
+            "63012",
+            "63013",
+            "63014",
+            "63015"
+          ],
+          "areacodes": [
+            "082"
+          ]
+        }
+      },
+      "name": "Beni Suef"
+    },
+    "Fayoum": {
+      "capital": "Fayoum",
+      "cities": {
+        "Fayoum": {
+          "zipcodes": [
+            "63511",
+            "63512",
+            "63513",
+            "63514",
+            "63515"
+          ],
+          "areacodes": [
+            "084"
+          ]
+        },
+        "Ibshway": {
+          "zipcodes": [
+            "63521",
+            "63522",
+            "63523",
+            "63524",
+            "63525"
+          ],
+          "areacodes": [
+            "084"
+          ]
+        },
+        "Sennuris": {
+          "zipcodes": [
+            "63531",
+            "63532",
+            "63533",
+            "63534",
+            "63535"
+          ],
+          "areacodes": [
+            "084"
+          ]
+        },
+        "Tamia": {
+          "zipcodes": [
+            "63541",
+            "63542",
+            "63543",
+            "63544",
+            "63545"
+          ],
+          "areacodes": [
+            "084"
+          ]
+        },
+        "Youssef El-Seddik": {
+          "zipcodes": [
+            "63551",
+            "63552",
+            "63553",
+            "63554",
+            "63555"
+          ],
+          "areacodes": [
+            "084"
+          ]
+        },
+        "Qasr El-Eini": {
+          "zipcodes": [
+            "63561",
+            "63562",
+            "63563",
+            "63564",
+            "63565"
+          ],
+          "areacodes": [
+            "084"
+          ]
+        },
+        "Kafr El-Sheikh": {
+          "zipcodes": [
+            "63571",
+            "63572",
+            "63573",
+            "63574",
+            "63575"
+          ],
+          "areacodes": [
+            "084"
+          ]
+        },
+        "Naga Hammadi": {
+          "zipcodes": [
+            "63581",
+            "63582",
+            "63583",
+            "63584",
+            "63585"
+          ],
+          "areacodes": [
+            "084"
+          ]
+        },
+        "El-Nubaria": {
+          "zipcodes": [
+            "63591",
+            "63592",
+            "63593",
+            "63594",
+            "63595"
+          ],
+          "areacodes": [
+            "084"
+          ]
+        },
+        "El-Badrasheen": {
+          "zipcodes": [
+            "63611",
+            "63612",
+            "63613",
+            "63614",
+            "63615"
+          ],
+          "areacodes": [
+            "084"
+          ]
+        }
+      },
+      "name": "Fayoum"
+    },
+    "Minya": {
+      "capital": "Minya",
+      "cities": {
+        "Minya": {
+          "zipcodes": [
+            "61911",
+            "61912",
+            "61913",
+            "61914",
+            "61915"
+          ],
+          "areacodes": [
+            "086"
+          ]
+        },
+        "Bani Mazar": {
+          "zipcodes": [
+            "61921",
+            "61922",
+            "61923",
+            "61924",
+            "61925"
+          ],
+          "areacodes": [
+            "086"
+          ]
+        },
+        "Mallawi": {
+          "zipcodes": [
+            "61931",
+            "61932",
+            "61933",
+            "61934",
+            "61935"
+          ],
+          "areacodes": [
+            "086"
+          ]
+        },
+        "Maghagha": {
+          "zipcodes": [
+            "61941",
+            "61942",
+            "61943",
+            "61944",
+            "61945"
+          ],
+          "areacodes": [
+            "086"
+          ]
+        },
+        "Samalout": {
+          "zipcodes": [
+            "61951",
+            "61952",
+            "61953",
+            "61954",
+            "61955"
+          ],
+          "areacodes": [
+            "086"
+          ]
+        },
+        "Deir Mawas": {
+          "zipcodes": [
+            "61961",
+            "61962",
+            "61963",
+            "61964",
+            "61965"
+          ],
+          "areacodes": [
+            "086"
+          ]
+        },
+        "Abu Qurqas": {
+          "zipcodes": [
+            "61971",
+            "61972",
+            "61973",
+            "61974",
+            "61975"
+          ],
+          "areacodes": [
+            "086"
+          ]
+        },
+        "El-Adwa": {
+          "zipcodes": [
+            "61981",
+            "61982",
+            "61983",
+            "61984",
+            "61985"
+          ],
+          "areacodes": [
+            "086"
+          ]
         },
         "Fayoum": {
-            "capital": "Fayoum",
-            "cities": [
-                {
-                    "cityname": "Fayoum",
-                    "zipcodes": [
-                        "63511",
-                        "63512",
-                        "63513",
-                        "63514",
-                        "63515"
-                    ],
-                    "areacodes": [
-                        "084"
-                    ]
-                },
-                {
-                    "cityname": "Ibshway",
-                    "zipcodes": [
-                        "63521",
-                        "63522",
-                        "63523",
-                        "63524",
-                        "63525"
-                    ],
-                    "areacodes": [
-                        "084"
-                    ]
-                },
-                {
-                    "cityname": "Sennuris",
-                    "zipcodes": [
-                        "63531",
-                        "63532",
-                        "63533",
-                        "63534",
-                        "63535"
-                    ],
-                    "areacodes": [
-                        "084"
-                    ]
-                },
-                {
-                    "cityname": "Tamia",
-                    "zipcodes": [
-                        "63541",
-                        "63542",
-                        "63543",
-                        "63544",
-                        "63545"
-                    ],
-                    "areacodes": [
-                        "084"
-                    ]
-                },
-                {
-                    "cityname": "Youssef El-Seddik",
-                    "zipcodes": [
-                        "63551",
-                        "63552",
-                        "63553",
-                        "63554",
-                        "63555"
-                    ],
-                    "areacodes": [
-                        "084"
-                    ]
-                },
-                {
-                    "cityname": "Qasr El-Eini",
-                    "zipcodes": [
-                        "63561",
-                        "63562",
-                        "63563",
-                        "63564",
-                        "63565"
-                    ],
-                    "areacodes": [
-                        "084"
-                    ]
-                },
-                {
-                    "cityname": "Kafr El-Sheikh",
-                    "zipcodes": [
-                        "63571",
-                        "63572",
-                        "63573",
-                        "63574",
-                        "63575"
-                    ],
-                    "areacodes": [
-                        "084"
-                    ]
-                },
-                {
-                    "cityname": "Naga Hammadi",
-                    "zipcodes": [
-                        "63581",
-                        "63582",
-                        "63583",
-                        "63584",
-                        "63585"
-                    ],
-                    "areacodes": [
-                        "084"
-                    ]
-                },
-                {
-                    "cityname": "El-Nubaria",
-                    "zipcodes": [
-                        "63591",
-                        "63592",
-                        "63593",
-                        "63594",
-                        "63595"
-                    ],
-                    "areacodes": [
-                        "084"
-                    ]
-                },
-                {
-                    "cityname": "El-Badrasheen",
-                    "zipcodes": [
-                        "63611",
-                        "63612",
-                        "63613",
-                        "63614",
-                        "63615"
-                    ],
-                    "areacodes": [
-                        "084"
-                    ]
-                }
-            ],
-            "name": "Fayoum"
+          "zipcodes": [
+            "61991",
+            "61992",
+            "61993",
+            "61994",
+            "61995"
+          ],
+          "areacodes": [
+            "086"
+          ]
         },
-        "Minya": {
-            "capital": "Minya",
-            "cities": [
-                {
-                    "cityname": "Minya",
-                    "zipcodes": [
-                        "61911",
-                        "61912",
-                        "61913",
-                        "61914",
-                        "61915"
-                    ],
-                    "areacodes": [
-                        "086"
-                    ]
-                },
-                {
-                    "cityname": "Bani Mazar",
-                    "zipcodes": [
-                        "61921",
-                        "61922",
-                        "61923",
-                        "61924",
-                        "61925"
-                    ],
-                    "areacodes": [
-                        "086"
-                    ]
-                },
-                {
-                    "cityname": "Mallawi",
-                    "zipcodes": [
-                        "61931",
-                        "61932",
-                        "61933",
-                        "61934",
-                        "61935"
-                    ],
-                    "areacodes": [
-                        "086"
-                    ]
-                },
-                {
-                    "cityname": "Maghagha",
-                    "zipcodes": [
-                        "61941",
-                        "61942",
-                        "61943",
-                        "61944",
-                        "61945"
-                    ],
-                    "areacodes": [
-                        "086"
-                    ]
-                },
-                {
-                    "cityname": "Samalout",
-                    "zipcodes": [
-                        "61951",
-                        "61952",
-                        "61953",
-                        "61954",
-                        "61955"
-                    ],
-                    "areacodes": [
-                        "086"
-                    ]
-                },
-                {
-                    "cityname": "Deir Mawas",
-                    "zipcodes": [
-                        "61961",
-                        "61962",
-                        "61963",
-                        "61964",
-                        "61965"
-                    ],
-                    "areacodes": [
-                        "086"
-                    ]
-                },
-                {
-                    "cityname": "Abu Qurqas",
-                    "zipcodes": [
-                        "61971",
-                        "61972",
-                        "61973",
-                        "61974",
-                        "61975"
-                    ],
-                    "areacodes": [
-                        "086"
-                    ]
-                },
-                {
-                    "cityname": "El-Adwa",
-                    "zipcodes": [
-                        "61981",
-                        "61982",
-                        "61983",
-                        "61984",
-                        "61985"
-                    ],
-                    "areacodes": [
-                        "086"
-                    ]
-                },
-                {
-                    "cityname": "Fayoum",
-                    "zipcodes": [
-                        "61991",
-                        "61992",
-                        "61993",
-                        "61994",
-                        "61995"
-                    ],
-                    "areacodes": [
-                        "086"
-                    ]
-                },
-                {
-                    "cityname": "El-Balyana",
-                    "zipcodes": [
-                        "62011",
-                        "62012",
-                        "62013",
-                        "62014",
-                        "62015"
-                    ],
-                    "areacodes": [
-                        "086"
-                    ]
-                }
-            ],
-            "name": "Minya"
-        },
+        "El-Balyana": {
+          "zipcodes": [
+            "62011",
+            "62012",
+            "62013",
+            "62014",
+            "62015"
+          ],
+          "areacodes": [
+            "086"
+          ]
+        }
+      },
+      "name": "Minya"
+    },
+    "Assiut": {
+      "capital": "Assiut",
+      "cities": {
         "Assiut": {
-            "capital": "Assiut",
-            "cities": [
-                {
-                    "cityname": "Assiut",
-                    "zipcodes": [
-                        "71111",
-                        "71112",
-                        "71113",
-                        "71114",
-                        "71115"
-                    ],
-                    "areacodes": [
-                        "088"
-                    ]
-                },
-                {
-                    "cityname": "Al-Qusiya",
-                    "zipcodes": [
-                        "71121",
-                        "71122",
-                        "71123",
-                        "71124",
-                        "71125"
-                    ],
-                    "areacodes": [
-                        "088"
-                    ]
-                },
-                {
-                    "cityname": "Abnoub",
-                    "zipcodes": [
-                        "71131",
-                        "71132",
-                        "71133",
-                        "71134",
-                        "71135"
-                    ],
-                    "areacodes": [
-                        "088"
-                    ]
-                },
-                {
-                    "cityname": "El-Ghanayem",
-                    "zipcodes": [
-                        "71141",
-                        "71142",
-                        "71143",
-                        "71144",
-                        "71145"
-                    ],
-                    "areacodes": [
-                        "088"
-                    ]
-                },
-                {
-                    "cityname": "Deirout",
-                    "zipcodes": [
-                        "71151",
-                        "71152",
-                        "71153",
-                        "71154",
-                        "71155"
-                    ],
-                    "areacodes": [
-                        "088"
-                    ]
-                },
-                {
-                    "cityname": "Manfalut",
-                    "zipcodes": [
-                        "71161",
-                        "71162",
-                        "71163",
-                        "71164",
-                        "71165"
-                    ],
-                    "areacodes": [
-                        "088"
-                    ]
-                },
-                {
-                    "cityname": "Sahel Selim",
-                    "zipcodes": [
-                        "71171",
-                        "71172",
-                        "71173",
-                        "71174",
-                        "71175"
-                    ],
-                    "areacodes": [
-                        "088"
-                    ]
-                },
-                {
-                    "cityname": "Al-Badari",
-                    "zipcodes": [
-                        "71181",
-                        "71182",
-                        "71183",
-                        "71184",
-                        "71185"
-                    ],
-                    "areacodes": [
-                        "088"
-                    ]
-                },
-                {
-                    "cityname": "El-Fath",
-                    "zipcodes": [
-                        "71191",
-                        "71192",
-                        "71193",
-                        "71194",
-                        "71195"
-                    ],
-                    "areacodes": [
-                        "088"
-                    ]
-                },
-                {
-                    "cityname": "Qena",
-                    "zipcodes": [
-                        "71201",
-                        "71202",
-                        "71203",
-                        "71204",
-                        "71205"
-                    ],
-                    "areacodes": [
-                        "088"
-                    ]
-                }
-            ],
-            "name": "Assiut"
+          "zipcodes": [
+            "71111",
+            "71112",
+            "71113",
+            "71114",
+            "71115"
+          ],
+          "areacodes": [
+            "088"
+          ]
+        },
+        "Al-Qusiya": {
+          "zipcodes": [
+            "71121",
+            "71122",
+            "71123",
+            "71124",
+            "71125"
+          ],
+          "areacodes": [
+            "088"
+          ]
+        },
+        "Abnoub": {
+          "zipcodes": [
+            "71131",
+            "71132",
+            "71133",
+            "71134",
+            "71135"
+          ],
+          "areacodes": [
+            "088"
+          ]
+        },
+        "El-Ghanayem": {
+          "zipcodes": [
+            "71141",
+            "71142",
+            "71143",
+            "71144",
+            "71145"
+          ],
+          "areacodes": [
+            "088"
+          ]
+        },
+        "Deirout": {
+          "zipcodes": [
+            "71151",
+            "71152",
+            "71153",
+            "71154",
+            "71155"
+          ],
+          "areacodes": [
+            "088"
+          ]
+        },
+        "Manfalut": {
+          "zipcodes": [
+            "71161",
+            "71162",
+            "71163",
+            "71164",
+            "71165"
+          ],
+          "areacodes": [
+            "088"
+          ]
+        },
+        "Sahel Selim": {
+          "zipcodes": [
+            "71171",
+            "71172",
+            "71173",
+            "71174",
+            "71175"
+          ],
+          "areacodes": [
+            "088"
+          ]
+        },
+        "Al-Badari": {
+          "zipcodes": [
+            "71181",
+            "71182",
+            "71183",
+            "71184",
+            "71185"
+          ],
+          "areacodes": [
+            "088"
+          ]
+        },
+        "El-Fath": {
+          "zipcodes": [
+            "71191",
+            "71192",
+            "71193",
+            "71194",
+            "71195"
+          ],
+          "areacodes": [
+            "088"
+          ]
         },
         "Qena": {
-            "capital": "Qena",
-            "cities": [
-                {
-                    "cityname": "Qena",
-                    "zipcodes": [
-                        "82711",
-                        "82712",
-                        "82713",
-                        "82714",
-                        "82715"
-                    ],
-                    "areacodes": [
-                        "096"
-                    ]
-                },
-                {
-                    "cityname": "Nag Hammadi",
-                    "zipcodes": [
-                        "82721",
-                        "82722",
-                        "82723",
-                        "82724",
-                        "82725"
-                    ],
-                    "areacodes": [
-                        "096"
-                    ]
-                },
-                {
-                    "cityname": "Dandara",
-                    "zipcodes": [
-                        "82731",
-                        "82732",
-                        "82733",
-                        "82734",
-                        "82735"
-                    ],
-                    "areacodes": [
-                        "096"
-                    ]
-                },
-                {
-                    "cityname": "Qus",
-                    "zipcodes": [
-                        "82741",
-                        "82742",
-                        "82743",
-                        "82744",
-                        "82745"
-                    ],
-                    "areacodes": [
-                        "096"
-                    ]
-                },
-                {
-                    "cityname": "Karnak",
-                    "zipcodes": [
-                        "82751",
-                        "82752",
-                        "82753",
-                        "82754",
-                        "82755"
-                    ],
-                    "areacodes": [
-                        "096"
-                    ]
-                },
-                {
-                    "cityname": "El-Badari",
-                    "zipcodes": [
-                        "82761",
-                        "82762",
-                        "82763",
-                        "82764",
-                        "82765"
-                    ],
-                    "areacodes": [
-                        "096"
-                    ]
-                },
-                {
-                    "cityname": "Al-Mahrousa",
-                    "zipcodes": [
-                        "82771",
-                        "82772",
-                        "82773",
-                        "82774",
-                        "82775"
-                    ],
-                    "areacodes": [
-                        "096"
-                    ]
-                },
-                {
-                    "cityname": "Deshna",
-                    "zipcodes": [
-                        "82781",
-                        "82782",
-                        "82783",
-                        "82784",
-                        "82785"
-                    ],
-                    "areacodes": [
-                        "096"
-                    ]
-                },
-                {
-                    "cityname": "Al-Mahraqa",
-                    "zipcodes": [
-                        "82791",
-                        "82792",
-                        "82793",
-                        "82794",
-                        "82795"
-                    ],
-                    "areacodes": [
-                        "096"
-                    ]
-                },
-                {
-                    "cityname": "Al-Kusuf",
-                    "zipcodes": [
-                        "82801",
-                        "82802",
-                        "82803",
-                        "82804",
-                        "82805"
-                    ],
-                    "areacodes": [
-                        "096"
-                    ]
-                }
-            ],
-            "name": "Qena"
-        },
-        "Luxor": {
-            "capital": "Luxor",
-            "cities": [
-                {
-                    "cityname": "Luxor",
-                    "zipcodes": [
-                        "85911",
-                        "85912",
-                        "85913",
-                        "85914",
-                        "85915"
-                    ],
-                    "areacodes": [
-                        "095"
-                    ]
-                },
-                {
-                    "cityname": "Thebes",
-                    "zipcodes": [
-                        "85921",
-                        "85922",
-                        "85923",
-                        "85924",
-                        "85925"
-                    ],
-                    "areacodes": [
-                        "095"
-                    ]
-                },
-                {
-                    "cityname": "Esna",
-                    "zipcodes": [
-                        "85931",
-                        "85932",
-                        "85933",
-                        "85934",
-                        "85935"
-                    ],
-                    "areacodes": [
-                        "095"
-                    ]
-                },
-                {
-                    "cityname": "Armant",
-                    "zipcodes": [
-                        "85941",
-                        "85942",
-                        "85943",
-                        "85944",
-                        "85945"
-                    ],
-                    "areacodes": [
-                        "095"
-                    ]
-                },
-                {
-                    "cityname": "Hurna",
-                    "zipcodes": [
-                        "85951",
-                        "85952",
-                        "85953",
-                        "85954",
-                        "85955"
-                    ],
-                    "areacodes": [
-                        "095"
-                    ]
-                },
-                {
-                    "cityname": "Qurna",
-                    "zipcodes": [
-                        "85961",
-                        "85962",
-                        "85963",
-                        "85964",
-                        "85965"
-                    ],
-                    "areacodes": [
-                        "095"
-                    ]
-                },
-                {
-                    "cityname": "Al-Daba",
-                    "zipcodes": [
-                        "85971",
-                        "85972",
-                        "85973",
-                        "85974",
-                        "85975"
-                    ],
-                    "areacodes": [
-                        "095"
-                    ]
-                },
-                {
-                    "cityname": "Al-Manshiya",
-                    "zipcodes": [
-                        "85981",
-                        "85982",
-                        "85983",
-                        "85984",
-                        "85985"
-                    ],
-                    "areacodes": [
-                        "095"
-                    ]
-                },
-                {
-                    "cityname": "Qift",
-                    "zipcodes": [
-                        "85991",
-                        "85992",
-                        "85993",
-                        "85994",
-                        "85995"
-                    ],
-                    "areacodes": [
-                        "095"
-                    ]
-                },
-                {
-                    "cityname": "Kom Ombo",
-                    "zipcodes": [
-                        "86001",
-                        "86002",
-                        "86003",
-                        "86004",
-                        "86005"
-                    ],
-                    "areacodes": [
-                        "095"
-                    ]
-                }
-            ],
-            "name": "Luxor"
-        },
-        "Aswan": {
-            "capital": "Aswan",
-            "cities": [
-                {
-                    "cityname": "Aswan",
-                    "zipcodes": [
-                        "81111",
-                        "81112",
-                        "81113",
-                        "81114",
-                        "81115"
-                    ],
-                    "areacodes": [
-                        "097"
-                    ]
-                },
-                {
-                    "cityname": "Nubia",
-                    "zipcodes": [
-                        "81121",
-                        "81122",
-                        "81123",
-                        "81124",
-                        "81125"
-                    ],
-                    "areacodes": [
-                        "097"
-                    ]
-                },
-                {
-                    "cityname": "Kom Ombo",
-                    "zipcodes": [
-                        "81131",
-                        "81132",
-                        "81133",
-                        "81134",
-                        "81135"
-                    ],
-                    "areacodes": [
-                        "097"
-                    ]
-                },
-                {
-                    "cityname": "Edfu",
-                    "zipcodes": [
-                        "81141",
-                        "81142",
-                        "81143",
-                        "81144",
-                        "81145"
-                    ],
-                    "areacodes": [
-                        "097"
-                    ]
-                },
-                {
-                    "cityname": "Aswan City",
-                    "zipcodes": [
-                        "81151",
-                        "81152",
-                        "81153",
-                        "81154",
-                        "81155"
-                    ],
-                    "areacodes": [
-                        "097"
-                    ]
-                },
-                {
-                    "cityname": "Abu Simbel",
-                    "zipcodes": [
-                        "81161",
-                        "81162",
-                        "81163",
-                        "81164",
-                        "81165"
-                    ],
-                    "areacodes": [
-                        "097"
-                    ]
-                },
-                {
-                    "cityname": "Darb Al-Kabir",
-                    "zipcodes": [
-                        "81171",
-                        "81172",
-                        "81173",
-                        "81174",
-                        "81175"
-                    ],
-                    "areacodes": [
-                        "097"
-                    ]
-                },
-                {
-                    "cityname": "Al-Gezira",
-                    "zipcodes": [
-                        "81181",
-                        "81182",
-                        "81183",
-                        "81184",
-                        "81185"
-                    ],
-                    "areacodes": [
-                        "097"
-                    ]
-                },
-                {
-                    "cityname": "Al-Darb",
-                    "zipcodes": [
-                        "81191",
-                        "81192",
-                        "81193",
-                        "81194",
-                        "81195"
-                    ],
-                    "areacodes": [
-                        "097"
-                    ]
-                },
-                {
-                    "cityname": "Kombol",
-                    "zipcodes": [
-                        "81201",
-                        "81202",
-                        "81203",
-                        "81204",
-                        "81205"
-                    ],
-                    "areacodes": [
-                        "097"
-                    ]
-                }
-            ],
-            "name": "Aswan"
-        },
-        "Red Sea": {
-            "capital": "Hurghada",
-            "cities": [
-                {
-                    "cityname": "Hurghada",
-                    "zipcodes": [
-                        "84511",
-                        "84512",
-                        "84513",
-                        "84514",
-                        "84515"
-                    ],
-                    "areacodes": [
-                        "065"
-                    ]
-                },
-                {
-                    "cityname": "Safaga",
-                    "zipcodes": [
-                        "84521",
-                        "84522",
-                        "84523",
-                        "84524",
-                        "84525"
-                    ],
-                    "areacodes": [
-                        "065"
-                    ]
-                },
-                {
-                    "cityname": "El Qoseir",
-                    "zipcodes": [
-                        "84531",
-                        "84532",
-                        "84533",
-                        "84534",
-                        "84535"
-                    ],
-                    "areacodes": [
-                        "065"
-                    ]
-                },
-                {
-                    "cityname": "Marsa Alam",
-                    "zipcodes": [
-                        "84541",
-                        "84542",
-                        "84543",
-                        "84544",
-                        "84545"
-                    ],
-                    "areacodes": [
-                        "065"
-                    ]
-                },
-                {
-                    "cityname": "Shalateen",
-                    "zipcodes": [
-                        "84551",
-                        "84552",
-                        "84553",
-                        "84554",
-                        "84555"
-                    ],
-                    "areacodes": [
-                        "065"
-                    ]
-                },
-                {
-                    "cityname": "Berenice",
-                    "zipcodes": [
-                        "84561",
-                        "84562",
-                        "84563",
-                        "84564",
-                        "84565"
-                    ],
-                    "areacodes": [
-                        "065"
-                    ]
-                },
-                {
-                    "cityname": "Ras Gharib",
-                    "zipcodes": [
-                        "84571",
-                        "84572",
-                        "84573",
-                        "84574",
-                        "84575"
-                    ],
-                    "areacodes": [
-                        "065"
-                    ]
-                },
-                {
-                    "cityname": "Gulf of Suez",
-                    "zipcodes": [
-                        "84581",
-                        "84582",
-                        "84583",
-                        "84584",
-                        "84585"
-                    ],
-                    "areacodes": [
-                        "065"
-                    ]
-                },
-                {
-                    "cityname": "El Tor",
-                    "zipcodes": [
-                        "84591",
-                        "84592",
-                        "84593",
-                        "84594",
-                        "84595"
-                    ],
-                    "areacodes": [
-                        "065"
-                    ]
-                },
-                {
-                    "cityname": "Nuweiba",
-                    "zipcodes": [
-                        "84601",
-                        "84602",
-                        "84603",
-                        "84604",
-                        "84605"
-                    ],
-                    "areacodes": [
-                        "065"
-                    ]
-                }
-            ],
-            "name": "Red Sea"
-        },
-        "New Valley": {
-            "capital": "Kharga",
-            "cities": [
-                {
-                    "cityname": "Kharga",
-                    "zipcodes": [
-                        "72511",
-                        "72512",
-                        "72513",
-                        "72514",
-                        "72515"
-                    ],
-                    "areacodes": [
-                        "055"
-                    ]
-                },
-                {
-                    "cityname": "Dakhla",
-                    "zipcodes": [
-                        "72521",
-                        "72522",
-                        "72523",
-                        "72524",
-                        "72525"
-                    ],
-                    "areacodes": [
-                        "055"
-                    ]
-                },
-                {
-                    "cityname": "Farafra",
-                    "zipcodes": [
-                        "72531",
-                        "72532",
-                        "72533",
-                        "72534",
-                        "72535"
-                    ],
-                    "areacodes": [
-                        "055"
-                    ]
-                },
-                {
-                    "cityname": "Bulaq",
-                    "zipcodes": [
-                        "72541",
-                        "72542",
-                        "72543",
-                        "72544",
-                        "72545"
-                    ],
-                    "areacodes": [
-                        "055"
-                    ]
-                },
-                {
-                    "cityname": "Paris",
-                    "zipcodes": [
-                        "72551",
-                        "72552",
-                        "72553",
-                        "72554",
-                        "72555"
-                    ],
-                    "areacodes": [
-                        "055"
-                    ]
-                },
-                {
-                    "cityname": "Ain Amur",
-                    "zipcodes": [
-                        "72561",
-                        "72562",
-                        "72563",
-                        "72564",
-                        "72565"
-                    ],
-                    "areacodes": [
-                        "055"
-                    ]
-                },
-                {
-                    "cityname": "Al Kharga",
-                    "zipcodes": [
-                        "72571",
-                        "72572",
-                        "72573",
-                        "72574",
-                        "72575"
-                    ],
-                    "areacodes": [
-                        "055"
-                    ]
-                },
-                {
-                    "cityname": "Al Dakhla Oasis",
-                    "zipcodes": [
-                        "72581",
-                        "72582",
-                        "72583",
-                        "72584",
-                        "72585"
-                    ],
-                    "areacodes": [
-                        "055"
-                    ]
-                },
-                {
-                    "cityname": "Al Farafra",
-                    "zipcodes": [
-                        "72591",
-                        "72592",
-                        "72593",
-                        "72594",
-                        "72595"
-                    ],
-                    "areacodes": [
-                        "055"
-                    ]
-                },
-                {
-                    "cityname": "Al Wadi El Gedeed",
-                    "zipcodes": [
-                        "72601",
-                        "72602",
-                        "72603",
-                        "72604",
-                        "72605"
-                    ],
-                    "areacodes": [
-                        "055"
-                    ]
-                }
-            ],
-            "name": "New Valley"
-        },
-        "Matruh": {
-            "capital": "Matruh",
-            "cities": [
-                {
-                    "cityname": "Matruh",
-                    "zipcodes": [
-                        "51511",
-                        "51512",
-                        "51513",
-                        "51514",
-                        "51515"
-                    ],
-                    "areacodes": [
-                        "046"
-                    ]
-                },
-                {
-                    "cityname": "Alamein",
-                    "zipcodes": [
-                        "51521",
-                        "51522",
-                        "51523",
-                        "51524",
-                        "51525"
-                    ],
-                    "areacodes": [
-                        "046"
-                    ]
-                },
-                {
-                    "cityname": "Siwa",
-                    "zipcodes": [
-                        "51531",
-                        "51532",
-                        "51533",
-                        "51534",
-                        "51535"
-                    ],
-                    "areacodes": [
-                        "046"
-                    ]
-                },
-                {
-                    "cityname": "Dabaa",
-                    "zipcodes": [
-                        "51541",
-                        "51542",
-                        "51543",
-                        "51544",
-                        "51545"
-                    ],
-                    "areacodes": [
-                        "046"
-                    ]
-                },
-                {
-                    "cityname": "Sidi Abdel Rahman",
-                    "zipcodes": [
-                        "51551",
-                        "51552",
-                        "51553",
-                        "51554",
-                        "51555"
-                    ],
-                    "areacodes": [
-                        "046"
-                    ]
-                },
-                {
-                    "cityname": "Marsa Matruh",
-                    "zipcodes": [
-                        "51561",
-                        "51562",
-                        "51563",
-                        "51564",
-                        "51565"
-                    ],
-                    "areacodes": [
-                        "046"
-                    ]
-                },
-                {
-                    "cityname": "Fouad City",
-                    "zipcodes": [
-                        "51571",
-                        "51572",
-                        "51573",
-                        "51574",
-                        "51575"
-                    ],
-                    "areacodes": [
-                        "046"
-                    ]
-                },
-                {
-                    "cityname": "El Hammam",
-                    "zipcodes": [
-                        "51581",
-                        "51582",
-                        "51583",
-                        "51584",
-                        "51585"
-                    ],
-                    "areacodes": [
-                        "046"
-                    ]
-                },
-                {
-                    "cityname": "Burg El Arab",
-                    "zipcodes": [
-                        "51591",
-                        "51592",
-                        "51593",
-                        "51594",
-                        "51595"
-                    ],
-                    "areacodes": [
-                        "046"
-                    ]
-                },
-                {
-                    "cityname": "Ras El Hekma",
-                    "zipcodes": [
-                        "51601",
-                        "51602",
-                        "51603",
-                        "51604",
-                        "51605"
-                    ],
-                    "areacodes": [
-                        "046"
-                    ]
-                }
-            ],
-            "name": "Matruh"
-        },
-        "North Sinai": {
-            "capital": "El-Arish",
-            "cities": [
-                {
-                    "cityname": "El-Arish",
-                    "zipcodes": [
-                        "45511",
-                        "45512",
-                        "45513",
-                        "45514",
-                        "45515"
-                    ],
-                    "areacodes": [
-                        "068"
-                    ]
-                },
-                {
-                    "cityname": "Rafah",
-                    "zipcodes": [
-                        "45521",
-                        "45522",
-                        "45523",
-                        "45524",
-                        "45525"
-                    ],
-                    "areacodes": [
-                        "068"
-                    ]
-                },
-                {
-                    "cityname": "Sheikh Zuweid",
-                    "zipcodes": [
-                        "45531",
-                        "45532",
-                        "45533",
-                        "45534",
-                        "45535"
-                    ],
-                    "areacodes": [
-                        "068"
-                    ]
-                },
-                {
-                    "cityname": "Bir El Abd",
-                    "zipcodes": [
-                        "45541",
-                        "45542",
-                        "45543",
-                        "45544",
-                        "45545"
-                    ],
-                    "areacodes": [
-                        "068"
-                    ]
-                },
-                {
-                    "cityname": "Al Hassana",
-                    "zipcodes": [
-                        "45551",
-                        "45552",
-                        "45553",
-                        "45554",
-                        "45555"
-                    ],
-                    "areacodes": [
-                        "068"
-                    ]
-                },
-                {
-                    "cityname": "Al Qantara",
-                    "zipcodes": [
-                        "45561",
-                        "45562",
-                        "45563",
-                        "45564",
-                        "45565"
-                    ],
-                    "areacodes": [
-                        "068"
-                    ]
-                },
-                {
-                    "cityname": "Al-Arish Port",
-                    "zipcodes": [
-                        "45571",
-                        "45572",
-                        "45573",
-                        "45574",
-                        "45575"
-                    ],
-                    "areacodes": [
-                        "068"
-                    ]
-                },
-                {
-                    "cityname": "Abu Rudeis",
-                    "zipcodes": [
-                        "45581",
-                        "45582",
-                        "45583",
-                        "45584",
-                        "45585"
-                    ],
-                    "areacodes": [
-                        "068"
-                    ]
-                },
-                {
-                    "cityname": "Taba",
-                    "zipcodes": [
-                        "45591",
-                        "45592",
-                        "45593",
-                        "45594",
-                        "45595"
-                    ],
-                    "areacodes": [
-                        "068"
-                    ]
-                },
-                {
-                    "cityname": "Al-Gora",
-                    "zipcodes": [
-                        "45601",
-                        "45602",
-                        "45603",
-                        "45604",
-                        "45605"
-                    ],
-                    "areacodes": [
-                        "068"
-                    ]
-                }
-            ],
-            "name": "North Sinai"
-        },
-        "South Sinai": {
-            "capital": "El-Tur",
-            "cities": [
-                {
-                    "cityname": "El-Tur",
-                    "zipcodes": [
-                        "46611",
-                        "46612",
-                        "46613",
-                        "46614",
-                        "46615"
-                    ],
-                    "areacodes": [
-                        "069"
-                    ]
-                },
-                {
-                    "cityname": "Sharm El Sheikh",
-                    "zipcodes": [
-                        "46621",
-                        "46622",
-                        "46623",
-                        "46624",
-                        "46625"
-                    ],
-                    "areacodes": [
-                        "069"
-                    ]
-                },
-                {
-                    "cityname": "Dahab",
-                    "zipcodes": [
-                        "46631",
-                        "46632",
-                        "46633",
-                        "46634",
-                        "46635"
-                    ],
-                    "areacodes": [
-                        "069"
-                    ]
-                },
-                {
-                    "cityname": "Nuweiba",
-                    "zipcodes": [
-                        "46641",
-                        "46642",
-                        "46643",
-                        "46644",
-                        "46645"
-                    ],
-                    "areacodes": [
-                        "069"
-                    ]
-                },
-                {
-                    "cityname": "Taba",
-                    "zipcodes": [
-                        "46651",
-                        "46652",
-                        "46653",
-                        "46654",
-                        "46655"
-                    ],
-                    "areacodes": [
-                        "069"
-                    ]
-                },
-                {
-                    "cityname": "Ras Sudr",
-                    "zipcodes": [
-                        "46661",
-                        "46662",
-                        "46663",
-                        "46664",
-                        "46665"
-                    ],
-                    "areacodes": [
-                        "069"
-                    ]
-                },
-                {
-                    "cityname": "Saint Catherine",
-                    "zipcodes": [
-                        "46671",
-                        "46672",
-                        "46673",
-                        "46674",
-                        "46675"
-                    ],
-                    "areacodes": [
-                        "069"
-                    ]
-                },
-                {
-                    "cityname": "Abu Galum",
-                    "zipcodes": [
-                        "46681",
-                        "46682",
-                        "46683",
-                        "46684",
-                        "46685"
-                    ],
-                    "areacodes": [
-                        "069"
-                    ]
-                },
-                {
-                    "cityname": "Khan El Khalili",
-                    "zipcodes": [
-                        "46691",
-                        "46692",
-                        "46693",
-                        "46694",
-                        "46695"
-                    ],
-                    "areacodes": [
-                        "069"
-                    ]
-                },
-                {
-                    "cityname": "Zafarana",
-                    "zipcodes": [
-                        "46701",
-                        "46702",
-                        "46703",
-                        "46704",
-                        "46705"
-                    ],
-                    "areacodes": [
-                        "069"
-                    ]
-                }
-            ],
-            "name": "South Sinai"
+          "zipcodes": [
+            "71201",
+            "71202",
+            "71203",
+            "71204",
+            "71205"
+          ],
+          "areacodes": [
+            "088"
+          ]
         }
+      },
+      "name": "Assiut"
     },
-    "citycontainers": [
-        "governorates"
-    ],
-    "firstnames": [
-  "Louis", "Gabriel", "Léo", "Lucas", "Hugo", "Raphaël", "Arthur", "Jules", "Ethan", "Nathan",
-  "Adam", "Harrison", "Theo", "Sacha", "Paul", "Antoine", "Maxime", "Victor", "Léon", "Pierre",
-  "Simon", "Mathis", "Julien", "Matthieu", "Téo", "Oscar", "Julien", "Eliott", "Martin", "Noé",
-  "Axel", "Malo", "Côme", "Tom", "Emilien", "Alexandre", "Jean", "Romain", "Loris", "Nicolas",
-  "Luca", "Maxence"
-],
-"lastnames": [
-  "Martin", "Bernard", "Dubois", "Thomas", "Robert", "Richard", "Petit", "Durand", "Lemoine", "Lemoine",
-  "Lefevre", "Lemoine", "Lemoine", "Muller", "Michel", "Lemoine", "Lemoine", "Lemoine", "Lemoine",
-  "Muller", "Muller", "Muller", "Lemoine", "Gauthier", "Lemoine", "Lemoine", "Lemoine", "Gauthier",
-  "Lemoine", "Gauthier", "Lemoine", "Gauthier", "Lemoine", "Lemoine", "Lemoine", "Petit"
-]
-
+    "Qena": {
+      "capital": "Qena",
+      "cities": {
+        "Qena": {
+          "zipcodes": [
+            "82711",
+            "82712",
+            "82713",
+            "82714",
+            "82715"
+          ],
+          "areacodes": [
+            "096"
+          ]
+        },
+        "Nag Hammadi": {
+          "zipcodes": [
+            "82721",
+            "82722",
+            "82723",
+            "82724",
+            "82725"
+          ],
+          "areacodes": [
+            "096"
+          ]
+        },
+        "Dandara": {
+          "zipcodes": [
+            "82731",
+            "82732",
+            "82733",
+            "82734",
+            "82735"
+          ],
+          "areacodes": [
+            "096"
+          ]
+        },
+        "Qus": {
+          "zipcodes": [
+            "82741",
+            "82742",
+            "82743",
+            "82744",
+            "82745"
+          ],
+          "areacodes": [
+            "096"
+          ]
+        },
+        "Karnak": {
+          "zipcodes": [
+            "82751",
+            "82752",
+            "82753",
+            "82754",
+            "82755"
+          ],
+          "areacodes": [
+            "096"
+          ]
+        },
+        "El-Badari": {
+          "zipcodes": [
+            "82761",
+            "82762",
+            "82763",
+            "82764",
+            "82765"
+          ],
+          "areacodes": [
+            "096"
+          ]
+        },
+        "Al-Mahrousa": {
+          "zipcodes": [
+            "82771",
+            "82772",
+            "82773",
+            "82774",
+            "82775"
+          ],
+          "areacodes": [
+            "096"
+          ]
+        },
+        "Deshna": {
+          "zipcodes": [
+            "82781",
+            "82782",
+            "82783",
+            "82784",
+            "82785"
+          ],
+          "areacodes": [
+            "096"
+          ]
+        },
+        "Al-Mahraqa": {
+          "zipcodes": [
+            "82791",
+            "82792",
+            "82793",
+            "82794",
+            "82795"
+          ],
+          "areacodes": [
+            "096"
+          ]
+        },
+        "Al-Kusuf": {
+          "zipcodes": [
+            "82801",
+            "82802",
+            "82803",
+            "82804",
+            "82805"
+          ],
+          "areacodes": [
+            "096"
+          ]
+        }
+      },
+      "name": "Qena"
+    },
+    "Luxor": {
+      "capital": "Luxor",
+      "cities": {
+        "Luxor": {
+          "zipcodes": [
+            "85911",
+            "85912",
+            "85913",
+            "85914",
+            "85915"
+          ],
+          "areacodes": [
+            "095"
+          ]
+        },
+        "Thebes": {
+          "zipcodes": [
+            "85921",
+            "85922",
+            "85923",
+            "85924",
+            "85925"
+          ],
+          "areacodes": [
+            "095"
+          ]
+        },
+        "Esna": {
+          "zipcodes": [
+            "85931",
+            "85932",
+            "85933",
+            "85934",
+            "85935"
+          ],
+          "areacodes": [
+            "095"
+          ]
+        },
+        "Armant": {
+          "zipcodes": [
+            "85941",
+            "85942",
+            "85943",
+            "85944",
+            "85945"
+          ],
+          "areacodes": [
+            "095"
+          ]
+        },
+        "Hurna": {
+          "zipcodes": [
+            "85951",
+            "85952",
+            "85953",
+            "85954",
+            "85955"
+          ],
+          "areacodes": [
+            "095"
+          ]
+        },
+        "Qurna": {
+          "zipcodes": [
+            "85961",
+            "85962",
+            "85963",
+            "85964",
+            "85965"
+          ],
+          "areacodes": [
+            "095"
+          ]
+        },
+        "Al-Daba": {
+          "zipcodes": [
+            "85971",
+            "85972",
+            "85973",
+            "85974",
+            "85975"
+          ],
+          "areacodes": [
+            "095"
+          ]
+        },
+        "Al-Manshiya": {
+          "zipcodes": [
+            "85981",
+            "85982",
+            "85983",
+            "85984",
+            "85985"
+          ],
+          "areacodes": [
+            "095"
+          ]
+        },
+        "Qift": {
+          "zipcodes": [
+            "85991",
+            "85992",
+            "85993",
+            "85994",
+            "85995"
+          ],
+          "areacodes": [
+            "095"
+          ]
+        },
+        "Kom Ombo": {
+          "zipcodes": [
+            "86001",
+            "86002",
+            "86003",
+            "86004",
+            "86005"
+          ],
+          "areacodes": [
+            "095"
+          ]
+        }
+      },
+      "name": "Luxor"
+    },
+    "Aswan": {
+      "capital": "Aswan",
+      "cities": {
+        "Aswan": {
+          "zipcodes": [
+            "81111",
+            "81112",
+            "81113",
+            "81114",
+            "81115"
+          ],
+          "areacodes": [
+            "097"
+          ]
+        },
+        "Nubia": {
+          "zipcodes": [
+            "81121",
+            "81122",
+            "81123",
+            "81124",
+            "81125"
+          ],
+          "areacodes": [
+            "097"
+          ]
+        },
+        "Kom Ombo": {
+          "zipcodes": [
+            "81131",
+            "81132",
+            "81133",
+            "81134",
+            "81135"
+          ],
+          "areacodes": [
+            "097"
+          ]
+        },
+        "Edfu": {
+          "zipcodes": [
+            "81141",
+            "81142",
+            "81143",
+            "81144",
+            "81145"
+          ],
+          "areacodes": [
+            "097"
+          ]
+        },
+        "Aswan City": {
+          "zipcodes": [
+            "81151",
+            "81152",
+            "81153",
+            "81154",
+            "81155"
+          ],
+          "areacodes": [
+            "097"
+          ]
+        },
+        "Abu Simbel": {
+          "zipcodes": [
+            "81161",
+            "81162",
+            "81163",
+            "81164",
+            "81165"
+          ],
+          "areacodes": [
+            "097"
+          ]
+        },
+        "Darb Al-Kabir": {
+          "zipcodes": [
+            "81171",
+            "81172",
+            "81173",
+            "81174",
+            "81175"
+          ],
+          "areacodes": [
+            "097"
+          ]
+        },
+        "Al-Gezira": {
+          "zipcodes": [
+            "81181",
+            "81182",
+            "81183",
+            "81184",
+            "81185"
+          ],
+          "areacodes": [
+            "097"
+          ]
+        },
+        "Al-Darb": {
+          "zipcodes": [
+            "81191",
+            "81192",
+            "81193",
+            "81194",
+            "81195"
+          ],
+          "areacodes": [
+            "097"
+          ]
+        },
+        "Kombol": {
+          "zipcodes": [
+            "81201",
+            "81202",
+            "81203",
+            "81204",
+            "81205"
+          ],
+          "areacodes": [
+            "097"
+          ]
+        }
+      },
+      "name": "Aswan"
+    },
+    "Red Sea": {
+      "capital": "Hurghada",
+      "cities": {
+        "Hurghada": {
+          "zipcodes": [
+            "84511",
+            "84512",
+            "84513",
+            "84514",
+            "84515"
+          ],
+          "areacodes": [
+            "065"
+          ]
+        },
+        "Safaga": {
+          "zipcodes": [
+            "84521",
+            "84522",
+            "84523",
+            "84524",
+            "84525"
+          ],
+          "areacodes": [
+            "065"
+          ]
+        },
+        "El Qoseir": {
+          "zipcodes": [
+            "84531",
+            "84532",
+            "84533",
+            "84534",
+            "84535"
+          ],
+          "areacodes": [
+            "065"
+          ]
+        },
+        "Marsa Alam": {
+          "zipcodes": [
+            "84541",
+            "84542",
+            "84543",
+            "84544",
+            "84545"
+          ],
+          "areacodes": [
+            "065"
+          ]
+        },
+        "Shalateen": {
+          "zipcodes": [
+            "84551",
+            "84552",
+            "84553",
+            "84554",
+            "84555"
+          ],
+          "areacodes": [
+            "065"
+          ]
+        },
+        "Berenice": {
+          "zipcodes": [
+            "84561",
+            "84562",
+            "84563",
+            "84564",
+            "84565"
+          ],
+          "areacodes": [
+            "065"
+          ]
+        },
+        "Ras Gharib": {
+          "zipcodes": [
+            "84571",
+            "84572",
+            "84573",
+            "84574",
+            "84575"
+          ],
+          "areacodes": [
+            "065"
+          ]
+        },
+        "Gulf of Suez": {
+          "zipcodes": [
+            "84581",
+            "84582",
+            "84583",
+            "84584",
+            "84585"
+          ],
+          "areacodes": [
+            "065"
+          ]
+        },
+        "El Tor": {
+          "zipcodes": [
+            "84591",
+            "84592",
+            "84593",
+            "84594",
+            "84595"
+          ],
+          "areacodes": [
+            "065"
+          ]
+        },
+        "Nuweiba": {
+          "zipcodes": [
+            "84601",
+            "84602",
+            "84603",
+            "84604",
+            "84605"
+          ],
+          "areacodes": [
+            "065"
+          ]
+        }
+      },
+      "name": "Red Sea"
+    },
+    "New Valley": {
+      "capital": "Kharga",
+      "cities": {
+        "Kharga": {
+          "zipcodes": [
+            "72511",
+            "72512",
+            "72513",
+            "72514",
+            "72515"
+          ],
+          "areacodes": [
+            "055"
+          ]
+        },
+        "Dakhla": {
+          "zipcodes": [
+            "72521",
+            "72522",
+            "72523",
+            "72524",
+            "72525"
+          ],
+          "areacodes": [
+            "055"
+          ]
+        },
+        "Farafra": {
+          "zipcodes": [
+            "72531",
+            "72532",
+            "72533",
+            "72534",
+            "72535"
+          ],
+          "areacodes": [
+            "055"
+          ]
+        },
+        "Bulaq": {
+          "zipcodes": [
+            "72541",
+            "72542",
+            "72543",
+            "72544",
+            "72545"
+          ],
+          "areacodes": [
+            "055"
+          ]
+        },
+        "Paris": {
+          "zipcodes": [
+            "72551",
+            "72552",
+            "72553",
+            "72554",
+            "72555"
+          ],
+          "areacodes": [
+            "055"
+          ]
+        },
+        "Ain Amur": {
+          "zipcodes": [
+            "72561",
+            "72562",
+            "72563",
+            "72564",
+            "72565"
+          ],
+          "areacodes": [
+            "055"
+          ]
+        },
+        "Al Kharga": {
+          "zipcodes": [
+            "72571",
+            "72572",
+            "72573",
+            "72574",
+            "72575"
+          ],
+          "areacodes": [
+            "055"
+          ]
+        },
+        "Al Dakhla Oasis": {
+          "zipcodes": [
+            "72581",
+            "72582",
+            "72583",
+            "72584",
+            "72585"
+          ],
+          "areacodes": [
+            "055"
+          ]
+        },
+        "Al Farafra": {
+          "zipcodes": [
+            "72591",
+            "72592",
+            "72593",
+            "72594",
+            "72595"
+          ],
+          "areacodes": [
+            "055"
+          ]
+        },
+        "Al Wadi El Gedeed": {
+          "zipcodes": [
+            "72601",
+            "72602",
+            "72603",
+            "72604",
+            "72605"
+          ],
+          "areacodes": [
+            "055"
+          ]
+        }
+      },
+      "name": "New Valley"
+    },
+    "Matruh": {
+      "capital": "Matruh",
+      "cities": {
+        "Matruh": {
+          "zipcodes": [
+            "51511",
+            "51512",
+            "51513",
+            "51514",
+            "51515"
+          ],
+          "areacodes": [
+            "046"
+          ]
+        },
+        "Alamein": {
+          "zipcodes": [
+            "51521",
+            "51522",
+            "51523",
+            "51524",
+            "51525"
+          ],
+          "areacodes": [
+            "046"
+          ]
+        },
+        "Siwa": {
+          "zipcodes": [
+            "51531",
+            "51532",
+            "51533",
+            "51534",
+            "51535"
+          ],
+          "areacodes": [
+            "046"
+          ]
+        },
+        "Dabaa": {
+          "zipcodes": [
+            "51541",
+            "51542",
+            "51543",
+            "51544",
+            "51545"
+          ],
+          "areacodes": [
+            "046"
+          ]
+        },
+        "Sidi Abdel Rahman": {
+          "zipcodes": [
+            "51551",
+            "51552",
+            "51553",
+            "51554",
+            "51555"
+          ],
+          "areacodes": [
+            "046"
+          ]
+        },
+        "Marsa Matruh": {
+          "zipcodes": [
+            "51561",
+            "51562",
+            "51563",
+            "51564",
+            "51565"
+          ],
+          "areacodes": [
+            "046"
+          ]
+        },
+        "Fouad City": {
+          "zipcodes": [
+            "51571",
+            "51572",
+            "51573",
+            "51574",
+            "51575"
+          ],
+          "areacodes": [
+            "046"
+          ]
+        },
+        "El Hammam": {
+          "zipcodes": [
+            "51581",
+            "51582",
+            "51583",
+            "51584",
+            "51585"
+          ],
+          "areacodes": [
+            "046"
+          ]
+        },
+        "Burg El Arab": {
+          "zipcodes": [
+            "51591",
+            "51592",
+            "51593",
+            "51594",
+            "51595"
+          ],
+          "areacodes": [
+            "046"
+          ]
+        },
+        "Ras El Hekma": {
+          "zipcodes": [
+            "51601",
+            "51602",
+            "51603",
+            "51604",
+            "51605"
+          ],
+          "areacodes": [
+            "046"
+          ]
+        }
+      },
+      "name": "Matruh"
+    },
+    "North Sinai": {
+      "capital": "El-Arish",
+      "cities": {
+        "El-Arish": {
+          "zipcodes": [
+            "45511",
+            "45512",
+            "45513",
+            "45514",
+            "45515"
+          ],
+          "areacodes": [
+            "068"
+          ]
+        },
+        "Rafah": {
+          "zipcodes": [
+            "45521",
+            "45522",
+            "45523",
+            "45524",
+            "45525"
+          ],
+          "areacodes": [
+            "068"
+          ]
+        },
+        "Sheikh Zuweid": {
+          "zipcodes": [
+            "45531",
+            "45532",
+            "45533",
+            "45534",
+            "45535"
+          ],
+          "areacodes": [
+            "068"
+          ]
+        },
+        "Bir El Abd": {
+          "zipcodes": [
+            "45541",
+            "45542",
+            "45543",
+            "45544",
+            "45545"
+          ],
+          "areacodes": [
+            "068"
+          ]
+        },
+        "Al Hassana": {
+          "zipcodes": [
+            "45551",
+            "45552",
+            "45553",
+            "45554",
+            "45555"
+          ],
+          "areacodes": [
+            "068"
+          ]
+        },
+        "Al Qantara": {
+          "zipcodes": [
+            "45561",
+            "45562",
+            "45563",
+            "45564",
+            "45565"
+          ],
+          "areacodes": [
+            "068"
+          ]
+        },
+        "Al-Arish Port": {
+          "zipcodes": [
+            "45571",
+            "45572",
+            "45573",
+            "45574",
+            "45575"
+          ],
+          "areacodes": [
+            "068"
+          ]
+        },
+        "Abu Rudeis": {
+          "zipcodes": [
+            "45581",
+            "45582",
+            "45583",
+            "45584",
+            "45585"
+          ],
+          "areacodes": [
+            "068"
+          ]
+        },
+        "Taba": {
+          "zipcodes": [
+            "45591",
+            "45592",
+            "45593",
+            "45594",
+            "45595"
+          ],
+          "areacodes": [
+            "068"
+          ]
+        },
+        "Al-Gora": {
+          "zipcodes": [
+            "45601",
+            "45602",
+            "45603",
+            "45604",
+            "45605"
+          ],
+          "areacodes": [
+            "068"
+          ]
+        }
+      },
+      "name": "North Sinai"
+    },
+    "South Sinai": {
+      "capital": "El-Tur",
+      "cities": {
+        "El-Tur": {
+          "zipcodes": [
+            "46611",
+            "46612",
+            "46613",
+            "46614",
+            "46615"
+          ],
+          "areacodes": [
+            "069"
+          ]
+        },
+        "Sharm El Sheikh": {
+          "zipcodes": [
+            "46621",
+            "46622",
+            "46623",
+            "46624",
+            "46625"
+          ],
+          "areacodes": [
+            "069"
+          ]
+        },
+        "Dahab": {
+          "zipcodes": [
+            "46631",
+            "46632",
+            "46633",
+            "46634",
+            "46635"
+          ],
+          "areacodes": [
+            "069"
+          ]
+        },
+        "Nuweiba": {
+          "zipcodes": [
+            "46641",
+            "46642",
+            "46643",
+            "46644",
+            "46645"
+          ],
+          "areacodes": [
+            "069"
+          ]
+        },
+        "Taba": {
+          "zipcodes": [
+            "46651",
+            "46652",
+            "46653",
+            "46654",
+            "46655"
+          ],
+          "areacodes": [
+            "069"
+          ]
+        },
+        "Ras Sudr": {
+          "zipcodes": [
+            "46661",
+            "46662",
+            "46663",
+            "46664",
+            "46665"
+          ],
+          "areacodes": [
+            "069"
+          ]
+        },
+        "Saint Catherine": {
+          "zipcodes": [
+            "46671",
+            "46672",
+            "46673",
+            "46674",
+            "46675"
+          ],
+          "areacodes": [
+            "069"
+          ]
+        },
+        "Abu Galum": {
+          "zipcodes": [
+            "46681",
+            "46682",
+            "46683",
+            "46684",
+            "46685"
+          ],
+          "areacodes": [
+            "069"
+          ]
+        },
+        "Khan El Khalili": {
+          "zipcodes": [
+            "46691",
+            "46692",
+            "46693",
+            "46694",
+            "46695"
+          ],
+          "areacodes": [
+            "069"
+          ]
+        },
+        "Zafarana": {
+          "zipcodes": [
+            "46701",
+            "46702",
+            "46703",
+            "46704",
+            "46705"
+          ],
+          "areacodes": [
+            "069"
+          ]
+        }
+      },
+      "name": "South Sinai"
+    }
+  },
+  "citycontainers": [
+    "governorates"
+  ],
+  "firstnames": [
+    "Louis",
+    "Gabriel",
+    "Léo",
+    "Lucas",
+    "Hugo",
+    "Raphaël",
+    "Arthur",
+    "Jules",
+    "Ethan",
+    "Nathan",
+    "Adam",
+    "Harrison",
+    "Theo",
+    "Sacha",
+    "Paul",
+    "Antoine",
+    "Maxime",
+    "Victor",
+    "Léon",
+    "Pierre",
+    "Simon",
+    "Mathis",
+    "Julien",
+    "Matthieu",
+    "Téo",
+    "Oscar",
+    "Julien",
+    "Eliott",
+    "Martin",
+    "Noé",
+    "Axel",
+    "Malo",
+    "Côme",
+    "Tom",
+    "Emilien",
+    "Alexandre",
+    "Jean",
+    "Romain",
+    "Loris",
+    "Nicolas",
+    "Luca",
+    "Maxence"
+  ],
+  "lastnames": [
+    "Martin",
+    "Bernard",
+    "Dubois",
+    "Thomas",
+    "Robert",
+    "Richard",
+    "Petit",
+    "Durand",
+    "Lemoine",
+    "Lemoine",
+    "Lefevre",
+    "Lemoine",
+    "Lemoine",
+    "Muller",
+    "Michel",
+    "Lemoine",
+    "Lemoine",
+    "Lemoine",
+    "Lemoine",
+    "Muller",
+    "Muller",
+    "Muller",
+    "Lemoine",
+    "Gauthier",
+    "Lemoine",
+    "Lemoine",
+    "Lemoine",
+    "Gauthier",
+    "Lemoine",
+    "Gauthier",
+    "Lemoine",
+    "Gauthier",
+    "Lemoine",
+    "Lemoine",
+    "Lemoine",
+    "Petit"
+  ]
 }

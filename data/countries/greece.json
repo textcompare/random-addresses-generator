@@ -1,3135 +1,2973 @@
 {
-    "countrycode": "+30",
-    "phoneformat": "(A) XXXX XXXX",
-    "country": "Greece",
-    "neighborhoods": {
-        "corporate": [
-            "Athens City Center",
-            "Thessaloniki Business District",
-            "Piraeus",
-            "Kifisia",
-            "Marousi",
-            "Glyfada",
-            "Chalandri",
-            "Nea Smyrni",
-            "Heraklion",
-            "Patras Business Area",
-            "Larissa",
-            "Kalamaria",
-            "Nea Ionia",
-            "Piraeus Port Area",
-            "Kifisia Business Center",
-            "Voula",
-            "Rafina",
-            "Nea Halkidona",
-            "Agia Paraskevi",
-            "Vrilissia",
-            "Pallini",
-            "Agios Dimitrios",
-            "Korinthos",
-            "Halandri",
-            "Alimos",
-            "Vouliagmeni",
-            "Piraeus Central Business",
-            "Metaxourgeio",
-            "Peristeri",
-            "Makati",
-            "Panathenaic Stadium Area",
-            "Vironas",
-            "Haidari",
-            "Metamorfosi",
-            "Palaio Faliro",
-            "Kifisia Business Hub",
-            "Athens Southern Suburbs",
-            "Psychiko",
-            "Athens Northern Suburbs",
-            "Athens Airport Area",
-            "Nea Filadelfeia",
-            "Athens Business District",
-            "Acharnae",
-            "Chania",
-            "Heraklion Business Zone",
-            "Koropi"
-        ],
-        "industrial": [
-            "Thessaloniki Industrial Zone",
-            "Piraeus Industrial Area",
-            "Athens Industrial Zone",
-            "Hellas Industrial Park",
-            "Patras Port Industrial Complex",
-            "Volos Industrial Park",
-            "Larissa Industrial District",
-            "Nea Ionia Industrial Zone",
-            "Heraklion Industrial Zone",
-            "Kalamata Industrial Zone",
-            "Rafina Industrial Area",
-            "Alexandroupoli Industrial District",
-            "Elefsina Industrial Complex",
-            "Corinth Industrial Zone",
-            "Katerini Industrial Area",
-            "Serres Industrial Park",
-            "Komotini Industrial Zone",
-            "Veroia Industrial Zone",
-            "Trikala Industrial Complex",
-            "Giannitsa Industrial Area",
-            "Samos Industrial Park",
-            "Zefyri Industrial Zone",
-            "Iraklio Industrial Park",
-            "Xanthi Industrial Zone",
-            "Giannitsa Industrial Complex",
-            "Kozani Industrial Zone",
-            "Rethymno Industrial Area",
-            "Edessa Industrial Park",
-            "Alexandroupoli Port Industrial Area",
-            "Lamia Industrial Zone",
-            "Halkida Industrial Complex",
-            "Komotini Industrial Area",
-            "Veria Industrial Zone",
-            "Igoumenitsa Industrial District",
-            "Sparta Industrial Park",
-            "Larissa Free Zone",
-            "Serres Industrial Park",
-            "Ioannina Industrial Zone",
-            "Ptolemaida Industrial Area",
-            "Athens Industrial Hub",
-            "Volos Port Industrial Zone",
-            "Thessaloniki Free Zone",
-            "Patras Industrial Park",
-            "Chania Industrial Zone",
-            "Kalamaria Industrial Park",
-            "Argos Industrial Complex"
-        ],
-        "residential": [
-            "Athens",
-            "Thessaloniki",
-            "Piraeus",
-            "Glyfada",
-            "Kifisia",
-            "Marousi",
-            "Chalandri",
-            "Nea Smyrni",
-            "Heraklion",
-            "Patras",
-            "Larissa",
-            "Kalamaria",
-            "Nea Ionia",
-            "Piraeus Port Area",
-            "Kifisia Residential",
-            "Voula",
-            "Rafina",
-            "Nea Halkidona",
-            "Agia Paraskevi",
-            "Vrilissia",
-            "Pallini",
-            "Agios Dimitrios",
-            "Korinthos",
-            "Halandri",
-            "Alimos",
-            "Vouliagmeni",
-            "Metaxourgeio",
-            "Peristeri",
-            "Vironas",
-            "Haidari",
-            "Metamorfosi",
-            "Palaio Faliro",
-            "Chania",
-            "Heraklion Residential Zone",
-            "Koropi",
-            "Katerini",
-            "Alexandroupoli",
-            "Komotini",
-            "Rethymno",
-            "Veria",
-            "Edessa",
-            "Igoumenitsa",
-            "Sparta",
-            "Ioannina",
-            "Xanthi",
-            "Arta",
-            "Giannitsa",
-            "Kozani",
-            "Kalamata",
-            "Athens Southern Suburbs",
-            "Athens Northern Suburbs",
-            "Chalcis",
-            "Alexandroupoli",
-            "Orestiada",
-            "Lamia",
-            "Patras Residential Zone",
-            "Samos",
-            "Ptolemaida",
-            "Sparta",
-            "Milos",
-            "Santorini"
-        ]
-    },
-    "streetnames": {
-        "corporate": [
-            "Syntagma Square",
-            "Kifisia Avenue",
-            "Athens Ring Road",
-            "Piraeus Street",
-            "Marousi Avenue",
-            "Sygrou Avenue",
-            "Pallini Road",
-            "Leoforos Vouliagmenis",
-            "Vouliagmeni Avenue",
-            "Vironas Street",
-            "Kalamata Street",
-            "Lefkados Street",
-            "Omonia Square",
-            "Zografou Street",
-            "Kalamaria Boulevard",
-            "Alexandras Avenue",
-            "Kolonaki Square",
-            "Piraeus Port Road",
-            "Leoforos Kifisias",
-            "Nea Smyrni Boulevard",
-            "Chalandri Avenue",
-            "Agios Dimitrios Road",
-            "Tavros Road",
-            "Plaka Street",
-            "Panepistimiou Street",
-            "Athens International Airport Road",
-            "Alimos Road",
-            "Chalkida Avenue",
-            "Athens-Piraeus Road",
-            "Thessaloniki Avenue",
-            "Athens City Center Road",
-            "Marousi Central Street",
-            "Kifisia North Road",
-            "El Venizelos Avenue",
-            "Mikrolimano Street",
-            "Skoufa Street",
-            "Zappeio Park Road",
-            "Lycabettus Hill Road",
-            "Stadiou Street",
-            "Metaxourgeio Square",
-            "Neos Kosmos Street",
-            "Korinthos Street",
-            "Nea Ionia Avenue",
-            "Moulin Street"
-        ],
-        "industrial": [
-            "Industrial Park Thessaloniki",
-            "Piraeus Port Industrial Street",
-            "Heraklion Industrial Avenue",
-            "Patras Industrial Road",
-            "Kalamata Industrial Road",
-            "Athens Industrial Park Street",
-            "Serres Industrial Avenue",
-            "Xanthi Industrial Park Road",
-            "Veria Industrial Street",
-            "Komotini Industrial Boulevard",
-            "Samos Industrial Road",
-            "Rethymno Industrial Street",
-            "Larissa Industrial Park",
-            "Athens Business District Street",
-            "Kozani Industrial Road",
-            "Alexandroupoli Industrial Avenue",
-            "Ioannina Industrial Road",
-            "Veroia Industrial Zone",
-            "Corinth Industrial Street",
-            "Ptolemaida Industrial Road",
-            "Lamia Industrial Avenue",
-            "Edessa Industrial Park",
-            "Thessaloniki Free Zone Street",
-            "Chania Industrial Road",
-            "Samos Free Zone",
-            "Kalamaria Industrial Zone",
-            "Heraklion Port Industrial Area",
-            "Volos Port Road",
-            "Patras Free Zone",
-            "Elefsina Industrial Street",
-            "Igoumenitsa Industrial District",
-            "Halkida Industrial Park",
-            "Rethymno Industrial Zone",
-            "Samos Free Zone",
-            "Sparta Industrial Road",
-            "Syntagma Free Zone",
-            "Piraeus Industrial Complex",
-            "Patras Business District Street",
-            "Katerini Industrial Zone",
-            "Athens Industrial Area"
-        ],
-        "residential": [
-            "Kolonaki",
-            "Kifisia",
-            "Piraeus Residential",
-            "Nea Ionia",
-            "Heraklion",
-            "Athens Central Square",
-            "Marousi",
-            "Nea Smyrni",
-            "Glyfada",
-            "Chalandri",
-            "Voula",
-            "Peristeri",
-            "Agia Paraskevi",
-            "Neos Kosmos",
-            "Tavros",
-            "Kalamaria",
-            "Vironas",
-            "Alimos",
-            "Koropi",
-            "Zografou",
-            "Rafina",
-            "Vrilissia",
-            "Vouliagmeni",
-            "Metamorfosi",
-            "Palaio Faliro",
-            "Agios Dimitrios",
-            "Kalamata Residential",
-            "Faliro",
-            "Thessaloniki",
-            "Volos",
-            "Kozani",
-            "Alexandroupoli",
-            "Ioannina",
-            "Larissa",
-            "Sparta",
-            "Chania",
-            "Rethymno",
-            "Patras",
-            "Heraklion Residential Zone",
-            "Arta",
-            "Giannitsa",
-            "Edessa",
-            "Zagora",
-            "Argos",
-            "Glyfada Residential Area",
-            "Ptolemaida",
-            "Corinth",
-            "Xanthi",
-            "Veria"
-        ]
-    },
-    "regions": {
-        "Attica": {
-            "capital": "Athens",
-            "cities": [
-                {
-                    "cityname": "Athens",
-                    "zipcodes": [
-                        "10551",
-                        "10552",
-                        "10553",
-                        "10554",
-                        "10555"
-                    ],
-                    "areacodes": [
-                        "210"
-                    ]
-                },
-                {
-                    "cityname": "Piraeus",
-                    "zipcodes": [
-                        "18531",
-                        "18532",
-                        "18533",
-                        "18534",
-                        "18535"
-                    ],
-                    "areacodes": [
-                        "210"
-                    ]
-                },
-                {
-                    "cityname": "Kifisia",
-                    "zipcodes": [
-                        "14561",
-                        "14562",
-                        "14563",
-                        "14564",
-                        "14565"
-                    ],
-                    "areacodes": [
-                        "210"
-                    ]
-                },
-                {
-                    "cityname": "Glyfada",
-                    "zipcodes": [
-                        "16674",
-                        "16675",
-                        "16676",
-                        "16677",
-                        "16678"
-                    ],
-                    "areacodes": [
-                        "210"
-                    ]
-                },
-                {
-                    "cityname": "Marousi",
-                    "zipcodes": [
-                        "15122",
-                        "15123",
-                        "15124",
-                        "15125",
-                        "15126"
-                    ],
-                    "areacodes": [
-                        "210"
-                    ]
-                },
-                {
-                    "cityname": "Peristeri",
-                    "zipcodes": [
-                        "12134",
-                        "12135",
-                        "12136",
-                        "12137",
-                        "12138"
-                    ],
-                    "areacodes": [
-                        "210"
-                    ]
-                },
-                {
-                    "cityname": "Nea Smyrni",
-                    "zipcodes": [
-                        "17121",
-                        "17122",
-                        "17123",
-                        "17124",
-                        "17125"
-                    ],
-                    "areacodes": [
-                        "210"
-                    ]
-                },
-                {
-                    "cityname": "Kallithea",
-                    "zipcodes": [
-                        "17671",
-                        "17672",
-                        "17673",
-                        "17674",
-                        "17675"
-                    ],
-                    "areacodes": [
-                        "210"
-                    ]
-                },
-                {
-                    "cityname": "Acharnes",
-                    "zipcodes": [
-                        "13671",
-                        "13672",
-                        "13673",
-                        "13674",
-                        "13675"
-                    ],
-                    "areacodes": [
-                        "210"
-                    ]
-                },
-                {
-                    "cityname": "Agia Paraskevi",
-                    "zipcodes": [
-                        "15341",
-                        "15342",
-                        "15343",
-                        "15344",
-                        "15345"
-                    ],
-                    "areacodes": [
-                        "210"
-                    ]
-                },
-                {
-                    "cityname": "Vrilissia",
-                    "zipcodes": [
-                        "15235",
-                        "15236",
-                        "15237",
-                        "15238",
-                        "15239"
-                    ],
-                    "areacodes": [
-                        "210"
-                    ]
-                },
-                {
-                    "cityname": "Halandri",
-                    "zipcodes": [
-                        "15200",
-                        "15201",
-                        "15202",
-                        "15203",
-                        "15204"
-                    ],
-                    "areacodes": [
-                        "210"
-                    ]
-                },
-                {
-                    "cityname": "Filothei",
-                    "zipcodes": [
-                        "15255",
-                        "15256",
-                        "15257",
-                        "15258",
-                        "15259"
-                    ],
-                    "areacodes": [
-                        "210"
-                    ]
-                },
-                {
-                    "cityname": "Pallini",
-                    "zipcodes": [
-                        "15351",
-                        "15352",
-                        "15353",
-                        "15354",
-                        "15355"
-                    ],
-                    "areacodes": [
-                        "210"
-                    ]
-                },
-                {
-                    "cityname": "Spata",
-                    "zipcodes": [
-                        "19004",
-                        "19005",
-                        "19006",
-                        "19007",
-                        "19008"
-                    ],
-                    "areacodes": [
-                        "210"
-                    ]
-                },
-                {
-                    "cityname": "Markopoulo",
-                    "zipcodes": [
-                        "19003",
-                        "19004",
-                        "19005",
-                        "19006",
-                        "19007"
-                    ],
-                    "areacodes": [
-                        "210"
-                    ]
-                },
-                {
-                    "cityname": "Saronikos",
-                    "zipcodes": [
-                        "19013",
-                        "19014",
-                        "19015",
-                        "19016",
-                        "19017"
-                    ],
-                    "areacodes": [
-                        "210"
-                    ]
-                },
-                {
-                    "cityname": "Rafina",
-                    "zipcodes": [
-                        "19009",
-                        "19010",
-                        "19011",
-                        "19012",
-                        "19013"
-                    ],
-                    "areacodes": [
-                        "210"
-                    ]
-                },
-                {
-                    "cityname": "Keratsini",
-                    "zipcodes": [
-                        "18755",
-                        "18756",
-                        "18757",
-                        "18758",
-                        "18759"
-                    ],
-                    "areacodes": [
-                        "210"
-                    ]
-                },
-                {
-                    "cityname": "Dafni",
-                    "zipcodes": [
-                        "17235",
-                        "17236",
-                        "17237",
-                        "17238",
-                        "17239"
-                    ],
-                    "areacodes": [
-                        "210"
-                    ]
-                }
-            ],
-            "name": "Attica"
-        },
-        "Central Greece": {
-            "capital": "Livadeia",
-            "cities": [
-                {
-                    "cityname": "Livadeia",
-                    "zipcodes": [
-                        "32100",
-                        "32101",
-                        "32102",
-                        "32103",
-                        "32104"
-                    ],
-                    "areacodes": [
-                        "22610"
-                    ]
-                },
-                {
-                    "cityname": "Chalkida",
-                    "zipcodes": [
-                        "34100",
-                        "34101",
-                        "34102",
-                        "34103",
-                        "34104"
-                    ],
-                    "areacodes": [
-                        "22210"
-                    ]
-                },
-                {
-                    "cityname": "Thebes",
-                    "zipcodes": [
-                        "32200",
-                        "32201",
-                        "32202",
-                        "32203",
-                        "32204"
-                    ],
-                    "areacodes": [
-                        "22620"
-                    ]
-                },
-                {
-                    "cityname": "Thiva",
-                    "zipcodes": [
-                        "32200",
-                        "32201",
-                        "32202",
-                        "32203",
-                        "32204"
-                    ],
-                    "areacodes": [
-                        "22620"
-                    ]
-                },
-                {
-                    "cityname": "Amfissa",
-                    "zipcodes": [
-                        "33000",
-                        "33001",
-                        "33002",
-                        "33003",
-                        "33004"
-                    ],
-                    "areacodes": [
-                        "22650"
-                    ]
-                },
-                {
-                    "cityname": "Arachova",
-                    "zipcodes": [
-                        "32004",
-                        "32005",
-                        "32006",
-                        "32007",
-                        "32008"
-                    ],
-                    "areacodes": [
-                        "22670"
-                    ]
-                },
-                {
-                    "cityname": "Delphi",
-                    "zipcodes": [
-                        "33054",
-                        "33055",
-                        "33056",
-                        "33057",
-                        "33058"
-                    ],
-                    "areacodes": [
-                        "22650"
-                    ]
-                },
-                {
-                    "cityname": "Kammena Vourla",
-                    "zipcodes": [
-                        "35200",
-                        "35201",
-                        "35202",
-                        "35203",
-                        "35204"
-                    ],
-                    "areacodes": [
-                        "22350"
-                    ]
-                },
-                {
-                    "cityname": "Karpenisi",
-                    "zipcodes": [
-                        "36100",
-                        "36101",
-                        "36102",
-                        "36103",
-                        "36104"
-                    ],
-                    "areacodes": [
-                        "22370"
-                    ]
-                },
-                {
-                    "cityname": "Voiotia",
-                    "zipcodes": [
-                        "32000",
-                        "32001",
-                        "32002",
-                        "32003",
-                        "32004"
-                    ],
-                    "areacodes": [
-                        "22610"
-                    ]
-                },
-                {
-                    "cityname": "Malozzi",
-                    "zipcodes": [
-                        "33061",
-                        "33062",
-                        "33063",
-                        "33064",
-                        "33065"
-                    ],
-                    "areacodes": [
-                        "22610"
-                    ]
-                },
-                {
-                    "cityname": "Eratini",
-                    "zipcodes": [
-                        "33021",
-                        "33022",
-                        "33023",
-                        "33024",
-                        "33025"
-                    ],
-                    "areacodes": [
-                        "22630"
-                    ]
-                },
-                {
-                    "cityname": "Lidoriki",
-                    "zipcodes": [
-                        "33013",
-                        "33014",
-                        "33015",
-                        "33016",
-                        "33017"
-                    ],
-                    "areacodes": [
-                        "22640"
-                    ]
-                },
-                {
-                    "cityname": "Gorgopotamos",
-                    "zipcodes": [
-                        "36051",
-                        "36052",
-                        "36053",
-                        "36054",
-                        "36055"
-                    ],
-                    "areacodes": [
-                        "22380"
-                    ]
-                },
-                {
-                    "cityname": "Meteora",
-                    "zipcodes": [
-                        "42000",
-                        "42001",
-                        "42002",
-                        "42003",
-                        "42004"
-                    ],
-                    "areacodes": [
-                        "22390"
-                    ]
-                },
-                {
-                    "cityname": "Elatia",
-                    "zipcodes": [
-                        "36020",
-                        "36021",
-                        "36022",
-                        "36023",
-                        "36024"
-                    ],
-                    "areacodes": [
-                        "22380"
-                    ]
-                },
-                {
-                    "cityname": "Eretria",
-                    "zipcodes": [
-                        "34008",
-                        "34009",
-                        "34010",
-                        "34011",
-                        "34012"
-                    ],
-                    "areacodes": [
-                        "22290"
-                    ]
-                },
-                {
-                    "cityname": "Arachova",
-                    "zipcodes": [
-                        "32004",
-                        "32005",
-                        "32006",
-                        "32007",
-                        "32008"
-                    ],
-                    "areacodes": [
-                        "22670"
-                    ]
-                }
-            ],
-            "name": "Central Greece"
-        },
-        "Central Macedonia": {
-            "capital": "Thessaloniki",
-            "cities": [
-                {
-                    "cityname": "Thessaloniki",
-                    "zipcodes": [
-                        "54600",
-                        "54601",
-                        "54602",
-                        "54603",
-                        "54604"
-                    ],
-                    "areacodes": [
-                        "2310"
-                    ]
-                },
-                {
-                    "cityname": "Kavala",
-                    "zipcodes": [
-                        "65400",
-                        "65401",
-                        "65402",
-                        "65403",
-                        "65404"
-                    ],
-                    "areacodes": [
-                        "2510"
-                    ]
-                },
-                {
-                    "cityname": "Serres",
-                    "zipcodes": [
-                        "62100",
-                        "62101",
-                        "62102",
-                        "62103",
-                        "62104"
-                    ],
-                    "areacodes": [
-                        "23210"
-                    ]
-                },
-                {
-                    "cityname": "Halkidiki",
-                    "zipcodes": [
-                        "63000",
-                        "63001",
-                        "63002",
-                        "63003",
-                        "63004"
-                    ],
-                    "areacodes": [
-                        "23710"
-                    ]
-                },
-                {
-                    "cityname": "Veroia",
-                    "zipcodes": [
-                        "59100",
-                        "59101",
-                        "59102",
-                        "59103",
-                        "59104"
-                    ],
-                    "areacodes": [
-                        "23310"
-                    ]
-                },
-                {
-                    "cityname": "Edessa",
-                    "zipcodes": [
-                        "58200",
-                        "58201",
-                        "58202",
-                        "58203",
-                        "58204"
-                    ],
-                    "areacodes": [
-                        "23810"
-                    ]
-                },
-                {
-                    "cityname": "Polykastro",
-                    "zipcodes": [
-                        "58000",
-                        "58001",
-                        "58002",
-                        "58003",
-                        "58004"
-                    ],
-                    "areacodes": [
-                        "23410"
-                    ]
-                },
-                {
-                    "cityname": "Nea Moudania",
-                    "zipcodes": [
-                        "63200",
-                        "63201",
-                        "63202",
-                        "63203",
-                        "63204"
-                    ],
-                    "areacodes": [
-                        "23730"
-                    ]
-                },
-                {
-                    "cityname": "Kilkis",
-                    "zipcodes": [
-                        "61100",
-                        "61101",
-                        "61102",
-                        "61103",
-                        "61104"
-                    ],
-                    "areacodes": [
-                        "23410"
-                    ]
-                },
-                {
-                    "cityname": "Giannitsa",
-                    "zipcodes": [
-                        "58100",
-                        "58101",
-                        "58102",
-                        "58103",
-                        "58104"
-                    ],
-                    "areacodes": [
-                        "23820"
-                    ]
-                },
-                {
-                    "cityname": "Aridaia",
-                    "zipcodes": [
-                        "58400",
-                        "58401",
-                        "58402",
-                        "58403",
-                        "58404"
-                    ],
-                    "areacodes": [
-                        "23840"
-                    ]
-                },
-                {
-                    "cityname": "Pella",
-                    "zipcodes": [
-                        "59100",
-                        "59101",
-                        "59102",
-                        "59103",
-                        "59104"
-                    ],
-                    "areacodes": [
-                        "23810"
-                    ]
-                },
-                {
-                    "cityname": "Epanomi",
-                    "zipcodes": [
-                        "57500",
-                        "57501",
-                        "57502",
-                        "57503",
-                        "57504"
-                    ],
-                    "areacodes": [
-                        "23920"
-                    ]
-                },
-                {
-                    "cityname": "Nea Kallikratia",
-                    "zipcodes": [
-                        "63080",
-                        "63081",
-                        "63082",
-                        "63083",
-                        "63084"
-                    ],
-                    "areacodes": [
-                        "23740"
-                    ]
-                },
-                {
-                    "cityname": "Sykia",
-                    "zipcodes": [
-                        "63072",
-                        "63073",
-                        "63074",
-                        "63075",
-                        "63076"
-                    ],
-                    "areacodes": [
-                        "23760"
-                    ]
-                },
-                {
-                    "cityname": "Nikiti",
-                    "zipcodes": [
-                        "63088",
-                        "63089",
-                        "63090",
-                        "63091",
-                        "63092"
-                    ],
-                    "areacodes": [
-                        "23750"
-                    ]
-                },
-                {
-                    "cityname": "Agios Nikolaos",
-                    "zipcodes": [
-                        "63072",
-                        "63073",
-                        "63074",
-                        "63075",
-                        "63076"
-                    ],
-                    "areacodes": [
-                        "23750"
-                    ]
-                },
-                {
-                    "cityname": "Polygyros",
-                    "zipcodes": [
-                        "63100",
-                        "63101",
-                        "63102",
-                        "63103",
-                        "63104"
-                    ],
-                    "areacodes": [
-                        "23710"
-                    ]
-                }
-            ],
-            "name": "Central Macedonia"
-        },
-        "Crete": {
-            "capital": "Heraklion",
-            "cities": [
-                {
-                    "cityname": "Heraklion",
-                    "zipcodes": [
-                        "71201",
-                        "71202",
-                        "71203",
-                        "71204",
-                        "71205"
-                    ],
-                    "areacodes": [
-                        "2810"
-                    ]
-                },
-                {
-                    "cityname": "Chania",
-                    "zipcodes": [
-                        "73100",
-                        "73101",
-                        "73102",
-                        "73103",
-                        "73104"
-                    ],
-                    "areacodes": [
-                        "28210"
-                    ]
-                },
-                {
-                    "cityname": "Rethymno",
-                    "zipcodes": [
-                        "74100",
-                        "74101",
-                        "74102",
-                        "74103",
-                        "74104"
-                    ],
-                    "areacodes": [
-                        "28310"
-                    ]
-                },
-                {
-                    "cityname": "Agios Nikolaos",
-                    "zipcodes": [
-                        "72100",
-                        "72101",
-                        "72102",
-                        "72103",
-                        "72104"
-                    ],
-                    "areacodes": [
-                        "28410"
-                    ]
-                },
-                {
-                    "cityname": "Ierapetra",
-                    "zipcodes": [
-                        "72200",
-                        "72201",
-                        "72202",
-                        "72203",
-                        "72204"
-                    ],
-                    "areacodes": [
-                        "28420"
-                    ]
-                },
-                {
-                    "cityname": "Sitia",
-                    "zipcodes": [
-                        "72300",
-                        "72301",
-                        "72302",
-                        "72303",
-                        "72304"
-                    ],
-                    "areacodes": [
-                        "28430"
-                    ]
-                },
-                {
-                    "cityname": "Margarites",
-                    "zipcodes": [
-                        "74052",
-                        "74053",
-                        "74054",
-                        "74055",
-                        "74056"
-                    ],
-                    "areacodes": [
-                        "28310"
-                    ]
-                },
-                {
-                    "cityname": "Kissamos",
-                    "zipcodes": [
-                        "73400",
-                        "73401",
-                        "73402",
-                        "73403",
-                        "73404"
-                    ],
-                    "areacodes": [
-                        "28220"
-                    ]
-                },
-                {
-                    "cityname": "Platanias",
-                    "zipcodes": [
-                        "73014",
-                        "73015",
-                        "73016",
-                        "73017",
-                        "73018"
-                    ],
-                    "areacodes": [
-                        "28210"
-                    ]
-                },
-                {
-                    "cityname": "Fodele",
-                    "zipcodes": [
-                        "71500",
-                        "71501",
-                        "71502",
-                        "71503",
-                        "71504"
-                    ],
-                    "areacodes": [
-                        "2810"
-                    ]
-                },
-                {
-                    "cityname": "Anogeia",
-                    "zipcodes": [
-                        "74051",
-                        "74052",
-                        "74053",
-                        "74054",
-                        "74055"
-                    ],
-                    "areacodes": [
-                        "28310"
-                    ]
-                },
-                {
-                    "cityname": "Agia Galini",
-                    "zipcodes": [
-                        "74056",
-                        "74057",
-                        "74058",
-                        "74059",
-                        "74060"
-                    ],
-                    "areacodes": [
-                        "28320"
-                    ]
-                },
-                {
-                    "cityname": "Matala",
-                    "zipcodes": [
-                        "70200",
-                        "70201",
-                        "70202",
-                        "70203",
-                        "70204"
-                    ],
-                    "areacodes": [
-                        "28920"
-                    ]
-                },
-                {
-                    "cityname": "Archanes",
-                    "zipcodes": [
-                        "70100",
-                        "70101",
-                        "70102",
-                        "70103",
-                        "70104"
-                    ],
-                    "areacodes": [
-                        "2810"
-                    ]
-                },
-                {
-                    "cityname": "Kouroutes",
-                    "zipcodes": [
-                        "70400",
-                        "70401",
-                        "70402",
-                        "70403",
-                        "70404"
-                    ],
-                    "areacodes": [
-                        "2810"
-                    ]
-                },
-                {
-                    "cityname": "Timpaki",
-                    "zipcodes": [
-                        "70200",
-                        "70201",
-                        "70202",
-                        "70203",
-                        "70204"
-                    ],
-                    "areacodes": [
-                        "28910"
-                    ]
-                }
-            ],
-            "name": "Crete"
-        },
-        "Eastern Macedonia and Thrace": {
-            "capital": "Komotini",
-            "cities": [
-                {
-                    "cityname": "Komotini",
-                    "zipcodes": [
-                        "69100",
-                        "69101",
-                        "69102",
-                        "69103",
-                        "69104"
-                    ],
-                    "areacodes": [
-                        "25310"
-                    ]
-                },
-                {
-                    "cityname": "Alexandroupoli",
-                    "zipcodes": [
-                        "68100",
-                        "68101",
-                        "68102",
-                        "68103",
-                        "68104"
-                    ],
-                    "areacodes": [
-                        "25510"
-                    ]
-                },
-                {
-                    "cityname": "Kavala",
-                    "zipcodes": [
-                        "65302",
-                        "65303",
-                        "65304",
-                        "65305",
-                        "65306"
-                    ],
-                    "areacodes": [
-                        "2510"
-                    ]
-                },
-                {
-                    "cityname": "Drama",
-                    "zipcodes": [
-                        "66100",
-                        "66101",
-                        "66102",
-                        "66103",
-                        "66104"
-                    ],
-                    "areacodes": [
-                        "25210"
-                    ]
-                },
-                {
-                    "cityname": "Xanthi",
-                    "zipcodes": [
-                        "67100",
-                        "67101",
-                        "67102",
-                        "67103",
-                        "67104"
-                    ],
-                    "areacodes": [
-                        "25410"
-                    ]
-                },
-                {
-                    "cityname": "Orestiada",
-                    "zipcodes": [
-                        "68200",
-                        "68201",
-                        "68202",
-                        "68203",
-                        "68204"
-                    ],
-                    "areacodes": [
-                        "25520"
-                    ]
-                },
-                {
-                    "cityname": "Didymoteicho",
-                    "zipcodes": [
-                        "68500",
-                        "68501",
-                        "68502",
-                        "68503",
-                        "68504"
-                    ],
-                    "areacodes": [
-                        "25530"
-                    ]
-                },
-                {
-                    "cityname": "Soufli",
-                    "zipcodes": [
-                        "68300",
-                        "68301",
-                        "68302",
-                        "68303",
-                        "68304"
-                    ],
-                    "areacodes": [
-                        "25540"
-                    ]
-                },
-                {
-                    "cityname": "Nea Karvali",
-                    "zipcodes": [
-                        "64002",
-                        "64003",
-                        "64004",
-                        "64005",
-                        "64006"
-                    ],
-                    "areacodes": [
-                        "25120"
-                    ]
-                },
-                {
-                    "cityname": "Kavakli",
-                    "zipcodes": [
-                        "64004",
-                        "64005",
-                        "64006",
-                        "64007",
-                        "64008"
-                    ],
-                    "areacodes": [
-                        "25150"
-                    ]
-                },
-                {
-                    "cityname": "Mikri",
-                    "zipcodes": [
-                        "67062",
-                        "67063",
-                        "67064",
-                        "67065",
-                        "67066"
-                    ],
-                    "areacodes": [
-                        "25910"
-                    ]
-                },
-                {
-                    "cityname": "Makri",
-                    "zipcodes": [
-                        "68100",
-                        "68101",
-                        "68102",
-                        "68103",
-                        "68104"
-                    ],
-                    "areacodes": [
-                        "25560"
-                    ]
-                },
-                {
-                    "cityname": "Komi",
-                    "zipcodes": [
-                        "67300",
-                        "67301",
-                        "67302",
-                        "67303",
-                        "67304"
-                    ],
-                    "areacodes": [
-                        "25920"
-                    ]
-                },
-                {
-                    "cityname": "Agios Charalambos",
-                    "zipcodes": [
-                        "66100",
-                        "66101",
-                        "66102",
-                        "66103",
-                        "66104"
-                    ],
-                    "areacodes": [
-                        "25210"
-                    ]
-                },
-                {
-                    "cityname": "Kalamotou",
-                    "zipcodes": [
-                        "67100",
-                        "67101",
-                        "67102",
-                        "67103",
-                        "67104"
-                    ],
-                    "areacodes": [
-                        "25410"
-                    ]
-                }
-            ],
-            "name": "Eastern Macedonia and Thrace"
-        },
-        "Epirus": {
-            "capital": "Ioannina",
-            "cities": [
-                {
-                    "cityname": "Ioannina",
-                    "zipcodes": [
-                        "45444",
-                        "45445",
-                        "45446",
-                        "45447",
-                        "45448"
-                    ],
-                    "areacodes": [
-                        "26510"
-                    ]
-                },
-                {
-                    "cityname": "Arta",
-                    "zipcodes": [
-                        "47100",
-                        "47101",
-                        "47102",
-                        "47103",
-                        "47104"
-                    ],
-                    "areacodes": [
-                        "26810"
-                    ]
-                },
-                {
-                    "cityname": "Preveza",
-                    "zipcodes": [
-                        "48100",
-                        "48101",
-                        "48102",
-                        "48103",
-                        "48104"
-                    ],
-                    "areacodes": [
-                        "26820"
-                    ]
-                },
-                {
-                    "cityname": "Igoumenitsa",
-                    "zipcodes": [
-                        "46100",
-                        "46101",
-                        "46102",
-                        "46103",
-                        "46104"
-                    ],
-                    "areacodes": [
-                        "26650"
-                    ]
-                },
-                {
-                    "cityname": "Filippiada",
-                    "zipcodes": [
-                        "48100",
-                        "48101",
-                        "48102",
-                        "48103",
-                        "48104"
-                    ],
-                    "areacodes": [
-                        "26840"
-                    ]
-                },
-                {
-                    "cityname": "Konitsa",
-                    "zipcodes": [
-                        "44100",
-                        "44101",
-                        "44102",
-                        "44103",
-                        "44104"
-                    ],
-                    "areacodes": [
-                        "26550"
-                    ]
-                },
-                {
-                    "cityname": "Vourgareli",
-                    "zipcodes": [
-                        "47044",
-                        "47045",
-                        "47046",
-                        "47047",
-                        "47048"
-                    ],
-                    "areacodes": [
-                        "26580"
-                    ]
-                },
-                {
-                    "cityname": "Metsovo",
-                    "zipcodes": [
-                        "44200",
-                        "44201",
-                        "44202",
-                        "44203",
-                        "44204"
-                    ],
-                    "areacodes": [
-                        "26560"
-                    ]
-                },
-                {
-                    "cityname": "Anogi",
-                    "zipcodes": [
-                        "46010",
-                        "46011",
-                        "46012",
-                        "46013",
-                        "46014"
-                    ],
-                    "areacodes": [
-                        "26620"
-                    ]
-                },
-                {
-                    "cityname": "Sagiada",
-                    "zipcodes": [
-                        "46100",
-                        "46101",
-                        "46102",
-                        "46103",
-                        "46104"
-                    ],
-                    "areacodes": [
-                        "26670"
-                    ]
-                },
-                {
-                    "cityname": "Chameria",
-                    "zipcodes": [
-                        "48200",
-                        "48201",
-                        "48202",
-                        "48203",
-                        "48204"
-                    ],
-                    "areacodes": [
-                        "26540"
-                    ]
-                },
-                {
-                    "cityname": "Zitsa",
-                    "zipcodes": [
-                        "44010",
-                        "44011",
-                        "44012",
-                        "44013",
-                        "44014"
-                    ],
-                    "areacodes": [
-                        "26570"
-                    ]
-                },
-                {
-                    "cityname": "Parga",
-                    "zipcodes": [
-                        "48060",
-                        "48061",
-                        "48062",
-                        "48063",
-                        "48064"
-                    ],
-                    "areacodes": [
-                        "26830"
-                    ]
-                },
-                {
-                    "cityname": "Kalpaki",
-                    "zipcodes": [
-                        "44010",
-                        "44011",
-                        "44012",
-                        "44013",
-                        "44014"
-                    ],
-                    "areacodes": [
-                        "26590"
-                    ]
-                },
-                {
-                    "cityname": "Kalarrites",
-                    "zipcodes": [
-                        "44020",
-                        "44021",
-                        "44022",
-                        "44023",
-                        "44024"
-                    ],
-                    "areacodes": [
-                        "26540"
-                    ]
-                }
-            ],
-            "name": "Epirus"
-        },
-        "Ionian Islands": {
-            "capital": "Corfu",
-            "cities": [
-                {
-                    "cityname": "Corfu",
-                    "zipcodes": [
-                        "49100",
-                        "49101",
-                        "49102",
-                        "49103",
-                        "49104"
-                    ],
-                    "areacodes": [
-                        "26610"
-                    ]
-                },
-                {
-                    "cityname": "Kerkyra",
-                    "zipcodes": [
-                        "49100",
-                        "49101",
-                        "49102",
-                        "49103",
-                        "49104"
-                    ],
-                    "areacodes": [
-                        "26610"
-                    ]
-                },
-                {
-                    "cityname": "Paleokastritsa",
-                    "zipcodes": [
-                        "49083",
-                        "49084",
-                        "49085",
-                        "49086",
-                        "49087"
-                    ],
-                    "areacodes": [
-                        "26620"
-                    ]
-                },
-                {
-                    "cityname": "Gouvia",
-                    "zipcodes": [
-                        "49100",
-                        "49101",
-                        "49102",
-                        "49103",
-                        "49104"
-                    ],
-                    "areacodes": [
-                        "26610"
-                    ]
-                },
-                {
-                    "cityname": "Sidari",
-                    "zipcodes": [
-                        "49081",
-                        "49082",
-                        "49083",
-                        "49084",
-                        "49085"
-                    ],
-                    "areacodes": [
-                        "26630"
-                    ]
-                },
-                {
-                    "cityname": "Achilleion",
-                    "zipcodes": [
-                        "49084",
-                        "49085",
-                        "49086",
-                        "49087",
-                        "49088"
-                    ],
-                    "areacodes": [
-                        "26610"
-                    ]
-                },
-                {
-                    "cityname": "Kassiopi",
-                    "zipcodes": [
-                        "49081",
-                        "49082",
-                        "49083",
-                        "49084",
-                        "49085"
-                    ],
-                    "areacodes": [
-                        "26630"
-                    ]
-                },
-                {
-                    "cityname": "Agios Nikolaos",
-                    "zipcodes": [
-                        "49080",
-                        "49081",
-                        "49082",
-                        "49083",
-                        "49084"
-                    ],
-                    "areacodes": [
-                        "26610"
-                    ]
-                },
-                {
-                    "cityname": "Benitses",
-                    "zipcodes": [
-                        "49084",
-                        "49085",
-                        "49086",
-                        "49087",
-                        "49088"
-                    ],
-                    "areacodes": [
-                        "26610"
-                    ]
-                },
-                {
-                    "cityname": "Perama",
-                    "zipcodes": [
-                        "49084",
-                        "49085",
-                        "49086",
-                        "49087",
-                        "49088"
-                    ],
-                    "areacodes": [
-                        "26610"
-                    ]
-                },
-                {
-                    "cityname": "Messonghi",
-                    "zipcodes": [
-                        "49080",
-                        "49081",
-                        "49082",
-                        "49083",
-                        "49084"
-                    ],
-                    "areacodes": [
-                        "26610"
-                    ]
-                },
-                {
-                    "cityname": "Lefkimmi",
-                    "zipcodes": [
-                        "49080",
-                        "49081",
-                        "49082",
-                        "49083",
-                        "49084"
-                    ],
-                    "areacodes": [
-                        "26620"
-                    ]
-                },
-                {
-                    "cityname": "Makrades",
-                    "zipcodes": [
-                        "49083",
-                        "49084",
-                        "49085",
-                        "49086",
-                        "49087"
-                    ],
-                    "areacodes": [
-                        "26610"
-                    ]
-                },
-                {
-                    "cityname": "Sinarades",
-                    "zipcodes": [
-                        "49084",
-                        "49085",
-                        "49086",
-                        "49087",
-                        "49088"
-                    ],
-                    "areacodes": [
-                        "26610"
-                    ]
-                },
-                {
-                    "cityname": "Pelekas",
-                    "zipcodes": [
-                        "49084",
-                        "49085",
-                        "49086",
-                        "49087",
-                        "49088"
-                    ],
-                    "areacodes": [
-                        "26610"
-                    ]
-                },
-                {
-                    "cityname": "Vatos",
-                    "zipcodes": [
-                        "49083",
-                        "49084",
-                        "49085",
-                        "49086",
-                        "49087"
-                    ],
-                    "areacodes": [
-                        "26610"
-                    ]
-                },
-                {
-                    "cityname": "Roda",
-                    "zipcodes": [
-                        "49081",
-                        "49082",
-                        "49083",
-                        "49084",
-                        "49085"
-                    ],
-                    "areacodes": [
-                        "26630"
-                    ]
-                },
-                {
-                    "cityname": "Perdika",
-                    "zipcodes": [
-                        "49080",
-                        "49081",
-                        "49082",
-                        "49083",
-                        "49084"
-                    ],
-                    "areacodes": [
-                        "26630"
-                    ]
-                }
-            ],
-            "name": "Ionian Islands"
-        },
-        "North Aegean": {
-            "capital": "Mytilene",
-            "cities": [
-                {
-                    "cityname": "Mytilene",
-                    "zipcodes": [
-                        "81100",
-                        "81101",
-                        "81102",
-                        "81103",
-                        "81104"
-                    ],
-                    "areacodes": [
-                        "22510"
-                    ]
-                },
-                {
-                    "cityname": "Mithymna",
-                    "zipcodes": [
-                        "81108",
-                        "81109",
-                        "81110",
-                        "81111",
-                        "81112"
-                    ],
-                    "areacodes": [
-                        "22530"
-                    ]
-                },
-                {
-                    "cityname": "Kalloni",
-                    "zipcodes": [
-                        "81100",
-                        "81101",
-                        "81102",
-                        "81103",
-                        "81104"
-                    ],
-                    "areacodes": [
-                        "22520"
-                    ]
-                },
-                {
-                    "cityname": "Agia Paraskevi",
-                    "zipcodes": [
-                        "81104",
-                        "81105",
-                        "81106",
-                        "81107",
-                        "81108"
-                    ],
-                    "areacodes": [
-                        "22510"
-                    ]
-                },
-                {
-                    "cityname": "Eressos",
-                    "zipcodes": [
-                        "81104",
-                        "81105",
-                        "81106",
-                        "81107",
-                        "81108"
-                    ],
-                    "areacodes": [
-                        "22510"
-                    ]
-                },
-                {
-                    "cityname": "Plomari",
-                    "zipcodes": [
-                        "81100",
-                        "81101",
-                        "81102",
-                        "81103",
-                        "81104"
-                    ],
-                    "areacodes": [
-                        "22520"
-                    ]
-                },
-                {
-                    "cityname": "Skala Eresou",
-                    "zipcodes": [
-                        "81105",
-                        "81106",
-                        "81107",
-                        "81108",
-                        "81109"
-                    ],
-                    "areacodes": [
-                        "22520"
-                    ]
-                },
-                {
-                    "cityname": "Agios Isidoros",
-                    "zipcodes": [
-                        "81100",
-                        "81101",
-                        "81102",
-                        "81103",
-                        "81104"
-                    ],
-                    "areacodes": [
-                        "22510"
-                    ]
-                },
-                {
-                    "cityname": "Neapoli",
-                    "zipcodes": [
-                        "81106",
-                        "81107",
-                        "81108",
-                        "81109",
-                        "81110"
-                    ],
-                    "areacodes": [
-                        "22530"
-                    ]
-                },
-                {
-                    "cityname": "Kalimnos",
-                    "zipcodes": [
-                        "81111",
-                        "81112",
-                        "81113",
-                        "81114",
-                        "81115"
-                    ],
-                    "areacodes": [
-                        "22520"
-                    ]
-                },
-                {
-                    "cityname": "Kiparissi",
-                    "zipcodes": [
-                        "81100",
-                        "81101",
-                        "81102",
-                        "81103",
-                        "81104"
-                    ],
-                    "areacodes": [
-                        "22510"
-                    ]
-                },
-                {
-                    "cityname": "Agios Georgios",
-                    "zipcodes": [
-                        "81105",
-                        "81106",
-                        "81107",
-                        "81108",
-                        "81109"
-                    ],
-                    "areacodes": [
-                        "22530"
-                    ]
-                },
-                {
-                    "cityname": "Vatera",
-                    "zipcodes": [
-                        "81108",
-                        "81109",
-                        "81110",
-                        "81111",
-                        "81112"
-                    ],
-                    "areacodes": [
-                        "22520"
-                    ]
-                },
-                {
-                    "cityname": "Kalloni",
-                    "zipcodes": [
-                        "81100",
-                        "81101",
-                        "81102",
-                        "81103",
-                        "81104"
-                    ],
-                    "areacodes": [
-                        "22520"
-                    ]
-                },
-                {
-                    "cityname": "Polychnitos",
-                    "zipcodes": [
-                        "81102",
-                        "81103",
-                        "81104",
-                        "81105",
-                        "81106"
-                    ],
-                    "areacodes": [
-                        "22510"
-                    ]
-                },
-                {
-                    "cityname": "Molyvos",
-                    "zipcodes": [
-                        "81106",
-                        "81107",
-                        "81108",
-                        "81109",
-                        "81110"
-                    ],
-                    "areacodes": [
-                        "22530"
-                    ]
-                }
-            ],
-            "name": "North Aegean"
-        },
-        "Peloponnese": {
-            "capital": "Tripoli",
-            "cities": [
-                {
-                    "cityname": "Tripoli",
-                    "zipcodes": [
-                        "22100",
-                        "22101",
-                        "22102",
-                        "22103",
-                        "22104"
-                    ],
-                    "areacodes": [
-                        "2710"
-                    ]
-                },
-                {
-                    "cityname": "Argos",
-                    "zipcodes": [
-                        "21200",
-                        "21201",
-                        "21202",
-                        "21203",
-                        "21204"
-                    ],
-                    "areacodes": [
-                        "27510"
-                    ]
-                },
-                {
-                    "cityname": "Nafplio",
-                    "zipcodes": [
-                        "21100",
-                        "21101",
-                        "21102",
-                        "21103",
-                        "21104"
-                    ],
-                    "areacodes": [
-                        "27520"
-                    ]
-                },
-                {
-                    "cityname": "Sparta",
-                    "zipcodes": [
-                        "23100",
-                        "23101",
-                        "23102",
-                        "23103",
-                        "23104"
-                    ],
-                    "areacodes": [
-                        "27310"
-                    ]
-                },
-                {
-                    "cityname": "Kalamata",
-                    "zipcodes": [
-                        "24100",
-                        "24101",
-                        "24102",
-                        "24103",
-                        "24104"
-                    ],
-                    "areacodes": [
-                        "27210"
-                    ]
-                },
-                {
-                    "cityname": "Korinthos",
-                    "zipcodes": [
-                        "20100",
-                        "20101",
-                        "20102",
-                        "20103",
-                        "20104"
-                    ],
-                    "areacodes": [
-                        "27410"
-                    ]
-                },
-                {
-                    "cityname": "Methoni",
-                    "zipcodes": [
-                        "24006",
-                        "24007",
-                        "24008",
-                        "24009",
-                        "24010"
-                    ],
-                    "areacodes": [
-                        "27230"
-                    ]
-                },
-                {
-                    "cityname": "Monemvasia",
-                    "zipcodes": [
-                        "23070",
-                        "23071",
-                        "23072",
-                        "23073",
-                        "23074"
-                    ],
-                    "areacodes": [
-                        "27320"
-                    ]
-                },
-                {
-                    "cityname": "Xylokastro",
-                    "zipcodes": [
-                        "20400",
-                        "20401",
-                        "20402",
-                        "20403",
-                        "20404"
-                    ],
-                    "areacodes": [
-                        "27430"
-                    ]
-                },
-                {
-                    "cityname": "Dimitsana",
-                    "zipcodes": [
-                        "22007",
-                        "22008",
-                        "22009",
-                        "22010",
-                        "22011"
-                    ],
-                    "areacodes": [
-                        "27950"
-                    ]
-                },
-                {
-                    "cityname": "Andritsaina",
-                    "zipcodes": [
-                        "22011",
-                        "22012",
-                        "22013",
-                        "22014",
-                        "22015"
-                    ],
-                    "areacodes": [
-                        "27960"
-                    ]
-                },
-                {
-                    "cityname": "Leonidio",
-                    "zipcodes": [
-                        "22300",
-                        "22301",
-                        "22302",
-                        "22303",
-                        "22304"
-                    ],
-                    "areacodes": [
-                        "27570"
-                    ]
-                },
-                {
-                    "cityname": "Pyrgos",
-                    "zipcodes": [
-                        "27100",
-                        "27101",
-                        "27102",
-                        "27103",
-                        "27104"
-                    ],
-                    "areacodes": [
-                        "26210"
-                    ]
-                },
-                {
-                    "cityname": "Kardamyli",
-                    "zipcodes": [
-                        "24022",
-                        "24023",
-                        "24024",
-                        "24025",
-                        "24026"
-                    ],
-                    "areacodes": [
-                        "27240"
-                    ]
-                },
-                {
-                    "cityname": "Megalopoli",
-                    "zipcodes": [
-                        "22200",
-                        "22201",
-                        "22202",
-                        "22203",
-                        "22204"
-                    ],
-                    "areacodes": [
-                        "27910"
-                    ]
-                },
-                {
-                    "cityname": "Vastas",
-                    "zipcodes": [
-                        "22206",
-                        "22207",
-                        "22208",
-                        "22209",
-                        "22210"
-                    ],
-                    "areacodes": [
-                        "27920"
-                    ]
-                },
-                {
-                    "cityname": "Trifylia",
-                    "zipcodes": [
-                        "24500",
-                        "24501",
-                        "24502",
-                        "24503",
-                        "24504"
-                    ],
-                    "areacodes": [
-                        "27610"
-                    ]
-                },
-                {
-                    "cityname": "Vlychada",
-                    "zipcodes": [
-                        "24005",
-                        "24006",
-                        "24007",
-                        "24008",
-                        "24009"
-                    ],
-                    "areacodes": [
-                        "27440"
-                    ]
-                },
-                {
-                    "cityname": "Kiveri",
-                    "zipcodes": [
-                        "21200",
-                        "21201",
-                        "21202",
-                        "21203",
-                        "21204"
-                    ],
-                    "areacodes": [
-                        "27510"
-                    ]
-                }
-            ],
-            "name": "Peloponnese"
-        },
-        "South Aegean": {
-            "capital": "Ermoupoli",
-            "cities": [
-                {
-                    "cityname": "Ermoupoli",
-                    "zipcodes": [
-                        "84100",
-                        "84101",
-                        "84102",
-                        "84103",
-                        "84104"
-                    ],
-                    "areacodes": [
-                        "22810"
-                    ]
-                },
-                {
-                    "cityname": "Ios",
-                    "zipcodes": [
-                        "84001",
-                        "84002",
-                        "84003",
-                        "84004",
-                        "84005"
-                    ],
-                    "areacodes": [
-                        "22860"
-                    ]
-                },
-                {
-                    "cityname": "Tinos",
-                    "zipcodes": [
-                        "84200",
-                        "84201",
-                        "84202",
-                        "84203",
-                        "84204"
-                    ],
-                    "areacodes": [
-                        "22830"
-                    ]
-                },
-                {
-                    "cityname": "Andros",
-                    "zipcodes": [
-                        "84500",
-                        "84501",
-                        "84502",
-                        "84503",
-                        "84504"
-                    ],
-                    "areacodes": [
-                        "22820"
-                    ]
-                },
-                {
-                    "cityname": "Mykonos",
-                    "zipcodes": [
-                        "84600",
-                        "84601",
-                        "84602",
-                        "84603",
-                        "84604"
-                    ],
-                    "areacodes": [
-                        "22890"
-                    ]
-                },
-                {
-                    "cityname": "Paros",
-                    "zipcodes": [
-                        "84400",
-                        "84401",
-                        "84402",
-                        "84403",
-                        "84404"
-                    ],
-                    "areacodes": [
-                        "22840"
-                    ]
-                },
-                {
-                    "cityname": "Naxos",
-                    "zipcodes": [
-                        "84300",
-                        "84301",
-                        "84302",
-                        "84303",
-                        "84304"
-                    ],
-                    "areacodes": [
-                        "22850"
-                    ]
-                },
-                {
-                    "cityname": "Syros",
-                    "zipcodes": [
-                        "84100",
-                        "84101",
-                        "84102",
-                        "84103",
-                        "84104"
-                    ],
-                    "areacodes": [
-                        "22810"
-                    ]
-                },
-                {
-                    "cityname": "Kea",
-                    "zipcodes": [
-                        "84002",
-                        "84003",
-                        "84004",
-                        "84005",
-                        "84006"
-                    ],
-                    "areacodes": [
-                        "22880"
-                    ]
-                },
-                {
-                    "cityname": "Kynthos",
-                    "zipcodes": [
-                        "84400",
-                        "84401",
-                        "84402",
-                        "84403",
-                        "84404"
-                    ],
-                    "areacodes": [
-                        "22870"
-                    ]
-                },
-                {
-                    "cityname": "Amorgos",
-                    "zipcodes": [
-                        "84008",
-                        "84009",
-                        "84010",
-                        "84011",
-                        "84012"
-                    ],
-                    "areacodes": [
-                        "22860"
-                    ]
-                },
-                {
-                    "cityname": "Antiparos",
-                    "zipcodes": [
-                        "84400",
-                        "84401",
-                        "84402",
-                        "84403",
-                        "84404"
-                    ],
-                    "areacodes": [
-                        "22840"
-                    ]
-                },
-                {
-                    "cityname": "Folegandros",
-                    "zipcodes": [
-                        "84011",
-                        "84012",
-                        "84013",
-                        "84014",
-                        "84015"
-                    ],
-                    "areacodes": [
-                        "22860"
-                    ]
-                },
-                {
-                    "cityname": "Sifnos",
-                    "zipcodes": [
-                        "84003",
-                        "84004",
-                        "84005",
-                        "84006",
-                        "84007"
-                    ],
-                    "areacodes": [
-                        "22840"
-                    ]
-                },
-                {
-                    "cityname": "Serifos",
-                    "zipcodes": [
-                        "84005",
-                        "84006",
-                        "84007",
-                        "84008",
-                        "84009"
-                    ],
-                    "areacodes": [
-                        "22810"
-                    ]
-                },
-                {
-                    "cityname": "Koufonisia",
-                    "zipcodes": [
-                        "84300",
-                        "84301",
-                        "84302",
-                        "84303",
-                        "84304"
-                    ],
-                    "areacodes": [
-                        "22850"
-                    ]
-                },
-                {
-                    "cityname": "Delos",
-                    "zipcodes": [
-                        "84600",
-                        "84601",
-                        "84602",
-                        "84603",
-                        "84604"
-                    ],
-                    "areacodes": [
-                        "22890"
-                    ]
-                },
-                {
-                    "cityname": "Schinoussa",
-                    "zipcodes": [
-                        "84300",
-                        "84301",
-                        "84302",
-                        "84303",
-                        "84304"
-                    ],
-                    "areacodes": [
-                        "22850"
-                    ]
-                }
-            ],
-            "name": "South Aegean"
-        },
-        "Thessaly": {
-            "capital": "Larissa",
-            "cities": [
-                {
-                    "cityname": "Larissa",
-                    "zipcodes": [
-                        "41100",
-                        "41101",
-                        "41102",
-                        "41103",
-                        "41104"
-                    ],
-                    "areacodes": [
-                        "2410"
-                    ]
-                },
-                {
-                    "cityname": "Trikala",
-                    "zipcodes": [
-                        "42100",
-                        "42101",
-                        "42102",
-                        "42103",
-                        "42104"
-                    ],
-                    "areacodes": [
-                        "24310"
-                    ]
-                },
-                {
-                    "cityname": "Volos",
-                    "zipcodes": [
-                        "38221",
-                        "38222",
-                        "38223",
-                        "38224",
-                        "38225"
-                    ],
-                    "areacodes": [
-                        "24210"
-                    ]
-                },
-                {
-                    "cityname": "Karditsa",
-                    "zipcodes": [
-                        "43100",
-                        "43101",
-                        "43102",
-                        "43103",
-                        "43104"
-                    ],
-                    "areacodes": [
-                        "24410"
-                    ]
-                },
-                {
-                    "cityname": "Skiathos",
-                    "zipcodes": [
-                        "37002",
-                        "37003",
-                        "37004",
-                        "37005",
-                        "37006"
-                    ],
-                    "areacodes": [
-                        "24270"
-                    ]
-                },
-                {
-                    "cityname": "Skopelos",
-                    "zipcodes": [
-                        "37004",
-                        "37005",
-                        "37006",
-                        "37007",
-                        "37008"
-                    ],
-                    "areacodes": [
-                        "24240"
-                    ]
-                },
-                {
-                    "cityname": "Almyros",
-                    "zipcodes": [
-                        "37300",
-                        "37301",
-                        "37302",
-                        "37303",
-                        "37304"
-                    ],
-                    "areacodes": [
-                        "24230"
-                    ]
-                },
-                {
-                    "cityname": "Kissavos",
-                    "zipcodes": [
-                        "40000",
-                        "40001",
-                        "40002",
-                        "40003",
-                        "40004"
-                    ],
-                    "areacodes": [
-                        "24320"
-                    ]
-                },
-                {
-                    "cityname": "Meteora",
-                    "zipcodes": [
-                        "42200",
-                        "42201",
-                        "42202",
-                        "42203",
-                        "42204"
-                    ],
-                    "areacodes": [
-                        "24310"
-                    ]
-                },
-                {
-                    "cityname": "Farsala",
-                    "zipcodes": [
-                        "40300",
-                        "40301",
-                        "40302",
-                        "40303",
-                        "40304"
-                    ],
-                    "areacodes": [
-                        "24910"
-                    ]
-                },
-                {
-                    "cityname": "Larisa",
-                    "zipcodes": [
-                        "41100",
-                        "41101",
-                        "41102",
-                        "41103",
-                        "41104"
-                    ],
-                    "areacodes": [
-                        "2410"
-                    ]
-                },
-                {
-                    "cityname": "Pteleos",
-                    "zipcodes": [
-                        "37008",
-                        "37009",
-                        "37010",
-                        "37011",
-                        "37012"
-                    ],
-                    "areacodes": [
-                        "24220"
-                    ]
-                },
-                {
-                    "cityname": "Agia",
-                    "zipcodes": [
-                        "40003",
-                        "40004",
-                        "40005",
-                        "40006",
-                        "40007"
-                    ],
-                    "areacodes": [
-                        "24920"
-                    ]
-                }
-            ],
-            "name": "Thessaly"
-        },
-        "Western Greece": {
-            "capital": "Patras",
-            "cities": [
-                {
-                    "cityname": "Patras",
-                    "zipcodes": [
-                        "26221",
-                        "26222",
-                        "26223",
-                        "26224",
-                        "26225"
-                    ],
-                    "areacodes": [
-                        "2610"
-                    ]
-                },
-                {
-                    "cityname": "Agrinio",
-                    "zipcodes": [
-                        "30100",
-                        "30101",
-                        "30102",
-                        "30103",
-                        "30104"
-                    ],
-                    "areacodes": [
-                        "26410"
-                    ]
-                },
-                {
-                    "cityname": "Aigio",
-                    "zipcodes": [
-                        "25100",
-                        "25101",
-                        "25102",
-                        "25103",
-                        "25104"
-                    ],
-                    "areacodes": [
-                        "26910"
-                    ]
-                },
-                {
-                    "cityname": "Ilida",
-                    "zipcodes": [
-                        "27100",
-                        "27101",
-                        "27102",
-                        "27103",
-                        "27104"
-                    ],
-                    "areacodes": [
-                        "26220"
-                    ]
-                },
-                {
-                    "cityname": "Kyllini",
-                    "zipcodes": [
-                        "27050",
-                        "27051",
-                        "27052",
-                        "27053",
-                        "27054"
-                    ],
-                    "areacodes": [
-                        "26230"
-                    ]
-                },
-                {
-                    "cityname": "Pyrgos",
-                    "zipcodes": [
-                        "27100",
-                        "27101",
-                        "27102",
-                        "27103",
-                        "27104"
-                    ],
-                    "areacodes": [
-                        "26210"
-                    ]
-                },
-                {
-                    "cityname": "Megalopoli",
-                    "zipcodes": [
-                        "22200",
-                        "22201",
-                        "22202",
-                        "22203",
-                        "22204"
-                    ],
-                    "areacodes": [
-                        "27910"
-                    ]
-                },
-                {
-                    "cityname": "Kalavryta",
-                    "zipcodes": [
-                        "25001",
-                        "25002",
-                        "25003",
-                        "25004",
-                        "25005"
-                    ],
-                    "areacodes": [
-                        "26920"
-                    ]
-                },
-                {
-                    "cityname": "Ermioni",
-                    "zipcodes": [
-                        "21051",
-                        "21052",
-                        "21053",
-                        "21054",
-                        "21055"
-                    ],
-                    "areacodes": [
-                        "27540"
-                    ]
-                },
-                {
-                    "cityname": "Xylokastro",
-                    "zipcodes": [
-                        "20400",
-                        "20401",
-                        "20402",
-                        "20403",
-                        "20404"
-                    ],
-                    "areacodes": [
-                        "27430"
-                    ]
-                },
-                {
-                    "cityname": "Zante",
-                    "zipcodes": [
-                        "29100",
-                        "29101",
-                        "29102",
-                        "29103",
-                        "29104"
-                    ],
-                    "areacodes": [
-                        "26950"
-                    ]
-                },
-                {
-                    "cityname": "Ithaki",
-                    "zipcodes": [
-                        "28300",
-                        "28301",
-                        "28302",
-                        "28303",
-                        "28304"
-                    ],
-                    "areacodes": [
-                        "26710"
-                    ]
-                }
-            ],
-            "name": "Western Greece"
-        },
-        "Western Macedonia": {
-            "capital": "Kozan",
-            "cities": [
-                {
-                    "cityname": "Kozan",
-                    "zipcodes": [
-                        "50100",
-                        "50101",
-                        "50102",
-                        "50103",
-                        "50104"
-                    ],
-                    "areacodes": [
-                        "24610"
-                    ]
-                },
-                {
-                    "cityname": "Grebne",
-                    "zipcodes": [
-                        "50011",
-                        "50012",
-                        "50013",
-                        "50014",
-                        "50015"
-                    ],
-                    "areacodes": [
-                        "24620"
-                    ]
-                },
-                {
-                    "cityname": "Ptolemaida",
-                    "zipcodes": [
-                        "50200",
-                        "50201",
-                        "50202",
-                        "50203",
-                        "50204"
-                    ],
-                    "areacodes": [
-                        "24630"
-                    ]
-                },
-                {
-                    "cityname": "Vermio",
-                    "zipcodes": [
-                        "50060",
-                        "50061",
-                        "50062",
-                        "50063",
-                        "50064"
-                    ],
-                    "areacodes": [
-                        "24640"
-                    ]
-                },
-                {
-                    "cityname": "Siatista",
-                    "zipcodes": [
-                        "50150",
-                        "50151",
-                        "50152",
-                        "50153",
-                        "50154"
-                    ],
-                    "areacodes": [
-                        "24650"
-                    ]
-                },
-                {
-                    "cityname": "Amyntaio",
-                    "zipcodes": [
-                        "53100",
-                        "53101",
-                        "53102",
-                        "53103",
-                        "53104"
-                    ],
-                    "areacodes": [
-                        "24660"
-                    ]
-                },
-                {
-                    "cityname": "Filiatra",
-                    "zipcodes": [
-                        "50250",
-                        "50251",
-                        "50252",
-                        "50253",
-                        "50254"
-                    ],
-                    "areacodes": [
-                        "24670"
-                    ]
-                },
-                {
-                    "cityname": "Kastoria",
-                    "zipcodes": [
-                        "52100",
-                        "52101",
-                        "52102",
-                        "52103",
-                        "52104"
-                    ],
-                    "areacodes": [
-                        "24680"
-                    ]
-                },
-                {
-                    "cityname": "Nymfaio",
-                    "zipcodes": [
-                        "52160",
-                        "52161",
-                        "52162",
-                        "52163",
-                        "52164"
-                    ],
-                    "areacodes": [
-                        "24690"
-                    ]
-                },
-                {
-                    "cityname": "Doxato",
-                    "zipcodes": [
-                        "50010",
-                        "50011",
-                        "50012",
-                        "50013",
-                        "50014"
-                    ],
-                    "areacodes": [
-                        "24700"
-                    ]
-                },
-                {
-                    "cityname": "Kozani",
-                    "zipcodes": [
-                        "50030",
-                        "50031",
-                        "50032",
-                        "50033",
-                        "50034"
-                    ],
-                    "areacodes": [
-                        "24710"
-                    ]
-                },
-                {
-                    "cityname": "Aiani",
-                    "zipcodes": [
-                        "50120",
-                        "50121",
-                        "50122",
-                        "50123",
-                        "50124"
-                    ],
-                    "areacodes": [
-                        "24670"
-                    ]
-                }
-            ],
-            "name": "Western Macedonia"
-        }
-    },
-    "citycontainers": [
-        "regions"
+  "countrycode": "+30",
+  "phoneformat": "(A) XXXX XXXX",
+  "country": "Greece",
+  "neighborhoods": {
+    "corporate": [
+      "Athens City Center",
+      "Thessaloniki Business District",
+      "Piraeus",
+      "Kifisia",
+      "Marousi",
+      "Glyfada",
+      "Chalandri",
+      "Nea Smyrni",
+      "Heraklion",
+      "Patras Business Area",
+      "Larissa",
+      "Kalamaria",
+      "Nea Ionia",
+      "Piraeus Port Area",
+      "Kifisia Business Center",
+      "Voula",
+      "Rafina",
+      "Nea Halkidona",
+      "Agia Paraskevi",
+      "Vrilissia",
+      "Pallini",
+      "Agios Dimitrios",
+      "Korinthos",
+      "Halandri",
+      "Alimos",
+      "Vouliagmeni",
+      "Piraeus Central Business",
+      "Metaxourgeio",
+      "Peristeri",
+      "Makati",
+      "Panathenaic Stadium Area",
+      "Vironas",
+      "Haidari",
+      "Metamorfosi",
+      "Palaio Faliro",
+      "Kifisia Business Hub",
+      "Athens Southern Suburbs",
+      "Psychiko",
+      "Athens Northern Suburbs",
+      "Athens Airport Area",
+      "Nea Filadelfeia",
+      "Athens Business District",
+      "Acharnae",
+      "Chania",
+      "Heraklion Business Zone",
+      "Koropi"
     ],
-    "firstnames": [
-  "Giannis", "Nikos", "Dimitris", "Yannis", "Vasilis", "Giorgos", "Panagiotis", "Kostas", "Alexandros", "Michalis",
-  "Andreas", "Christos", "Nikolaos", "Spyridon", "Theodoros", "Evangelos", "Stavros", "Antonios", "Filippos", "Sotirios",
-  "Ilias", "Anastasios", "Manolis", "Efstathios", "Aristides", "Petros", "Markos", "Marios", "Vaggelis", "Kyrillos",
-  "Leonidas", "Kiriakos", "Achilleas", "Simeon", "Konstantinos", "Dimitra", "Maria", "Eleni", "Katerina", "Sophia",
-  "Nefeli", "Paraskevi"
-],
-"lastnames": [
-  "Papadopoulos", "Nikolaidis", "Georgiou", "Katsaros", "Papageorgiou", "Papanikolaou", "Margaritis", "Vassilakis", "Zervas", "Ioannidis",
-  "Kouros", "Tsoukalas", "Christodoulou", "Antonopoulos", "Kouvelas", "Panagiotopoulos", "Sotiriou", "Sideris", "Petrakis", "Tsiolis",
-  "Andreadis", "Kyriakidis", "Karagiannis", "Kokkinos", "Lazaridis", "Mavridis", "Karalis", "Dimitriadis", "Bakalakis", "Theodoridis",
-  "Stamatopoulos", "Markopoulos", "Xenakis", "Giannakopoulos", "Christakis", "Zafeiriou", "Katsoulis", "Papavasiliou", "Papadakis", "Kiriakidis",
-  "Savvas"
-]
-
+    "industrial": [
+      "Thessaloniki Industrial Zone",
+      "Piraeus Industrial Area",
+      "Athens Industrial Zone",
+      "Hellas Industrial Park",
+      "Patras Port Industrial Complex",
+      "Volos Industrial Park",
+      "Larissa Industrial District",
+      "Nea Ionia Industrial Zone",
+      "Heraklion Industrial Zone",
+      "Kalamata Industrial Zone",
+      "Rafina Industrial Area",
+      "Alexandroupoli Industrial District",
+      "Elefsina Industrial Complex",
+      "Corinth Industrial Zone",
+      "Katerini Industrial Area",
+      "Serres Industrial Park",
+      "Komotini Industrial Zone",
+      "Veroia Industrial Zone",
+      "Trikala Industrial Complex",
+      "Giannitsa Industrial Area",
+      "Samos Industrial Park",
+      "Zefyri Industrial Zone",
+      "Iraklio Industrial Park",
+      "Xanthi Industrial Zone",
+      "Giannitsa Industrial Complex",
+      "Kozani Industrial Zone",
+      "Rethymno Industrial Area",
+      "Edessa Industrial Park",
+      "Alexandroupoli Port Industrial Area",
+      "Lamia Industrial Zone",
+      "Halkida Industrial Complex",
+      "Komotini Industrial Area",
+      "Veria Industrial Zone",
+      "Igoumenitsa Industrial District",
+      "Sparta Industrial Park",
+      "Larissa Free Zone",
+      "Serres Industrial Park",
+      "Ioannina Industrial Zone",
+      "Ptolemaida Industrial Area",
+      "Athens Industrial Hub",
+      "Volos Port Industrial Zone",
+      "Thessaloniki Free Zone",
+      "Patras Industrial Park",
+      "Chania Industrial Zone",
+      "Kalamaria Industrial Park",
+      "Argos Industrial Complex"
+    ],
+    "residential": [
+      "Athens",
+      "Thessaloniki",
+      "Piraeus",
+      "Glyfada",
+      "Kifisia",
+      "Marousi",
+      "Chalandri",
+      "Nea Smyrni",
+      "Heraklion",
+      "Patras",
+      "Larissa",
+      "Kalamaria",
+      "Nea Ionia",
+      "Piraeus Port Area",
+      "Kifisia Residential",
+      "Voula",
+      "Rafina",
+      "Nea Halkidona",
+      "Agia Paraskevi",
+      "Vrilissia",
+      "Pallini",
+      "Agios Dimitrios",
+      "Korinthos",
+      "Halandri",
+      "Alimos",
+      "Vouliagmeni",
+      "Metaxourgeio",
+      "Peristeri",
+      "Vironas",
+      "Haidari",
+      "Metamorfosi",
+      "Palaio Faliro",
+      "Chania",
+      "Heraklion Residential Zone",
+      "Koropi",
+      "Katerini",
+      "Alexandroupoli",
+      "Komotini",
+      "Rethymno",
+      "Veria",
+      "Edessa",
+      "Igoumenitsa",
+      "Sparta",
+      "Ioannina",
+      "Xanthi",
+      "Arta",
+      "Giannitsa",
+      "Kozani",
+      "Kalamata",
+      "Athens Southern Suburbs",
+      "Athens Northern Suburbs",
+      "Chalcis",
+      "Alexandroupoli",
+      "Orestiada",
+      "Lamia",
+      "Patras Residential Zone",
+      "Samos",
+      "Ptolemaida",
+      "Sparta",
+      "Milos",
+      "Santorini"
+    ]
+  },
+  "streetnames": {
+    "corporate": [
+      "Syntagma Square",
+      "Kifisia Avenue",
+      "Athens Ring Road",
+      "Piraeus Street",
+      "Marousi Avenue",
+      "Sygrou Avenue",
+      "Pallini Road",
+      "Leoforos Vouliagmenis",
+      "Vouliagmeni Avenue",
+      "Vironas Street",
+      "Kalamata Street",
+      "Lefkados Street",
+      "Omonia Square",
+      "Zografou Street",
+      "Kalamaria Boulevard",
+      "Alexandras Avenue",
+      "Kolonaki Square",
+      "Piraeus Port Road",
+      "Leoforos Kifisias",
+      "Nea Smyrni Boulevard",
+      "Chalandri Avenue",
+      "Agios Dimitrios Road",
+      "Tavros Road",
+      "Plaka Street",
+      "Panepistimiou Street",
+      "Athens International Airport Road",
+      "Alimos Road",
+      "Chalkida Avenue",
+      "Athens-Piraeus Road",
+      "Thessaloniki Avenue",
+      "Athens City Center Road",
+      "Marousi Central Street",
+      "Kifisia North Road",
+      "El Venizelos Avenue",
+      "Mikrolimano Street",
+      "Skoufa Street",
+      "Zappeio Park Road",
+      "Lycabettus Hill Road",
+      "Stadiou Street",
+      "Metaxourgeio Square",
+      "Neos Kosmos Street",
+      "Korinthos Street",
+      "Nea Ionia Avenue",
+      "Moulin Street"
+    ],
+    "industrial": [
+      "Industrial Park Thessaloniki",
+      "Piraeus Port Industrial Street",
+      "Heraklion Industrial Avenue",
+      "Patras Industrial Road",
+      "Kalamata Industrial Road",
+      "Athens Industrial Park Street",
+      "Serres Industrial Avenue",
+      "Xanthi Industrial Park Road",
+      "Veria Industrial Street",
+      "Komotini Industrial Boulevard",
+      "Samos Industrial Road",
+      "Rethymno Industrial Street",
+      "Larissa Industrial Park",
+      "Athens Business District Street",
+      "Kozani Industrial Road",
+      "Alexandroupoli Industrial Avenue",
+      "Ioannina Industrial Road",
+      "Veroia Industrial Zone",
+      "Corinth Industrial Street",
+      "Ptolemaida Industrial Road",
+      "Lamia Industrial Avenue",
+      "Edessa Industrial Park",
+      "Thessaloniki Free Zone Street",
+      "Chania Industrial Road",
+      "Samos Free Zone",
+      "Kalamaria Industrial Zone",
+      "Heraklion Port Industrial Area",
+      "Volos Port Road",
+      "Patras Free Zone",
+      "Elefsina Industrial Street",
+      "Igoumenitsa Industrial District",
+      "Halkida Industrial Park",
+      "Rethymno Industrial Zone",
+      "Samos Free Zone",
+      "Sparta Industrial Road",
+      "Syntagma Free Zone",
+      "Piraeus Industrial Complex",
+      "Patras Business District Street",
+      "Katerini Industrial Zone",
+      "Athens Industrial Area"
+    ],
+    "residential": [
+      "Kolonaki",
+      "Kifisia",
+      "Piraeus Residential",
+      "Nea Ionia",
+      "Heraklion",
+      "Athens Central Square",
+      "Marousi",
+      "Nea Smyrni",
+      "Glyfada",
+      "Chalandri",
+      "Voula",
+      "Peristeri",
+      "Agia Paraskevi",
+      "Neos Kosmos",
+      "Tavros",
+      "Kalamaria",
+      "Vironas",
+      "Alimos",
+      "Koropi",
+      "Zografou",
+      "Rafina",
+      "Vrilissia",
+      "Vouliagmeni",
+      "Metamorfosi",
+      "Palaio Faliro",
+      "Agios Dimitrios",
+      "Kalamata Residential",
+      "Faliro",
+      "Thessaloniki",
+      "Volos",
+      "Kozani",
+      "Alexandroupoli",
+      "Ioannina",
+      "Larissa",
+      "Sparta",
+      "Chania",
+      "Rethymno",
+      "Patras",
+      "Heraklion Residential Zone",
+      "Arta",
+      "Giannitsa",
+      "Edessa",
+      "Zagora",
+      "Argos",
+      "Glyfada Residential Area",
+      "Ptolemaida",
+      "Corinth",
+      "Xanthi",
+      "Veria"
+    ]
+  },
+  "regions": {
+    "Attica": {
+      "capital": "Athens",
+      "cities": {
+        "Athens": {
+          "zipcodes": [
+            "10551",
+            "10552",
+            "10553",
+            "10554",
+            "10555"
+          ],
+          "areacodes": [
+            "210"
+          ]
+        },
+        "Piraeus": {
+          "zipcodes": [
+            "18531",
+            "18532",
+            "18533",
+            "18534",
+            "18535"
+          ],
+          "areacodes": [
+            "210"
+          ]
+        },
+        "Kifisia": {
+          "zipcodes": [
+            "14561",
+            "14562",
+            "14563",
+            "14564",
+            "14565"
+          ],
+          "areacodes": [
+            "210"
+          ]
+        },
+        "Glyfada": {
+          "zipcodes": [
+            "16674",
+            "16675",
+            "16676",
+            "16677",
+            "16678"
+          ],
+          "areacodes": [
+            "210"
+          ]
+        },
+        "Marousi": {
+          "zipcodes": [
+            "15122",
+            "15123",
+            "15124",
+            "15125",
+            "15126"
+          ],
+          "areacodes": [
+            "210"
+          ]
+        },
+        "Peristeri": {
+          "zipcodes": [
+            "12134",
+            "12135",
+            "12136",
+            "12137",
+            "12138"
+          ],
+          "areacodes": [
+            "210"
+          ]
+        },
+        "Nea Smyrni": {
+          "zipcodes": [
+            "17121",
+            "17122",
+            "17123",
+            "17124",
+            "17125"
+          ],
+          "areacodes": [
+            "210"
+          ]
+        },
+        "Kallithea": {
+          "zipcodes": [
+            "17671",
+            "17672",
+            "17673",
+            "17674",
+            "17675"
+          ],
+          "areacodes": [
+            "210"
+          ]
+        },
+        "Acharnes": {
+          "zipcodes": [
+            "13671",
+            "13672",
+            "13673",
+            "13674",
+            "13675"
+          ],
+          "areacodes": [
+            "210"
+          ]
+        },
+        "Agia Paraskevi": {
+          "zipcodes": [
+            "15341",
+            "15342",
+            "15343",
+            "15344",
+            "15345"
+          ],
+          "areacodes": [
+            "210"
+          ]
+        },
+        "Vrilissia": {
+          "zipcodes": [
+            "15235",
+            "15236",
+            "15237",
+            "15238",
+            "15239"
+          ],
+          "areacodes": [
+            "210"
+          ]
+        },
+        "Halandri": {
+          "zipcodes": [
+            "15200",
+            "15201",
+            "15202",
+            "15203",
+            "15204"
+          ],
+          "areacodes": [
+            "210"
+          ]
+        },
+        "Filothei": {
+          "zipcodes": [
+            "15255",
+            "15256",
+            "15257",
+            "15258",
+            "15259"
+          ],
+          "areacodes": [
+            "210"
+          ]
+        },
+        "Pallini": {
+          "zipcodes": [
+            "15351",
+            "15352",
+            "15353",
+            "15354",
+            "15355"
+          ],
+          "areacodes": [
+            "210"
+          ]
+        },
+        "Spata": {
+          "zipcodes": [
+            "19004",
+            "19005",
+            "19006",
+            "19007",
+            "19008"
+          ],
+          "areacodes": [
+            "210"
+          ]
+        },
+        "Markopoulo": {
+          "zipcodes": [
+            "19003",
+            "19004",
+            "19005",
+            "19006",
+            "19007"
+          ],
+          "areacodes": [
+            "210"
+          ]
+        },
+        "Saronikos": {
+          "zipcodes": [
+            "19013",
+            "19014",
+            "19015",
+            "19016",
+            "19017"
+          ],
+          "areacodes": [
+            "210"
+          ]
+        },
+        "Rafina": {
+          "zipcodes": [
+            "19009",
+            "19010",
+            "19011",
+            "19012",
+            "19013"
+          ],
+          "areacodes": [
+            "210"
+          ]
+        },
+        "Keratsini": {
+          "zipcodes": [
+            "18755",
+            "18756",
+            "18757",
+            "18758",
+            "18759"
+          ],
+          "areacodes": [
+            "210"
+          ]
+        },
+        "Dafni": {
+          "zipcodes": [
+            "17235",
+            "17236",
+            "17237",
+            "17238",
+            "17239"
+          ],
+          "areacodes": [
+            "210"
+          ]
+        }
+      },
+      "name": "Attica"
+    },
+    "Central Greece": {
+      "capital": "Livadeia",
+      "cities": {
+        "Livadeia": {
+          "zipcodes": [
+            "32100",
+            "32101",
+            "32102",
+            "32103",
+            "32104"
+          ],
+          "areacodes": [
+            "22610"
+          ]
+        },
+        "Chalkida": {
+          "zipcodes": [
+            "34100",
+            "34101",
+            "34102",
+            "34103",
+            "34104"
+          ],
+          "areacodes": [
+            "22210"
+          ]
+        },
+        "Thebes": {
+          "zipcodes": [
+            "32200",
+            "32201",
+            "32202",
+            "32203",
+            "32204"
+          ],
+          "areacodes": [
+            "22620"
+          ]
+        },
+        "Thiva": {
+          "zipcodes": [
+            "32200",
+            "32201",
+            "32202",
+            "32203",
+            "32204"
+          ],
+          "areacodes": [
+            "22620"
+          ]
+        },
+        "Amfissa": {
+          "zipcodes": [
+            "33000",
+            "33001",
+            "33002",
+            "33003",
+            "33004"
+          ],
+          "areacodes": [
+            "22650"
+          ]
+        },
+        "Arachova": {
+          "zipcodes": [
+            "32004",
+            "32005",
+            "32006",
+            "32007",
+            "32008"
+          ],
+          "areacodes": [
+            "22670"
+          ]
+        },
+        "Delphi": {
+          "zipcodes": [
+            "33054",
+            "33055",
+            "33056",
+            "33057",
+            "33058"
+          ],
+          "areacodes": [
+            "22650"
+          ]
+        },
+        "Kammena Vourla": {
+          "zipcodes": [
+            "35200",
+            "35201",
+            "35202",
+            "35203",
+            "35204"
+          ],
+          "areacodes": [
+            "22350"
+          ]
+        },
+        "Karpenisi": {
+          "zipcodes": [
+            "36100",
+            "36101",
+            "36102",
+            "36103",
+            "36104"
+          ],
+          "areacodes": [
+            "22370"
+          ]
+        },
+        "Voiotia": {
+          "zipcodes": [
+            "32000",
+            "32001",
+            "32002",
+            "32003",
+            "32004"
+          ],
+          "areacodes": [
+            "22610"
+          ]
+        },
+        "Malozzi": {
+          "zipcodes": [
+            "33061",
+            "33062",
+            "33063",
+            "33064",
+            "33065"
+          ],
+          "areacodes": [
+            "22610"
+          ]
+        },
+        "Eratini": {
+          "zipcodes": [
+            "33021",
+            "33022",
+            "33023",
+            "33024",
+            "33025"
+          ],
+          "areacodes": [
+            "22630"
+          ]
+        },
+        "Lidoriki": {
+          "zipcodes": [
+            "33013",
+            "33014",
+            "33015",
+            "33016",
+            "33017"
+          ],
+          "areacodes": [
+            "22640"
+          ]
+        },
+        "Gorgopotamos": {
+          "zipcodes": [
+            "36051",
+            "36052",
+            "36053",
+            "36054",
+            "36055"
+          ],
+          "areacodes": [
+            "22380"
+          ]
+        },
+        "Meteora": {
+          "zipcodes": [
+            "42000",
+            "42001",
+            "42002",
+            "42003",
+            "42004"
+          ],
+          "areacodes": [
+            "22390"
+          ]
+        },
+        "Elatia": {
+          "zipcodes": [
+            "36020",
+            "36021",
+            "36022",
+            "36023",
+            "36024"
+          ],
+          "areacodes": [
+            "22380"
+          ]
+        },
+        "Eretria": {
+          "zipcodes": [
+            "34008",
+            "34009",
+            "34010",
+            "34011",
+            "34012"
+          ],
+          "areacodes": [
+            "22290"
+          ]
+        }
+      },
+      "name": "Central Greece"
+    },
+    "Central Macedonia": {
+      "capital": "Thessaloniki",
+      "cities": {
+        "Thessaloniki": {
+          "zipcodes": [
+            "54600",
+            "54601",
+            "54602",
+            "54603",
+            "54604"
+          ],
+          "areacodes": [
+            "2310"
+          ]
+        },
+        "Kavala": {
+          "zipcodes": [
+            "65400",
+            "65401",
+            "65402",
+            "65403",
+            "65404"
+          ],
+          "areacodes": [
+            "2510"
+          ]
+        },
+        "Serres": {
+          "zipcodes": [
+            "62100",
+            "62101",
+            "62102",
+            "62103",
+            "62104"
+          ],
+          "areacodes": [
+            "23210"
+          ]
+        },
+        "Halkidiki": {
+          "zipcodes": [
+            "63000",
+            "63001",
+            "63002",
+            "63003",
+            "63004"
+          ],
+          "areacodes": [
+            "23710"
+          ]
+        },
+        "Veroia": {
+          "zipcodes": [
+            "59100",
+            "59101",
+            "59102",
+            "59103",
+            "59104"
+          ],
+          "areacodes": [
+            "23310"
+          ]
+        },
+        "Edessa": {
+          "zipcodes": [
+            "58200",
+            "58201",
+            "58202",
+            "58203",
+            "58204"
+          ],
+          "areacodes": [
+            "23810"
+          ]
+        },
+        "Polykastro": {
+          "zipcodes": [
+            "58000",
+            "58001",
+            "58002",
+            "58003",
+            "58004"
+          ],
+          "areacodes": [
+            "23410"
+          ]
+        },
+        "Nea Moudania": {
+          "zipcodes": [
+            "63200",
+            "63201",
+            "63202",
+            "63203",
+            "63204"
+          ],
+          "areacodes": [
+            "23730"
+          ]
+        },
+        "Kilkis": {
+          "zipcodes": [
+            "61100",
+            "61101",
+            "61102",
+            "61103",
+            "61104"
+          ],
+          "areacodes": [
+            "23410"
+          ]
+        },
+        "Giannitsa": {
+          "zipcodes": [
+            "58100",
+            "58101",
+            "58102",
+            "58103",
+            "58104"
+          ],
+          "areacodes": [
+            "23820"
+          ]
+        },
+        "Aridaia": {
+          "zipcodes": [
+            "58400",
+            "58401",
+            "58402",
+            "58403",
+            "58404"
+          ],
+          "areacodes": [
+            "23840"
+          ]
+        },
+        "Pella": {
+          "zipcodes": [
+            "59100",
+            "59101",
+            "59102",
+            "59103",
+            "59104"
+          ],
+          "areacodes": [
+            "23810"
+          ]
+        },
+        "Epanomi": {
+          "zipcodes": [
+            "57500",
+            "57501",
+            "57502",
+            "57503",
+            "57504"
+          ],
+          "areacodes": [
+            "23920"
+          ]
+        },
+        "Nea Kallikratia": {
+          "zipcodes": [
+            "63080",
+            "63081",
+            "63082",
+            "63083",
+            "63084"
+          ],
+          "areacodes": [
+            "23740"
+          ]
+        },
+        "Sykia": {
+          "zipcodes": [
+            "63072",
+            "63073",
+            "63074",
+            "63075",
+            "63076"
+          ],
+          "areacodes": [
+            "23760"
+          ]
+        },
+        "Nikiti": {
+          "zipcodes": [
+            "63088",
+            "63089",
+            "63090",
+            "63091",
+            "63092"
+          ],
+          "areacodes": [
+            "23750"
+          ]
+        },
+        "Agios Nikolaos": {
+          "zipcodes": [
+            "63072",
+            "63073",
+            "63074",
+            "63075",
+            "63076"
+          ],
+          "areacodes": [
+            "23750"
+          ]
+        },
+        "Polygyros": {
+          "zipcodes": [
+            "63100",
+            "63101",
+            "63102",
+            "63103",
+            "63104"
+          ],
+          "areacodes": [
+            "23710"
+          ]
+        }
+      },
+      "name": "Central Macedonia"
+    },
+    "Crete": {
+      "capital": "Heraklion",
+      "cities": {
+        "Heraklion": {
+          "zipcodes": [
+            "71201",
+            "71202",
+            "71203",
+            "71204",
+            "71205"
+          ],
+          "areacodes": [
+            "2810"
+          ]
+        },
+        "Chania": {
+          "zipcodes": [
+            "73100",
+            "73101",
+            "73102",
+            "73103",
+            "73104"
+          ],
+          "areacodes": [
+            "28210"
+          ]
+        },
+        "Rethymno": {
+          "zipcodes": [
+            "74100",
+            "74101",
+            "74102",
+            "74103",
+            "74104"
+          ],
+          "areacodes": [
+            "28310"
+          ]
+        },
+        "Agios Nikolaos": {
+          "zipcodes": [
+            "72100",
+            "72101",
+            "72102",
+            "72103",
+            "72104"
+          ],
+          "areacodes": [
+            "28410"
+          ]
+        },
+        "Ierapetra": {
+          "zipcodes": [
+            "72200",
+            "72201",
+            "72202",
+            "72203",
+            "72204"
+          ],
+          "areacodes": [
+            "28420"
+          ]
+        },
+        "Sitia": {
+          "zipcodes": [
+            "72300",
+            "72301",
+            "72302",
+            "72303",
+            "72304"
+          ],
+          "areacodes": [
+            "28430"
+          ]
+        },
+        "Margarites": {
+          "zipcodes": [
+            "74052",
+            "74053",
+            "74054",
+            "74055",
+            "74056"
+          ],
+          "areacodes": [
+            "28310"
+          ]
+        },
+        "Kissamos": {
+          "zipcodes": [
+            "73400",
+            "73401",
+            "73402",
+            "73403",
+            "73404"
+          ],
+          "areacodes": [
+            "28220"
+          ]
+        },
+        "Platanias": {
+          "zipcodes": [
+            "73014",
+            "73015",
+            "73016",
+            "73017",
+            "73018"
+          ],
+          "areacodes": [
+            "28210"
+          ]
+        },
+        "Fodele": {
+          "zipcodes": [
+            "71500",
+            "71501",
+            "71502",
+            "71503",
+            "71504"
+          ],
+          "areacodes": [
+            "2810"
+          ]
+        },
+        "Anogeia": {
+          "zipcodes": [
+            "74051",
+            "74052",
+            "74053",
+            "74054",
+            "74055"
+          ],
+          "areacodes": [
+            "28310"
+          ]
+        },
+        "Agia Galini": {
+          "zipcodes": [
+            "74056",
+            "74057",
+            "74058",
+            "74059",
+            "74060"
+          ],
+          "areacodes": [
+            "28320"
+          ]
+        },
+        "Matala": {
+          "zipcodes": [
+            "70200",
+            "70201",
+            "70202",
+            "70203",
+            "70204"
+          ],
+          "areacodes": [
+            "28920"
+          ]
+        },
+        "Archanes": {
+          "zipcodes": [
+            "70100",
+            "70101",
+            "70102",
+            "70103",
+            "70104"
+          ],
+          "areacodes": [
+            "2810"
+          ]
+        },
+        "Kouroutes": {
+          "zipcodes": [
+            "70400",
+            "70401",
+            "70402",
+            "70403",
+            "70404"
+          ],
+          "areacodes": [
+            "2810"
+          ]
+        },
+        "Timpaki": {
+          "zipcodes": [
+            "70200",
+            "70201",
+            "70202",
+            "70203",
+            "70204"
+          ],
+          "areacodes": [
+            "28910"
+          ]
+        }
+      },
+      "name": "Crete"
+    },
+    "Eastern Macedonia and Thrace": {
+      "capital": "Komotini",
+      "cities": {
+        "Komotini": {
+          "zipcodes": [
+            "69100",
+            "69101",
+            "69102",
+            "69103",
+            "69104"
+          ],
+          "areacodes": [
+            "25310"
+          ]
+        },
+        "Alexandroupoli": {
+          "zipcodes": [
+            "68100",
+            "68101",
+            "68102",
+            "68103",
+            "68104"
+          ],
+          "areacodes": [
+            "25510"
+          ]
+        },
+        "Kavala": {
+          "zipcodes": [
+            "65302",
+            "65303",
+            "65304",
+            "65305",
+            "65306"
+          ],
+          "areacodes": [
+            "2510"
+          ]
+        },
+        "Drama": {
+          "zipcodes": [
+            "66100",
+            "66101",
+            "66102",
+            "66103",
+            "66104"
+          ],
+          "areacodes": [
+            "25210"
+          ]
+        },
+        "Xanthi": {
+          "zipcodes": [
+            "67100",
+            "67101",
+            "67102",
+            "67103",
+            "67104"
+          ],
+          "areacodes": [
+            "25410"
+          ]
+        },
+        "Orestiada": {
+          "zipcodes": [
+            "68200",
+            "68201",
+            "68202",
+            "68203",
+            "68204"
+          ],
+          "areacodes": [
+            "25520"
+          ]
+        },
+        "Didymoteicho": {
+          "zipcodes": [
+            "68500",
+            "68501",
+            "68502",
+            "68503",
+            "68504"
+          ],
+          "areacodes": [
+            "25530"
+          ]
+        },
+        "Soufli": {
+          "zipcodes": [
+            "68300",
+            "68301",
+            "68302",
+            "68303",
+            "68304"
+          ],
+          "areacodes": [
+            "25540"
+          ]
+        },
+        "Nea Karvali": {
+          "zipcodes": [
+            "64002",
+            "64003",
+            "64004",
+            "64005",
+            "64006"
+          ],
+          "areacodes": [
+            "25120"
+          ]
+        },
+        "Kavakli": {
+          "zipcodes": [
+            "64004",
+            "64005",
+            "64006",
+            "64007",
+            "64008"
+          ],
+          "areacodes": [
+            "25150"
+          ]
+        },
+        "Mikri": {
+          "zipcodes": [
+            "67062",
+            "67063",
+            "67064",
+            "67065",
+            "67066"
+          ],
+          "areacodes": [
+            "25910"
+          ]
+        },
+        "Makri": {
+          "zipcodes": [
+            "68100",
+            "68101",
+            "68102",
+            "68103",
+            "68104"
+          ],
+          "areacodes": [
+            "25560"
+          ]
+        },
+        "Komi": {
+          "zipcodes": [
+            "67300",
+            "67301",
+            "67302",
+            "67303",
+            "67304"
+          ],
+          "areacodes": [
+            "25920"
+          ]
+        },
+        "Agios Charalambos": {
+          "zipcodes": [
+            "66100",
+            "66101",
+            "66102",
+            "66103",
+            "66104"
+          ],
+          "areacodes": [
+            "25210"
+          ]
+        },
+        "Kalamotou": {
+          "zipcodes": [
+            "67100",
+            "67101",
+            "67102",
+            "67103",
+            "67104"
+          ],
+          "areacodes": [
+            "25410"
+          ]
+        }
+      },
+      "name": "Eastern Macedonia and Thrace"
+    },
+    "Epirus": {
+      "capital": "Ioannina",
+      "cities": {
+        "Ioannina": {
+          "zipcodes": [
+            "45444",
+            "45445",
+            "45446",
+            "45447",
+            "45448"
+          ],
+          "areacodes": [
+            "26510"
+          ]
+        },
+        "Arta": {
+          "zipcodes": [
+            "47100",
+            "47101",
+            "47102",
+            "47103",
+            "47104"
+          ],
+          "areacodes": [
+            "26810"
+          ]
+        },
+        "Preveza": {
+          "zipcodes": [
+            "48100",
+            "48101",
+            "48102",
+            "48103",
+            "48104"
+          ],
+          "areacodes": [
+            "26820"
+          ]
+        },
+        "Igoumenitsa": {
+          "zipcodes": [
+            "46100",
+            "46101",
+            "46102",
+            "46103",
+            "46104"
+          ],
+          "areacodes": [
+            "26650"
+          ]
+        },
+        "Filippiada": {
+          "zipcodes": [
+            "48100",
+            "48101",
+            "48102",
+            "48103",
+            "48104"
+          ],
+          "areacodes": [
+            "26840"
+          ]
+        },
+        "Konitsa": {
+          "zipcodes": [
+            "44100",
+            "44101",
+            "44102",
+            "44103",
+            "44104"
+          ],
+          "areacodes": [
+            "26550"
+          ]
+        },
+        "Vourgareli": {
+          "zipcodes": [
+            "47044",
+            "47045",
+            "47046",
+            "47047",
+            "47048"
+          ],
+          "areacodes": [
+            "26580"
+          ]
+        },
+        "Metsovo": {
+          "zipcodes": [
+            "44200",
+            "44201",
+            "44202",
+            "44203",
+            "44204"
+          ],
+          "areacodes": [
+            "26560"
+          ]
+        },
+        "Anogi": {
+          "zipcodes": [
+            "46010",
+            "46011",
+            "46012",
+            "46013",
+            "46014"
+          ],
+          "areacodes": [
+            "26620"
+          ]
+        },
+        "Sagiada": {
+          "zipcodes": [
+            "46100",
+            "46101",
+            "46102",
+            "46103",
+            "46104"
+          ],
+          "areacodes": [
+            "26670"
+          ]
+        },
+        "Chameria": {
+          "zipcodes": [
+            "48200",
+            "48201",
+            "48202",
+            "48203",
+            "48204"
+          ],
+          "areacodes": [
+            "26540"
+          ]
+        },
+        "Zitsa": {
+          "zipcodes": [
+            "44010",
+            "44011",
+            "44012",
+            "44013",
+            "44014"
+          ],
+          "areacodes": [
+            "26570"
+          ]
+        },
+        "Parga": {
+          "zipcodes": [
+            "48060",
+            "48061",
+            "48062",
+            "48063",
+            "48064"
+          ],
+          "areacodes": [
+            "26830"
+          ]
+        },
+        "Kalpaki": {
+          "zipcodes": [
+            "44010",
+            "44011",
+            "44012",
+            "44013",
+            "44014"
+          ],
+          "areacodes": [
+            "26590"
+          ]
+        },
+        "Kalarrites": {
+          "zipcodes": [
+            "44020",
+            "44021",
+            "44022",
+            "44023",
+            "44024"
+          ],
+          "areacodes": [
+            "26540"
+          ]
+        }
+      },
+      "name": "Epirus"
+    },
+    "Ionian Islands": {
+      "capital": "Corfu",
+      "cities": {
+        "Corfu": {
+          "zipcodes": [
+            "49100",
+            "49101",
+            "49102",
+            "49103",
+            "49104"
+          ],
+          "areacodes": [
+            "26610"
+          ]
+        },
+        "Kerkyra": {
+          "zipcodes": [
+            "49100",
+            "49101",
+            "49102",
+            "49103",
+            "49104"
+          ],
+          "areacodes": [
+            "26610"
+          ]
+        },
+        "Paleokastritsa": {
+          "zipcodes": [
+            "49083",
+            "49084",
+            "49085",
+            "49086",
+            "49087"
+          ],
+          "areacodes": [
+            "26620"
+          ]
+        },
+        "Gouvia": {
+          "zipcodes": [
+            "49100",
+            "49101",
+            "49102",
+            "49103",
+            "49104"
+          ],
+          "areacodes": [
+            "26610"
+          ]
+        },
+        "Sidari": {
+          "zipcodes": [
+            "49081",
+            "49082",
+            "49083",
+            "49084",
+            "49085"
+          ],
+          "areacodes": [
+            "26630"
+          ]
+        },
+        "Achilleion": {
+          "zipcodes": [
+            "49084",
+            "49085",
+            "49086",
+            "49087",
+            "49088"
+          ],
+          "areacodes": [
+            "26610"
+          ]
+        },
+        "Kassiopi": {
+          "zipcodes": [
+            "49081",
+            "49082",
+            "49083",
+            "49084",
+            "49085"
+          ],
+          "areacodes": [
+            "26630"
+          ]
+        },
+        "Agios Nikolaos": {
+          "zipcodes": [
+            "49080",
+            "49081",
+            "49082",
+            "49083",
+            "49084"
+          ],
+          "areacodes": [
+            "26610"
+          ]
+        },
+        "Benitses": {
+          "zipcodes": [
+            "49084",
+            "49085",
+            "49086",
+            "49087",
+            "49088"
+          ],
+          "areacodes": [
+            "26610"
+          ]
+        },
+        "Perama": {
+          "zipcodes": [
+            "49084",
+            "49085",
+            "49086",
+            "49087",
+            "49088"
+          ],
+          "areacodes": [
+            "26610"
+          ]
+        },
+        "Messonghi": {
+          "zipcodes": [
+            "49080",
+            "49081",
+            "49082",
+            "49083",
+            "49084"
+          ],
+          "areacodes": [
+            "26610"
+          ]
+        },
+        "Lefkimmi": {
+          "zipcodes": [
+            "49080",
+            "49081",
+            "49082",
+            "49083",
+            "49084"
+          ],
+          "areacodes": [
+            "26620"
+          ]
+        },
+        "Makrades": {
+          "zipcodes": [
+            "49083",
+            "49084",
+            "49085",
+            "49086",
+            "49087"
+          ],
+          "areacodes": [
+            "26610"
+          ]
+        },
+        "Sinarades": {
+          "zipcodes": [
+            "49084",
+            "49085",
+            "49086",
+            "49087",
+            "49088"
+          ],
+          "areacodes": [
+            "26610"
+          ]
+        },
+        "Pelekas": {
+          "zipcodes": [
+            "49084",
+            "49085",
+            "49086",
+            "49087",
+            "49088"
+          ],
+          "areacodes": [
+            "26610"
+          ]
+        },
+        "Vatos": {
+          "zipcodes": [
+            "49083",
+            "49084",
+            "49085",
+            "49086",
+            "49087"
+          ],
+          "areacodes": [
+            "26610"
+          ]
+        },
+        "Roda": {
+          "zipcodes": [
+            "49081",
+            "49082",
+            "49083",
+            "49084",
+            "49085"
+          ],
+          "areacodes": [
+            "26630"
+          ]
+        },
+        "Perdika": {
+          "zipcodes": [
+            "49080",
+            "49081",
+            "49082",
+            "49083",
+            "49084"
+          ],
+          "areacodes": [
+            "26630"
+          ]
+        }
+      },
+      "name": "Ionian Islands"
+    },
+    "North Aegean": {
+      "capital": "Mytilene",
+      "cities": {
+        "Mytilene": {
+          "zipcodes": [
+            "81100",
+            "81101",
+            "81102",
+            "81103",
+            "81104"
+          ],
+          "areacodes": [
+            "22510"
+          ]
+        },
+        "Mithymna": {
+          "zipcodes": [
+            "81108",
+            "81109",
+            "81110",
+            "81111",
+            "81112"
+          ],
+          "areacodes": [
+            "22530"
+          ]
+        },
+        "Kalloni": {
+          "zipcodes": [
+            "81100",
+            "81101",
+            "81102",
+            "81103",
+            "81104"
+          ],
+          "areacodes": [
+            "22520"
+          ]
+        },
+        "Agia Paraskevi": {
+          "zipcodes": [
+            "81104",
+            "81105",
+            "81106",
+            "81107",
+            "81108"
+          ],
+          "areacodes": [
+            "22510"
+          ]
+        },
+        "Eressos": {
+          "zipcodes": [
+            "81104",
+            "81105",
+            "81106",
+            "81107",
+            "81108"
+          ],
+          "areacodes": [
+            "22510"
+          ]
+        },
+        "Plomari": {
+          "zipcodes": [
+            "81100",
+            "81101",
+            "81102",
+            "81103",
+            "81104"
+          ],
+          "areacodes": [
+            "22520"
+          ]
+        },
+        "Skala Eresou": {
+          "zipcodes": [
+            "81105",
+            "81106",
+            "81107",
+            "81108",
+            "81109"
+          ],
+          "areacodes": [
+            "22520"
+          ]
+        },
+        "Agios Isidoros": {
+          "zipcodes": [
+            "81100",
+            "81101",
+            "81102",
+            "81103",
+            "81104"
+          ],
+          "areacodes": [
+            "22510"
+          ]
+        },
+        "Neapoli": {
+          "zipcodes": [
+            "81106",
+            "81107",
+            "81108",
+            "81109",
+            "81110"
+          ],
+          "areacodes": [
+            "22530"
+          ]
+        },
+        "Kalimnos": {
+          "zipcodes": [
+            "81111",
+            "81112",
+            "81113",
+            "81114",
+            "81115"
+          ],
+          "areacodes": [
+            "22520"
+          ]
+        },
+        "Kiparissi": {
+          "zipcodes": [
+            "81100",
+            "81101",
+            "81102",
+            "81103",
+            "81104"
+          ],
+          "areacodes": [
+            "22510"
+          ]
+        },
+        "Agios Georgios": {
+          "zipcodes": [
+            "81105",
+            "81106",
+            "81107",
+            "81108",
+            "81109"
+          ],
+          "areacodes": [
+            "22530"
+          ]
+        },
+        "Vatera": {
+          "zipcodes": [
+            "81108",
+            "81109",
+            "81110",
+            "81111",
+            "81112"
+          ],
+          "areacodes": [
+            "22520"
+          ]
+        },
+        "Polychnitos": {
+          "zipcodes": [
+            "81102",
+            "81103",
+            "81104",
+            "81105",
+            "81106"
+          ],
+          "areacodes": [
+            "22510"
+          ]
+        },
+        "Molyvos": {
+          "zipcodes": [
+            "81106",
+            "81107",
+            "81108",
+            "81109",
+            "81110"
+          ],
+          "areacodes": [
+            "22530"
+          ]
+        }
+      },
+      "name": "North Aegean"
+    },
+    "Peloponnese": {
+      "capital": "Tripoli",
+      "cities": {
+        "Tripoli": {
+          "zipcodes": [
+            "22100",
+            "22101",
+            "22102",
+            "22103",
+            "22104"
+          ],
+          "areacodes": [
+            "2710"
+          ]
+        },
+        "Argos": {
+          "zipcodes": [
+            "21200",
+            "21201",
+            "21202",
+            "21203",
+            "21204"
+          ],
+          "areacodes": [
+            "27510"
+          ]
+        },
+        "Nafplio": {
+          "zipcodes": [
+            "21100",
+            "21101",
+            "21102",
+            "21103",
+            "21104"
+          ],
+          "areacodes": [
+            "27520"
+          ]
+        },
+        "Sparta": {
+          "zipcodes": [
+            "23100",
+            "23101",
+            "23102",
+            "23103",
+            "23104"
+          ],
+          "areacodes": [
+            "27310"
+          ]
+        },
+        "Kalamata": {
+          "zipcodes": [
+            "24100",
+            "24101",
+            "24102",
+            "24103",
+            "24104"
+          ],
+          "areacodes": [
+            "27210"
+          ]
+        },
+        "Korinthos": {
+          "zipcodes": [
+            "20100",
+            "20101",
+            "20102",
+            "20103",
+            "20104"
+          ],
+          "areacodes": [
+            "27410"
+          ]
+        },
+        "Methoni": {
+          "zipcodes": [
+            "24006",
+            "24007",
+            "24008",
+            "24009",
+            "24010"
+          ],
+          "areacodes": [
+            "27230"
+          ]
+        },
+        "Monemvasia": {
+          "zipcodes": [
+            "23070",
+            "23071",
+            "23072",
+            "23073",
+            "23074"
+          ],
+          "areacodes": [
+            "27320"
+          ]
+        },
+        "Xylokastro": {
+          "zipcodes": [
+            "20400",
+            "20401",
+            "20402",
+            "20403",
+            "20404"
+          ],
+          "areacodes": [
+            "27430"
+          ]
+        },
+        "Dimitsana": {
+          "zipcodes": [
+            "22007",
+            "22008",
+            "22009",
+            "22010",
+            "22011"
+          ],
+          "areacodes": [
+            "27950"
+          ]
+        },
+        "Andritsaina": {
+          "zipcodes": [
+            "22011",
+            "22012",
+            "22013",
+            "22014",
+            "22015"
+          ],
+          "areacodes": [
+            "27960"
+          ]
+        },
+        "Leonidio": {
+          "zipcodes": [
+            "22300",
+            "22301",
+            "22302",
+            "22303",
+            "22304"
+          ],
+          "areacodes": [
+            "27570"
+          ]
+        },
+        "Pyrgos": {
+          "zipcodes": [
+            "27100",
+            "27101",
+            "27102",
+            "27103",
+            "27104"
+          ],
+          "areacodes": [
+            "26210"
+          ]
+        },
+        "Kardamyli": {
+          "zipcodes": [
+            "24022",
+            "24023",
+            "24024",
+            "24025",
+            "24026"
+          ],
+          "areacodes": [
+            "27240"
+          ]
+        },
+        "Megalopoli": {
+          "zipcodes": [
+            "22200",
+            "22201",
+            "22202",
+            "22203",
+            "22204"
+          ],
+          "areacodes": [
+            "27910"
+          ]
+        },
+        "Vastas": {
+          "zipcodes": [
+            "22206",
+            "22207",
+            "22208",
+            "22209",
+            "22210"
+          ],
+          "areacodes": [
+            "27920"
+          ]
+        },
+        "Trifylia": {
+          "zipcodes": [
+            "24500",
+            "24501",
+            "24502",
+            "24503",
+            "24504"
+          ],
+          "areacodes": [
+            "27610"
+          ]
+        },
+        "Vlychada": {
+          "zipcodes": [
+            "24005",
+            "24006",
+            "24007",
+            "24008",
+            "24009"
+          ],
+          "areacodes": [
+            "27440"
+          ]
+        },
+        "Kiveri": {
+          "zipcodes": [
+            "21200",
+            "21201",
+            "21202",
+            "21203",
+            "21204"
+          ],
+          "areacodes": [
+            "27510"
+          ]
+        }
+      },
+      "name": "Peloponnese"
+    },
+    "South Aegean": {
+      "capital": "Ermoupoli",
+      "cities": {
+        "Ermoupoli": {
+          "zipcodes": [
+            "84100",
+            "84101",
+            "84102",
+            "84103",
+            "84104"
+          ],
+          "areacodes": [
+            "22810"
+          ]
+        },
+        "Ios": {
+          "zipcodes": [
+            "84001",
+            "84002",
+            "84003",
+            "84004",
+            "84005"
+          ],
+          "areacodes": [
+            "22860"
+          ]
+        },
+        "Tinos": {
+          "zipcodes": [
+            "84200",
+            "84201",
+            "84202",
+            "84203",
+            "84204"
+          ],
+          "areacodes": [
+            "22830"
+          ]
+        },
+        "Andros": {
+          "zipcodes": [
+            "84500",
+            "84501",
+            "84502",
+            "84503",
+            "84504"
+          ],
+          "areacodes": [
+            "22820"
+          ]
+        },
+        "Mykonos": {
+          "zipcodes": [
+            "84600",
+            "84601",
+            "84602",
+            "84603",
+            "84604"
+          ],
+          "areacodes": [
+            "22890"
+          ]
+        },
+        "Paros": {
+          "zipcodes": [
+            "84400",
+            "84401",
+            "84402",
+            "84403",
+            "84404"
+          ],
+          "areacodes": [
+            "22840"
+          ]
+        },
+        "Naxos": {
+          "zipcodes": [
+            "84300",
+            "84301",
+            "84302",
+            "84303",
+            "84304"
+          ],
+          "areacodes": [
+            "22850"
+          ]
+        },
+        "Syros": {
+          "zipcodes": [
+            "84100",
+            "84101",
+            "84102",
+            "84103",
+            "84104"
+          ],
+          "areacodes": [
+            "22810"
+          ]
+        },
+        "Kea": {
+          "zipcodes": [
+            "84002",
+            "84003",
+            "84004",
+            "84005",
+            "84006"
+          ],
+          "areacodes": [
+            "22880"
+          ]
+        },
+        "Kynthos": {
+          "zipcodes": [
+            "84400",
+            "84401",
+            "84402",
+            "84403",
+            "84404"
+          ],
+          "areacodes": [
+            "22870"
+          ]
+        },
+        "Amorgos": {
+          "zipcodes": [
+            "84008",
+            "84009",
+            "84010",
+            "84011",
+            "84012"
+          ],
+          "areacodes": [
+            "22860"
+          ]
+        },
+        "Antiparos": {
+          "zipcodes": [
+            "84400",
+            "84401",
+            "84402",
+            "84403",
+            "84404"
+          ],
+          "areacodes": [
+            "22840"
+          ]
+        },
+        "Folegandros": {
+          "zipcodes": [
+            "84011",
+            "84012",
+            "84013",
+            "84014",
+            "84015"
+          ],
+          "areacodes": [
+            "22860"
+          ]
+        },
+        "Sifnos": {
+          "zipcodes": [
+            "84003",
+            "84004",
+            "84005",
+            "84006",
+            "84007"
+          ],
+          "areacodes": [
+            "22840"
+          ]
+        },
+        "Serifos": {
+          "zipcodes": [
+            "84005",
+            "84006",
+            "84007",
+            "84008",
+            "84009"
+          ],
+          "areacodes": [
+            "22810"
+          ]
+        },
+        "Koufonisia": {
+          "zipcodes": [
+            "84300",
+            "84301",
+            "84302",
+            "84303",
+            "84304"
+          ],
+          "areacodes": [
+            "22850"
+          ]
+        },
+        "Delos": {
+          "zipcodes": [
+            "84600",
+            "84601",
+            "84602",
+            "84603",
+            "84604"
+          ],
+          "areacodes": [
+            "22890"
+          ]
+        },
+        "Schinoussa": {
+          "zipcodes": [
+            "84300",
+            "84301",
+            "84302",
+            "84303",
+            "84304"
+          ],
+          "areacodes": [
+            "22850"
+          ]
+        }
+      },
+      "name": "South Aegean"
+    },
+    "Thessaly": {
+      "capital": "Larissa",
+      "cities": {
+        "Larissa": {
+          "zipcodes": [
+            "41100",
+            "41101",
+            "41102",
+            "41103",
+            "41104"
+          ],
+          "areacodes": [
+            "2410"
+          ]
+        },
+        "Trikala": {
+          "zipcodes": [
+            "42100",
+            "42101",
+            "42102",
+            "42103",
+            "42104"
+          ],
+          "areacodes": [
+            "24310"
+          ]
+        },
+        "Volos": {
+          "zipcodes": [
+            "38221",
+            "38222",
+            "38223",
+            "38224",
+            "38225"
+          ],
+          "areacodes": [
+            "24210"
+          ]
+        },
+        "Karditsa": {
+          "zipcodes": [
+            "43100",
+            "43101",
+            "43102",
+            "43103",
+            "43104"
+          ],
+          "areacodes": [
+            "24410"
+          ]
+        },
+        "Skiathos": {
+          "zipcodes": [
+            "37002",
+            "37003",
+            "37004",
+            "37005",
+            "37006"
+          ],
+          "areacodes": [
+            "24270"
+          ]
+        },
+        "Skopelos": {
+          "zipcodes": [
+            "37004",
+            "37005",
+            "37006",
+            "37007",
+            "37008"
+          ],
+          "areacodes": [
+            "24240"
+          ]
+        },
+        "Almyros": {
+          "zipcodes": [
+            "37300",
+            "37301",
+            "37302",
+            "37303",
+            "37304"
+          ],
+          "areacodes": [
+            "24230"
+          ]
+        },
+        "Kissavos": {
+          "zipcodes": [
+            "40000",
+            "40001",
+            "40002",
+            "40003",
+            "40004"
+          ],
+          "areacodes": [
+            "24320"
+          ]
+        },
+        "Meteora": {
+          "zipcodes": [
+            "42200",
+            "42201",
+            "42202",
+            "42203",
+            "42204"
+          ],
+          "areacodes": [
+            "24310"
+          ]
+        },
+        "Farsala": {
+          "zipcodes": [
+            "40300",
+            "40301",
+            "40302",
+            "40303",
+            "40304"
+          ],
+          "areacodes": [
+            "24910"
+          ]
+        },
+        "Larisa": {
+          "zipcodes": [
+            "41100",
+            "41101",
+            "41102",
+            "41103",
+            "41104"
+          ],
+          "areacodes": [
+            "2410"
+          ]
+        },
+        "Pteleos": {
+          "zipcodes": [
+            "37008",
+            "37009",
+            "37010",
+            "37011",
+            "37012"
+          ],
+          "areacodes": [
+            "24220"
+          ]
+        },
+        "Agia": {
+          "zipcodes": [
+            "40003",
+            "40004",
+            "40005",
+            "40006",
+            "40007"
+          ],
+          "areacodes": [
+            "24920"
+          ]
+        }
+      },
+      "name": "Thessaly"
+    },
+    "Western Greece": {
+      "capital": "Patras",
+      "cities": {
+        "Patras": {
+          "zipcodes": [
+            "26221",
+            "26222",
+            "26223",
+            "26224",
+            "26225"
+          ],
+          "areacodes": [
+            "2610"
+          ]
+        },
+        "Agrinio": {
+          "zipcodes": [
+            "30100",
+            "30101",
+            "30102",
+            "30103",
+            "30104"
+          ],
+          "areacodes": [
+            "26410"
+          ]
+        },
+        "Aigio": {
+          "zipcodes": [
+            "25100",
+            "25101",
+            "25102",
+            "25103",
+            "25104"
+          ],
+          "areacodes": [
+            "26910"
+          ]
+        },
+        "Ilida": {
+          "zipcodes": [
+            "27100",
+            "27101",
+            "27102",
+            "27103",
+            "27104"
+          ],
+          "areacodes": [
+            "26220"
+          ]
+        },
+        "Kyllini": {
+          "zipcodes": [
+            "27050",
+            "27051",
+            "27052",
+            "27053",
+            "27054"
+          ],
+          "areacodes": [
+            "26230"
+          ]
+        },
+        "Pyrgos": {
+          "zipcodes": [
+            "27100",
+            "27101",
+            "27102",
+            "27103",
+            "27104"
+          ],
+          "areacodes": [
+            "26210"
+          ]
+        },
+        "Megalopoli": {
+          "zipcodes": [
+            "22200",
+            "22201",
+            "22202",
+            "22203",
+            "22204"
+          ],
+          "areacodes": [
+            "27910"
+          ]
+        },
+        "Kalavryta": {
+          "zipcodes": [
+            "25001",
+            "25002",
+            "25003",
+            "25004",
+            "25005"
+          ],
+          "areacodes": [
+            "26920"
+          ]
+        },
+        "Ermioni": {
+          "zipcodes": [
+            "21051",
+            "21052",
+            "21053",
+            "21054",
+            "21055"
+          ],
+          "areacodes": [
+            "27540"
+          ]
+        },
+        "Xylokastro": {
+          "zipcodes": [
+            "20400",
+            "20401",
+            "20402",
+            "20403",
+            "20404"
+          ],
+          "areacodes": [
+            "27430"
+          ]
+        },
+        "Zante": {
+          "zipcodes": [
+            "29100",
+            "29101",
+            "29102",
+            "29103",
+            "29104"
+          ],
+          "areacodes": [
+            "26950"
+          ]
+        },
+        "Ithaki": {
+          "zipcodes": [
+            "28300",
+            "28301",
+            "28302",
+            "28303",
+            "28304"
+          ],
+          "areacodes": [
+            "26710"
+          ]
+        }
+      },
+      "name": "Western Greece"
+    },
+    "Western Macedonia": {
+      "capital": "Kozan",
+      "cities": {
+        "Kozan": {
+          "zipcodes": [
+            "50100",
+            "50101",
+            "50102",
+            "50103",
+            "50104"
+          ],
+          "areacodes": [
+            "24610"
+          ]
+        },
+        "Grebne": {
+          "zipcodes": [
+            "50011",
+            "50012",
+            "50013",
+            "50014",
+            "50015"
+          ],
+          "areacodes": [
+            "24620"
+          ]
+        },
+        "Ptolemaida": {
+          "zipcodes": [
+            "50200",
+            "50201",
+            "50202",
+            "50203",
+            "50204"
+          ],
+          "areacodes": [
+            "24630"
+          ]
+        },
+        "Vermio": {
+          "zipcodes": [
+            "50060",
+            "50061",
+            "50062",
+            "50063",
+            "50064"
+          ],
+          "areacodes": [
+            "24640"
+          ]
+        },
+        "Siatista": {
+          "zipcodes": [
+            "50150",
+            "50151",
+            "50152",
+            "50153",
+            "50154"
+          ],
+          "areacodes": [
+            "24650"
+          ]
+        },
+        "Amyntaio": {
+          "zipcodes": [
+            "53100",
+            "53101",
+            "53102",
+            "53103",
+            "53104"
+          ],
+          "areacodes": [
+            "24660"
+          ]
+        },
+        "Filiatra": {
+          "zipcodes": [
+            "50250",
+            "50251",
+            "50252",
+            "50253",
+            "50254"
+          ],
+          "areacodes": [
+            "24670"
+          ]
+        },
+        "Kastoria": {
+          "zipcodes": [
+            "52100",
+            "52101",
+            "52102",
+            "52103",
+            "52104"
+          ],
+          "areacodes": [
+            "24680"
+          ]
+        },
+        "Nymfaio": {
+          "zipcodes": [
+            "52160",
+            "52161",
+            "52162",
+            "52163",
+            "52164"
+          ],
+          "areacodes": [
+            "24690"
+          ]
+        },
+        "Doxato": {
+          "zipcodes": [
+            "50010",
+            "50011",
+            "50012",
+            "50013",
+            "50014"
+          ],
+          "areacodes": [
+            "24700"
+          ]
+        },
+        "Kozani": {
+          "zipcodes": [
+            "50030",
+            "50031",
+            "50032",
+            "50033",
+            "50034"
+          ],
+          "areacodes": [
+            "24710"
+          ]
+        },
+        "Aiani": {
+          "zipcodes": [
+            "50120",
+            "50121",
+            "50122",
+            "50123",
+            "50124"
+          ],
+          "areacodes": [
+            "24670"
+          ]
+        }
+      },
+      "name": "Western Macedonia"
+    }
+  },
+  "citycontainers": [
+    "regions"
+  ],
+  "firstnames": [
+    "Giannis",
+    "Nikos",
+    "Dimitris",
+    "Yannis",
+    "Vasilis",
+    "Giorgos",
+    "Panagiotis",
+    "Kostas",
+    "Alexandros",
+    "Michalis",
+    "Andreas",
+    "Christos",
+    "Nikolaos",
+    "Spyridon",
+    "Theodoros",
+    "Evangelos",
+    "Stavros",
+    "Antonios",
+    "Filippos",
+    "Sotirios",
+    "Ilias",
+    "Anastasios",
+    "Manolis",
+    "Efstathios",
+    "Aristides",
+    "Petros",
+    "Markos",
+    "Marios",
+    "Vaggelis",
+    "Kyrillos",
+    "Leonidas",
+    "Kiriakos",
+    "Achilleas",
+    "Simeon",
+    "Konstantinos",
+    "Dimitra",
+    "Maria",
+    "Eleni",
+    "Katerina",
+    "Sophia",
+    "Nefeli",
+    "Paraskevi"
+  ],
+  "lastnames": [
+    "Papadopoulos",
+    "Nikolaidis",
+    "Georgiou",
+    "Katsaros",
+    "Papageorgiou",
+    "Papanikolaou",
+    "Margaritis",
+    "Vassilakis",
+    "Zervas",
+    "Ioannidis",
+    "Kouros",
+    "Tsoukalas",
+    "Christodoulou",
+    "Antonopoulos",
+    "Kouvelas",
+    "Panagiotopoulos",
+    "Sotiriou",
+    "Sideris",
+    "Petrakis",
+    "Tsiolis",
+    "Andreadis",
+    "Kyriakidis",
+    "Karagiannis",
+    "Kokkinos",
+    "Lazaridis",
+    "Mavridis",
+    "Karalis",
+    "Dimitriadis",
+    "Bakalakis",
+    "Theodoridis",
+    "Stamatopoulos",
+    "Markopoulos",
+    "Xenakis",
+    "Giannakopoulos",
+    "Christakis",
+    "Zafeiriou",
+    "Katsoulis",
+    "Papavasiliou",
+    "Papadakis",
+    "Kiriakidis",
+    "Savvas"
+  ]
 }

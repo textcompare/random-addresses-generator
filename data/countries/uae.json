@@ -247,9 +247,8 @@
   "emirates": {
     "Abu Dhabi": {
       "name": "Abu Dhabi",
-      "cities": [
-        {
-          "cityname": "Abu Dhabi City",
+      "cities": {
+        "Abu Dhabi City": {
           "zipcodes": [
             "00000",
             "00001",
@@ -261,8 +260,7 @@
             "02"
           ]
         },
-        {
-          "cityname": "Al Ain",
+        "Al Ain": {
           "zipcodes": [
             "00010",
             "00011",
@@ -274,8 +272,7 @@
             "03"
           ]
         },
-        {
-          "cityname": "Al Dhafra",
+        "Al Dhafra": {
           "zipcodes": [
             "00020",
             "00021",
@@ -287,8 +284,7 @@
             "02"
           ]
         },
-        {
-          "cityname": "Sweihan",
+        "Sweihan": {
           "zipcodes": [
             "00030",
             "00031",
@@ -300,8 +296,7 @@
             "03"
           ]
         },
-        {
-          "cityname": "Liwa",
+        "Liwa": {
           "zipcodes": [
             "00040",
             "00041",
@@ -313,8 +308,7 @@
             "02"
           ]
         },
-        {
-          "cityname": "Baniyas",
+        "Baniyas": {
           "zipcodes": [
             "00050",
             "00051",
@@ -326,8 +320,7 @@
             "02"
           ]
         },
-        {
-          "cityname": "Sila",
+        "Sila": {
           "zipcodes": [
             "00060",
             "00061",
@@ -339,8 +332,7 @@
             "02"
           ]
         },
-        {
-          "cityname": "Zayed City",
+        "Zayed City": {
           "zipcodes": [
             "00070",
             "00071",
@@ -352,8 +344,7 @@
             "02"
           ]
         },
-        {
-          "cityname": "Al Gharbia",
+        "Al Gharbia": {
           "zipcodes": [
             "00080",
             "00081",
@@ -365,8 +356,7 @@
             "02"
           ]
         },
-        {
-          "cityname": "Al Marfa",
+        "Al Marfa": {
           "zipcodes": [
             "00090",
             "00091",
@@ -378,8 +368,7 @@
             "02"
           ]
         },
-        {
-          "cityname": "Maqta",
+        "Maqta": {
           "zipcodes": [
             "00100",
             "00101",
@@ -391,8 +380,7 @@
             "02"
           ]
         },
-        {
-          "cityname": "Sohar",
+        "Sohar": {
           "zipcodes": [
             "00110",
             "00111",
@@ -404,8 +392,7 @@
             "02"
           ]
         },
-        {
-          "cityname": "Al Mafraq",
+        "Al Mafraq": {
           "zipcodes": [
             "00120",
             "00121",
@@ -417,8 +404,7 @@
             "02"
           ]
         },
-        {
-          "cityname": "Al Khobar",
+        "Al Khobar": {
           "zipcodes": [
             "00130",
             "00131",
@@ -430,13 +416,12 @@
             "02"
           ]
         }
-      ]
+      }
     },
     "Dubai": {
       "name": "Dubai",
-      "cities": [
-        {
-          "cityname": "Dubai City",
+      "cities": {
+        "Dubai City": {
           "zipcodes": [
             "00000",
             "00001",
@@ -448,8 +433,7 @@
             "04"
           ]
         },
-        {
-          "cityname": "Al Quoz",
+        "Al Quoz": {
           "zipcodes": [
             "00010",
             "00011",
@@ -461,8 +445,7 @@
             "04"
           ]
         },
-        {
-          "cityname": "Jumeirah",
+        "Jumeirah": {
           "zipcodes": [
             "00020",
             "00021",
@@ -474,8 +457,7 @@
             "04"
           ]
         },
-        {
-          "cityname": "Bur Dubai",
+        "Bur Dubai": {
           "zipcodes": [
             "00030",
             "00031",
@@ -487,8 +469,7 @@
             "04"
           ]
         },
-        {
-          "cityname": "Deira",
+        "Deira": {
           "zipcodes": [
             "00040",
             "00041",
@@ -500,8 +481,7 @@
             "04"
           ]
         },
-        {
-          "cityname": "Dubai Marina",
+        "Dubai Marina": {
           "zipcodes": [
             "00050",
             "00051",
@@ -513,8 +493,7 @@
             "04"
           ]
         },
-        {
-          "cityname": "Business Bay",
+        "Business Bay": {
           "zipcodes": [
             "00060",
             "00061",
@@ -526,8 +505,7 @@
             "04"
           ]
         },
-        {
-          "cityname": "Al Jaddaf",
+        "Al Jaddaf": {
           "zipcodes": [
             "00070",
             "00071",
@@ -539,8 +517,7 @@
             "04"
           ]
         },
-        {
-          "cityname": "Al Satwa",
+        "Al Satwa": {
           "zipcodes": [
             "00080",
             "00081",
@@ -552,8 +529,7 @@
             "04"
           ]
         },
-        {
-          "cityname": "Al Barsha",
+        "Al Barsha": {
           "zipcodes": [
             "00090",
             "00091",
@@ -565,8 +541,7 @@
             "04"
           ]
         },
-        {
-          "cityname": "Al Safa",
+        "Al Safa": {
           "zipcodes": [
             "00100",
             "00101",
@@ -578,8 +553,7 @@
             "04"
           ]
         },
-        {
-          "cityname": "Silicon Oasis",
+        "Silicon Oasis": {
           "zipcodes": [
             "00110",
             "00111",
@@ -591,8 +565,7 @@
             "04"
           ]
         },
-        {
-          "cityname": "Dubai Silicon Oasis",
+        "Dubai Silicon Oasis": {
           "zipcodes": [
             "00120",
             "00121",
@@ -604,8 +577,7 @@
             "04"
           ]
         },
-        {
-          "cityname": "International City",
+        "International City": {
           "zipcodes": [
             "00130",
             "00131",
@@ -617,13 +589,12 @@
             "04"
           ]
         }
-      ]
+      }
     },
     "Sharjah": {
       "name": "Sharjah",
-      "cities": [
-        {
-          "cityname": "Sharjah City",
+      "cities": {
+        "Sharjah City": {
           "zipcodes": [
             "00000",
             "00001",
@@ -635,8 +606,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Qasimia",
+        "Al Qasimia": {
           "zipcodes": [
             "00010",
             "00011",
@@ -648,8 +618,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Majaz",
+        "Al Majaz": {
           "zipcodes": [
             "00020",
             "00021",
@@ -661,8 +630,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Buhairah",
+        "Al Buhairah": {
           "zipcodes": [
             "00030",
             "00031",
@@ -674,8 +642,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Khan",
+        "Al Khan": {
           "zipcodes": [
             "00040",
             "00041",
@@ -687,8 +654,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Taawun",
+        "Al Taawun": {
           "zipcodes": [
             "00050",
             "00051",
@@ -700,8 +666,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Dhaid",
+        "Al Dhaid": {
           "zipcodes": [
             "00060",
             "00061",
@@ -713,8 +678,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Khalid Port",
+        "Khalid Port": {
           "zipcodes": [
             "00070",
             "00071",
@@ -726,8 +690,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Muwailih",
+        "Muwailih": {
           "zipcodes": [
             "00080",
             "00081",
@@ -739,8 +702,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Fisht",
+        "Al Fisht": {
           "zipcodes": [
             "00090",
             "00091",
@@ -752,8 +714,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Shuwaiheen",
+        "Al Shuwaiheen": {
           "zipcodes": [
             "00100",
             "00101",
@@ -765,8 +726,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Muwaihat",
+        "Al Muwaihat": {
           "zipcodes": [
             "00110",
             "00111",
@@ -778,8 +738,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Buraimi",
+        "Al Buraimi": {
           "zipcodes": [
             "00120",
             "00121",
@@ -791,8 +750,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Nuaimia",
+        "Al Nuaimia": {
           "zipcodes": [
             "00130",
             "00131",
@@ -804,13 +762,12 @@
             "06"
           ]
         }
-      ]
+      }
     },
     "Ajman": {
       "name": "Ajman",
-      "cities": [
-        {
-          "cityname": "Ajman City",
+      "cities": {
+        "Ajman City": {
           "zipcodes": [
             "00000",
             "00001",
@@ -822,8 +779,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Nuaimia",
+        "Al Nuaimia": {
           "zipcodes": [
             "00010",
             "00011",
@@ -835,8 +791,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Muwaihat",
+        "Al Muwaihat": {
           "zipcodes": [
             "00020",
             "00021",
@@ -848,8 +803,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Jurf",
+        "Al Jurf": {
           "zipcodes": [
             "00030",
             "00031",
@@ -861,8 +815,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Rashidiya",
+        "Al Rashidiya": {
           "zipcodes": [
             "00040",
             "00041",
@@ -874,8 +827,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Hamidiya",
+        "Al Hamidiya": {
           "zipcodes": [
             "00050",
             "00051",
@@ -887,8 +839,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Tallah",
+        "Al Tallah": {
           "zipcodes": [
             "00060",
             "00061",
@@ -900,8 +851,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Gharb",
+        "Al Gharb": {
           "zipcodes": [
             "00070",
             "00071",
@@ -913,8 +863,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Muwaihat 2",
+        "Al Muwaihat 2": {
           "zipcodes": [
             "00080",
             "00081",
@@ -926,8 +875,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Matar",
+        "Al Matar": {
           "zipcodes": [
             "00090",
             "00091",
@@ -939,13 +887,12 @@
             "06"
           ]
         }
-      ]
+      }
     },
     "Umm AI-Quwain": {
       "name": "Umm Al-Quwain",
-      "cities": [
-        {
-          "cityname": "Umm Al-Quwain City",
+      "cities": {
+        "Umm Al-Quwain City": {
           "zipcodes": [
             "00000",
             "00001",
@@ -957,8 +904,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Salama",
+        "Al Salama": {
           "zipcodes": [
             "00010",
             "00011",
@@ -970,8 +916,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Hamriyah",
+        "Al Hamriyah": {
           "zipcodes": [
             "00020",
             "00021",
@@ -983,8 +928,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Khor",
+        "Al Khor": {
           "zipcodes": [
             "00030",
             "00031",
@@ -996,8 +940,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Khobar",
+        "Al Khobar": {
           "zipcodes": [
             "00040",
             "00041",
@@ -1009,8 +952,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Rifa",
+        "Al Rifa": {
           "zipcodes": [
             "00050",
             "00051",
@@ -1022,8 +964,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Ruwais",
+        "Al Ruwais": {
           "zipcodes": [
             "00060",
             "00061",
@@ -1035,8 +976,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Shabia",
+        "Al Shabia": {
           "zipcodes": [
             "00070",
             "00071",
@@ -1048,8 +988,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Falah",
+        "Al Falah": {
           "zipcodes": [
             "00080",
             "00081",
@@ -1061,8 +1000,7 @@
             "06"
           ]
         },
-        {
-          "cityname": "Al Wadi",
+        "Al Wadi": {
           "zipcodes": [
             "00090",
             "00091",
@@ -1074,13 +1012,12 @@
             "06"
           ]
         }
-      ]
+      }
     },
     "Fujairah": {
       "name": "Fujairah",
-      "cities": [
-        {
-          "cityname": "Fujairah City",
+      "cities": {
+        "Fujairah City": {
           "zipcodes": [
             "00000",
             "00001",
@@ -1092,8 +1029,7 @@
             "09"
           ]
         },
-        {
-          "cityname": "Dibba",
+        "Dibba": {
           "zipcodes": [
             "00010",
             "00011",
@@ -1105,8 +1041,7 @@
             "09"
           ]
         },
-        {
-          "cityname": "Al Bidyah",
+        "Al Bidyah": {
           "zipcodes": [
             "00020",
             "00021",
@@ -1118,8 +1053,7 @@
             "09"
           ]
         },
-        {
-          "cityname": "Masafi",
+        "Masafi": {
           "zipcodes": [
             "00030",
             "00031",
@@ -1131,8 +1065,7 @@
             "09"
           ]
         },
-        {
-          "cityname": "Al Hayl",
+        "Al Hayl": {
           "zipcodes": [
             "00040",
             "00041",
@@ -1144,8 +1077,7 @@
             "09"
           ]
         },
-        {
-          "cityname": "Al Tawee",
+        "Al Tawee": {
           "zipcodes": [
             "00050",
             "00051",
@@ -1157,8 +1089,7 @@
             "09"
           ]
         },
-        {
-          "cityname": "Al Yassah",
+        "Al Yassah": {
           "zipcodes": [
             "00060",
             "00061",
@@ -1170,8 +1101,7 @@
             "09"
           ]
         },
-        {
-          "cityname": "Al Murbah",
+        "Al Murbah": {
           "zipcodes": [
             "00070",
             "00071",
@@ -1183,8 +1113,7 @@
             "09"
           ]
         },
-        {
-          "cityname": "Al Wurayah",
+        "Al Wurayah": {
           "zipcodes": [
             "00080",
             "00081",
@@ -1196,8 +1125,7 @@
             "09"
           ]
         },
-        {
-          "cityname": "Al Faseel",
+        "Al Faseel": {
           "zipcodes": [
             "00090",
             "00091",
@@ -1209,13 +1137,12 @@
             "09"
           ]
         }
-      ]
+      }
     },
     "Ras Al Khaimah": {
       "name": "Ras Al Khaimah",
-      "cities": [
-        {
-          "cityname": "Ras Al Khaimah City",
+      "cities": {
+        "Ras Al Khaimah City": {
           "zipcodes": [
             "00000",
             "00001",
@@ -1227,8 +1154,7 @@
             "07"
           ]
         },
-        {
-          "cityname": "Al Jazeera Al Hamra",
+        "Al Jazeera Al Hamra": {
           "zipcodes": [
             "00010",
             "00011",
@@ -1240,8 +1166,7 @@
             "07"
           ]
         },
-        {
-          "cityname": "Khor Khwair",
+        "Khor Khwair": {
           "zipcodes": [
             "00020",
             "00021",
@@ -1253,8 +1178,7 @@
             "07"
           ]
         },
-        {
-          "cityname": "Al Rams",
+        "Al Rams": {
           "zipcodes": [
             "00030",
             "00031",
@@ -1266,8 +1190,7 @@
             "07"
           ]
         },
-        {
-          "cityname": "Shaam",
+        "Shaam": {
           "zipcodes": [
             "00040",
             "00041",
@@ -1279,8 +1202,7 @@
             "07"
           ]
         },
-        {
-          "cityname": "Al Nakheel",
+        "Al Nakheel": {
           "zipcodes": [
             "00050",
             "00051",
@@ -1292,8 +1214,7 @@
             "07"
           ]
         },
-        {
-          "cityname": "Al Ghail",
+        "Al Ghail": {
           "zipcodes": [
             "00060",
             "00061",
@@ -1305,8 +1226,7 @@
             "07"
           ]
         },
-        {
-          "cityname": "Wadi Shah",
+        "Wadi Shah": {
           "zipcodes": [
             "00070",
             "00071",
@@ -1318,8 +1238,7 @@
             "07"
           ]
         },
-        {
-          "cityname": "Rams",
+        "Rams": {
           "zipcodes": [
             "00080",
             "00081",
@@ -1331,8 +1250,7 @@
             "07"
           ]
         },
-        {
-          "cityname": "Khat",
+        "Khat": {
           "zipcodes": [
             "00090",
             "00091",
@@ -1344,7 +1262,7 @@
             "07"
           ]
         }
-      ]
+      }
     }
   },
   "citycontainers": [

@@ -1,9 +1,8 @@
 {
   "name": "Albama",
   "capital": "Montgomery",
-  "cities": [
-    {
-      "cityname": "Abbeville",
+  "cities": {
+    "Abbeville": {
       "zipcodes": [
         "36310"
       ],
@@ -11,8 +10,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Adamsville",
+    "Adamsville": {
       "zipcodes": [
         "35005"
       ],
@@ -21,8 +19,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Addison",
+    "Addison": {
       "zipcodes": [
         "35540"
       ],
@@ -30,8 +27,7 @@
         "205"
       ]
     },
-    {
-      "cityname": "Akron",
+    "Akron": {
       "zipcodes": [
         "35441"
       ],
@@ -39,8 +35,7 @@
         "205"
       ]
     },
-    {
-      "cityname": "Alabaster",
+    "Alabaster": {
       "zipcodes": [
         "35007",
         "35114"
@@ -50,8 +45,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Albertville",
+    "Albertville": {
       "zipcodes": [
         "35950",
         "35951"
@@ -61,8 +55,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Alexander City",
+    "Alexander City": {
       "zipcodes": [
         "35010",
         "35011"
@@ -72,8 +65,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Alexandria",
+    "Alexandria": {
       "zipcodes": [
         "36250"
       ],
@@ -82,8 +74,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Aliceville",
+    "Aliceville": {
       "zipcodes": [
         "35442"
       ],
@@ -91,8 +82,7 @@
         "205"
       ]
     },
-    {
-      "cityname": "Allgood",
+    "Allgood": {
       "zipcodes": [
         "35013"
       ],
@@ -101,8 +91,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Altoona",
+    "Altoona": {
       "zipcodes": [
         "35952"
       ],
@@ -111,8 +100,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Andalusia",
+    "Andalusia": {
       "zipcodes": [
         "36420",
         "36421"
@@ -121,8 +109,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Anderson",
+    "Anderson": {
       "zipcodes": [
         "35610"
       ],
@@ -131,8 +118,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Anniston",
+    "Anniston": {
       "zipcodes": [
         "36201",
         "36202",
@@ -148,8 +134,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Arab",
+    "Arab": {
       "zipcodes": [
         "35016"
       ],
@@ -158,8 +143,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Ardmore",
+    "Ardmore": {
       "zipcodes": [
         "35739",
         "35773"
@@ -169,8 +153,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Ariton",
+    "Ariton": {
       "zipcodes": [
         "36311"
       ],
@@ -178,8 +161,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Arley",
+    "Arley": {
       "zipcodes": [
         "35541"
       ],
@@ -188,8 +170,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Ashford",
+    "Ashford": {
       "zipcodes": [
         "36312"
       ],
@@ -197,8 +178,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Ashland",
+    "Ashland": {
       "zipcodes": [
         "36251"
       ],
@@ -207,8 +187,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Ashville",
+    "Ashville": {
       "zipcodes": [
         "35953",
         "35987"
@@ -218,8 +197,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Athens",
+    "Athens": {
       "zipcodes": [
         "35611",
         "35613",
@@ -232,8 +210,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Atmore",
+    "Atmore": {
       "zipcodes": [
         "36502"
       ],
@@ -241,8 +218,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Attalla",
+    "Attalla": {
       "zipcodes": [
         "35904",
         "35954"
@@ -252,8 +228,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Auburn",
+    "Auburn": {
       "zipcodes": [
         "36801",
         "36804",
@@ -266,8 +241,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Autaugaville",
+    "Autaugaville": {
       "zipcodes": [
         "36003",
         "36067"
@@ -276,8 +250,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Baileyton",
+    "Baileyton": {
       "zipcodes": [
         "35019",
         "35083",
@@ -288,8 +261,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Banks",
+    "Banks": {
       "zipcodes": [
         "36005",
         "36081"
@@ -298,8 +270,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Bay Minette",
+    "Bay Minette": {
       "zipcodes": [
         "36507"
       ],
@@ -307,8 +278,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Bayou La Batre",
+    "Bayou La Batre": {
       "zipcodes": [
         "36509",
         "36523",
@@ -320,8 +290,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Bear Creek",
+    "Bear Creek": {
       "zipcodes": [
         "35543",
         "35564",
@@ -333,8 +302,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Beatrice",
+    "Beatrice": {
       "zipcodes": [
         "36425"
       ],
@@ -342,8 +310,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Beaverton",
+    "Beaverton": {
       "zipcodes": [
         "35544"
       ],
@@ -352,8 +319,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Belk",
+    "Belk": {
       "zipcodes": [
         "35545"
       ],
@@ -362,8 +328,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Berry",
+    "Berry": {
       "zipcodes": [
         "35546"
       ],
@@ -372,8 +337,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Bessemer",
+    "Bessemer": {
       "zipcodes": [
         "35020",
         "35021",
@@ -385,8 +349,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Birmingham",
+    "Birmingham": {
       "zipcodes": [
         "35201",
         "35202",
@@ -457,8 +420,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Black",
+    "Black": {
       "zipcodes": [
         "36314"
       ],
@@ -466,8 +428,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Blountsville",
+    "Blountsville": {
       "zipcodes": [
         "35031"
       ],
@@ -476,8 +437,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Boaz",
+    "Boaz": {
       "zipcodes": [
         "35956",
         "35957"
@@ -487,8 +447,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Boligee",
+    "Boligee": {
       "zipcodes": [
         "35443"
       ],
@@ -497,8 +456,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Brantley",
+    "Brantley": {
       "zipcodes": [
         "36009"
       ],
@@ -506,8 +464,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Brent",
+    "Brent": {
       "zipcodes": [
         "35034"
       ],
@@ -516,8 +473,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Brewton",
+    "Brewton": {
       "zipcodes": [
         "36426",
         "36427"
@@ -526,8 +482,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Bridgeport",
+    "Bridgeport": {
       "zipcodes": [
         "35740"
       ],
@@ -536,8 +491,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Brilliant",
+    "Brilliant": {
       "zipcodes": [
         "35548"
       ],
@@ -546,8 +500,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Brookside",
+    "Brookside": {
       "zipcodes": [
         "35036"
       ],
@@ -556,8 +509,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Brookwood",
+    "Brookwood": {
       "zipcodes": [
         "35444"
       ],
@@ -566,8 +518,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Brundidge",
+    "Brundidge": {
       "zipcodes": [
         "36010"
       ],
@@ -575,8 +526,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Butler",
+    "Butler": {
       "zipcodes": [
         "36904"
       ],
@@ -585,8 +535,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Bynum",
+    "Bynum": {
       "zipcodes": [
         "36253"
       ],
@@ -595,8 +544,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Clayton",
+    "Clayton": {
       "zipcodes": [
         "36016"
       ],
@@ -604,8 +552,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Cleveland",
+    "Cleveland": {
       "zipcodes": [
         "35049"
       ],
@@ -614,8 +561,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Clio",
+    "Clio": {
       "zipcodes": [
         "36017"
       ],
@@ -623,8 +569,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Coaling",
+    "Coaling": {
       "zipcodes": [
         "35449"
       ],
@@ -633,8 +578,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Coffee Springs",
+    "Coffee Springs": {
       "zipcodes": [
         "36318"
       ],
@@ -642,8 +586,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Coffeeville",
+    "Coffeeville": {
       "zipcodes": [
         "36524"
       ],
@@ -651,8 +594,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Coker",
+    "Coker": {
       "zipcodes": [
         "35452"
       ],
@@ -661,8 +603,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Collinsville",
+    "Collinsville": {
       "zipcodes": [
         "35961"
       ],
@@ -671,8 +612,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Columbia",
+    "Columbia": {
       "zipcodes": [
         "36319"
       ],
@@ -680,8 +620,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Columbiana",
+    "Columbiana": {
       "zipcodes": [
         "35051"
       ],
@@ -690,8 +629,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Coosada",
+    "Coosada": {
       "zipcodes": [
         "36020"
       ],
@@ -699,8 +637,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Cordova",
+    "Cordova": {
       "zipcodes": [
         "35550"
       ],
@@ -709,8 +646,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Cottonwood",
+    "Cottonwood": {
       "zipcodes": [
         "36320"
       ],
@@ -718,8 +654,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Courtland",
+    "Courtland": {
       "zipcodes": [
         "35618"
       ],
@@ -728,8 +663,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Cowarts",
+    "Cowarts": {
       "zipcodes": [
         "36321"
       ],
@@ -737,8 +671,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Creola",
+    "Creola": {
       "zipcodes": [
         "36525"
       ],
@@ -746,8 +679,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Crossville",
+    "Crossville": {
       "zipcodes": [
         "35962"
       ],
@@ -756,8 +688,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Cuba",
+    "Cuba": {
       "zipcodes": [
         "36907"
       ],
@@ -766,8 +697,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Cullman",
+    "Cullman": {
       "zipcodes": [
         "35055",
         "35056",
@@ -779,8 +709,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Dadeville",
+    "Dadeville": {
       "zipcodes": [
         "36853"
       ],
@@ -789,8 +718,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Daleville",
+    "Daleville": {
       "zipcodes": [
         "36322"
       ],
@@ -798,8 +726,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Daphne",
+    "Daphne": {
       "zipcodes": [
         "36526"
       ],
@@ -807,8 +734,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Dauphin Island",
+    "Dauphin Island": {
       "zipcodes": [
         "36528"
       ],
@@ -816,8 +742,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Daviston",
+    "Daviston": {
       "zipcodes": [
         "36256"
       ],
@@ -826,8 +751,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Deatsville",
+    "Deatsville": {
       "zipcodes": [
         "36022"
       ],
@@ -835,8 +759,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Decatur",
+    "Decatur": {
       "zipcodes": [
         "35601",
         "35602",
@@ -849,8 +772,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Demopolis",
+    "Demopolis": {
       "zipcodes": [
         "36732"
       ],
@@ -858,8 +780,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Detroit",
+    "Detroit": {
       "zipcodes": [
         "35552"
       ],
@@ -868,8 +789,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Dora",
+    "Dora": {
       "zipcodes": [
         "35062"
       ],
@@ -878,8 +798,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Dothan",
+    "Dothan": {
       "zipcodes": [
         "36301",
         "36302",
@@ -892,8 +811,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Double Springs",
+    "Double Springs": {
       "zipcodes": [
         "35553"
       ],
@@ -902,8 +820,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Douglas",
+    "Douglas": {
       "zipcodes": [
         "35964"
       ],
@@ -912,8 +829,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Dozier",
+    "Dozier": {
       "zipcodes": [
         "36028"
       ],
@@ -921,8 +837,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Dutton",
+    "Dutton": {
       "zipcodes": [
         "35744"
       ],
@@ -931,18 +846,8 @@
         "938"
       ]
     },
-    {
-      "Eclectic": {
-        "zipcodes": [
-          "36024"
-        ],
-        "areacodes": [
-          "334"
-        ]
-      }
-    },
-    {
-      "cityname": "Elba",
+    "undefined": {},
+    "Elba": {
       "zipcodes": [
         "36323"
       ],
@@ -950,8 +855,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Elberta",
+    "Elberta": {
       "zipcodes": [
         "36530"
       ],
@@ -959,8 +863,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Elkmont",
+    "Elkmont": {
       "zipcodes": [
         "35620"
       ],
@@ -969,8 +872,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Enterprise",
+    "Enterprise": {
       "zipcodes": [
         "36330",
         "36331"
@@ -979,8 +881,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Epes",
+    "Epes": {
       "zipcodes": [
         "35460"
       ],
@@ -989,8 +890,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Eufaula",
+    "Eufaula": {
       "zipcodes": [
         "36027",
         "36072"
@@ -999,8 +899,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Eutaw",
+    "Eutaw": {
       "zipcodes": [
         "35462"
       ],
@@ -1009,8 +908,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Eva",
+    "Eva": {
       "zipcodes": [
         "35621"
       ],
@@ -1019,8 +917,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Evergreen",
+    "Evergreen": {
       "zipcodes": [
         "36401"
       ],
@@ -1028,8 +925,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Excel",
+    "Excel": {
       "zipcodes": [
         "36439"
       ],
@@ -1037,8 +933,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Fairfield",
+    "Fairfield": {
       "zipcodes": [
         "35064"
       ],
@@ -1047,8 +942,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Fairhope",
+    "Fairhope": {
       "zipcodes": [
         "36532",
         "36533"
@@ -1057,8 +951,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Falkville",
+    "Falkville": {
       "zipcodes": [
         "35622"
       ],
@@ -1067,8 +960,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Fayette",
+    "Fayette": {
       "zipcodes": [
         "35555"
       ],
@@ -1077,8 +969,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Flomaton",
+    "Flomaton": {
       "zipcodes": [
         "36441"
       ],
@@ -1086,8 +977,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Florala",
+    "Florala": {
       "zipcodes": [
         "36442"
       ],
@@ -1095,8 +985,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Florence",
+    "Florence": {
       "zipcodes": [
         "35630",
         "35631",
@@ -1109,8 +998,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Foley",
+    "Foley": {
       "zipcodes": [
         "36535",
         "36536"
@@ -1119,8 +1007,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Forkland",
+    "Forkland": {
       "zipcodes": [
         "36740"
       ],
@@ -1128,8 +1015,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Fort Deposit",
+    "Fort Deposit": {
       "zipcodes": [
         "36032"
       ],
@@ -1137,8 +1023,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Fort Payne",
+    "Fort Payne": {
       "zipcodes": [
         "35967",
         "35968"
@@ -1148,8 +1033,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Fort Rucker",
+    "Fort Rucker": {
       "zipcodes": [
         "36362"
       ],
@@ -1157,8 +1041,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Frisco City",
+    "Frisco City": {
       "zipcodes": [
         "36445"
       ],
@@ -1166,8 +1049,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Fruithurst",
+    "Fruithurst": {
       "zipcodes": [
         "36262"
       ],
@@ -1176,8 +1058,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Fulton",
+    "Fulton": {
       "zipcodes": [
         "36446"
       ],
@@ -1185,8 +1066,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Fultondale",
+    "Fultondale": {
       "zipcodes": [
         "35068"
       ],
@@ -1195,8 +1075,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Fyffe",
+    "Fyffe": {
       "zipcodes": [
         "35971"
       ],
@@ -1205,8 +1084,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Gadsden",
+    "Gadsden": {
       "zipcodes": [
         "35901",
         "35902",
@@ -1221,8 +1099,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Gainesville",
+    "Gainesville": {
       "zipcodes": [
         "35464"
       ],
@@ -1231,8 +1108,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Gantt",
+    "Gantt": {
       "zipcodes": [
         "36038"
       ],
@@ -1240,8 +1116,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Garden City",
+    "Garden City": {
       "zipcodes": [
         "35070"
       ],
@@ -1250,8 +1125,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Gardendale",
+    "Gardendale": {
       "zipcodes": [
         "35071"
       ],
@@ -1260,8 +1134,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Geneva",
+    "Geneva": {
       "zipcodes": [
         "36340"
       ],
@@ -1269,8 +1142,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Georgiana",
+    "Georgiana": {
       "zipcodes": [
         "36033"
       ],
@@ -1278,8 +1150,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Geraldine",
+    "Geraldine": {
       "zipcodes": [
         "35974"
       ],
@@ -1288,8 +1159,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Glen Allen",
+    "Glen Allen": {
       "zipcodes": [
         "35559"
       ],
@@ -1298,8 +1168,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Goodwater",
+    "Goodwater": {
       "zipcodes": [
         "35072"
       ],
@@ -1308,8 +1177,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Gordo",
+    "Gordo": {
       "zipcodes": [
         "35466"
       ],
@@ -1318,8 +1186,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Gordon",
+    "Gordon": {
       "zipcodes": [
         "36343"
       ],
@@ -1327,8 +1194,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Gordonville",
+    "Gordonville": {
       "zipcodes": [
         "36048"
       ],
@@ -1336,8 +1202,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Goshen",
+    "Goshen": {
       "zipcodes": [
         "36035"
       ],
@@ -1345,8 +1210,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Grand Bay",
+    "Grand Bay": {
       "zipcodes": [
         "36541"
       ],
@@ -1354,8 +1218,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Grant",
+    "Grant": {
       "zipcodes": [
         "35747"
       ],
@@ -1364,8 +1227,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Graysville",
+    "Graysville": {
       "zipcodes": [
         "35073"
       ],
@@ -1374,8 +1236,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Greensboro",
+    "Greensboro": {
       "zipcodes": [
         "36744"
       ],
@@ -1383,8 +1244,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Greenville",
+    "Greenville": {
       "zipcodes": [
         "36037"
       ],
@@ -1392,8 +1252,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Grove Hill",
+    "Grove Hill": {
       "zipcodes": [
         "36451"
       ],
@@ -1401,8 +1260,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Guin",
+    "Guin": {
       "zipcodes": [
         "35563"
       ],
@@ -1411,8 +1269,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Gulf Shores",
+    "Gulf Shores": {
       "zipcodes": [
         "36542",
         "36547"
@@ -1421,8 +1278,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Guntersville",
+    "Guntersville": {
       "zipcodes": [
         "35976",
         "35977"
@@ -1432,8 +1288,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Gurley",
+    "Gurley": {
       "zipcodes": [
         "35748"
       ],
@@ -1442,8 +1297,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Gu-Win",
+    "Gu-Win": {
       "zipcodes": [
         "35563"
       ],
@@ -1452,8 +1306,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Hackleburg",
+    "Hackleburg": {
       "zipcodes": [
         "35564"
       ],
@@ -1462,8 +1315,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Haleyville",
+    "Haleyville": {
       "zipcodes": [
         "35565"
       ],
@@ -1472,8 +1324,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Hamilton",
+    "Hamilton": {
       "zipcodes": [
         "35570"
       ],
@@ -1482,8 +1333,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Hammondville",
+    "Hammondville": {
       "zipcodes": [
         "35989"
       ],
@@ -1492,8 +1342,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Hanceville",
+    "Hanceville": {
       "zipcodes": [
         "35077"
       ],
@@ -1502,8 +1351,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Harpersville",
+    "Harpersville": {
       "zipcodes": [
         "35078"
       ],
@@ -1512,8 +1360,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Hartford",
+    "Hartford": {
       "zipcodes": [
         "36344"
       ],
@@ -1521,8 +1368,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Hartselle",
+    "Hartselle": {
       "zipcodes": [
         "35640"
       ],
@@ -1531,8 +1377,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Harvest",
+    "Harvest": {
       "zipcodes": [
         "35749"
       ],
@@ -1541,14 +1386,12 @@
         "938"
       ]
     },
-    {
-      "cityname": "Hayden",
+    "Hayden": {
       "zipcodes": [
         "35079"
       ]
     },
-    {
-      "cityname": "Hayneville",
+    "Hayneville": {
       "zipcodes": [
         "36040"
       ],
@@ -1556,8 +1399,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Hazel Green",
+    "Hazel Green": {
       "zipcodes": [
         "35750"
       ],
@@ -1566,8 +1408,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Headland",
+    "Headland": {
       "zipcodes": [
         "36345"
       ],
@@ -1575,8 +1416,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Heath",
+    "Heath": {
       "zipcodes": [
         "36035"
       ],
@@ -1584,8 +1424,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Heflin",
+    "Heflin": {
       "zipcodes": [
         "36264"
       ],
@@ -1594,8 +1433,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Helena",
+    "Helena": {
       "zipcodes": [
         "35080"
       ],
@@ -1604,8 +1442,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Henagar",
+    "Henagar": {
       "zipcodes": [
         "35978"
       ],
@@ -1614,8 +1451,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Higdon",
+    "Higdon": {
       "zipcodes": [
         "35979"
       ],
@@ -1624,8 +1460,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Highland Lake",
+    "Highland Lake": {
       "zipcodes": [
         "35121"
       ],
@@ -1634,8 +1469,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Hillsboro",
+    "Hillsboro": {
       "zipcodes": [
         "35643"
       ],
@@ -1644,8 +1478,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Hobson City",
+    "Hobson City": {
       "zipcodes": [
         "36201"
       ],
@@ -1654,8 +1487,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Hodges",
+    "Hodges": {
       "zipcodes": [
         "35571"
       ],
@@ -1664,8 +1496,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Hokes Bluff",
+    "Hokes Bluff": {
       "zipcodes": [
         "35903"
       ],
@@ -1674,8 +1505,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Holly Pond",
+    "Holly Pond": {
       "zipcodes": [
         "35083"
       ],
@@ -1684,8 +1514,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Hollywood",
+    "Hollywood": {
       "zipcodes": [
         "35752"
       ],
@@ -1694,8 +1523,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Holt",
+    "Holt": {
       "zipcodes": [
         "35404"
       ],
@@ -1704,8 +1532,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Holtville",
+    "Holtville": {
       "zipcodes": [
         "36022"
       ],
@@ -1713,8 +1540,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Homewood",
+    "Homewood": {
       "zipcodes": [
         "35209"
       ],
@@ -1723,8 +1549,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Hoover",
+    "Hoover": {
       "zipcodes": [
         "35216"
       ],
@@ -1733,8 +1558,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Horn Hill",
+    "Horn Hill": {
       "zipcodes": [
         "36467"
       ],
@@ -1742,8 +1566,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Hueytown",
+    "Hueytown": {
       "zipcodes": [
         "35023"
       ],
@@ -1752,8 +1575,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Huguley",
+    "Huguley": {
       "zipcodes": [
         "36860"
       ],
@@ -1761,8 +1583,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Huntsville",
+    "Huntsville": {
       "zipcodes": [
         "35801",
         "35802",
@@ -1779,8 +1600,7 @@
         "35813"
       ]
     },
-    {
-      "cityname": "Hurtsboro",
+    "Hurtsboro": {
       "zipcodes": [
         "36860"
       ],
@@ -1788,8 +1608,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Hytop",
+    "Hytop": {
       "zipcodes": [
         "35768"
       ],
@@ -1798,8 +1617,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Ider",
+    "Ider": {
       "zipcodes": [
         "35981"
       ],
@@ -1808,8 +1626,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Indian Springs Village",
+    "Indian Springs Village": {
       "zipcodes": [
         "35124"
       ],
@@ -1818,8 +1635,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Irondale",
+    "Irondale": {
       "zipcodes": [
         "35210"
       ],
@@ -1828,8 +1644,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Jackson",
+    "Jackson": {
       "zipcodes": [
         "36545"
       ],
@@ -1837,8 +1652,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Jacksons' Gap",
+    "Jacksons' Gap": {
       "zipcodes": [
         "36861"
       ],
@@ -1847,8 +1661,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Jacksonville",
+    "Jacksonville": {
       "zipcodes": [
         "36265"
       ],
@@ -1857,8 +1670,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Jasper",
+    "Jasper": {
       "zipcodes": [
         "35501",
         "35502",
@@ -1872,8 +1684,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Jemison",
+    "Jemison": {
       "zipcodes": [
         "35085"
       ],
@@ -1882,8 +1693,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Kansas",
+    "Kansas": {
       "zipcodes": [
         "35573"
       ],
@@ -1892,8 +1702,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Kennedy",
+    "Kennedy": {
       "zipcodes": [
         "35574"
       ],
@@ -1902,8 +1711,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Killen",
+    "Killen": {
       "zipcodes": [
         "35645"
       ],
@@ -1912,8 +1720,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Kimberly",
+    "Kimberly": {
       "zipcodes": [
         "35091"
       ],
@@ -1922,8 +1729,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Kinsey",
+    "Kinsey": {
       "zipcodes": [
         "36303"
       ],
@@ -1931,8 +1737,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Kinston",
+    "Kinston": {
       "zipcodes": [
         "36453"
       ],
@@ -1940,8 +1745,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "La Fayette",
+    "La Fayette": {
       "zipcodes": [
         "36862"
       ],
@@ -1949,8 +1753,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Lake View",
+    "Lake View": {
       "zipcodes": [
         "35111"
       ],
@@ -1959,8 +1762,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Lakeview",
+    "Lakeview": {
       "zipcodes": [
         "35111"
       ],
@@ -1969,8 +1771,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Lanett",
+    "Lanett": {
       "zipcodes": [
         "36863"
       ],
@@ -1978,8 +1779,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Langston",
+    "Langston": {
       "zipcodes": [
         "35755"
       ],
@@ -1988,8 +1788,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Leeds",
+    "Leeds": {
       "zipcodes": [
         "35094"
       ],
@@ -1998,8 +1797,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Leesburg",
+    "Leesburg": {
       "zipcodes": [
         "35983"
       ],
@@ -2008,8 +1806,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Leighton",
+    "Leighton": {
       "zipcodes": [
         "35646"
       ],
@@ -2018,8 +1815,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Lester",
+    "Lester": {
       "zipcodes": [
         "35647"
       ],
@@ -2028,8 +1824,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Lexington",
+    "Lexington": {
       "zipcodes": [
         "35648"
       ],
@@ -2038,8 +1833,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Lillian",
+    "Lillian": {
       "zipcodes": [
         "36549"
       ],
@@ -2047,8 +1841,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Lincoln",
+    "Lincoln": {
       "zipcodes": [
         "35096"
       ],
@@ -2057,8 +1850,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Linden",
+    "Linden": {
       "zipcodes": [
         "36748"
       ],
@@ -2066,8 +1858,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Lineville",
+    "Lineville": {
       "zipcodes": [
         "36266"
       ],
@@ -2076,8 +1867,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Lisman",
+    "Lisman": {
       "zipcodes": [
         "36912"
       ],
@@ -2086,8 +1876,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Little River",
+    "Little River": {
       "zipcodes": [
         "36550"
       ],
@@ -2095,8 +1884,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Livingston",
+    "Livingston": {
       "zipcodes": [
         "35470"
       ],
@@ -2105,8 +1893,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Loachapoka",
+    "Loachapoka": {
       "zipcodes": [
         "36865"
       ],
@@ -2114,8 +1901,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Lockhart",
+    "Lockhart": {
       "zipcodes": [
         "36455"
       ],
@@ -2123,8 +1909,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Locust Fork",
+    "Locust Fork": {
       "zipcodes": [
         "35097"
       ],
@@ -2133,8 +1918,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Louisville",
+    "Louisville": {
       "zipcodes": [
         "36048"
       ],
@@ -2142,8 +1926,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Lowndesboro",
+    "Lowndesboro": {
       "zipcodes": [
         "36752"
       ],
@@ -2151,8 +1934,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Loxley",
+    "Loxley": {
       "zipcodes": [
         "36551"
       ],
@@ -2160,8 +1942,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Luverne",
+    "Luverne": {
       "zipcodes": [
         "36049"
       ],
@@ -2169,8 +1950,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Lynn",
+    "Lynn": {
       "zipcodes": [
         "35575"
       ],
@@ -2179,8 +1959,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Madison",
+    "Madison": {
       "zipcodes": [
         "35756",
         "35757",
@@ -2191,8 +1970,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Madrid",
+    "Madrid": {
       "zipcodes": [
         "36320"
       ],
@@ -2200,8 +1978,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Magnolia Springs",
+    "Magnolia Springs": {
       "zipcodes": [
         "36555"
       ],
@@ -2209,8 +1986,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Malvern",
+    "Malvern": {
       "zipcodes": [
         "36349"
       ],
@@ -2218,8 +1994,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Maplesville",
+    "Maplesville": {
       "zipcodes": [
         "36750"
       ],
@@ -2227,8 +2002,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Marbury",
+    "Marbury": {
       "zipcodes": [
         "36051"
       ],
@@ -2236,8 +2010,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Margaret",
+    "Margaret": {
       "zipcodes": [
         "35112"
       ],
@@ -2246,8 +2019,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Marion",
+    "Marion": {
       "zipcodes": [
         "36756"
       ],
@@ -2255,8 +2027,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Maylene",
+    "Maylene": {
       "zipcodes": [
         "35114"
       ],
@@ -2265,8 +2036,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "McCalla",
+    "McCalla": {
       "zipcodes": [
         "35111"
       ],
@@ -2275,8 +2045,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "McIntosh",
+    "McIntosh": {
       "zipcodes": [
         "36553"
       ],
@@ -2284,8 +2053,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "McKenzie",
+    "McKenzie": {
       "zipcodes": [
         "36456"
       ],
@@ -2293,8 +2061,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Mentone",
+    "Mentone": {
       "zipcodes": [
         "35984"
       ],
@@ -2303,8 +2070,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Meridianville",
+    "Meridianville": {
       "zipcodes": [
         "35759"
       ],
@@ -2313,8 +2079,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Midfield",
+    "Midfield": {
       "zipcodes": [
         "35228"
       ],
@@ -2323,8 +2088,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Midland City",
+    "Midland City": {
       "zipcodes": [
         "36350"
       ],
@@ -2332,8 +2096,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Midway",
+    "Midway": {
       "zipcodes": [
         "36053"
       ],
@@ -2341,8 +2104,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Millbrook",
+    "Millbrook": {
       "zipcodes": [
         "36054"
       ],
@@ -2350,8 +2112,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Millerville",
+    "Millerville": {
       "zipcodes": [
         "36267"
       ],
@@ -2360,8 +2121,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Millport",
+    "Millport": {
       "zipcodes": [
         "35576"
       ],
@@ -2370,8 +2130,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Millry",
+    "Millry": {
       "zipcodes": [
         "36558"
       ],
@@ -2379,8 +2138,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Mobile",
+    "Mobile": {
       "zipcodes": [
         "36601",
         "36602",
@@ -2422,8 +2180,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Monroeville",
+    "Monroeville": {
       "zipcodes": [
         "36460",
         "36461"
@@ -2432,8 +2189,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Montevallo",
+    "Montevallo": {
       "zipcodes": [
         "35115"
       ],
@@ -2442,8 +2198,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Montgomery",
+    "Montgomery": {
       "zipcodes": [
         "36101",
         "36102",
@@ -2485,8 +2240,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Moody",
+    "Moody": {
       "zipcodes": [
         "35004"
       ],
@@ -2495,8 +2249,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Mooresville",
+    "Mooresville": {
       "zipcodes": [
         "35649"
       ],
@@ -2505,8 +2258,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Morris",
+    "Morris": {
       "zipcodes": [
         "35116"
       ],
@@ -2515,8 +2267,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Moulton",
+    "Moulton": {
       "zipcodes": [
         "35650"
       ],
@@ -2525,8 +2276,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Moundville",
+    "Moundville": {
       "zipcodes": [
         "35474"
       ],
@@ -2535,8 +2285,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Mount Hope",
+    "Mount Hope": {
       "zipcodes": [
         "35651"
       ],
@@ -2545,8 +2294,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Mount Olive",
+    "Mount Olive": {
       "zipcodes": [
         "35117"
       ],
@@ -2555,8 +2303,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Muscle Shoals",
+    "Muscle Shoals": {
       "zipcodes": [
         "35661",
         "35662"
@@ -2566,8 +2313,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "New Brockton",
+    "New Brockton": {
       "zipcodes": [
         "36351"
       ],
@@ -2575,8 +2321,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "New Hope",
+    "New Hope": {
       "zipcodes": [
         "35760"
       ],
@@ -2585,8 +2330,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "New Market",
+    "New Market": {
       "zipcodes": [
         "35761"
       ],
@@ -2595,8 +2339,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "New Site",
+    "New Site": {
       "zipcodes": [
         "36256"
       ],
@@ -2605,8 +2348,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Newton",
+    "Newton": {
       "zipcodes": [
         "36352"
       ],
@@ -2614,8 +2356,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Newville",
+    "Newville": {
       "zipcodes": [
         "36353"
       ],
@@ -2623,8 +2364,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Northport",
+    "Northport": {
       "zipcodes": [
         "35473",
         "35475",
@@ -2635,8 +2375,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Notasulga",
+    "Notasulga": {
       "zipcodes": [
         "36866"
       ],
@@ -2644,8 +2383,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Oakman",
+    "Oakman": {
       "zipcodes": [
         "35579"
       ],
@@ -2654,8 +2392,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Odenville",
+    "Odenville": {
       "zipcodes": [
         "35120"
       ],
@@ -2664,8 +2401,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Ohatchee",
+    "Ohatchee": {
       "zipcodes": [
         "36271"
       ],
@@ -2674,8 +2410,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Oneonta",
+    "Oneonta": {
       "zipcodes": [
         "35121"
       ],
@@ -2684,8 +2419,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Opelika",
+    "Opelika": {
       "zipcodes": [
         "36801",
         "36802",
@@ -2696,8 +2430,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Opp",
+    "Opp": {
       "zipcodes": [
         "36467"
       ],
@@ -2705,8 +2438,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Orange Beach",
+    "Orange Beach": {
       "zipcodes": [
         "36561"
       ],
@@ -2714,8 +2446,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Orrville",
+    "Orrville": {
       "zipcodes": [
         "36767"
       ],
@@ -2723,8 +2454,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Owens Cross Roads",
+    "Owens Cross Roads": {
       "zipcodes": [
         "35763"
       ],
@@ -2733,8 +2463,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Oxford",
+    "Oxford": {
       "zipcodes": [
         "36203",
         "36253"
@@ -2744,8 +2473,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Ozark",
+    "Ozark": {
       "zipcodes": [
         "36360",
         "36361"
@@ -2754,8 +2482,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Paint Rock",
+    "Paint Rock": {
       "zipcodes": [
         "35764"
       ],
@@ -2764,8 +2491,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Panola",
+    "Panola": {
       "zipcodes": [
         "35477"
       ],
@@ -2774,8 +2500,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Parrish",
+    "Parrish": {
       "zipcodes": [
         "35580"
       ],
@@ -2784,8 +2509,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Pelham",
+    "Pelham": {
       "zipcodes": [
         "35124"
       ],
@@ -2794,8 +2518,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Pell City",
+    "Pell City": {
       "zipcodes": [
         "35125",
         "35128"
@@ -2805,8 +2528,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Pennington",
+    "Pennington": {
       "zipcodes": [
         "36916"
       ],
@@ -2815,8 +2537,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Perdido",
+    "Perdido": {
       "zipcodes": [
         "36562"
       ],
@@ -2824,8 +2545,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Peterman",
+    "Peterman": {
       "zipcodes": [
         "36471"
       ],
@@ -2833,8 +2553,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Petrey",
+    "Petrey": {
       "zipcodes": [
         "36062"
       ],
@@ -2842,8 +2561,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Phenix City",
+    "Phenix City": {
       "zipcodes": [
         "36867",
         "36868",
@@ -2854,8 +2572,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Phil Campbell",
+    "Phil Campbell": {
       "zipcodes": [
         "35581"
       ],
@@ -2864,8 +2581,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Piedmont",
+    "Piedmont": {
       "zipcodes": [
         "36272"
       ],
@@ -2874,8 +2590,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Pike Road",
+    "Pike Road": {
       "zipcodes": [
         "36064"
       ],
@@ -2883,8 +2598,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Pinckard",
+    "Pinckard": {
       "zipcodes": [
         "36371"
       ],
@@ -2892,8 +2606,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Pine Apple",
+    "Pine Apple": {
       "zipcodes": [
         "36768"
       ],
@@ -2901,8 +2614,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Pine Hill",
+    "Pine Hill": {
       "zipcodes": [
         "36769"
       ],
@@ -2910,8 +2622,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Pine Ridge",
+    "Pine Ridge": {
       "zipcodes": [
         "35968"
       ],
@@ -2920,8 +2631,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Pinson",
+    "Pinson": {
       "zipcodes": [
         "35126"
       ],
@@ -2930,8 +2640,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Pisgah",
+    "Pisgah": {
       "zipcodes": [
         "35765"
       ],
@@ -2940,8 +2649,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Pleasant Grove",
+    "Pleasant Grove": {
       "zipcodes": [
         "35127"
       ],
@@ -2950,8 +2658,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Point Clear",
+    "Point Clear": {
       "zipcodes": [
         "36564"
       ],
@@ -2959,8 +2666,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Pollard",
+    "Pollard": {
       "zipcodes": [
         "36441"
       ],
@@ -2968,8 +2674,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Powell",
+    "Powell": {
       "zipcodes": [
         "35971"
       ],
@@ -2978,8 +2683,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Prattville",
+    "Prattville": {
       "zipcodes": [
         "36066",
         "36067",
@@ -2989,8 +2693,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Priceville",
+    "Priceville": {
       "zipcodes": [
         "35603"
       ],
@@ -2999,8 +2702,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Prichard",
+    "Prichard": {
       "zipcodes": [
         "36610",
         "36612",
@@ -3010,8 +2712,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Providence",
+    "Providence": {
       "zipcodes": [
         "36742"
       ],
@@ -3019,8 +2720,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Ragland",
+    "Ragland": {
       "zipcodes": [
         "35131"
       ],
@@ -3029,8 +2729,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Rainbow City",
+    "Rainbow City": {
       "zipcodes": [
         "35906"
       ],
@@ -3039,8 +2738,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Rainsville",
+    "Rainsville": {
       "zipcodes": [
         "35986"
       ],
@@ -3049,8 +2747,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Ranburne",
+    "Ranburne": {
       "zipcodes": [
         "36273"
       ],
@@ -3059,8 +2756,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Red Bay",
+    "Red Bay": {
       "zipcodes": [
         "35582"
       ],
@@ -3069,8 +2765,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Red Level",
+    "Red Level": {
       "zipcodes": [
         "36474"
       ],
@@ -3078,8 +2773,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Reece City",
+    "Reece City": {
       "zipcodes": [
         "35904"
       ],
@@ -3088,8 +2782,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Reform",
+    "Reform": {
       "zipcodes": [
         "35481"
       ],
@@ -3098,8 +2791,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Rehobeth",
+    "Rehobeth": {
       "zipcodes": [
         "36301"
       ],
@@ -3107,8 +2799,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Repton",
+    "Repton": {
       "zipcodes": [
         "36475"
       ],
@@ -3116,8 +2807,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Ridgeville",
+    "Ridgeville": {
       "zipcodes": [
         "35963"
       ],
@@ -3126,8 +2816,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "River Falls",
+    "River Falls": {
       "zipcodes": [
         "36476"
       ],
@@ -3135,8 +2824,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Riverside",
+    "Riverside": {
       "zipcodes": [
         "35135"
       ],
@@ -3145,8 +2833,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Riverview",
+    "Riverview": {
       "zipcodes": [
         "36426"
       ],
@@ -3154,8 +2841,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Roanoke",
+    "Roanoke": {
       "zipcodes": [
         "36274"
       ],
@@ -3163,8 +2849,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Robertsdale",
+    "Robertsdale": {
       "zipcodes": [
         "36567"
       ],
@@ -3172,8 +2857,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Rockford",
+    "Rockford": {
       "zipcodes": [
         "35136"
       ],
@@ -3182,8 +2866,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Rogersville",
+    "Rogersville": {
       "zipcodes": [
         "35652"
       ],
@@ -3192,8 +2875,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Rosa",
+    "Rosa": {
       "zipcodes": [
         "35121"
       ],
@@ -3202,8 +2884,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Russellville",
+    "Russellville": {
       "zipcodes": [
         "35653",
         "35654"
@@ -3213,8 +2894,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Rutledge",
+    "Rutledge": {
       "zipcodes": [
         "36071"
       ],
@@ -3222,8 +2902,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Safford",
+    "Safford": {
       "zipcodes": [
         "36773"
       ],
@@ -3231,8 +2910,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Salem",
+    "Salem": {
       "zipcodes": [
         "36874"
       ],
@@ -3240,8 +2918,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Samson",
+    "Samson": {
       "zipcodes": [
         "36477"
       ],
@@ -3249,8 +2926,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Sand Rock",
+    "Sand Rock": {
       "zipcodes": [
         "35983"
       ],
@@ -3259,8 +2935,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Sanford",
+    "Sanford": {
       "zipcodes": [
         "36420"
       ],
@@ -3268,8 +2943,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Saraland",
+    "Saraland": {
       "zipcodes": [
         "36571"
       ],
@@ -3277,8 +2951,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Sardis City",
+    "Sardis City": {
       "zipcodes": [
         "35956"
       ],
@@ -3287,8 +2960,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Satsuma",
+    "Satsuma": {
       "zipcodes": [
         "36572"
       ],
@@ -3296,8 +2968,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Scottsboro",
+    "Scottsboro": {
       "zipcodes": [
         "35768",
         "35769"
@@ -3307,8 +2978,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Section",
+    "Section": {
       "zipcodes": [
         "35771"
       ],
@@ -3317,8 +2987,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Selma",
+    "Selma": {
       "zipcodes": [
         "36701",
         "36702",
@@ -3328,8 +2997,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Semmes",
+    "Semmes": {
       "zipcodes": [
         "36575"
       ],
@@ -3337,8 +3005,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Sheffield",
+    "Sheffield": {
       "zipcodes": [
         "35660"
       ],
@@ -3347,8 +3014,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Shelby",
+    "Shelby": {
       "zipcodes": [
         "35143"
       ],
@@ -3357,8 +3023,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Shiloh",
+    "Shiloh": {
       "zipcodes": [
         "35986"
       ],
@@ -3367,8 +3032,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Shorter",
+    "Shorter": {
       "zipcodes": [
         "36075"
       ],
@@ -3376,8 +3040,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Silas",
+    "Silas": {
       "zipcodes": [
         "36919"
       ],
@@ -3385,8 +3048,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Silverhill",
+    "Silverhill": {
       "zipcodes": [
         "36576"
       ],
@@ -3394,8 +3056,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Sipsey",
+    "Sipsey": {
       "zipcodes": [
         "35584"
       ],
@@ -3404,8 +3065,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Skyline",
+    "Skyline": {
       "zipcodes": [
         "35768"
       ],
@@ -3414,8 +3074,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Slocomb",
+    "Slocomb": {
       "zipcodes": [
         "36375"
       ],
@@ -3423,8 +3082,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Smiths Station",
+    "Smiths Station": {
       "zipcodes": [
         "36877"
       ],
@@ -3432,8 +3090,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Snead",
+    "Snead": {
       "zipcodes": [
         "35952"
       ],
@@ -3442,8 +3099,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Somerville",
+    "Somerville": {
       "zipcodes": [
         "35670"
       ],
@@ -3452,8 +3108,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Southside",
+    "Southside": {
       "zipcodes": [
         "35907"
       ],
@@ -3462,8 +3117,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Spanish Fort",
+    "Spanish Fort": {
       "zipcodes": [
         "36527",
         "36577"
@@ -3472,8 +3126,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Springville",
+    "Springville": {
       "zipcodes": [
         "35146"
       ],
@@ -3482,8 +3135,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Steele",
+    "Steele": {
       "zipcodes": [
         "35987"
       ],
@@ -3492,8 +3144,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Stevenson",
+    "Stevenson": {
       "zipcodes": [
         "35772"
       ],
@@ -3502,8 +3153,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Sulligent",
+    "Sulligent": {
       "zipcodes": [
         "35586"
       ],
@@ -3512,8 +3162,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Sumiton",
+    "Sumiton": {
       "zipcodes": [
         "35148"
       ],
@@ -3522,8 +3171,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Summerdale",
+    "Summerdale": {
       "zipcodes": [
         "36580"
       ],
@@ -3531,8 +3179,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Susan Moore",
+    "Susan Moore": {
       "zipcodes": [
         "35952"
       ],
@@ -3541,8 +3188,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Sweet Water",
+    "Sweet Water": {
       "zipcodes": [
         "36782"
       ],
@@ -3550,8 +3196,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Sylacauga",
+    "Sylacauga": {
       "zipcodes": [
         "35150",
         "35151"
@@ -3561,8 +3206,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Sylvania",
+    "Sylvania": {
       "zipcodes": [
         "35988"
       ],
@@ -3571,8 +3215,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Talladega",
+    "Talladega": {
       "zipcodes": [
         "35160",
         "35161"
@@ -3582,8 +3225,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Tallassee",
+    "Tallassee": {
       "zipcodes": [
         "36078"
       ],
@@ -3591,8 +3233,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Tanner",
+    "Tanner": {
       "zipcodes": [
         "35671"
       ],
@@ -3601,8 +3242,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Tarrant",
+    "Tarrant": {
       "zipcodes": [
         "35217"
       ],
@@ -3611,8 +3251,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Taylor",
+    "Taylor": {
       "zipcodes": [
         "36301"
       ],
@@ -3620,8 +3259,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Theodore",
+    "Theodore": {
       "zipcodes": [
         "36582",
         "36590"
@@ -3630,8 +3268,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Thomaston",
+    "Thomaston": {
       "zipcodes": [
         "36783"
       ],
@@ -3639,8 +3276,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Thomasville",
+    "Thomasville": {
       "zipcodes": [
         "36784"
       ],
@@ -3648,8 +3284,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Thorsby",
+    "Thorsby": {
       "zipcodes": [
         "35171"
       ],
@@ -3658,8 +3293,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Town Creek",
+    "Town Creek": {
       "zipcodes": [
         "35672"
       ],
@@ -3668,8 +3302,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Toxey",
+    "Toxey": {
       "zipcodes": [
         "36921"
       ],
@@ -3677,8 +3310,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Trafford",
+    "Trafford": {
       "zipcodes": [
         "35172"
       ],
@@ -3687,8 +3319,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Triana",
+    "Triana": {
       "zipcodes": [
         "35756"
       ],
@@ -3697,8 +3328,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Trinity",
+    "Trinity": {
       "zipcodes": [
         "35673"
       ],
@@ -3707,8 +3337,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Troy",
+    "Troy": {
       "zipcodes": [
         "36079",
         "36081",
@@ -3718,8 +3347,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Trussville",
+    "Trussville": {
       "zipcodes": [
         "35173"
       ],
@@ -3728,8 +3356,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Tuscaloosa",
+    "Tuscaloosa": {
       "zipcodes": [
         "35401",
         "35402",
@@ -3747,8 +3374,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Tuscumbia",
+    "Tuscumbia": {
       "zipcodes": [
         "35674"
       ],
@@ -3757,8 +3383,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Tuskegee",
+    "Tuskegee": {
       "zipcodes": [
         "36083"
       ],
@@ -3766,8 +3391,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Union Grove",
+    "Union Grove": {
       "zipcodes": [
         "35175"
       ],
@@ -3776,8 +3400,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Union Springs",
+    "Union Springs": {
       "zipcodes": [
         "36089"
       ],
@@ -3785,8 +3408,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Uniontown",
+    "Uniontown": {
       "zipcodes": [
         "36786"
       ],
@@ -3794,8 +3416,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Uriah",
+    "Uriah": {
       "zipcodes": [
         "36480"
       ],
@@ -3803,8 +3424,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Valley",
+    "Valley": {
       "zipcodes": [
         "36854",
         "36872"
@@ -3813,8 +3433,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Valley Head",
+    "Valley Head": {
       "zipcodes": [
         "35989"
       ],
@@ -3823,8 +3442,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Vance",
+    "Vance": {
       "zipcodes": [
         "35490"
       ],
@@ -3833,8 +3451,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Vernon",
+    "Vernon": {
       "zipcodes": [
         "35592"
       ],
@@ -3843,8 +3460,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Vina",
+    "Vina": {
       "zipcodes": [
         "35593"
       ],
@@ -3853,8 +3469,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Vincent",
+    "Vincent": {
       "zipcodes": [
         "35178"
       ],
@@ -3863,8 +3478,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Vinemont",
+    "Vinemont": {
       "zipcodes": [
         "35179"
       ],
@@ -3873,8 +3487,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Vredenburgh",
+    "Vredenburgh": {
       "zipcodes": [
         "36481"
       ],
@@ -3882,8 +3495,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Wadley",
+    "Wadley": {
       "zipcodes": [
         "36276"
       ],
@@ -3892,8 +3504,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Waldo",
+    "Waldo": {
       "zipcodes": [
         "35160"
       ],
@@ -3902,8 +3513,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Walnut Grove",
+    "Walnut Grove": {
       "zipcodes": [
         "35990"
       ],
@@ -3912,8 +3522,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Warrior",
+    "Warrior": {
       "zipcodes": [
         "35180"
       ],
@@ -3922,8 +3531,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Waterloo",
+    "Waterloo": {
       "zipcodes": [
         "35677"
       ],
@@ -3932,8 +3540,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Waverly",
+    "Waverly": {
       "zipcodes": [
         "36879"
       ],
@@ -3941,8 +3548,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Weaver",
+    "Weaver": {
       "zipcodes": [
         "36277"
       ],
@@ -3951,8 +3557,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Webb",
+    "Webb": {
       "zipcodes": [
         "36376"
       ],
@@ -3960,8 +3565,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Wedowee",
+    "Wedowee": {
       "zipcodes": [
         "36278"
       ],
@@ -3970,8 +3574,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "West Blocton",
+    "West Blocton": {
       "zipcodes": [
         "35184"
       ],
@@ -3980,8 +3583,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "West Jefferson",
+    "West Jefferson": {
       "zipcodes": [
         "35130"
       ],
@@ -3990,8 +3592,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Westover",
+    "Westover": {
       "zipcodes": [
         "35185"
       ],
@@ -4000,8 +3601,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Wetumpka",
+    "Wetumpka": {
       "zipcodes": [
         "36092",
         "36093"
@@ -4010,8 +3610,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "Whatley",
+    "Whatley": {
       "zipcodes": [
         "36482"
       ],
@@ -4019,8 +3618,7 @@
         "251"
       ]
     },
-    {
-      "cityname": "Wilsonville",
+    "Wilsonville": {
       "zipcodes": [
         "35186"
       ],
@@ -4029,8 +3627,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Wilton",
+    "Wilton": {
       "zipcodes": [
         "35187"
       ],
@@ -4039,8 +3636,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Winfield",
+    "Winfield": {
       "zipcodes": [
         "35594"
       ],
@@ -4049,8 +3645,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Woodland",
+    "Woodland": {
       "zipcodes": [
         "36280"
       ],
@@ -4059,8 +3654,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Woodstock",
+    "Woodstock": {
       "zipcodes": [
         "35188"
       ],
@@ -4069,8 +3663,7 @@
         "659"
       ]
     },
-    {
-      "cityname": "Woodville",
+    "Woodville": {
       "zipcodes": [
         "35776"
       ],
@@ -4079,8 +3672,7 @@
         "938"
       ]
     },
-    {
-      "cityname": "Yellow Bluff",
+    "Yellow Bluff": {
       "zipcodes": [
         "36769"
       ],
@@ -4088,8 +3680,7 @@
         "334"
       ]
     },
-    {
-      "cityname": "York",
+    "York": {
       "zipcodes": [
         "36925"
       ],
@@ -4098,5 +3689,5 @@
         "659"
       ]
     }
-  ]
+  }
 }

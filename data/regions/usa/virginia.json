@@ -1,677 +1,1518 @@
 {
-    "name" : "Virginia",
-    "capital" : "Richmond",
-    "cities" : [
-        {
-            "cityname" : "Richmond",
-            "areacodes" : ["804"],
-            "zipcodes" : ["23218", "23219", "23220", "23221", "23222", "23223", "23224", "23225", "23226", "23227", "23230", "23231", "23232", "23234", "23235", "23236", "23237", "23238", "23241", "23249", "23250", "23260", "23261", "23269", "23273", "23274", "23276", "23278", "23279", "23282", "23284", "23285", "23286", "23288", "23289", "23290", "23291", "23292", "23293", "23294", "23295", "23297", "23298"]
-        },
-        {
-            "cityname" : "Accomack",
-            "areacodes" : ["757"],
-            "zipcodes" : ["23301", "23302", "23303", "23306", "23307", "23308", "23310", "23313", "23314", "23315", "23316", "23336", "23337", "23341", "23347", "23350", "23354", "23356", "23357", "23358", "23359", "23389"]
-        },
-        {
-            "cityname" : "Albemarle",
-            "areacodes" : ["434"],
-            "zipcodes" : ["22901", "22902", "22903", "22904", "22905", "22906", "22907", "22908", "22909", "22910", "22911", "22920", "22923", "22924", "22931", "22932", "22935", "22936", "22937", "22940", "22942", "22943", "22945", "22946"]
-        },
-        {
-            "cityname" : "Alexandria",
-            "areacodes" : ["703", "571"],
-            "zipcodes" : ["22301", "22302", "22303", "22304", "22305", "22306", "22307", "22308", "22309", "22310", "22311", "22312", "22313", "22314", "22315", "22320", "22321", "22331", "22332", "22333", "22334", "22336"]
-        },
-        {
-            "cityname" : "Alleghany",
-            "areacodes" : ["540"],
-            "zipcodes" : ["24422", "24426", "24448", "24457", "24474", "24484", "24526"]
-        },
-        {
-            "cityname" : "Amelia",
-            "areacodes" : ["804"],
-            "zipcodes" : ["23002"]
-        },
-        {
-            "cityname" : "Amherst",
-            "areacodes" : ["434"],
-            "zipcodes" : ["24521"]
-        },
-        {
-            "cityname" : "Appomattox",
-            "areacodes" : ["434"],
-            "zipcodes" : ["24522"]
-        },
-        {
-            "cityname" : "Arlington",
-            "areacodes" : ["703", "571"],
-            "zipcodes" : ["22201", "22202", "22203", "22204", "22205", "22206", "22207", "22209", "22210", "22211", "22212", "22213", "22214", "22215", "22216", "22217", "22218", "22219", "22222", "22223", "22225", "22226", "22227", "22229", "22230", "22234", "22240", "22241", "22242", "22243", "22244", "22245", "22246"]
-        },
-        {
-            "cityname" : "Augusta",
-            "areacodes" : ["540"],
-            "zipcodes" : ["24401", "24402", "24411", "24412", "24413", "24415", "24416", "24421", "24430", "24431", "24432", "24433", "24435", "24437", "24438", "24439", "24440", "24441", "24442", "24458", "24459", "24460", "24463", "24464", "24465", "24467", "24468", "24469", "24471", "24472", "24473", "24476", "24477", "24479", "24482", "24483", "24485", "24486", "24487"]
-        },
-        {
-            "cityname" : "Bath",
-            "areacodes" : ["540"],
-            "zipcodes" : ["24445", "24460", "24484", "24487"]
-        },
-        {
-            "cityname" : "Bedford",
-            "areacodes" : ["540"],
-            "zipcodes" : ["24523"]
-        },
-        {
-            "cityname" : "Bland",
-            "areacodes" : ["276"],
-            "zipcodes" : ["24315"]
-        },
-        {
-            "cityname" : "Botetourt",
-            "areacodes" : ["540"],
-            "zipcodes" : ["24066", "24077", "24083", "24085", "24090", "24130", "24175", "24177"]
-        },
-        {
-            "cityname" : "Bristol",
-            "areacodes" : ["276"],
-            "zipcodes" : ["24201", "24202", "24203", "24205", "24209"]
-        },
-        {
-            "cityname" : "Brunswick",
-            "areacodes" : ["434"],
-            "zipcodes" : ["23821", "23824", "23843", "23845", "23856", "23868", "23872", "23887", "23889", "23893", "23919"]
-        },
-        {
-            "cityname" : "Buchanan",
-            "areacodes" : ["276"],
-            "zipcodes" : ["24066"]
-        },
-        {
-            "cityname" : "Buckingham",
-            "areacodes" : ["434"],
-            "zipcodes" : ["23921"]
-        },
-        {
-            "cityname" : "Buena Vista",
-            "areacodes" : ["540"],
-            "zipcodes" : ["24416"]
-        },
-        {
-            "cityname" : "Campbell",
-            "areacodes" : ["434"],
-            "zipcodes" : ["24501", "24502", "24503", "24504", "24505", "24506", "24512", "24513", "24514", "24515", "24517", "24522", "24526", "24527", "24528", "24530", "24531", "24533", "24534", "24536", "24538", "24539", "24540", "24541", "24543", "24544", "24549", "24550", "24551", "24553", "24554", "24555", "24556", "24557", "24558", "24562", "24563", "24565", "24566", "24569", "24570", "24571", "24572", "24574", "24576", "24577", "24578", "24579", "24580", "24581", "24586", "24588", "24589", "24590", "24592", "24593", "24594", "24595", "24597", "24598", "24599"]
-        },
-        {
-            "cityname" : "Caroline",
-            "areacodes" : ["804"],
-            "zipcodes" : ["22427", "22428", "22446", "22463", "22476", "22485", "22501", "22514", "22520", "22534", "22535", "22538", "22546", "22552", "22553", "22555", "22556", "22565", "22567", "22580", "22581"]
-        },
-        {
-            "cityname" : "Carroll",
-            "areacodes" : ["276"],
-            "zipcodes" : ["24312", "24317", "24318", "24323", "24325", "24326", "24328", "24330", "24333", "24343", "24347", "24350", "24351", "24352", "24354", "24360", "24361", "24363", "24368", "24374", "24381", "24382"]
-        },
-        {
-            "cityname" : "Charles City",
-            "areacodes" : ["804"],
-            "zipcodes" : ["23030"]
-        },
-        {
-            "cityname" : "Charlotte",
-            "areacodes" : ["434"],
-            "zipcodes" : ["23923"]
-        },
-        {
-            "cityname" : "Charlottesville",
-            "areacodes" : ["434"],
-            "zipcodes" : ["22901", "22902", "22903", "22904", "22905", "22906", "22907", "22908", "22909", "22910", "22911"]
-        },
-        {
-            "cityname" : "Chesapeake",
-            "areacodes" : ["757"],
-            "zipcodes" : ["23320", "23321", "23322", "23323", "23324", "23325", "23326", "23327", "23328"]
-        },
-        {
-            "cityname" : "Chesterfield",
-            "areacodes" : ["804"],
-            "zipcodes" : ["23832", "23838"]
-        },
-        {
-            "cityname" : "Clarke",
-            "areacodes" : ["540"],
-            "zipcodes" : ["22611", "22620", "22643", "22646", "22649"]
-        },
-        {
-            "cityname" : "Colonial Heights",
-            "areacodes" : ["804"],
-            "zipcodes" : ["23834"]
-        },
-        {
-            "cityname" : "Covington",
-            "areacodes" : ["540"],
-            "zipcodes" : ["24426"]
-        },
-        {
-            "cityname" : "Craig",
-            "areacodes" : ["540"],
-            "zipcodes" : ["24070"]
-        },
-        {
-            "cityname" : "Culpeper",
-            "areacodes" : ["540"],
-            "zipcodes" : ["22701"]
-        },
-        {
-            "cityname" : "Cumberland",
-            "areacodes" : ["804"],
-            "zipcodes" : ["23040"]
-        },
-        {
-            "cityname" : "Danville",
-            "areacodes" : ["434"],
-            "zipcodes" : ["24540", "24541", "24543", "24544"]
-        },
-        {
-            "cityname" : "Dickenson",
-            "areacodes" : ["276"],
-            "zipcodes" : ["24224", "24226", "24228", "24230", "24236", "24237", "24239", "24244", "24246", "24250", "24256", "24260", "24272"]
-        },
-        {
-            "cityname" : "Dinwiddie",
-            "areacodes" : ["804"],
-            "zipcodes" : ["23841"]
-        },
-        {
-            "cityname" : "Emporia",
-            "areacodes" : ["434"],
-            "zipcodes" : ["23847"]
-        },
-        {
-            "cityname" : "Essex",
-            "areacodes" : ["804"],
-            "zipcodes" : ["22437", "22438", "22454", "22460", "22476", "23148"]
-        },
-        {
-            "cityname" : "Fairfax",
-            "areacodes" : ["703", "571"],
-            "zipcodes" : ["22030", "22031", "22032", "22033", "22034", "22035", "22036", "22037", "22038", "22039"]
-        },
-        {
-            "cityname" : "Fairfax City",
-            "areacodes" : ["703", "571"],
-            "zipcodes" : ["22030"]
-        },
-        {
-            "cityname" : "Falls Church",
-            "areacodes" : ["703", "571"],
-            "zipcodes" : ["22040", "22041", "22042", "22043", "22044", "22046"]
-        },
-        {
-            "cityname" : "Fauquier",
-            "areacodes" : ["540"],
-            "zipcodes" : ["20106", "20115", "20116", "20119", "20137", "20138", "20139", "20140", "20144", "20184", "20186", "20187", "20188", "22712", "22720", "22728", "22734", "22739", "22742"]
-        },
-        {
-            "cityname" : "Floyd",
-            "areacodes" : ["540"],
-            "zipcodes" : ["24091"]
-        },
-        {
-            "cityname" : "Fluvanna",
-            "areacodes" : ["434"],
-            "zipcodes" : ["22963"]
-        },
-        {
-            "cityname" : "Franklin County",
-            "areacodes" : ["540"],
-            "zipcodes" : ["24065", "24067", "24088", "24101", "24102", "24112", "24121", "24137", "24146", "24151", "24176"]
-        },
-        {
-            "cityname" : "Franklin-City",
-            "areacodes" : ["757"],
-            "zipcodes" : ["23851"]
-        },
-        {
-            "cityname" : "Frederick",
-            "areacodes" : ["540"],
-            "zipcodes" : ["22601", "22602", "22603", "22604", "22611", "22620", "22624", "22625", "22637", "22641", "22645", "22646", "22649", "22655", "22656", "22663"]
-        },
-        {
-            "cityname" : "Fredericksburg",
-            "areacodes" : ["540"],
-            "zipcodes" : ["22401", "22402", "22403", "22404", "22405", "22406", "22407", "22408", "22412"]
-        },
-        {
-            "cityname" : "Galax",
-            "areacodes" : ["276"],
-            "zipcodes" : ["24333"]
-        },
-        {
-            "cityname" : "Giles",
-            "areacodes" : ["540"],
-            "zipcodes" : ["24124"]
-        },
-        {
-            "cityname" : "Gloucester",
-            "areacodes" : ["804"],
-            "zipcodes" : ["23061"]
-        },
-        {
-            "cityname" : "Goochland",
-            "areacodes" : ["804"],
-            "zipcodes" : ["23063"]
-        },
-        {
-            "cityname" : "Grayson",
-            "areacodes" : ["276"],
-            "zipcodes" : ["24348"]
-        },
-        {
-            "cityname" : "Greene",
-            "areacodes" : ["434"],
-            "zipcodes" : ["22968"]
-        },
-        {
-            "cityname" : "Greensville",
-            "areacodes" : ["434"],
-            "zipcodes" : ["23847"]
-        },
-        {
-            "cityname" : "Halifax",
-            "areacodes" : ["434"],
-            "zipcodes" : ["24558"]
-        },
-        {
-            "cityname" : "Hampton",
-            "areacodes" : ["757"],
-            "zipcodes" : ["23605", "23630", "23651", "23661", "23663", "23664", "23665", "23666", "23667", "23668", "23669", "23670", "23681"]
-        },
-        {
-            "cityname" : "Hanover",
-            "areacodes" : ["804"],
-            "zipcodes" : ["23069"]
-        },
-        {
-            "cityname" : "Harrisonburg",
-            "areacodes" : ["540"],
-            "zipcodes" : ["22801", "22802", "22803", "22807"]
-        },
-        {
-            "cityname" : "Henrico",
-            "areacodes" : ["804"],
-            "zipcodes" : ["23075"]
-        },
-        {
-            "cityname" : "Henry",
-            "areacodes" : ["276"],
-            "zipcodes" : ["24102"]
-        },
-        {
-            "cityname" : "Highland",
-            "areacodes" : ["540"],
-            "zipcodes" : ["24465"]
-        },
-        {
-            "cityname" : "Hopewell",
-            "areacodes" : ["804"],
-            "zipcodes" : ["23860"]
-        },
-        {
-            "cityname" : "Isle Of Wight",
-            "areacodes" : ["757"],
-            "zipcodes" : ["23397"]
-        },
-        {
-            "cityname" : "James City",
-            "areacodes" : ["757"],
-            "zipcodes" : ["23185"]
-        },
-        {
-            "cityname" : "King And Queen",
-            "areacodes" : ["804"],
-            "zipcodes" : ["23085"]
-        },
-        {
-            "cityname" : "King George",
-            "areacodes" : ["540"],
-            "zipcodes" : ["22485"]
-        },
-        {
-            "cityname" : "King William",
-            "areacodes" : ["804"],
-            "zipcodes" : ["23086"]
-        },
-        {
-            "cityname" : "Lancaster",
-            "areacodes" : ["804"],
-            "zipcodes" : ["22503"]
-        },
-        {
-            "cityname" : "Lee",
-            "areacodes" : ["276"],
-            "zipcodes" : ["24263"]
-        },
-        {
-            "cityname" : "Lexington",
-            "areacodes" : ["540"],
-            "zipcodes" : ["24450"]
-        },
-        {
-            "cityname" : "Loudoun",
-            "areacodes" : ["703", "571"],
-            "zipcodes" : ["20175"]
-        },
-        {
-            "cityname" : "Louisa",
-            "areacodes" : ["540"],
-            "zipcodes" : ["23093"]
-        },
-        {
-            "cityname" : "Lunenburg",
-            "areacodes" : ["434"],
-            "zipcodes" : ["23952"]
-        },
-        {
-            "cityname" : "Lynchburg",
-            "areacodes" : ["434"],
-            "zipcodes" : ["24501"]
-        },
-        {
-            "cityname" : "Madison",
-            "areacodes" : ["540"],
-            "zipcodes" : ["22727"]
-        },
-        {
-            "cityname" : "Manassas",
-            "areacodes" : ["703", "571"],
-            "zipcodes" : ["20110"]
-        },
-        {
-            "cityname" : "Manassas Park",
-            "areacodes" : ["703", "571"],
-            "zipcodes" : ["20111"]
-        },
-        {
-            "cityname" : "Martinsville",
-            "areacodes" : ["276"],
-            "zipcodes" : ["24112"]
-        },
-        {
-            "cityname" : "Mathews",
-            "areacodes" : ["804"],
-            "zipcodes" : ["23109"]
-        },
-        {
-            "cityname" : "Mecklenburg",
-            "areacodes" : ["434"],
-            "zipcodes" : ["23917"]
-        },
-        {
-            "cityname" : "Middlesex",
-            "areacodes" : ["804"],
-            "zipcodes" : ["23149"]
-        },
-        {
-            "cityname" : "Montgomery",
-            "areacodes" : ["540"],
-            "zipcodes" : ["24060"]
-        },
-        {
-            "cityname" : "Nelson",
-            "areacodes" : ["434"],
-            "zipcodes" : ["22958"]
-        },
-        {
-            "cityname" : "New Kent",
-            "areacodes" : ["804"],
-            "zipcodes" : ["23124"]
-        },
-        {
-            "cityname" : "Newport News",
-            "areacodes" : ["757"],
-            "zipcodes" : ["23601"]
-        },
-        {
-            "cityname" : "Norfolk",
-            "areacodes" : ["757"],
-            "zipcodes" : ["23501"]
-        },
-        {
-            "cityname" : "Northampton",
-            "areacodes" : ["757"],
-            "zipcodes" : ["23310"]
-        },
-        {
-            "cityname" : "Northumberland",
-            "areacodes" : ["804"],
-            "zipcodes" : ["22473"]
-        },
-        {
-            "cityname" : "Norton",
-            "areacodes" : ["276"],
-            "zipcodes" : ["24273"]
-        },
-        {
-            "cityname" : "Nottoway",
-            "areacodes" : ["434"],
-            "zipcodes" : ["23955"]
-        },
-        {
-            "cityname" : "Orange",
-            "areacodes" : ["540"],
-            "zipcodes" : ["22960"]
-        },
-        {
-            "cityname" : "Page",
-            "areacodes" : ["540"],
-            "zipcodes" : ["22835"]
-        },
-        {
-            "cityname" : "Patrick",
-            "areacodes" : ["276"],
-            "zipcodes" : ["24171"]
-        },
-        {
-            "cityname" : "Petersburg",
-            "areacodes" : ["804"],
-            "zipcodes" : ["23803"]
-        },
-        {
-            "cityname" : "Pittsylvania",
-            "areacodes" : ["434"],
-            "zipcodes" : ["24531"]
-        },
-        {
-            "cityname" : "Poquoson",
-            "areacodes" : ["757"],
-            "zipcodes" : ["23662"]
-        },
-        {
-            "cityname" : "Portsmouth",
-            "areacodes" : ["757"],
-            "zipcodes" : ["23701"]
-        },
-        {
-            "cityname" : "Powhatan",
-            "areacodes" : ["804"],
-            "zipcodes" : ["23139"]
-        },
-        {
-            "cityname" : "Prince Edward",
-            "areacodes" : ["434"],
-            "zipcodes" : ["23901"]
-        },
-        {
-            "cityname" : "Prince George",
-            "areacodes" : ["804"],
-            "zipcodes" : ["23875"]
-        },
-        {
-            "cityname" : "Prince William",
-            "areacodes" : ["703", "571"],
-            "zipcodes" : ["20109"]
-        },
-        {
-            "cityname" : "Pulaski",
-            "areacodes" : ["540"],
-            "zipcodes" : ["24301"]
-        },
-        {
-            "cityname" : "Radford",
-            "areacodes" : ["540"],
-            "zipcodes" : ["24141"]
-        },
-        {
-            "cityname" : "Rappahannock",
-            "areacodes" : ["540"],
-            "zipcodes" : ["22740"]
-        },
-        {
-            "cityname" : "Richmond County",
-            "areacodes" : ["804"],
-            "zipcodes" : ["22435"]
-        },
-        {
-            "cityname" : "Richmond-City",
-            "areacodes" : ["804"],
-            "zipcodes" : ["23218"]
-        },
-        {
-            "cityname" : "Roanoke County",
-            "areacodes" : ["540"],
-            "zipcodes" : ["24018"]
-        },
-        {
-            "cityname" : "Roanoke-City",
-            "areacodes" : ["540"],
-            "zipcodes" : ["24011"]
-        },
-        {
-            "cityname" : "Rockbridge",
-            "areacodes" : ["540"],
-            "zipcodes" : ["24416"]
-        },
-        {
-            "cityname" : "Rockingham",
-            "areacodes" : ["540"],
-            "zipcodes" : ["22801"]
-        },
-        {
-            "cityname" : "Russell",
-            "areacodes" : ["276"],
-            "zipcodes" : ["24224"]
-        },
-        {
-            "cityname" : "Salem",
-            "areacodes" : ["540"],
-            "zipcodes" : ["24153"]
-        },
-        {
-            "cityname" : "Scott",
-            "areacodes" : ["276"],
-            "zipcodes" : ["24270"]
-        },
-        {
-            "cityname" : "Shenandoah",
-            "areacodes" : ["540"],
-            "zipcodes" : ["22824"]
-        },
-        {
-            "cityname" : "Smyth",
-            "areacodes" : ["276"],
-            "zipcodes" : ["24354"]
-        },
-        {
-            "cityname" : "Southampton",
-            "areacodes" : ["757"],
-            "zipcodes" : ["23827"]
-        },
-        {
-            "cityname" : "Spotsylvania",
-            "areacodes" : ["540"],
-            "zipcodes" : ["22553"]
-        },
-        {
-            "cityname" : "Stafford",
-            "areacodes" : ["540"],
-            "zipcodes" : ["22554"]
-        },
-        {
-            "cityname" : "Staunton",
-            "areacodes" : ["540"],
-            "zipcodes" : ["24401"]
-        },
-        {
-            "cityname" : "Suffolk",
-            "areacodes" : ["757"],
-            "zipcodes" : ["23432"]
-        },
-        {
-            "cityname" : "Surry",
-            "areacodes" : ["757"],
-            "zipcodes" : ["23883"]
-        },
-        {
-            "cityname" : "Sussex",
-            "areacodes" : ["434"],
-            "zipcodes" : ["23884"]
-        },
-        {
-            "cityname" : "Tazewell",
-            "areacodes" : ["276"],
-            "zipcodes" : ["24651"]
-        },
-        {
-            "cityname" : "Virginia Beach",
-            "areacodes" : ["757"],
-            "zipcodes" : ["23450"]
-        },
-        {
-            "cityname" : "Warren",
-            "areacodes" : ["540"],
-            "zipcodes" : ["22630"]
-        },
-        {
-            "cityname" : "Washington",
-            "areacodes" : ["276"],
-            "zipcodes" : ["24210"]
-        },
-        {
-            "cityname" : "Waynesboro",
-            "areacodes" : ["540"],
-            "zipcodes" : ["22980"]
-        },
-        {
-            "cityname" : "Westmoreland",
-            "areacodes" : ["804"],
-            "zipcodes" : ["22520"]
-        },
-        {
-            "cityname" : "Williamsburg",
-            "areacodes" : ["757"],
-            "zipcodes" : ["23185"]
-        },
-        {
-            "cityname" : "Winchester",
-            "areacodes" : ["540"],
-            "zipcodes" : ["22601"]
-        },
-        {
-            "cityname" : "Wise",
-            "areacodes" : ["276"],
-            "zipcodes" : ["24293"]
-        },
-        {
-            "cityname" : "Wythe",
-            "areacodes" : ["276"],
-            "zipcodes" : ["24382"]
-        },
-        {
-            "cityname" : "York",
-            "areacodes" : ["757"],
-            "zipcodes" : ["23690"]
-        }
-
-    ]
+  "name": "Virginia",
+  "capital": "Richmond",
+  "cities": {
+    "Richmond": {
+      "zipcodes": [
+        "23218",
+        "23219",
+        "23220",
+        "23221",
+        "23222",
+        "23223",
+        "23224",
+        "23225",
+        "23226",
+        "23227",
+        "23230",
+        "23231",
+        "23232",
+        "23234",
+        "23235",
+        "23236",
+        "23237",
+        "23238",
+        "23241",
+        "23249",
+        "23250",
+        "23260",
+        "23261",
+        "23269",
+        "23273",
+        "23274",
+        "23276",
+        "23278",
+        "23279",
+        "23282",
+        "23284",
+        "23285",
+        "23286",
+        "23288",
+        "23289",
+        "23290",
+        "23291",
+        "23292",
+        "23293",
+        "23294",
+        "23295",
+        "23297",
+        "23298"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Accomack": {
+      "zipcodes": [
+        "23301",
+        "23302",
+        "23303",
+        "23306",
+        "23307",
+        "23308",
+        "23310",
+        "23313",
+        "23314",
+        "23315",
+        "23316",
+        "23336",
+        "23337",
+        "23341",
+        "23347",
+        "23350",
+        "23354",
+        "23356",
+        "23357",
+        "23358",
+        "23359",
+        "23389"
+      ],
+      "areacodes": [
+        "757"
+      ]
+    },
+    "Albemarle": {
+      "zipcodes": [
+        "22901",
+        "22902",
+        "22903",
+        "22904",
+        "22905",
+        "22906",
+        "22907",
+        "22908",
+        "22909",
+        "22910",
+        "22911",
+        "22920",
+        "22923",
+        "22924",
+        "22931",
+        "22932",
+        "22935",
+        "22936",
+        "22937",
+        "22940",
+        "22942",
+        "22943",
+        "22945",
+        "22946"
+      ],
+      "areacodes": [
+        "434"
+      ]
+    },
+    "Alexandria": {
+      "zipcodes": [
+        "22301",
+        "22302",
+        "22303",
+        "22304",
+        "22305",
+        "22306",
+        "22307",
+        "22308",
+        "22309",
+        "22310",
+        "22311",
+        "22312",
+        "22313",
+        "22314",
+        "22315",
+        "22320",
+        "22321",
+        "22331",
+        "22332",
+        "22333",
+        "22334",
+        "22336"
+      ],
+      "areacodes": [
+        "703",
+        "571"
+      ]
+    },
+    "Alleghany": {
+      "zipcodes": [
+        "24422",
+        "24426",
+        "24448",
+        "24457",
+        "24474",
+        "24484",
+        "24526"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Amelia": {
+      "zipcodes": [
+        "23002"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Amherst": {
+      "zipcodes": [
+        "24521"
+      ],
+      "areacodes": [
+        "434"
+      ]
+    },
+    "Appomattox": {
+      "zipcodes": [
+        "24522"
+      ],
+      "areacodes": [
+        "434"
+      ]
+    },
+    "Arlington": {
+      "zipcodes": [
+        "22201",
+        "22202",
+        "22203",
+        "22204",
+        "22205",
+        "22206",
+        "22207",
+        "22209",
+        "22210",
+        "22211",
+        "22212",
+        "22213",
+        "22214",
+        "22215",
+        "22216",
+        "22217",
+        "22218",
+        "22219",
+        "22222",
+        "22223",
+        "22225",
+        "22226",
+        "22227",
+        "22229",
+        "22230",
+        "22234",
+        "22240",
+        "22241",
+        "22242",
+        "22243",
+        "22244",
+        "22245",
+        "22246"
+      ],
+      "areacodes": [
+        "703",
+        "571"
+      ]
+    },
+    "Augusta": {
+      "zipcodes": [
+        "24401",
+        "24402",
+        "24411",
+        "24412",
+        "24413",
+        "24415",
+        "24416",
+        "24421",
+        "24430",
+        "24431",
+        "24432",
+        "24433",
+        "24435",
+        "24437",
+        "24438",
+        "24439",
+        "24440",
+        "24441",
+        "24442",
+        "24458",
+        "24459",
+        "24460",
+        "24463",
+        "24464",
+        "24465",
+        "24467",
+        "24468",
+        "24469",
+        "24471",
+        "24472",
+        "24473",
+        "24476",
+        "24477",
+        "24479",
+        "24482",
+        "24483",
+        "24485",
+        "24486",
+        "24487"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Bath": {
+      "zipcodes": [
+        "24445",
+        "24460",
+        "24484",
+        "24487"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Bedford": {
+      "zipcodes": [
+        "24523"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Bland": {
+      "zipcodes": [
+        "24315"
+      ],
+      "areacodes": [
+        "276"
+      ]
+    },
+    "Botetourt": {
+      "zipcodes": [
+        "24066",
+        "24077",
+        "24083",
+        "24085",
+        "24090",
+        "24130",
+        "24175",
+        "24177"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Bristol": {
+      "zipcodes": [
+        "24201",
+        "24202",
+        "24203",
+        "24205",
+        "24209"
+      ],
+      "areacodes": [
+        "276"
+      ]
+    },
+    "Brunswick": {
+      "zipcodes": [
+        "23821",
+        "23824",
+        "23843",
+        "23845",
+        "23856",
+        "23868",
+        "23872",
+        "23887",
+        "23889",
+        "23893",
+        "23919"
+      ],
+      "areacodes": [
+        "434"
+      ]
+    },
+    "Buchanan": {
+      "zipcodes": [
+        "24066"
+      ],
+      "areacodes": [
+        "276"
+      ]
+    },
+    "Buckingham": {
+      "zipcodes": [
+        "23921"
+      ],
+      "areacodes": [
+        "434"
+      ]
+    },
+    "Buena Vista": {
+      "zipcodes": [
+        "24416"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Campbell": {
+      "zipcodes": [
+        "24501",
+        "24502",
+        "24503",
+        "24504",
+        "24505",
+        "24506",
+        "24512",
+        "24513",
+        "24514",
+        "24515",
+        "24517",
+        "24522",
+        "24526",
+        "24527",
+        "24528",
+        "24530",
+        "24531",
+        "24533",
+        "24534",
+        "24536",
+        "24538",
+        "24539",
+        "24540",
+        "24541",
+        "24543",
+        "24544",
+        "24549",
+        "24550",
+        "24551",
+        "24553",
+        "24554",
+        "24555",
+        "24556",
+        "24557",
+        "24558",
+        "24562",
+        "24563",
+        "24565",
+        "24566",
+        "24569",
+        "24570",
+        "24571",
+        "24572",
+        "24574",
+        "24576",
+        "24577",
+        "24578",
+        "24579",
+        "24580",
+        "24581",
+        "24586",
+        "24588",
+        "24589",
+        "24590",
+        "24592",
+        "24593",
+        "24594",
+        "24595",
+        "24597",
+        "24598",
+        "24599"
+      ],
+      "areacodes": [
+        "434"
+      ]
+    },
+    "Caroline": {
+      "zipcodes": [
+        "22427",
+        "22428",
+        "22446",
+        "22463",
+        "22476",
+        "22485",
+        "22501",
+        "22514",
+        "22520",
+        "22534",
+        "22535",
+        "22538",
+        "22546",
+        "22552",
+        "22553",
+        "22555",
+        "22556",
+        "22565",
+        "22567",
+        "22580",
+        "22581"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Carroll": {
+      "zipcodes": [
+        "24312",
+        "24317",
+        "24318",
+        "24323",
+        "24325",
+        "24326",
+        "24328",
+        "24330",
+        "24333",
+        "24343",
+        "24347",
+        "24350",
+        "24351",
+        "24352",
+        "24354",
+        "24360",
+        "24361",
+        "24363",
+        "24368",
+        "24374",
+        "24381",
+        "24382"
+      ],
+      "areacodes": [
+        "276"
+      ]
+    },
+    "Charles City": {
+      "zipcodes": [
+        "23030"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Charlotte": {
+      "zipcodes": [
+        "23923"
+      ],
+      "areacodes": [
+        "434"
+      ]
+    },
+    "Charlottesville": {
+      "zipcodes": [
+        "22901",
+        "22902",
+        "22903",
+        "22904",
+        "22905",
+        "22906",
+        "22907",
+        "22908",
+        "22909",
+        "22910",
+        "22911"
+      ],
+      "areacodes": [
+        "434"
+      ]
+    },
+    "Chesapeake": {
+      "zipcodes": [
+        "23320",
+        "23321",
+        "23322",
+        "23323",
+        "23324",
+        "23325",
+        "23326",
+        "23327",
+        "23328"
+      ],
+      "areacodes": [
+        "757"
+      ]
+    },
+    "Chesterfield": {
+      "zipcodes": [
+        "23832",
+        "23838"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Clarke": {
+      "zipcodes": [
+        "22611",
+        "22620",
+        "22643",
+        "22646",
+        "22649"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Colonial Heights": {
+      "zipcodes": [
+        "23834"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Covington": {
+      "zipcodes": [
+        "24426"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Craig": {
+      "zipcodes": [
+        "24070"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Culpeper": {
+      "zipcodes": [
+        "22701"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Cumberland": {
+      "zipcodes": [
+        "23040"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Danville": {
+      "zipcodes": [
+        "24540",
+        "24541",
+        "24543",
+        "24544"
+      ],
+      "areacodes": [
+        "434"
+      ]
+    },
+    "Dickenson": {
+      "zipcodes": [
+        "24224",
+        "24226",
+        "24228",
+        "24230",
+        "24236",
+        "24237",
+        "24239",
+        "24244",
+        "24246",
+        "24250",
+        "24256",
+        "24260",
+        "24272"
+      ],
+      "areacodes": [
+        "276"
+      ]
+    },
+    "Dinwiddie": {
+      "zipcodes": [
+        "23841"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Emporia": {
+      "zipcodes": [
+        "23847"
+      ],
+      "areacodes": [
+        "434"
+      ]
+    },
+    "Essex": {
+      "zipcodes": [
+        "22437",
+        "22438",
+        "22454",
+        "22460",
+        "22476",
+        "23148"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Fairfax": {
+      "zipcodes": [
+        "22030",
+        "22031",
+        "22032",
+        "22033",
+        "22034",
+        "22035",
+        "22036",
+        "22037",
+        "22038",
+        "22039"
+      ],
+      "areacodes": [
+        "703",
+        "571"
+      ]
+    },
+    "Fairfax City": {
+      "zipcodes": [
+        "22030"
+      ],
+      "areacodes": [
+        "703",
+        "571"
+      ]
+    },
+    "Falls Church": {
+      "zipcodes": [
+        "22040",
+        "22041",
+        "22042",
+        "22043",
+        "22044",
+        "22046"
+      ],
+      "areacodes": [
+        "703",
+        "571"
+      ]
+    },
+    "Fauquier": {
+      "zipcodes": [
+        "20106",
+        "20115",
+        "20116",
+        "20119",
+        "20137",
+        "20138",
+        "20139",
+        "20140",
+        "20144",
+        "20184",
+        "20186",
+        "20187",
+        "20188",
+        "22712",
+        "22720",
+        "22728",
+        "22734",
+        "22739",
+        "22742"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Floyd": {
+      "zipcodes": [
+        "24091"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Fluvanna": {
+      "zipcodes": [
+        "22963"
+      ],
+      "areacodes": [
+        "434"
+      ]
+    },
+    "Franklin County": {
+      "zipcodes": [
+        "24065",
+        "24067",
+        "24088",
+        "24101",
+        "24102",
+        "24112",
+        "24121",
+        "24137",
+        "24146",
+        "24151",
+        "24176"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Franklin-City": {
+      "zipcodes": [
+        "23851"
+      ],
+      "areacodes": [
+        "757"
+      ]
+    },
+    "Frederick": {
+      "zipcodes": [
+        "22601",
+        "22602",
+        "22603",
+        "22604",
+        "22611",
+        "22620",
+        "22624",
+        "22625",
+        "22637",
+        "22641",
+        "22645",
+        "22646",
+        "22649",
+        "22655",
+        "22656",
+        "22663"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Fredericksburg": {
+      "zipcodes": [
+        "22401",
+        "22402",
+        "22403",
+        "22404",
+        "22405",
+        "22406",
+        "22407",
+        "22408",
+        "22412"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Galax": {
+      "zipcodes": [
+        "24333"
+      ],
+      "areacodes": [
+        "276"
+      ]
+    },
+    "Giles": {
+      "zipcodes": [
+        "24124"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Gloucester": {
+      "zipcodes": [
+        "23061"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Goochland": {
+      "zipcodes": [
+        "23063"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Grayson": {
+      "zipcodes": [
+        "24348"
+      ],
+      "areacodes": [
+        "276"
+      ]
+    },
+    "Greene": {
+      "zipcodes": [
+        "22968"
+      ],
+      "areacodes": [
+        "434"
+      ]
+    },
+    "Greensville": {
+      "zipcodes": [
+        "23847"
+      ],
+      "areacodes": [
+        "434"
+      ]
+    },
+    "Halifax": {
+      "zipcodes": [
+        "24558"
+      ],
+      "areacodes": [
+        "434"
+      ]
+    },
+    "Hampton": {
+      "zipcodes": [
+        "23605",
+        "23630",
+        "23651",
+        "23661",
+        "23663",
+        "23664",
+        "23665",
+        "23666",
+        "23667",
+        "23668",
+        "23669",
+        "23670",
+        "23681"
+      ],
+      "areacodes": [
+        "757"
+      ]
+    },
+    "Hanover": {
+      "zipcodes": [
+        "23069"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Harrisonburg": {
+      "zipcodes": [
+        "22801",
+        "22802",
+        "22803",
+        "22807"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Henrico": {
+      "zipcodes": [
+        "23075"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Henry": {
+      "zipcodes": [
+        "24102"
+      ],
+      "areacodes": [
+        "276"
+      ]
+    },
+    "Highland": {
+      "zipcodes": [
+        "24465"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Hopewell": {
+      "zipcodes": [
+        "23860"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Isle Of Wight": {
+      "zipcodes": [
+        "23397"
+      ],
+      "areacodes": [
+        "757"
+      ]
+    },
+    "James City": {
+      "zipcodes": [
+        "23185"
+      ],
+      "areacodes": [
+        "757"
+      ]
+    },
+    "King And Queen": {
+      "zipcodes": [
+        "23085"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "King George": {
+      "zipcodes": [
+        "22485"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "King William": {
+      "zipcodes": [
+        "23086"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Lancaster": {
+      "zipcodes": [
+        "22503"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Lee": {
+      "zipcodes": [
+        "24263"
+      ],
+      "areacodes": [
+        "276"
+      ]
+    },
+    "Lexington": {
+      "zipcodes": [
+        "24450"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Loudoun": {
+      "zipcodes": [
+        "20175"
+      ],
+      "areacodes": [
+        "703",
+        "571"
+      ]
+    },
+    "Louisa": {
+      "zipcodes": [
+        "23093"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Lunenburg": {
+      "zipcodes": [
+        "23952"
+      ],
+      "areacodes": [
+        "434"
+      ]
+    },
+    "Lynchburg": {
+      "zipcodes": [
+        "24501"
+      ],
+      "areacodes": [
+        "434"
+      ]
+    },
+    "Madison": {
+      "zipcodes": [
+        "22727"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Manassas": {
+      "zipcodes": [
+        "20110"
+      ],
+      "areacodes": [
+        "703",
+        "571"
+      ]
+    },
+    "Manassas Park": {
+      "zipcodes": [
+        "20111"
+      ],
+      "areacodes": [
+        "703",
+        "571"
+      ]
+    },
+    "Martinsville": {
+      "zipcodes": [
+        "24112"
+      ],
+      "areacodes": [
+        "276"
+      ]
+    },
+    "Mathews": {
+      "zipcodes": [
+        "23109"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Mecklenburg": {
+      "zipcodes": [
+        "23917"
+      ],
+      "areacodes": [
+        "434"
+      ]
+    },
+    "Middlesex": {
+      "zipcodes": [
+        "23149"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Montgomery": {
+      "zipcodes": [
+        "24060"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Nelson": {
+      "zipcodes": [
+        "22958"
+      ],
+      "areacodes": [
+        "434"
+      ]
+    },
+    "New Kent": {
+      "zipcodes": [
+        "23124"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Newport News": {
+      "zipcodes": [
+        "23601"
+      ],
+      "areacodes": [
+        "757"
+      ]
+    },
+    "Norfolk": {
+      "zipcodes": [
+        "23501"
+      ],
+      "areacodes": [
+        "757"
+      ]
+    },
+    "Northampton": {
+      "zipcodes": [
+        "23310"
+      ],
+      "areacodes": [
+        "757"
+      ]
+    },
+    "Northumberland": {
+      "zipcodes": [
+        "22473"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Norton": {
+      "zipcodes": [
+        "24273"
+      ],
+      "areacodes": [
+        "276"
+      ]
+    },
+    "Nottoway": {
+      "zipcodes": [
+        "23955"
+      ],
+      "areacodes": [
+        "434"
+      ]
+    },
+    "Orange": {
+      "zipcodes": [
+        "22960"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Page": {
+      "zipcodes": [
+        "22835"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Patrick": {
+      "zipcodes": [
+        "24171"
+      ],
+      "areacodes": [
+        "276"
+      ]
+    },
+    "Petersburg": {
+      "zipcodes": [
+        "23803"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Pittsylvania": {
+      "zipcodes": [
+        "24531"
+      ],
+      "areacodes": [
+        "434"
+      ]
+    },
+    "Poquoson": {
+      "zipcodes": [
+        "23662"
+      ],
+      "areacodes": [
+        "757"
+      ]
+    },
+    "Portsmouth": {
+      "zipcodes": [
+        "23701"
+      ],
+      "areacodes": [
+        "757"
+      ]
+    },
+    "Powhatan": {
+      "zipcodes": [
+        "23139"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Prince Edward": {
+      "zipcodes": [
+        "23901"
+      ],
+      "areacodes": [
+        "434"
+      ]
+    },
+    "Prince George": {
+      "zipcodes": [
+        "23875"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Prince William": {
+      "zipcodes": [
+        "20109"
+      ],
+      "areacodes": [
+        "703",
+        "571"
+      ]
+    },
+    "Pulaski": {
+      "zipcodes": [
+        "24301"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Radford": {
+      "zipcodes": [
+        "24141"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Rappahannock": {
+      "zipcodes": [
+        "22740"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Richmond County": {
+      "zipcodes": [
+        "22435"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Richmond-City": {
+      "zipcodes": [
+        "23218"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Roanoke County": {
+      "zipcodes": [
+        "24018"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Roanoke-City": {
+      "zipcodes": [
+        "24011"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Rockbridge": {
+      "zipcodes": [
+        "24416"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Rockingham": {
+      "zipcodes": [
+        "22801"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Russell": {
+      "zipcodes": [
+        "24224"
+      ],
+      "areacodes": [
+        "276"
+      ]
+    },
+    "Salem": {
+      "zipcodes": [
+        "24153"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Scott": {
+      "zipcodes": [
+        "24270"
+      ],
+      "areacodes": [
+        "276"
+      ]
+    },
+    "Shenandoah": {
+      "zipcodes": [
+        "22824"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Smyth": {
+      "zipcodes": [
+        "24354"
+      ],
+      "areacodes": [
+        "276"
+      ]
+    },
+    "Southampton": {
+      "zipcodes": [
+        "23827"
+      ],
+      "areacodes": [
+        "757"
+      ]
+    },
+    "Spotsylvania": {
+      "zipcodes": [
+        "22553"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Stafford": {
+      "zipcodes": [
+        "22554"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Staunton": {
+      "zipcodes": [
+        "24401"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Suffolk": {
+      "zipcodes": [
+        "23432"
+      ],
+      "areacodes": [
+        "757"
+      ]
+    },
+    "Surry": {
+      "zipcodes": [
+        "23883"
+      ],
+      "areacodes": [
+        "757"
+      ]
+    },
+    "Sussex": {
+      "zipcodes": [
+        "23884"
+      ],
+      "areacodes": [
+        "434"
+      ]
+    },
+    "Tazewell": {
+      "zipcodes": [
+        "24651"
+      ],
+      "areacodes": [
+        "276"
+      ]
+    },
+    "Virginia Beach": {
+      "zipcodes": [
+        "23450"
+      ],
+      "areacodes": [
+        "757"
+      ]
+    },
+    "Warren": {
+      "zipcodes": [
+        "22630"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Washington": {
+      "zipcodes": [
+        "24210"
+      ],
+      "areacodes": [
+        "276"
+      ]
+    },
+    "Waynesboro": {
+      "zipcodes": [
+        "22980"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Westmoreland": {
+      "zipcodes": [
+        "22520"
+      ],
+      "areacodes": [
+        "804"
+      ]
+    },
+    "Williamsburg": {
+      "zipcodes": [
+        "23185"
+      ],
+      "areacodes": [
+        "757"
+      ]
+    },
+    "Winchester": {
+      "zipcodes": [
+        "22601"
+      ],
+      "areacodes": [
+        "540"
+      ]
+    },
+    "Wise": {
+      "zipcodes": [
+        "24293"
+      ],
+      "areacodes": [
+        "276"
+      ]
+    },
+    "Wythe": {
+      "zipcodes": [
+        "24382"
+      ],
+      "areacodes": [
+        "276"
+      ]
+    },
+    "York": {
+      "zipcodes": [
+        "23690"
+      ],
+      "areacodes": [
+        "757"
+      ]
+    }
+  }
 }

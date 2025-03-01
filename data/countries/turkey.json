@@ -309,9 +309,8 @@
   "provinces": {
     "Istanbul": {
       "name": "Istanbul",
-      "cities": [
-        {
-          "cityname": "Istanbul",
+      "cities": {
+        "Istanbul": {
           "zipcodes": [
             "34000",
             "34001",
@@ -324,8 +323,7 @@
             "0216"
           ]
         },
-        {
-          "cityname": "Bakirkoy",
+        "Bakirkoy": {
           "zipcodes": [
             "34140",
             "34141",
@@ -337,8 +335,7 @@
             "0212"
           ]
         },
-        {
-          "cityname": "Kadikoy",
+        "Kadikoy": {
           "zipcodes": [
             "34710",
             "34711",
@@ -350,8 +347,7 @@
             "0216"
           ]
         },
-        {
-          "cityname": "Fatih",
+        "Fatih": {
           "zipcodes": [
             "34080",
             "34081",
@@ -363,8 +359,7 @@
             "0212"
           ]
         },
-        {
-          "cityname": "Beşiktaş",
+        "Beşiktaş": {
           "zipcodes": [
             "34353",
             "34354",
@@ -376,13 +371,12 @@
             "0212"
           ]
         }
-      ]
+      }
     },
     "Ankara": {
       "name": "Ankara",
-      "cities": [
-        {
-          "cityname": "Ankara",
+      "cities": {
+        "Ankara": {
           "zipcodes": [
             "06000",
             "06001",
@@ -394,8 +388,7 @@
             "0312"
           ]
         },
-        {
-          "cityname": "Çankaya",
+        "Çankaya": {
           "zipcodes": [
             "06430",
             "06431",
@@ -407,8 +400,7 @@
             "0312"
           ]
         },
-        {
-          "cityname": "Keçiören",
+        "Keçiören": {
           "zipcodes": [
             "06200",
             "06201",
@@ -420,8 +412,7 @@
             "0312"
           ]
         },
-        {
-          "cityname": "Mamak",
+        "Mamak": {
           "zipcodes": [
             "06210",
             "06211",
@@ -433,8 +424,7 @@
             "0312"
           ]
         },
-        {
-          "cityname": "Sincan",
+        "Sincan": {
           "zipcodes": [
             "06930",
             "06931",
@@ -446,13 +436,12 @@
             "0312"
           ]
         }
-      ]
+      }
     },
     "Izmir": {
       "name": "Izmir",
-      "cities": [
-        {
-          "cityname": "Izmir",
+      "cities": {
+        "Izmir": {
           "zipcodes": [
             "35000",
             "35001",
@@ -464,8 +453,7 @@
             "0232"
           ]
         },
-        {
-          "cityname": "Konak",
+        "Konak": {
           "zipcodes": [
             "35210",
             "35211",
@@ -477,8 +465,7 @@
             "0232"
           ]
         },
-        {
-          "cityname": "Bornova",
+        "Bornova": {
           "zipcodes": [
             "35090",
             "35091",
@@ -490,8 +477,7 @@
             "0232"
           ]
         },
-        {
-          "cityname": "Karşıyaka",
+        "Karşıyaka": {
           "zipcodes": [
             "35500",
             "35501",
@@ -503,8 +489,7 @@
             "0232"
           ]
         },
-        {
-          "cityname": "Buca",
+        "Buca": {
           "zipcodes": [
             "35360",
             "35361",
@@ -516,13 +501,12 @@
             "0232"
           ]
         }
-      ]
+      }
     },
     "Bursa": {
       "name": "Bursa",
-      "cities": [
-        {
-          "cityname": "Bursa",
+      "cities": {
+        "Bursa": {
           "zipcodes": [
             "16000",
             "16001",
@@ -534,8 +518,7 @@
             "0224"
           ]
         },
-        {
-          "cityname": "Osmangazi",
+        "Osmangazi": {
           "zipcodes": [
             "16210",
             "16211",
@@ -547,8 +530,7 @@
             "0224"
           ]
         },
-        {
-          "cityname": "Yıldırım",
+        "Yıldırım": {
           "zipcodes": [
             "16220",
             "16221",
@@ -560,8 +542,7 @@
             "0224"
           ]
         },
-        {
-          "cityname": "Nilüfer",
+        "Nilüfer": {
           "zipcodes": [
             "16110",
             "16111",
@@ -573,8 +554,7 @@
             "0224"
           ]
         },
-        {
-          "cityname": "Gemlik",
+        "Gemlik": {
           "zipcodes": [
             "16600",
             "16601",
@@ -586,13 +566,12 @@
             "0224"
           ]
         }
-      ]
+      }
     },
     "Antalya": {
       "name": "Antalya",
-      "cities": [
-        {
-          "cityname": "Antalya",
+      "cities": {
+        "Antalya": {
           "zipcodes": [
             "07000",
             "07001",
@@ -604,8 +583,7 @@
             "0242"
           ]
         },
-        {
-          "cityname": "Kepez",
+        "Kepez": {
           "zipcodes": [
             "07010",
             "07011",
@@ -617,8 +595,7 @@
             "0242"
           ]
         },
-        {
-          "cityname": "Muratpaşa",
+        "Muratpaşa": {
           "zipcodes": [
             "07100",
             "07101",
@@ -630,8 +607,7 @@
             "0242"
           ]
         },
-        {
-          "cityname": "Alanya",
+        "Alanya": {
           "zipcodes": [
             "07400",
             "07401",
@@ -643,8 +619,7 @@
             "0242"
           ]
         },
-        {
-          "cityname": "Manavgat",
+        "Manavgat": {
           "zipcodes": [
             "07600",
             "07601",
@@ -656,13 +631,12 @@
             "0242"
           ]
         }
-      ]
+      }
     },
     "Adana": {
       "name": "Adana",
-      "cities": [
-        {
-          "cityname": "Adana",
+      "cities": {
+        "Adana": {
           "zipcodes": [
             "01000",
             "01001",
@@ -674,8 +648,7 @@
             "0322"
           ]
         },
-        {
-          "cityname": "Seyhan",
+        "Seyhan": {
           "zipcodes": [
             "01010",
             "01011",
@@ -687,8 +660,7 @@
             "0322"
           ]
         },
-        {
-          "cityname": "Yüreğir",
+        "Yüreğir": {
           "zipcodes": [
             "01210",
             "01211",
@@ -700,8 +672,7 @@
             "0322"
           ]
         },
-        {
-          "cityname": "Çukurova",
+        "Çukurova": {
           "zipcodes": [
             "01300",
             "01301",
@@ -713,8 +684,7 @@
             "0322"
           ]
         },
-        {
-          "cityname": "Aladağ",
+        "Aladağ": {
           "zipcodes": [
             "01600",
             "01601",
@@ -726,13 +696,12 @@
             "0322"
           ]
         }
-      ]
+      }
     },
     "Konya": {
       "name": "Konya",
-      "cities": [
-        {
-          "cityname": "Konya",
+      "cities": {
+        "Konya": {
           "zipcodes": [
             "42000",
             "42001",
@@ -744,8 +713,7 @@
             "0332"
           ]
         },
-        {
-          "cityname": "Selçuklu",
+        "Selçuklu": {
           "zipcodes": [
             "42010",
             "42011",
@@ -757,8 +725,7 @@
             "0332"
           ]
         },
-        {
-          "cityname": "Meram",
+        "Meram": {
           "zipcodes": [
             "42020",
             "42021",
@@ -770,8 +737,7 @@
             "0332"
           ]
         },
-        {
-          "cityname": "Karatay",
+        "Karatay": {
           "zipcodes": [
             "42030",
             "42031",
@@ -783,8 +749,7 @@
             "0332"
           ]
         },
-        {
-          "cityname": "Ereğli",
+        "Ereğli": {
           "zipcodes": [
             "42300",
             "42301",
@@ -796,13 +761,12 @@
             "0332"
           ]
         }
-      ]
+      }
     },
     "Gaziantep": {
       "name": "Gaziantep",
-      "cities": [
-        {
-          "cityname": "Gaziantep",
+      "cities": {
+        "Gaziantep": {
           "zipcodes": [
             "27000",
             "27001",
@@ -814,8 +778,7 @@
             "0342"
           ]
         },
-        {
-          "cityname": "Şahinbey",
+        "Şahinbey": {
           "zipcodes": [
             "27010",
             "27011",
@@ -827,8 +790,7 @@
             "0342"
           ]
         },
-        {
-          "cityname": "Şehitkamil",
+        "Şehitkamil": {
           "zipcodes": [
             "27020",
             "27021",
@@ -840,8 +802,7 @@
             "0342"
           ]
         },
-        {
-          "cityname": "Oğuzeli",
+        "Oğuzeli": {
           "zipcodes": [
             "27800",
             "27801",
@@ -853,8 +814,7 @@
             "0342"
           ]
         },
-        {
-          "cityname": "Nizip",
+        "Nizip": {
           "zipcodes": [
             "27700",
             "27701",
@@ -866,13 +826,12 @@
             "0342"
           ]
         }
-      ]
+      }
     },
     "Mersin": {
       "name": "Mersin",
-      "cities": [
-        {
-          "cityname": "Mersin",
+      "cities": {
+        "Mersin": {
           "zipcodes": [
             "33000",
             "33001",
@@ -884,8 +843,7 @@
             "0324"
           ]
         },
-        {
-          "cityname": "Akdeniz",
+        "Akdeniz": {
           "zipcodes": [
             "33010",
             "33011",
@@ -897,8 +855,7 @@
             "0324"
           ]
         },
-        {
-          "cityname": "Toroslar",
+        "Toroslar": {
           "zipcodes": [
             "33100",
             "33101",
@@ -910,8 +867,7 @@
             "0324"
           ]
         },
-        {
-          "cityname": "Mezitli",
+        "Mezitli": {
           "zipcodes": [
             "33300",
             "33301",
@@ -923,8 +879,7 @@
             "0324"
           ]
         },
-        {
-          "cityname": "Erdemli",
+        "Erdemli": {
           "zipcodes": [
             "33700",
             "33701",
@@ -936,13 +891,12 @@
             "0324"
           ]
         }
-      ]
+      }
     },
     "Kocaeli": {
       "name": "Kocaeli",
-      "cities": [
-        {
-          "cityname": "Kocaeli",
+      "cities": {
+        "Kocaeli": {
           "zipcodes": [
             "41000",
             "41001",
@@ -954,8 +908,7 @@
             "0262"
           ]
         },
-        {
-          "cityname": "İzmit",
+        "İzmit": {
           "zipcodes": [
             "41010",
             "41011",
@@ -967,8 +920,7 @@
             "0262"
           ]
         },
-        {
-          "cityname": "Gebze",
+        "Gebze": {
           "zipcodes": [
             "41400",
             "41401",
@@ -980,8 +932,7 @@
             "0262"
           ]
         },
-        {
-          "cityname": "Derince",
+        "Derince": {
           "zipcodes": [
             "41900",
             "41901",
@@ -993,8 +944,7 @@
             "0262"
           ]
         },
-        {
-          "cityname": "Kartepe",
+        "Kartepe": {
           "zipcodes": [
             "41700",
             "41701",
@@ -1006,13 +956,12 @@
             "0262"
           ]
         }
-      ]
+      }
     },
     "Şanlıurfa": {
       "name": "Şanlıurfa",
-      "cities": [
-        {
-          "cityname": "Şanlıurfa",
+      "cities": {
+        "Şanlıurfa": {
           "zipcodes": [
             "63000",
             "63001",
@@ -1024,8 +973,7 @@
             "0414"
           ]
         },
-        {
-          "cityname": "Haliliye",
+        "Haliliye": {
           "zipcodes": [
             "63100",
             "63101",
@@ -1037,8 +985,7 @@
             "0414"
           ]
         },
-        {
-          "cityname": "Eyyübiye",
+        "Eyyübiye": {
           "zipcodes": [
             "63200",
             "63201",
@@ -1050,8 +997,7 @@
             "0414"
           ]
         },
-        {
-          "cityname": "Karaköprü",
+        "Karaköprü": {
           "zipcodes": [
             "63300",
             "63301",
@@ -1063,8 +1009,7 @@
             "0414"
           ]
         },
-        {
-          "cityname": "Birecik",
+        "Birecik": {
           "zipcodes": [
             "63500",
             "63501",
@@ -1076,13 +1021,12 @@
             "0414"
           ]
         }
-      ]
+      }
     },
     "Tekirdağ": {
       "name": "Tekirdağ",
-      "cities": [
-        {
-          "cityname": "Tekirdağ",
+      "cities": {
+        "Tekirdağ": {
           "zipcodes": [
             "59000",
             "59001",
@@ -1094,8 +1038,7 @@
             "0282"
           ]
         },
-        {
-          "cityname": "Marmara Ereğlisi",
+        "Marmara Ereğlisi": {
           "zipcodes": [
             "59800",
             "59801",
@@ -1107,8 +1050,7 @@
             "0282"
           ]
         },
-        {
-          "cityname": "Çorlu",
+        "Çorlu": {
           "zipcodes": [
             "59860",
             "59861",
@@ -1120,8 +1062,7 @@
             "0282"
           ]
         },
-        {
-          "cityname": "Ergene",
+        "Ergene": {
           "zipcodes": [
             "59810",
             "59811",
@@ -1133,8 +1074,7 @@
             "0282"
           ]
         },
-        {
-          "cityname": "Süleymanpaşa",
+        "Süleymanpaşa": {
           "zipcodes": [
             "59010",
             "59011",
@@ -1146,13 +1086,12 @@
             "0282"
           ]
         }
-      ]
+      }
     },
     "Eskişehir": {
       "name": "Eskişehir",
-      "cities": [
-        {
-          "cityname": "Eskişehir",
+      "cities": {
+        "Eskişehir": {
           "zipcodes": [
             "26000",
             "26001",
@@ -1164,8 +1103,7 @@
             "0222"
           ]
         },
-        {
-          "cityname": "Odunpazarı",
+        "Odunpazarı": {
           "zipcodes": [
             "26010",
             "26011",
@@ -1177,8 +1115,7 @@
             "0222"
           ]
         },
-        {
-          "cityname": "Tepebaşı",
+        "Tepebaşı": {
           "zipcodes": [
             "26100",
             "26101",
@@ -1190,8 +1127,7 @@
             "0222"
           ]
         },
-        {
-          "cityname": "Sivrihisar",
+        "Sivrihisar": {
           "zipcodes": [
             "26800",
             "26801",
@@ -1203,8 +1139,7 @@
             "0222"
           ]
         },
-        {
-          "cityname": "Alpu",
+        "Alpu": {
           "zipcodes": [
             "26700",
             "26701",
@@ -1216,13 +1151,12 @@
             "0222"
           ]
         }
-      ]
+      }
     },
     "Samsun": {
       "name": "Samsun",
-      "cities": [
-        {
-          "cityname": "Samsun",
+      "cities": {
+        "Samsun": {
           "zipcodes": [
             "55000",
             "55001",
@@ -1234,8 +1168,7 @@
             "0362"
           ]
         },
-        {
-          "cityname": "Atakum",
+        "Atakum": {
           "zipcodes": [
             "55200",
             "55201",
@@ -1247,8 +1180,7 @@
             "0362"
           ]
         },
-        {
-          "cityname": "Canik",
+        "Canik": {
           "zipcodes": [
             "55300",
             "55301",
@@ -1260,8 +1192,7 @@
             "0362"
           ]
         },
-        {
-          "cityname": "Ladik",
+        "Ladik": {
           "zipcodes": [
             "55400",
             "55401",
@@ -1273,8 +1204,7 @@
             "0362"
           ]
         },
-        {
-          "cityname": "Bafra",
+        "Bafra": {
           "zipcodes": [
             "55500",
             "55501",
@@ -1286,13 +1216,12 @@
             "0362"
           ]
         }
-      ]
+      }
     },
     "Diyarbakır": {
       "name": "Diyarbakır",
-      "cities": [
-        {
-          "cityname": "Diyarbakır",
+      "cities": {
+        "Diyarbakır": {
           "zipcodes": [
             "21000",
             "21001",
@@ -1304,8 +1233,7 @@
             "0412"
           ]
         },
-        {
-          "cityname": "Kayapınar",
+        "Kayapınar": {
           "zipcodes": [
             "21010",
             "21011",
@@ -1317,8 +1245,7 @@
             "0412"
           ]
         },
-        {
-          "cityname": "Yenişehir",
+        "Yenişehir": {
           "zipcodes": [
             "21020",
             "21021",
@@ -1330,8 +1257,7 @@
             "0412"
           ]
         },
-        {
-          "cityname": "Bağlar",
+        "Bağlar": {
           "zipcodes": [
             "21030",
             "21031",
@@ -1343,8 +1269,7 @@
             "0412"
           ]
         },
-        {
-          "cityname": "Sur",
+        "Sur": {
           "zipcodes": [
             "21040",
             "21041",
@@ -1356,7 +1281,7 @@
             "0412"
           ]
         }
-      ]
+      }
     }
   },
   "citycontainers": [

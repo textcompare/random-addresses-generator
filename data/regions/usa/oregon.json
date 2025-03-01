@@ -1,1279 +1,1132 @@
 {
-    "name": "Oregon",
-    "capital": "Salem",
-    "cities": [
-        {
-            "cityname": "Portland",
-            "areacodes": [
-                "503",
-                "971"
-            ],
-            "zipcodes": [
-                "97035",
-                "97201",
-                "97202"
-            ]
-        },
-        {
-            "cityname": "Adair Village",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97330"
-            ]
-        },
-        {
-            "cityname": "Elgin",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97827"
-            ]
-        },
-        {
-            "cityname": "Lebanon",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97355"
-            ]
-        },
-        {
-            "cityname": "Rivergrove",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97034"
-            ]
-        },
-        {
-            "cityname": "Wood Village",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97060"
-            ]
-        },
-        {
-            "cityname": "Adams",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97810"
-            ]
-        },
-        {
-            "cityname": "Elkton",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97436"
-            ]
-        },
-        {
-            "cityname": "Lexington",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97839"
-            ]
-        },
-        {
-            "cityname": "Rockaway Beach",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97136"
-            ]
-        },
-        {
-            "cityname": "Woodburn",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97071"
-            ]
-        },
-        {
-            "cityname": "Adrian",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97901"
-            ]
-        },
-        {
-            "cityname": "Enterprise",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97828"
-            ]
-        },
-        {
-            "cityname": "Lincoln City",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97367"
-            ]
-        },
-        {
-            "cityname": "Rogue River",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97537"
-            ]
-        },
-        {
-            "cityname": "Yachats",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97498"
-            ]
-        },
-        {
-            "cityname": "Albany",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97321",
-                "97322"
-            ]
-        },
-        {
-            "cityname": "Estacada",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97023"
-            ]
-        },
-        {
-            "cityname": "Lonerock",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97823"
-            ]
-        },
-        {
-            "cityname": "Roseburg",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97470",
-                "97471"
-            ]
-        },
-        {
-            "cityname": "Yamhill",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97148"
-            ]
-        },
-        {
-            "cityname": "Amity",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97101"
-            ]
-        },
-        {
-            "cityname": "Eugene",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97401",
-                "97402",
-                "97403",
-                "97404",
-                "97405",
-                "97408"
-            ]
-        },
-        {
-            "cityname": "Long Creek",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97856"
-            ]
-        },
-        {
-            "cityname": "Rufus",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97050"
-            ]
-        },
-        {
-            "cityname": "Yoncalla",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97499"
-            ]
-        },
-        {
-            "cityname": "Cascade Locks",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97014"
-            ]
-        },
-        {
-            "cityname": "Heppner",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97836"
-            ]
-        },
-        {
-            "cityname": "Myrtle Creek",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97457"
-            ]
-        },
-        {
-            "cityname": "Sweet Home",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97386"
-            ]
-        },
-        {
-            "cityname": "Cave Junction",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97523"
-            ]
-        },
-        {
-            "cityname": "Hermiston",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97838"
-            ]
-        },
-        {
-            "cityname": "Myrtle Point",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97458"
-            ]
-        },
-        {
-            "cityname": "Talent",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97540"
-            ]
-        },
-        {
-            "cityname": "Central Point",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97502"
-            ]
-        },
-        {
-            "cityname": "Hillsboro",
-            "areacodes": [
-                "503",
-                "971"
-            ],
-            "zipcodes": [
-                "97123",
-                "97124"
-            ]
-        },
-        {
-            "cityname": "Nehalem",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97131"
-            ]
-        },
-        {
-            "cityname": "Tangent",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97389"
-            ]
-        },
-        {
-            "cityname": "Chiloquin",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97624"
-            ]
-        },
-        {
-            "cityname": "Hines",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97738"
-            ]
-        },
-        {
-            "cityname": "Newberg",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97132"
-            ]
-        },
-        {
-            "cityname": "The Dalles",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97058"
-            ]
-        },
-        {
-            "cityname": "Clatskanie",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97016"
-            ]
-        },
-        {
-            "cityname": "Hood River",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97031"
-            ]
-        },
-        {
-            "cityname": "Newport",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97365"
-            ]
-        },
-        {
-            "cityname": "Tigard",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97223",
-                "97224"
-            ]
-        },
-        {
-            "cityname": "Coburg",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97408"
-            ]
-        },
-        {
-            "cityname": "Hubbard",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97032"
-            ]
-        },
-        {
-            "cityname": "North Bend",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97459"
-            ]
-        },
-        {
-            "cityname": "Tillamook",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97141"
-            ]
-        },
-        {
-            "cityname": "Columbia City",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97018"
-            ]
-        },
-        {
-            "cityname": "Huntington",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97907"
-            ]
-        },
-        {
-            "cityname": "North Plains",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97133"
-            ]
-        },
-        {
-            "cityname": "Toledo",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97391"
-            ]
-        },
-        {
-            "cityname": "Condon",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97823"
-            ]
-        },
-        {
-            "cityname": "Idanha",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97350"
-            ]
-        },
-        {
-            "cityname": "North Powder",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97867"
-            ]
-        },
-        {
-            "cityname": "Troutdale",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97060"
-            ]
-        },
-        {
-            "cityname": "Tualatin",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97062"
-            ]
-        },
-        {
-            "cityname": "Coos Bay",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97420"
-            ]
-        },
-        {
-            "cityname": "Coquille",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97423"
-            ]
-        },
-        {
-            "cityname": "Independence",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97351"
-            ]
-        },
-        {
-            "cityname": "Oakland",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97462"
-            ]
-        },
-        {
-            "cityname": "Turner",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97392"
-            ]
-        },
-        {
-            "cityname": "Cornelius",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97113"
-            ]
-        },
-        {
-            "cityname": "Ione",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97843"
-            ]
-        },
-        {
-            "cityname": "Oakridge",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97463"
-            ]
-        },
-        {
-            "cityname": "Ukiah",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97880"
-            ]
-        },
-        {
-            "cityname": "Corvallis",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97330",
-                "97331",
-                "97333",
-                "97339"
-            ]
-        },
-        {
-            "cityname": "Irrigon",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97844"
-            ]
-        },
-        {
-            "cityname": "Ontario",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97914"
-            ]
-        },
-        {
-            "cityname": "Umatilla",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97882"
-            ]
-        },
-        {
-            "cityname": "Cottage Grove",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97424"
-            ]
-        },
-        {
-            "cityname": "Island City",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97850"
-            ]
-        },
-        {
-            "cityname": "Oregon City",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97045"
-            ]
-        },
-        {
-            "cityname": "Union",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97883"
-            ]
-        },
-        {
-            "cityname": "Cove",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97824"
-            ]
-        },
-        {
-            "cityname": "Jacksonville",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97530"
-            ]
-        },
-        {
-            "cityname": "Paisley",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97636"
-            ]
-        },
-        {
-            "cityname": "Unity",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97884"
-            ]
-        },
-        {
-            "cityname": "Creswell",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97426"
-            ]
-        },
-        {
-            "cityname": "Jefferson",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97352"
-            ]
-        },
-        {
-            "cityname": "Pendleton",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97801"
-            ]
-        },
-        {
-            "cityname": "Vale",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97918"
-            ]
-        },
-        {
-            "cityname": "Culver",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97734"
-            ]
-        },
-        {
-            "cityname": "John Day",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97845"
-            ]
-        },
-        {
-            "cityname": "Philomath",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97370"
-            ]
-        },
-        {
-            "cityname": "Veneta",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97487"
-            ]
-        },
-        {
-            "cityname": "Dallas",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97338"
-            ]
-        },
-        {
-            "cityname": "Johnson City",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97267"
-            ]
-        },
-        {
-            "cityname": "Phoenix",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97535"
-            ]
-        },
-        {
-            "cityname": "Vernonia",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97064"
-            ]
-        },
-        {
-            "cityname": "Dayton",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97114"
-            ]
-        },
-        {
-            "cityname": "Jordan Valley",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97910"
-            ]
-        },
-        {
-            "cityname": "Pilot Rock",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97868"
-            ]
-        },
-        {
-            "cityname": "Waldport",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97394"
-            ]
-        },
-        {
-            "cityname": "Wallowa",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97885"
-            ]
-        },
-        {
-            "cityname": "Depoe Bay",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97341"
-            ]
-        },
-        {
-            "cityname": "Junction City",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97448"
-            ]
-        },
-        {
-            "cityname": "Portland",
-            "areacodes": [
-                "503",
-                "971"
-            ],
-            "zipcodes": [
-                "97201",
-                "97202",
-                "97203",
-                "97204",
-                "97205",
-                "97206",
-                "97209",
-                "97210",
-                "97211",
-                "97212",
-                "97213",
-                "97214",
-                "97215",
-                "97216",
-                "97217",
-                "97218",
-                "97219",
-                "97220",
-                "97221",
-                "97222",
-                "97223",
-                "97224",
-                "97225",
-                "97227",
-                "97229",
-                "97230",
-                "97231",
-                "97232",
-                "97233",
-                "97236",
-                "97239",
-                "97266"
-            ]
-        },
-        {
-            "cityname": "Warrenton",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97146"
-            ]
-        },
-        {
-            "cityname": "Detroit",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97342"
-            ]
-        },
-        {
-            "cityname": "Keizer",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97303"
-            ]
-        },
-        {
-            "cityname": "Powers",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97466"
-            ]
-        },
-        {
-            "cityname": "Wasco",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97065"
-            ]
-        },
-        {
-            "cityname": "Donald",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97020"
-            ]
-        },
-        {
-            "cityname": "King City",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97224"
-            ]
-        },
-        {
-            "cityname": "Prairie City",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97869"
-            ]
-        },
-        {
-            "cityname": "Waterloo",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97355"
-            ]
-        },
-        {
-            "cityname": "Drain",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97435"
-            ]
-        },
-        {
-            "cityname": "Prescott",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97048"
-            ]
-        },
-        {
-            "cityname": "West Linn",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97068"
-            ]
-        },
-        {
-            "cityname": "Dufur",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97021"
-            ]
-        },
-        {
-            "cityname": "La Grande",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97850"
-            ]
-        },
-        {
-            "cityname": "Prineville",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97754"
-            ]
-        },
-        {
-            "cityname": "Westfir",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97492"
-            ]
-        },
-        {
-            "cityname": "Dundee",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97115"
-            ]
-        },
-        {
-            "cityname": "La Pine",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97739"
-            ]
-        },
-        {
-            "cityname": "Rainier",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97048"
-            ]
-        },
-        {
-            "cityname": "Weston",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97886"
-            ]
-        },
-        {
-            "cityname": "Dunes City",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97493"
-            ]
-        },
-        {
-            "cityname": "Lafayette",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97127"
-            ]
-        },
-        {
-            "cityname": "Redmond",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97756"
-            ]
-        },
-        {
-            "cityname": "Wheeler",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97147"
-            ]
-        },
-        {
-            "cityname": "Durham",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97224"
-            ]
-        },
-        {
-            "cityname": "Lake Oswego",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97034",
-                "97035"
-            ]
-        },
-        {
-            "cityname": "Reedsport",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97467"
-            ]
-        },
-        {
-            "cityname": "Willamina",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97396"
-            ]
-        },
-        {
-            "cityname": "Eagle Point",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97524"
-            ]
-        },
-        {
-            "cityname": "Lakeside",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97449"
-            ]
-        },
-        {
-            "cityname": "Richland",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97870"
-            ]
-        },
-        {
-            "cityname": "Wilsonville",
-            "areacodes": [
-                "503"
-            ],
-            "zipcodes": [
-                "97070"
-            ]
-        },
-        {
-            "cityname": "Echo",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97826"
-            ]
-        },
-        {
-            "cityname": "Lakeview",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97630"
-            ]
-        },
-        {
-            "cityname": "Riddle",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97469"
-            ]
-        },
-        {
-            "cityname": "Winston",
-            "areacodes": [
-                "541"
-            ],
-            "zipcodes": [
-                "97496"
-            ]
-        }
-    ]
+  "name": "Oregon",
+  "capital": "Salem",
+  "cities": {
+    "Portland": {
+      "zipcodes": [
+        "97201",
+        "97202",
+        "97203",
+        "97204",
+        "97205",
+        "97206",
+        "97209",
+        "97210",
+        "97211",
+        "97212",
+        "97213",
+        "97214",
+        "97215",
+        "97216",
+        "97217",
+        "97218",
+        "97219",
+        "97220",
+        "97221",
+        "97222",
+        "97223",
+        "97224",
+        "97225",
+        "97227",
+        "97229",
+        "97230",
+        "97231",
+        "97232",
+        "97233",
+        "97236",
+        "97239",
+        "97266"
+      ],
+      "areacodes": [
+        "503",
+        "971"
+      ]
+    },
+    "Adair Village": {
+      "zipcodes": [
+        "97330"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Elgin": {
+      "zipcodes": [
+        "97827"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Lebanon": {
+      "zipcodes": [
+        "97355"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Rivergrove": {
+      "zipcodes": [
+        "97034"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Wood Village": {
+      "zipcodes": [
+        "97060"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Adams": {
+      "zipcodes": [
+        "97810"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Elkton": {
+      "zipcodes": [
+        "97436"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Lexington": {
+      "zipcodes": [
+        "97839"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Rockaway Beach": {
+      "zipcodes": [
+        "97136"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Woodburn": {
+      "zipcodes": [
+        "97071"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Adrian": {
+      "zipcodes": [
+        "97901"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Enterprise": {
+      "zipcodes": [
+        "97828"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Lincoln City": {
+      "zipcodes": [
+        "97367"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Rogue River": {
+      "zipcodes": [
+        "97537"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Yachats": {
+      "zipcodes": [
+        "97498"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Albany": {
+      "zipcodes": [
+        "97321",
+        "97322"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Estacada": {
+      "zipcodes": [
+        "97023"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Lonerock": {
+      "zipcodes": [
+        "97823"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Roseburg": {
+      "zipcodes": [
+        "97470",
+        "97471"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Yamhill": {
+      "zipcodes": [
+        "97148"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Amity": {
+      "zipcodes": [
+        "97101"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Eugene": {
+      "zipcodes": [
+        "97401",
+        "97402",
+        "97403",
+        "97404",
+        "97405",
+        "97408"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Long Creek": {
+      "zipcodes": [
+        "97856"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Rufus": {
+      "zipcodes": [
+        "97050"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Yoncalla": {
+      "zipcodes": [
+        "97499"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Cascade Locks": {
+      "zipcodes": [
+        "97014"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Heppner": {
+      "zipcodes": [
+        "97836"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Myrtle Creek": {
+      "zipcodes": [
+        "97457"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Sweet Home": {
+      "zipcodes": [
+        "97386"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Cave Junction": {
+      "zipcodes": [
+        "97523"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Hermiston": {
+      "zipcodes": [
+        "97838"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Myrtle Point": {
+      "zipcodes": [
+        "97458"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Talent": {
+      "zipcodes": [
+        "97540"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Central Point": {
+      "zipcodes": [
+        "97502"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Hillsboro": {
+      "zipcodes": [
+        "97123",
+        "97124"
+      ],
+      "areacodes": [
+        "503",
+        "971"
+      ]
+    },
+    "Nehalem": {
+      "zipcodes": [
+        "97131"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Tangent": {
+      "zipcodes": [
+        "97389"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Chiloquin": {
+      "zipcodes": [
+        "97624"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Hines": {
+      "zipcodes": [
+        "97738"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Newberg": {
+      "zipcodes": [
+        "97132"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "The Dalles": {
+      "zipcodes": [
+        "97058"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Clatskanie": {
+      "zipcodes": [
+        "97016"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Hood River": {
+      "zipcodes": [
+        "97031"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Newport": {
+      "zipcodes": [
+        "97365"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Tigard": {
+      "zipcodes": [
+        "97223",
+        "97224"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Coburg": {
+      "zipcodes": [
+        "97408"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Hubbard": {
+      "zipcodes": [
+        "97032"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "North Bend": {
+      "zipcodes": [
+        "97459"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Tillamook": {
+      "zipcodes": [
+        "97141"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Columbia City": {
+      "zipcodes": [
+        "97018"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Huntington": {
+      "zipcodes": [
+        "97907"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "North Plains": {
+      "zipcodes": [
+        "97133"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Toledo": {
+      "zipcodes": [
+        "97391"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Condon": {
+      "zipcodes": [
+        "97823"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Idanha": {
+      "zipcodes": [
+        "97350"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "North Powder": {
+      "zipcodes": [
+        "97867"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Troutdale": {
+      "zipcodes": [
+        "97060"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Tualatin": {
+      "zipcodes": [
+        "97062"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Coos Bay": {
+      "zipcodes": [
+        "97420"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Coquille": {
+      "zipcodes": [
+        "97423"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Independence": {
+      "zipcodes": [
+        "97351"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Oakland": {
+      "zipcodes": [
+        "97462"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Turner": {
+      "zipcodes": [
+        "97392"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Cornelius": {
+      "zipcodes": [
+        "97113"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Ione": {
+      "zipcodes": [
+        "97843"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Oakridge": {
+      "zipcodes": [
+        "97463"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Ukiah": {
+      "zipcodes": [
+        "97880"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Corvallis": {
+      "zipcodes": [
+        "97330",
+        "97331",
+        "97333",
+        "97339"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Irrigon": {
+      "zipcodes": [
+        "97844"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Ontario": {
+      "zipcodes": [
+        "97914"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Umatilla": {
+      "zipcodes": [
+        "97882"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Cottage Grove": {
+      "zipcodes": [
+        "97424"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Island City": {
+      "zipcodes": [
+        "97850"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Oregon City": {
+      "zipcodes": [
+        "97045"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Union": {
+      "zipcodes": [
+        "97883"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Cove": {
+      "zipcodes": [
+        "97824"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Jacksonville": {
+      "zipcodes": [
+        "97530"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Paisley": {
+      "zipcodes": [
+        "97636"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Unity": {
+      "zipcodes": [
+        "97884"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Creswell": {
+      "zipcodes": [
+        "97426"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Jefferson": {
+      "zipcodes": [
+        "97352"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Pendleton": {
+      "zipcodes": [
+        "97801"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Vale": {
+      "zipcodes": [
+        "97918"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Culver": {
+      "zipcodes": [
+        "97734"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "John Day": {
+      "zipcodes": [
+        "97845"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Philomath": {
+      "zipcodes": [
+        "97370"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Veneta": {
+      "zipcodes": [
+        "97487"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Dallas": {
+      "zipcodes": [
+        "97338"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Johnson City": {
+      "zipcodes": [
+        "97267"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Phoenix": {
+      "zipcodes": [
+        "97535"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Vernonia": {
+      "zipcodes": [
+        "97064"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Dayton": {
+      "zipcodes": [
+        "97114"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Jordan Valley": {
+      "zipcodes": [
+        "97910"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Pilot Rock": {
+      "zipcodes": [
+        "97868"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Waldport": {
+      "zipcodes": [
+        "97394"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Wallowa": {
+      "zipcodes": [
+        "97885"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Depoe Bay": {
+      "zipcodes": [
+        "97341"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Junction City": {
+      "zipcodes": [
+        "97448"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Warrenton": {
+      "zipcodes": [
+        "97146"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Detroit": {
+      "zipcodes": [
+        "97342"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Keizer": {
+      "zipcodes": [
+        "97303"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Powers": {
+      "zipcodes": [
+        "97466"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Wasco": {
+      "zipcodes": [
+        "97065"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Donald": {
+      "zipcodes": [
+        "97020"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "King City": {
+      "zipcodes": [
+        "97224"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Prairie City": {
+      "zipcodes": [
+        "97869"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Waterloo": {
+      "zipcodes": [
+        "97355"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Drain": {
+      "zipcodes": [
+        "97435"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Prescott": {
+      "zipcodes": [
+        "97048"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "West Linn": {
+      "zipcodes": [
+        "97068"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Dufur": {
+      "zipcodes": [
+        "97021"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "La Grande": {
+      "zipcodes": [
+        "97850"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Prineville": {
+      "zipcodes": [
+        "97754"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Westfir": {
+      "zipcodes": [
+        "97492"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Dundee": {
+      "zipcodes": [
+        "97115"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "La Pine": {
+      "zipcodes": [
+        "97739"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Rainier": {
+      "zipcodes": [
+        "97048"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Weston": {
+      "zipcodes": [
+        "97886"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Dunes City": {
+      "zipcodes": [
+        "97493"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Lafayette": {
+      "zipcodes": [
+        "97127"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Redmond": {
+      "zipcodes": [
+        "97756"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Wheeler": {
+      "zipcodes": [
+        "97147"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Durham": {
+      "zipcodes": [
+        "97224"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Lake Oswego": {
+      "zipcodes": [
+        "97034",
+        "97035"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Reedsport": {
+      "zipcodes": [
+        "97467"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Willamina": {
+      "zipcodes": [
+        "97396"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Eagle Point": {
+      "zipcodes": [
+        "97524"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Lakeside": {
+      "zipcodes": [
+        "97449"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Richland": {
+      "zipcodes": [
+        "97870"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Wilsonville": {
+      "zipcodes": [
+        "97070"
+      ],
+      "areacodes": [
+        "503"
+      ]
+    },
+    "Echo": {
+      "zipcodes": [
+        "97826"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Lakeview": {
+      "zipcodes": [
+        "97630"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Riddle": {
+      "zipcodes": [
+        "97469"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    },
+    "Winston": {
+      "zipcodes": [
+        "97496"
+      ],
+      "areacodes": [
+        "541"
+      ]
+    }
+  }
 }

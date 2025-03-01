@@ -1,1682 +1,1659 @@
 {
-    "countrycode": "+61",
-    "phoneformat": "(A) XXXX XXXX",
-    "country": "Australia",
-    "neighborhoods": {
-        "corporate": [
-            "Business District Central",
-            "Innovation Hub East",
-            "Enterprise Zone South",
-            "Corporate Park North",
-            "Finance Quarter West",
-            "Tech Valley Central",
-            "Commercial Plaza",
-            "Executive District",
-            "Industrial Trade Hub",
-            "Global Business Park",
-            "Innovation Avenue",
-            "Trade Centre North",
-            "Corporate Innovation Zone",
-            "Hub of Strategy",
-            "Entrepreneur District",
-            "Pioneer Business Zone",
-            "Centre of Commerce",
-            "Pacific Business Park",
-            "Market District",
-            "Urban Enterprise Centre",
-            "Start-Up Central",
-            "Technology District",
-            "Strategic Plaza",
-            "Elite Business Precinct",
-            "Finance Park",
-            "Innovation Corridor",
-            "Business Exchange District",
-            "Pacific Trade Centre",
-            "Urban Commerce Hub",
-            "Digital Innovation Park",
-            "Smart Business District",
-            "Innovation Island",
-            "Leadership Quarter",
-            "Modern Business Hub",
-            "Strategic Trade Zone",
-            "Trade and Investment Zone",
-            "Sustainability Quarter",
-            "Future Business District",
-            "Visionary Trade Park",
-            "Pacific Trade Plaza",
-            "Urban Strategy Zone",
-            "Future Growth Hub",
-            "Enterprise Innovation Quarter",
-            "Leadership Plaza",
-            "Green Business Park",
-            "Digital Economy Centre",
-            "Urban Leadership Hub",
-            "Global Trade District",
-            "Pacific Corporate Precinct",
-            "Growth Innovation Zone"
-        ],
-        "industrial": [
-            "Western Industrial Zone",
-            "Eastside Factories",
-            "Manufacturing Park South",
-            "Industrial Hub Central",
-            "Logistics Park North",
-            "Tech-Industrial Zone",
-            "Heavy Industry Quarter",
-            "Industrial Equipment District",
-            "Eastern Manufacturing Hub",
-            "Precision Engineering Park",
-            "Production Zone",
-            "Resource Processing District",
-            "Fabrication Hub",
-            "Energy and Power Zone",
-            "Assembly Park",
-            "South Industrial Region",
-            "North Trade Hub",
-            "Processing Park Central",
-            "Transport Logistics Zone",
-            "Tech Manufacturing District",
-            "Resource Zone East",
-            "Infrastructure Hub",
-            "Urban Industry Park",
-            "Advanced Manufacturing Centre",
-            "Central Processing Hub",
-            "Industrial Innovation Quarter",
-            "Transport District",
-            "Heavy Machinery Park",
-            "High-Tech Fabrication Zone",
-            "Aerospace Industrial Park",
-            "Engineering Quarter",
-            "Manufacturing Corridor",
-            "Urban Processing Zone",
-            "Green Industry Hub",
-            "Materials Innovation Centre",
-            "Energy Park",
-            "South Logistics District",
-            "Global Manufacturing Park",
-            "Urban Resources District",
-            "High Precision Zone",
-            "Future Industry Hub",
-            "Light Manufacturing Quarter",
-            "Heavy Duty Park",
-            "Industrial Innovation Zone",
-            "Technology Resource Park",
-            "Future Logistics Hub",
-            "Resource Integration Park",
-            "Urban Transport Centre",
-            "Trade Resource Zone",
-            "Pacific Processing Park"
-        ],
-        "residential": [
-            "Lakeside Estate",
-            "Sunnyvale Suburb",
-            "Coastal Grove",
-            "Hilltop Gardens",
-            "Seabreeze Residences",
-            "Greenfield Meadows",
-            "Orchid Park",
-            "Rosewood Village",
-            "Lavender Fields",
-            "Golden Sands Estate",
-            "Palm Springs",
-            "Blue Horizon",
-            "Harborview Heights",
-            "Silver Birch Close",
-            "Ocean Breeze Community",
-            "Maplewood Estate",
-            "Sunset Hills",
-            "Cedar Grove",
-            "Emerald Park",
-            "Cherry Blossom Lane",
-            "Meadowbrook Estate",
-            "Pine Ridge",
-            "Willow Creek",
-            "Coral Bay Residences",
-            "Seaview Heights",
-            "Amber Fields",
-            "Wildflower Gardens",
-            "Sunnydale Residences",
-            "Golden Valley",
-            "Highland Meadows",
-            "Bayfront Community",
-            "Mountain View Village",
-            "Crystal Waters",
-            "Jasmine Gardens",
-            "Havenwood Estate",
-            "Silverleaf Suburb",
-            "Serenity Bay",
-            "Pearl Cove",
-            "Forest Glen",
-            "Magnolia Meadows",
-            "Eucalyptus Grove",
-            "Harborview Gardens",
-            "Azure Heights",
-            "Rosemary Fields",
-            "Horizon Hills",
-            "Palm Grove",
-            "Seaside Retreat",
-            "Blossom Park",
-            "Coastal Horizon Estate"
-        ]
-    },
-    "streetnames": {
-        "corporate": [
-            "Innovation Avenue",
-            "Finance Street",
-            "Commerce Road",
-            "Enterprise Boulevard",
-            "Leadership Lane",
-            "Strategic Drive",
-            "Pioneer Avenue",
-            "Visionary Way",
-            "Digital Boulevard",
-            "Pacific Drive",
-            "Technology Street",
-            "Entrepreneur Court",
-            "Innovation Drive",
-            "Start-Up Street",
-            "Strategy Avenue",
-            "Elite Drive",
-            "Commerce Plaza",
-            "Hub Lane",
-            "Growth Boulevard",
-            "Future Road",
-            "Leadership Court",
-            "Tech Street",
-            "Urban Way",
-            "Trade Boulevard",
-            "Innovation Loop",
-            "Exchange Avenue",
-            "Market Lane",
-            "Corporate Drive",
-            "Pacific Court",
-            "Entrepreneur Lane",
-            "Leadership Avenue",
-            "Tech Boulevard",
-            "Innovation Plaza",
-            "Hub Street",
-            "Future Lane",
-            "Urban Boulevard",
-            "Strategic Court",
-            "Global Drive",
-            "Pacific Boulevard",
-            "Visionary Avenue",
-            "Growth Lane",
-            "Corporate Plaza",
-            "Future Drive",
-            "Trade Street",
-            "Strategy Loop",
-            "Entrepreneur Avenue",
-            "Tech Plaza",
-            "Urban Court",
-            "Innovation Avenue",
-            "Pacific Way",
-            "Commerce Lane"
-        ],
-        "industrial": [
-            "Industrial Drive",
-            "Factory Road",
-            "Workshop Lane",
-            "Production Way",
-            "Assembly Avenue",
-            "Machinery Street",
-            "Energy Boulevard",
-            "Logistics Lane",
-            "Heavy Drive",
-            "Fabrication Court",
-            "Transport Street",
-            "Engineering Avenue",
-            "Tech Lane",
-            "Processing Drive",
-            "Industry Street",
-            "Aerospace Boulevard",
-            "Materials Avenue",
-            "Precision Road",
-            "Mechanics Lane",
-            "Resources Street",
-            "Power Avenue",
-            "Infrastructure Way",
-            "Transport Lane",
-            "Machinery Court",
-            "Processing Street",
-            "Industrial Lane",
-            "Tech Boulevard",
-            "Assembly Drive",
-            "Energy Court",
-            "Fabrication Street",
-            "Materials Lane",
-            "Transport Boulevard",
-            "Engineering Street",
-            "Power Drive",
-            "Resources Court",
-            "Logistics Boulevard",
-            "Production Street",
-            "Workshop Avenue",
-            "Industry Drive",
-            "Mechanics Way",
-            "Energy Street",
-            "Precision Avenue",
-            "Aerospace Drive",
-            "Heavy Boulevard",
-            "Resources Lane",
-            "Infrastructure Street",
-            "Industrial Avenue",
-            "Power Boulevard",
-            "Assembly Way",
-            "Transport Avenue",
-            "Materials Boulevard"
-        ],
-        "residential": [
-            "Rosewood Drive",
-            "Maple Avenue",
-            "Cedar Lane",
-            "Willow Street",
-            "Oakwood Drive",
-            "Lavender Lane",
-            "Orchid Avenue",
-            "Jasmine Way",
-            "Magnolia Court",
-            "Sunset Boulevard",
-            "Pine Road",
-            "Meadow Lane",
-            "Cherry Street",
-            "Blossom Avenue",
-            "Golden Way",
-            "Silver Birch Lane",
-            "Emerald Drive",
-            "Harbor View Street",
-            "Bayfront Avenue",
-            "Hilltop Way",
-            "Crystal Lane",
-            "Seaview Drive",
-            "Palm Court",
-            "Eucalyptus Street",
-            "Horizon Avenue",
-            "Sunnyvale Road",
-            "Lakeside Boulevard",
-            "Coastal Lane",
-            "Blue Horizon Way",
-            "Silverleaf Street",
-            "Amber Avenue",
-            "Ocean Breeze Drive",
-            "Serenity Lane",
-            "Pearl Street",
-            "Wildflower Drive",
-            "Havenwood Lane",
-            "Forest Glen Avenue",
-            "Azure Way",
-            "Sunnydale Drive",
-            "Golden Valley Road",
-            "Highland Lane",
-            "Amber Way",
-            "Crystal Road",
-            "Palm Avenue",
-            "Coral Drive",
-            "Blossom Lane",
-            "Rosemary Street",
-            "Bayfront Drive",
-            "Lakeside Way",
-            "Harbor View Road",
-            "Eucalyptus Lane"
-        ]
-    },
-    "states": {
-        "New South Wales": {
-            "cities": [
-                {
-                    "cityname": "Sydney",
-                    "zipcodes": [
-                        "2000",
-                        "2001",
-                        "2002",
-                        "2003",
-                        "2004"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Newcastle",
-                    "zipcodes": [
-                        "2300",
-                        "2301",
-                        "2302",
-                        "2303",
-                        "2304"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Wollongong",
-                    "zipcodes": [
-                        "2500",
-                        "2501",
-                        "2502",
-                        "2503",
-                        "2504"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Maitland",
-                    "zipcodes": [
-                        "2320",
-                        "2321",
-                        "2322",
-                        "2323",
-                        "2324"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Tamworth",
-                    "zipcodes": [
-                        "2340",
-                        "2341",
-                        "2342",
-                        "2343",
-                        "2344"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Tweed Heads",
-                    "zipcodes": [
-                        "2485",
-                        "2486",
-                        "2487",
-                        "2488",
-                        "2489"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Coffs Harbour",
-                    "zipcodes": [
-                        "2450",
-                        "2451",
-                        "2452",
-                        "2453",
-                        "2454"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Ballina",
-                    "zipcodes": [
-                        "2478",
-                        "2479",
-                        "2480",
-                        "2481",
-                        "2482"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Albury",
-                    "zipcodes": [
-                        "2640",
-                        "2641",
-                        "2642",
-                        "2643",
-                        "2644"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Bathurst",
-                    "zipcodes": [
-                        "2795",
-                        "2796",
-                        "2797",
-                        "2798",
-                        "2799"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Orange",
-                    "zipcodes": [
-                        "2800",
-                        "2801",
-                        "2802",
-                        "2803",
-                        "2804"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Grafton",
-                    "zipcodes": [
-                        "2460",
-                        "2461",
-                        "2462",
-                        "2463",
-                        "2464"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Broken Hill",
-                    "zipcodes": [
-                        "2880",
-                        "2881",
-                        "2882",
-                        "2883",
-                        "2884"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Queanbeyan",
-                    "zipcodes": [
-                        "2620",
-                        "2621",
-                        "2622",
-                        "2623",
-                        "2624"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                }
-            ],
-            "name": "New South Wales"
+  "countrycode": "+61",
+  "phoneformat": "(A) XXXX XXXX",
+  "country": "Australia",
+  "neighborhoods": {
+    "corporate": [
+      "Business District Central",
+      "Innovation Hub East",
+      "Enterprise Zone South",
+      "Corporate Park North",
+      "Finance Quarter West",
+      "Tech Valley Central",
+      "Commercial Plaza",
+      "Executive District",
+      "Industrial Trade Hub",
+      "Global Business Park",
+      "Innovation Avenue",
+      "Trade Centre North",
+      "Corporate Innovation Zone",
+      "Hub of Strategy",
+      "Entrepreneur District",
+      "Pioneer Business Zone",
+      "Centre of Commerce",
+      "Pacific Business Park",
+      "Market District",
+      "Urban Enterprise Centre",
+      "Start-Up Central",
+      "Technology District",
+      "Strategic Plaza",
+      "Elite Business Precinct",
+      "Finance Park",
+      "Innovation Corridor",
+      "Business Exchange District",
+      "Pacific Trade Centre",
+      "Urban Commerce Hub",
+      "Digital Innovation Park",
+      "Smart Business District",
+      "Innovation Island",
+      "Leadership Quarter",
+      "Modern Business Hub",
+      "Strategic Trade Zone",
+      "Trade and Investment Zone",
+      "Sustainability Quarter",
+      "Future Business District",
+      "Visionary Trade Park",
+      "Pacific Trade Plaza",
+      "Urban Strategy Zone",
+      "Future Growth Hub",
+      "Enterprise Innovation Quarter",
+      "Leadership Plaza",
+      "Green Business Park",
+      "Digital Economy Centre",
+      "Urban Leadership Hub",
+      "Global Trade District",
+      "Pacific Corporate Precinct",
+      "Growth Innovation Zone"
+    ],
+    "industrial": [
+      "Western Industrial Zone",
+      "Eastside Factories",
+      "Manufacturing Park South",
+      "Industrial Hub Central",
+      "Logistics Park North",
+      "Tech-Industrial Zone",
+      "Heavy Industry Quarter",
+      "Industrial Equipment District",
+      "Eastern Manufacturing Hub",
+      "Precision Engineering Park",
+      "Production Zone",
+      "Resource Processing District",
+      "Fabrication Hub",
+      "Energy and Power Zone",
+      "Assembly Park",
+      "South Industrial Region",
+      "North Trade Hub",
+      "Processing Park Central",
+      "Transport Logistics Zone",
+      "Tech Manufacturing District",
+      "Resource Zone East",
+      "Infrastructure Hub",
+      "Urban Industry Park",
+      "Advanced Manufacturing Centre",
+      "Central Processing Hub",
+      "Industrial Innovation Quarter",
+      "Transport District",
+      "Heavy Machinery Park",
+      "High-Tech Fabrication Zone",
+      "Aerospace Industrial Park",
+      "Engineering Quarter",
+      "Manufacturing Corridor",
+      "Urban Processing Zone",
+      "Green Industry Hub",
+      "Materials Innovation Centre",
+      "Energy Park",
+      "South Logistics District",
+      "Global Manufacturing Park",
+      "Urban Resources District",
+      "High Precision Zone",
+      "Future Industry Hub",
+      "Light Manufacturing Quarter",
+      "Heavy Duty Park",
+      "Industrial Innovation Zone",
+      "Technology Resource Park",
+      "Future Logistics Hub",
+      "Resource Integration Park",
+      "Urban Transport Centre",
+      "Trade Resource Zone",
+      "Pacific Processing Park"
+    ],
+    "residential": [
+      "Lakeside Estate",
+      "Sunnyvale Suburb",
+      "Coastal Grove",
+      "Hilltop Gardens",
+      "Seabreeze Residences",
+      "Greenfield Meadows",
+      "Orchid Park",
+      "Rosewood Village",
+      "Lavender Fields",
+      "Golden Sands Estate",
+      "Palm Springs",
+      "Blue Horizon",
+      "Harborview Heights",
+      "Silver Birch Close",
+      "Ocean Breeze Community",
+      "Maplewood Estate",
+      "Sunset Hills",
+      "Cedar Grove",
+      "Emerald Park",
+      "Cherry Blossom Lane",
+      "Meadowbrook Estate",
+      "Pine Ridge",
+      "Willow Creek",
+      "Coral Bay Residences",
+      "Seaview Heights",
+      "Amber Fields",
+      "Wildflower Gardens",
+      "Sunnydale Residences",
+      "Golden Valley",
+      "Highland Meadows",
+      "Bayfront Community",
+      "Mountain View Village",
+      "Crystal Waters",
+      "Jasmine Gardens",
+      "Havenwood Estate",
+      "Silverleaf Suburb",
+      "Serenity Bay",
+      "Pearl Cove",
+      "Forest Glen",
+      "Magnolia Meadows",
+      "Eucalyptus Grove",
+      "Harborview Gardens",
+      "Azure Heights",
+      "Rosemary Fields",
+      "Horizon Hills",
+      "Palm Grove",
+      "Seaside Retreat",
+      "Blossom Park",
+      "Coastal Horizon Estate"
+    ]
+  },
+  "streetnames": {
+    "corporate": [
+      "Innovation Avenue",
+      "Finance Street",
+      "Commerce Road",
+      "Enterprise Boulevard",
+      "Leadership Lane",
+      "Strategic Drive",
+      "Pioneer Avenue",
+      "Visionary Way",
+      "Digital Boulevard",
+      "Pacific Drive",
+      "Technology Street",
+      "Entrepreneur Court",
+      "Innovation Drive",
+      "Start-Up Street",
+      "Strategy Avenue",
+      "Elite Drive",
+      "Commerce Plaza",
+      "Hub Lane",
+      "Growth Boulevard",
+      "Future Road",
+      "Leadership Court",
+      "Tech Street",
+      "Urban Way",
+      "Trade Boulevard",
+      "Innovation Loop",
+      "Exchange Avenue",
+      "Market Lane",
+      "Corporate Drive",
+      "Pacific Court",
+      "Entrepreneur Lane",
+      "Leadership Avenue",
+      "Tech Boulevard",
+      "Innovation Plaza",
+      "Hub Street",
+      "Future Lane",
+      "Urban Boulevard",
+      "Strategic Court",
+      "Global Drive",
+      "Pacific Boulevard",
+      "Visionary Avenue",
+      "Growth Lane",
+      "Corporate Plaza",
+      "Future Drive",
+      "Trade Street",
+      "Strategy Loop",
+      "Entrepreneur Avenue",
+      "Tech Plaza",
+      "Urban Court",
+      "Innovation Avenue",
+      "Pacific Way",
+      "Commerce Lane"
+    ],
+    "industrial": [
+      "Industrial Drive",
+      "Factory Road",
+      "Workshop Lane",
+      "Production Way",
+      "Assembly Avenue",
+      "Machinery Street",
+      "Energy Boulevard",
+      "Logistics Lane",
+      "Heavy Drive",
+      "Fabrication Court",
+      "Transport Street",
+      "Engineering Avenue",
+      "Tech Lane",
+      "Processing Drive",
+      "Industry Street",
+      "Aerospace Boulevard",
+      "Materials Avenue",
+      "Precision Road",
+      "Mechanics Lane",
+      "Resources Street",
+      "Power Avenue",
+      "Infrastructure Way",
+      "Transport Lane",
+      "Machinery Court",
+      "Processing Street",
+      "Industrial Lane",
+      "Tech Boulevard",
+      "Assembly Drive",
+      "Energy Court",
+      "Fabrication Street",
+      "Materials Lane",
+      "Transport Boulevard",
+      "Engineering Street",
+      "Power Drive",
+      "Resources Court",
+      "Logistics Boulevard",
+      "Production Street",
+      "Workshop Avenue",
+      "Industry Drive",
+      "Mechanics Way",
+      "Energy Street",
+      "Precision Avenue",
+      "Aerospace Drive",
+      "Heavy Boulevard",
+      "Resources Lane",
+      "Infrastructure Street",
+      "Industrial Avenue",
+      "Power Boulevard",
+      "Assembly Way",
+      "Transport Avenue",
+      "Materials Boulevard"
+    ],
+    "residential": [
+      "Rosewood Drive",
+      "Maple Avenue",
+      "Cedar Lane",
+      "Willow Street",
+      "Oakwood Drive",
+      "Lavender Lane",
+      "Orchid Avenue",
+      "Jasmine Way",
+      "Magnolia Court",
+      "Sunset Boulevard",
+      "Pine Road",
+      "Meadow Lane",
+      "Cherry Street",
+      "Blossom Avenue",
+      "Golden Way",
+      "Silver Birch Lane",
+      "Emerald Drive",
+      "Harbor View Street",
+      "Bayfront Avenue",
+      "Hilltop Way",
+      "Crystal Lane",
+      "Seaview Drive",
+      "Palm Court",
+      "Eucalyptus Street",
+      "Horizon Avenue",
+      "Sunnyvale Road",
+      "Lakeside Boulevard",
+      "Coastal Lane",
+      "Blue Horizon Way",
+      "Silverleaf Street",
+      "Amber Avenue",
+      "Ocean Breeze Drive",
+      "Serenity Lane",
+      "Pearl Street",
+      "Wildflower Drive",
+      "Havenwood Lane",
+      "Forest Glen Avenue",
+      "Azure Way",
+      "Sunnydale Drive",
+      "Golden Valley Road",
+      "Highland Lane",
+      "Amber Way",
+      "Crystal Road",
+      "Palm Avenue",
+      "Coral Drive",
+      "Blossom Lane",
+      "Rosemary Street",
+      "Bayfront Drive",
+      "Lakeside Way",
+      "Harbor View Road",
+      "Eucalyptus Lane"
+    ]
+  },
+  "states": {
+    "New South Wales": {
+      "cities": {
+        "Sydney": {
+          "zipcodes": [
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004"
+          ],
+          "areacodes": [
+            "02"
+          ]
         },
-        "Queensland": {
-            "cities": [
-                {
-                    "cityname": "Brisbane",
-                    "zipcodes": [
-                        "4000",
-                        "4001",
-                        "4002",
-                        "4003",
-                        "4004"
-                    ],
-                    "areacodes": [
-                        "07"
-                    ]
-                },
-                {
-                    "cityname": "Gold Coast",
-                    "zipcodes": [
-                        "4217",
-                        "4218",
-                        "4219",
-                        "4220",
-                        "4221"
-                    ],
-                    "areacodes": [
-                        "07"
-                    ]
-                },
-                {
-                    "cityname": "Cairns",
-                    "zipcodes": [
-                        "4870",
-                        "4871",
-                        "4872",
-                        "4873",
-                        "4874"
-                    ],
-                    "areacodes": [
-                        "07"
-                    ]
-                },
-                {
-                    "cityname": "Townsville",
-                    "zipcodes": [
-                        "4810",
-                        "4811",
-                        "4812",
-                        "4813",
-                        "4814"
-                    ],
-                    "areacodes": [
-                        "07"
-                    ]
-                },
-                {
-                    "cityname": "Rockhampton",
-                    "zipcodes": [
-                        "4700",
-                        "4701",
-                        "4702",
-                        "4703",
-                        "4704"
-                    ],
-                    "areacodes": [
-                        "07"
-                    ]
-                },
-                {
-                    "cityname": "Mackay",
-                    "zipcodes": [
-                        "4740",
-                        "4741",
-                        "4742",
-                        "4743",
-                        "4744"
-                    ],
-                    "areacodes": [
-                        "07"
-                    ]
-                },
-                {
-                    "cityname": "Toowoomba",
-                    "zipcodes": [
-                        "4350",
-                        "4351",
-                        "4352",
-                        "4353",
-                        "4354"
-                    ],
-                    "areacodes": [
-                        "07"
-                    ]
-                },
-                {
-                    "cityname": "Bundaberg",
-                    "zipcodes": [
-                        "4670",
-                        "4671",
-                        "4672",
-                        "4673",
-                        "4674"
-                    ],
-                    "areacodes": [
-                        "07"
-                    ]
-                },
-                {
-                    "cityname": "Gladstone",
-                    "zipcodes": [
-                        "4680",
-                        "4681",
-                        "4682",
-                        "4683",
-                        "4684"
-                    ],
-                    "areacodes": [
-                        "07"
-                    ]
-                },
-                {
-                    "cityname": "Hervey Bay",
-                    "zipcodes": [
-                        "4655",
-                        "4656",
-                        "4657",
-                        "4658",
-                        "4659"
-                    ],
-                    "areacodes": [
-                        "07"
-                    ]
-                },
-                {
-                    "cityname": "Ipswich",
-                    "zipcodes": [
-                        "4305",
-                        "4306",
-                        "4307",
-                        "4308",
-                        "4309"
-                    ],
-                    "areacodes": [
-                        "07"
-                    ]
-                },
-                {
-                    "cityname": "Sunshine Coast",
-                    "zipcodes": [
-                        "4551",
-                        "4552",
-                        "4553",
-                        "4554",
-                        "4555"
-                    ],
-                    "areacodes": [
-                        "07"
-                    ]
-                },
-                {
-                    "cityname": "Redcliffe",
-                    "zipcodes": [
-                        "4020",
-                        "4021",
-                        "4022",
-                        "4023",
-                        "4024"
-                    ],
-                    "areacodes": [
-                        "07"
-                    ]
-                }
-            ],
-            "name": "Queensland"
+        "Newcastle": {
+          "zipcodes": [
+            "2300",
+            "2301",
+            "2302",
+            "2303",
+            "2304"
+          ],
+          "areacodes": [
+            "02"
+          ]
         },
-        "South Australia": {
-            "cities": [
-                {
-                    "cityname": "Adelaide",
-                    "zipcodes": [
-                        "5000",
-                        "5001",
-                        "5002",
-                        "5003",
-                        "5004"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Mount Gambier",
-                    "zipcodes": [
-                        "5290",
-                        "5291",
-                        "5292",
-                        "5293",
-                        "5294"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Whyalla",
-                    "zipcodes": [
-                        "5600",
-                        "5601",
-                        "5602",
-                        "5603",
-                        "5604"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Port Augusta",
-                    "zipcodes": [
-                        "5700",
-                        "5701",
-                        "5702",
-                        "5703",
-                        "5704"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Port Lincoln",
-                    "zipcodes": [
-                        "5606",
-                        "5607",
-                        "5608",
-                        "5609",
-                        "5610"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Berri",
-                    "zipcodes": [
-                        "5343",
-                        "5344",
-                        "5345",
-                        "5346",
-                        "5347"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Murray Bridge",
-                    "zipcodes": [
-                        "5253",
-                        "5254",
-                        "5255",
-                        "5256",
-                        "5257"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Victor Harbor",
-                    "zipcodes": [
-                        "5211",
-                        "5212",
-                        "5213",
-                        "5214",
-                        "5215"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Kadina",
-                    "zipcodes": [
-                        "5554",
-                        "5555",
-                        "5556",
-                        "5557",
-                        "5558"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Clare",
-                    "zipcodes": [
-                        "5453",
-                        "5454",
-                        "5455",
-                        "5456",
-                        "5457"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Loxton",
-                    "zipcodes": [
-                        "5333",
-                        "5334",
-                        "5335",
-                        "5336",
-                        "5337"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Tanunda",
-                    "zipcodes": [
-                        "5352",
-                        "5353",
-                        "5354",
-                        "5355",
-                        "5356"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Nuriootpa",
-                    "zipcodes": [
-                        "5355",
-                        "5356",
-                        "5357",
-                        "5358",
-                        "5359"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Port Pirie",
-                    "zipcodes": [
-                        "5540",
-                        "5541",
-                        "5542",
-                        "5543",
-                        "5544"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                }
-            ],
-            "name": "South Australia"
+        "Wollongong": {
+          "zipcodes": [
+            "2500",
+            "2501",
+            "2502",
+            "2503",
+            "2504"
+          ],
+          "areacodes": [
+            "02"
+          ]
         },
-        "Tasmania": {
-            "cities": [
-                {
-                    "cityname": "Hobart",
-                    "zipcodes": [
-                        "7000",
-                        "7001",
-                        "7002",
-                        "7003",
-                        "7004"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Launceston",
-                    "zipcodes": [
-                        "7250",
-                        "7251",
-                        "7252",
-                        "7253",
-                        "7254"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Devonport",
-                    "zipcodes": [
-                        "7310",
-                        "7311",
-                        "7312",
-                        "7313",
-                        "7314"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Burnie",
-                    "zipcodes": [
-                        "7320",
-                        "7321",
-                        "7322",
-                        "7323",
-                        "7324"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Kingston",
-                    "zipcodes": [
-                        "7050",
-                        "7051",
-                        "7052",
-                        "7053",
-                        "7054"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Bicheno",
-                    "zipcodes": [
-                        "7215",
-                        "7216",
-                        "7217",
-                        "7218",
-                        "7219"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Sorell",
-                    "zipcodes": [
-                        "7172",
-                        "7173",
-                        "7174",
-                        "7175",
-                        "7176"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "St Helens",
-                    "zipcodes": [
-                        "7216",
-                        "7217",
-                        "7218",
-                        "7219",
-                        "7220"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Scottsdale",
-                    "zipcodes": [
-                        "7260",
-                        "7261",
-                        "7262",
-                        "7263",
-                        "7264"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "George Town",
-                    "zipcodes": [
-                        "7253",
-                        "7254",
-                        "7255",
-                        "7256",
-                        "7257"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Richmond",
-                    "zipcodes": [
-                        "7025",
-                        "7026",
-                        "7027",
-                        "7028",
-                        "7029"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Ulverstone",
-                    "zipcodes": [
-                        "7315",
-                        "7316",
-                        "7317",
-                        "7318",
-                        "7319"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "New Norfolk",
-                    "zipcodes": [
-                        "7140",
-                        "7141",
-                        "7142",
-                        "7143",
-                        "7144"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Huonville",
-                    "zipcodes": [
-                        "7109",
-                        "7110",
-                        "7111",
-                        "7112",
-                        "7113"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                }
-            ],
-            "name": "Tasmania"
+        "Maitland": {
+          "zipcodes": [
+            "2320",
+            "2321",
+            "2322",
+            "2323",
+            "2324"
+          ],
+          "areacodes": [
+            "02"
+          ]
         },
-        "Victoria": {
-            "cities": [
-                {
-                    "cityname": "Melbourne",
-                    "zipcodes": [
-                        "3000",
-                        "3001",
-                        "3002",
-                        "3003",
-                        "3004"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Geelong",
-                    "zipcodes": [
-                        "3220",
-                        "3221",
-                        "3222",
-                        "3223",
-                        "3224"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Ballarat",
-                    "zipcodes": [
-                        "3350",
-                        "3351",
-                        "3352",
-                        "3353",
-                        "3354"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Bendigo",
-                    "zipcodes": [
-                        "3550",
-                        "3551",
-                        "3552",
-                        "3553",
-                        "3554"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Shepparton",
-                    "zipcodes": [
-                        "3630",
-                        "3631",
-                        "3632",
-                        "3633",
-                        "3634"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Wangaratta",
-                    "zipcodes": [
-                        "3677",
-                        "3678",
-                        "3679",
-                        "3680",
-                        "3681"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Mildura",
-                    "zipcodes": [
-                        "3500",
-                        "3501",
-                        "3502",
-                        "3503",
-                        "3504"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Wodonga",
-                    "zipcodes": [
-                        "3690",
-                        "3691",
-                        "3692",
-                        "3693",
-                        "3694"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Moorabbin",
-                    "zipcodes": [
-                        "3189",
-                        "3190",
-                        "3191",
-                        "3192",
-                        "3193"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Sunbury",
-                    "zipcodes": [
-                        "3429",
-                        "3430",
-                        "3431",
-                        "3432",
-                        "3433"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Bayswater",
-                    "zipcodes": [
-                        "3153",
-                        "3154",
-                        "3155",
-                        "3156",
-                        "3157"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Mornington",
-                    "zipcodes": [
-                        "3931",
-                        "3932",
-                        "3933",
-                        "3934",
-                        "3935"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Frankston",
-                    "zipcodes": [
-                        "3199",
-                        "3200",
-                        "3201",
-                        "3202",
-                        "3203"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Traralgon",
-                    "zipcodes": [
-                        "3844",
-                        "3845",
-                        "3846",
-                        "3847",
-                        "3848"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                }
-            ],
-            "name": "Victoria"
+        "Tamworth": {
+          "zipcodes": [
+            "2340",
+            "2341",
+            "2342",
+            "2343",
+            "2344"
+          ],
+          "areacodes": [
+            "02"
+          ]
         },
-        "Western Australia": {
-            "cities": [
-                {
-                    "cityname": "Perth",
-                    "zipcodes": [
-                        "6000",
-                        "6001",
-                        "6002",
-                        "6003",
-                        "6004"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Mandurah",
-                    "zipcodes": [
-                        "6210",
-                        "6211",
-                        "6212",
-                        "6213",
-                        "6214"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Bunbury",
-                    "zipcodes": [
-                        "6230",
-                        "6231",
-                        "6232",
-                        "6233",
-                        "6234"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Geraldton",
-                    "zipcodes": [
-                        "6530",
-                        "6531",
-                        "6532",
-                        "6533",
-                        "6534"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Albany",
-                    "zipcodes": [
-                        "6330",
-                        "6331",
-                        "6332",
-                        "6333",
-                        "6334"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Kalgoorlie",
-                    "zipcodes": [
-                        "6430",
-                        "6431",
-                        "6432",
-                        "6433",
-                        "6434"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Busselton",
-                    "zipcodes": [
-                        "6280",
-                        "6281",
-                        "6282",
-                        "6283",
-                        "6284"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Karratha",
-                    "zipcodes": [
-                        "6714",
-                        "6715",
-                        "6716",
-                        "6717",
-                        "6718"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Broome",
-                    "zipcodes": [
-                        "6725",
-                        "6726",
-                        "6727",
-                        "6728",
-                        "6729"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Port Hedland",
-                    "zipcodes": [
-                        "6721",
-                        "6722",
-                        "6723",
-                        "6724",
-                        "6725"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Wongan Hills",
-                    "zipcodes": [
-                        "6603",
-                        "6604",
-                        "6605",
-                        "6606",
-                        "6607"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Mingenew",
-                    "zipcodes": [
-                        "6522",
-                        "6523",
-                        "6524",
-                        "6525",
-                        "6526"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Jurien Bay",
-                    "zipcodes": [
-                        "6516",
-                        "6517",
-                        "6518",
-                        "6519",
-                        "6520"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Dunsborough",
-                    "zipcodes": [
-                        "6281",
-                        "6282",
-                        "6283",
-                        "6284",
-                        "6285"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Narrogin",
-                    "zipcodes": [
-                        "6312",
-                        "6313",
-                        "6314",
-                        "6315",
-                        "6316"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                }
-            ],
-            "name": "Western Australia"
+        "Tweed Heads": {
+          "zipcodes": [
+            "2485",
+            "2486",
+            "2487",
+            "2488",
+            "2489"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Coffs Harbour": {
+          "zipcodes": [
+            "2450",
+            "2451",
+            "2452",
+            "2453",
+            "2454"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Ballina": {
+          "zipcodes": [
+            "2478",
+            "2479",
+            "2480",
+            "2481",
+            "2482"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Albury": {
+          "zipcodes": [
+            "2640",
+            "2641",
+            "2642",
+            "2643",
+            "2644"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Bathurst": {
+          "zipcodes": [
+            "2795",
+            "2796",
+            "2797",
+            "2798",
+            "2799"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Orange": {
+          "zipcodes": [
+            "2800",
+            "2801",
+            "2802",
+            "2803",
+            "2804"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Grafton": {
+          "zipcodes": [
+            "2460",
+            "2461",
+            "2462",
+            "2463",
+            "2464"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Broken Hill": {
+          "zipcodes": [
+            "2880",
+            "2881",
+            "2882",
+            "2883",
+            "2884"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Queanbeyan": {
+          "zipcodes": [
+            "2620",
+            "2621",
+            "2622",
+            "2623",
+            "2624"
+          ],
+          "areacodes": [
+            "02"
+          ]
         }
+      },
+      "name": "New South Wales"
     },
-    "territories": {
-        "Australian Capital Territory": {
-            "cities": [
-                {
-                    "cityname": "Canberra",
-                    "zipcodes": [
-                        "2600",
-                        "2601",
-                        "2602",
-                        "2603",
-                        "2604"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Tuggeranong",
-                    "zipcodes": [
-                        "2900",
-                        "2901",
-                        "2902",
-                        "2903",
-                        "2904"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Belconnen",
-                    "zipcodes": [
-                        "2617",
-                        "2618",
-                        "2619",
-                        "2620",
-                        "2621"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Gungahlin",
-                    "zipcodes": [
-                        "2912",
-                        "2913",
-                        "2914",
-                        "2915",
-                        "2916"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "North Canberra",
-                    "zipcodes": [
-                        "2601",
-                        "2602",
-                        "2603",
-                        "2604",
-                        "2605"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "South Canberra",
-                    "zipcodes": [
-                        "2605",
-                        "2606",
-                        "2607",
-                        "2608",
-                        "2609"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Weston Creek",
-                    "zipcodes": [
-                        "2611",
-                        "2612",
-                        "2613",
-                        "2614",
-                        "2615"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Woden Valley",
-                    "zipcodes": [
-                        "2606",
-                        "2607",
-                        "2608",
-                        "2609",
-                        "2610"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                }
-            ],
-            "name": "Australian Capital Territory"
+    "Queensland": {
+      "cities": {
+        "Brisbane": {
+          "zipcodes": [
+            "4000",
+            "4001",
+            "4002",
+            "4003",
+            "4004"
+          ],
+          "areacodes": [
+            "07"
+          ]
         },
-        "Northern Territory": {
-            "cities": [
-                {
-                    "cityname": "Darwin",
-                    "zipcodes": [
-                        "0800",
-                        "0801",
-                        "0802",
-                        "0803",
-                        "0804"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Alice Springs",
-                    "zipcodes": [
-                        "0870",
-                        "0871",
-                        "0872",
-                        "0873",
-                        "0874"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Katherine",
-                    "zipcodes": [
-                        "0850",
-                        "0851",
-                        "0852",
-                        "0853",
-                        "0854"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Tennant Creek",
-                    "zipcodes": [
-                        "0860",
-                        "0861",
-                        "0862",
-                        "0863",
-                        "0864"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Palmerston",
-                    "zipcodes": [
-                        "0830",
-                        "0831",
-                        "0832",
-                        "0833",
-                        "0834"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Casuarina",
-                    "zipcodes": [
-                        "0810",
-                        "0811",
-                        "0812",
-                        "0813",
-                        "0814"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Humpty Doo",
-                    "zipcodes": [
-                        "0836",
-                        "0837",
-                        "0838",
-                        "0839",
-                        "0840"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                },
-                {
-                    "cityname": "Batchelor",
-                    "zipcodes": [
-                        "0845",
-                        "0846",
-                        "0847",
-                        "0848",
-                        "0849"
-                    ],
-                    "areacodes": [
-                        "08"
-                    ]
-                }
-            ],
-            "name": "Northern Territory"
+        "Gold Coast": {
+          "zipcodes": [
+            "4217",
+            "4218",
+            "4219",
+            "4220",
+            "4221"
+          ],
+          "areacodes": [
+            "07"
+          ]
+        },
+        "Cairns": {
+          "zipcodes": [
+            "4870",
+            "4871",
+            "4872",
+            "4873",
+            "4874"
+          ],
+          "areacodes": [
+            "07"
+          ]
+        },
+        "Townsville": {
+          "zipcodes": [
+            "4810",
+            "4811",
+            "4812",
+            "4813",
+            "4814"
+          ],
+          "areacodes": [
+            "07"
+          ]
+        },
+        "Rockhampton": {
+          "zipcodes": [
+            "4700",
+            "4701",
+            "4702",
+            "4703",
+            "4704"
+          ],
+          "areacodes": [
+            "07"
+          ]
+        },
+        "Mackay": {
+          "zipcodes": [
+            "4740",
+            "4741",
+            "4742",
+            "4743",
+            "4744"
+          ],
+          "areacodes": [
+            "07"
+          ]
+        },
+        "Toowoomba": {
+          "zipcodes": [
+            "4350",
+            "4351",
+            "4352",
+            "4353",
+            "4354"
+          ],
+          "areacodes": [
+            "07"
+          ]
+        },
+        "Bundaberg": {
+          "zipcodes": [
+            "4670",
+            "4671",
+            "4672",
+            "4673",
+            "4674"
+          ],
+          "areacodes": [
+            "07"
+          ]
+        },
+        "Gladstone": {
+          "zipcodes": [
+            "4680",
+            "4681",
+            "4682",
+            "4683",
+            "4684"
+          ],
+          "areacodes": [
+            "07"
+          ]
+        },
+        "Hervey Bay": {
+          "zipcodes": [
+            "4655",
+            "4656",
+            "4657",
+            "4658",
+            "4659"
+          ],
+          "areacodes": [
+            "07"
+          ]
+        },
+        "Ipswich": {
+          "zipcodes": [
+            "4305",
+            "4306",
+            "4307",
+            "4308",
+            "4309"
+          ],
+          "areacodes": [
+            "07"
+          ]
+        },
+        "Sunshine Coast": {
+          "zipcodes": [
+            "4551",
+            "4552",
+            "4553",
+            "4554",
+            "4555"
+          ],
+          "areacodes": [
+            "07"
+          ]
+        },
+        "Redcliffe": {
+          "zipcodes": [
+            "4020",
+            "4021",
+            "4022",
+            "4023",
+            "4024"
+          ],
+          "areacodes": [
+            "07"
+          ]
         }
+      },
+      "name": "Queensland"
     },
-    "citycontainers":["states","territories"],
-    "firstnames": [
-  "Oliver", "William", "Jack", "Noah", "Liam", "Lucas", "James", "Henry", "Charlie", "Thomas",
-  "Leo", "Isaac", "Mason", "Max", "Ethan", "Jackson", "Alexander", "Sebastian", "Samuel", "Benjamin",
-  "Matthew", "Daniel", "Zachary", "Hudson", "Jacob", "Logan", "Harrison", "Cooper", "Aiden", "Logan",
-  "Chloe", "Charlotte", "Amelia", "Isla", "Olivia", "Mia", "Sophie", "Grace", "Ella", "Ruby",
-  "Harper", "Lily", "Eva", "Madeline"
-],
-"lastnames": [
-  "Smith", "Jones", "Williams", "Taylor", "Brown", "Wilson", "Moore", "Jackson", "White", "Harris",
-  "Martin", "Thompson", "Roberts", "Walker", "Young", "Allen", "King", "Scott", "Adams", "Baker",
-  "Green", "Carter", "Mitchell", "Evans", "Parker", "Davis", "Morris", "Graham", "Lee", "Hall",
-  "Hughes", "Collins", "Butler", "Richardson", "Murphy", "Bell", "Wood", "Coleman", "Ward", "King"
-]
-
+    "South Australia": {
+      "cities": {
+        "Adelaide": {
+          "zipcodes": [
+            "5000",
+            "5001",
+            "5002",
+            "5003",
+            "5004"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Mount Gambier": {
+          "zipcodes": [
+            "5290",
+            "5291",
+            "5292",
+            "5293",
+            "5294"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Whyalla": {
+          "zipcodes": [
+            "5600",
+            "5601",
+            "5602",
+            "5603",
+            "5604"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Port Augusta": {
+          "zipcodes": [
+            "5700",
+            "5701",
+            "5702",
+            "5703",
+            "5704"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Port Lincoln": {
+          "zipcodes": [
+            "5606",
+            "5607",
+            "5608",
+            "5609",
+            "5610"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Berri": {
+          "zipcodes": [
+            "5343",
+            "5344",
+            "5345",
+            "5346",
+            "5347"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Murray Bridge": {
+          "zipcodes": [
+            "5253",
+            "5254",
+            "5255",
+            "5256",
+            "5257"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Victor Harbor": {
+          "zipcodes": [
+            "5211",
+            "5212",
+            "5213",
+            "5214",
+            "5215"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Kadina": {
+          "zipcodes": [
+            "5554",
+            "5555",
+            "5556",
+            "5557",
+            "5558"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Clare": {
+          "zipcodes": [
+            "5453",
+            "5454",
+            "5455",
+            "5456",
+            "5457"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Loxton": {
+          "zipcodes": [
+            "5333",
+            "5334",
+            "5335",
+            "5336",
+            "5337"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Tanunda": {
+          "zipcodes": [
+            "5352",
+            "5353",
+            "5354",
+            "5355",
+            "5356"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Nuriootpa": {
+          "zipcodes": [
+            "5355",
+            "5356",
+            "5357",
+            "5358",
+            "5359"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Port Pirie": {
+          "zipcodes": [
+            "5540",
+            "5541",
+            "5542",
+            "5543",
+            "5544"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        }
+      },
+      "name": "South Australia"
+    },
+    "Tasmania": {
+      "cities": {
+        "Hobart": {
+          "zipcodes": [
+            "7000",
+            "7001",
+            "7002",
+            "7003",
+            "7004"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Launceston": {
+          "zipcodes": [
+            "7250",
+            "7251",
+            "7252",
+            "7253",
+            "7254"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Devonport": {
+          "zipcodes": [
+            "7310",
+            "7311",
+            "7312",
+            "7313",
+            "7314"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Burnie": {
+          "zipcodes": [
+            "7320",
+            "7321",
+            "7322",
+            "7323",
+            "7324"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Kingston": {
+          "zipcodes": [
+            "7050",
+            "7051",
+            "7052",
+            "7053",
+            "7054"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Bicheno": {
+          "zipcodes": [
+            "7215",
+            "7216",
+            "7217",
+            "7218",
+            "7219"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Sorell": {
+          "zipcodes": [
+            "7172",
+            "7173",
+            "7174",
+            "7175",
+            "7176"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "St Helens": {
+          "zipcodes": [
+            "7216",
+            "7217",
+            "7218",
+            "7219",
+            "7220"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Scottsdale": {
+          "zipcodes": [
+            "7260",
+            "7261",
+            "7262",
+            "7263",
+            "7264"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "George Town": {
+          "zipcodes": [
+            "7253",
+            "7254",
+            "7255",
+            "7256",
+            "7257"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Richmond": {
+          "zipcodes": [
+            "7025",
+            "7026",
+            "7027",
+            "7028",
+            "7029"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Ulverstone": {
+          "zipcodes": [
+            "7315",
+            "7316",
+            "7317",
+            "7318",
+            "7319"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "New Norfolk": {
+          "zipcodes": [
+            "7140",
+            "7141",
+            "7142",
+            "7143",
+            "7144"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Huonville": {
+          "zipcodes": [
+            "7109",
+            "7110",
+            "7111",
+            "7112",
+            "7113"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        }
+      },
+      "name": "Tasmania"
+    },
+    "Victoria": {
+      "cities": {
+        "Melbourne": {
+          "zipcodes": [
+            "3000",
+            "3001",
+            "3002",
+            "3003",
+            "3004"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Geelong": {
+          "zipcodes": [
+            "3220",
+            "3221",
+            "3222",
+            "3223",
+            "3224"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Ballarat": {
+          "zipcodes": [
+            "3350",
+            "3351",
+            "3352",
+            "3353",
+            "3354"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Bendigo": {
+          "zipcodes": [
+            "3550",
+            "3551",
+            "3552",
+            "3553",
+            "3554"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Shepparton": {
+          "zipcodes": [
+            "3630",
+            "3631",
+            "3632",
+            "3633",
+            "3634"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Wangaratta": {
+          "zipcodes": [
+            "3677",
+            "3678",
+            "3679",
+            "3680",
+            "3681"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Mildura": {
+          "zipcodes": [
+            "3500",
+            "3501",
+            "3502",
+            "3503",
+            "3504"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Wodonga": {
+          "zipcodes": [
+            "3690",
+            "3691",
+            "3692",
+            "3693",
+            "3694"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Moorabbin": {
+          "zipcodes": [
+            "3189",
+            "3190",
+            "3191",
+            "3192",
+            "3193"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Sunbury": {
+          "zipcodes": [
+            "3429",
+            "3430",
+            "3431",
+            "3432",
+            "3433"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Bayswater": {
+          "zipcodes": [
+            "3153",
+            "3154",
+            "3155",
+            "3156",
+            "3157"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Mornington": {
+          "zipcodes": [
+            "3931",
+            "3932",
+            "3933",
+            "3934",
+            "3935"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Frankston": {
+          "zipcodes": [
+            "3199",
+            "3200",
+            "3201",
+            "3202",
+            "3203"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Traralgon": {
+          "zipcodes": [
+            "3844",
+            "3845",
+            "3846",
+            "3847",
+            "3848"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        }
+      },
+      "name": "Victoria"
+    },
+    "Western Australia": {
+      "cities": {
+        "Perth": {
+          "zipcodes": [
+            "6000",
+            "6001",
+            "6002",
+            "6003",
+            "6004"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Mandurah": {
+          "zipcodes": [
+            "6210",
+            "6211",
+            "6212",
+            "6213",
+            "6214"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Bunbury": {
+          "zipcodes": [
+            "6230",
+            "6231",
+            "6232",
+            "6233",
+            "6234"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Geraldton": {
+          "zipcodes": [
+            "6530",
+            "6531",
+            "6532",
+            "6533",
+            "6534"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Albany": {
+          "zipcodes": [
+            "6330",
+            "6331",
+            "6332",
+            "6333",
+            "6334"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Kalgoorlie": {
+          "zipcodes": [
+            "6430",
+            "6431",
+            "6432",
+            "6433",
+            "6434"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Busselton": {
+          "zipcodes": [
+            "6280",
+            "6281",
+            "6282",
+            "6283",
+            "6284"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Karratha": {
+          "zipcodes": [
+            "6714",
+            "6715",
+            "6716",
+            "6717",
+            "6718"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Broome": {
+          "zipcodes": [
+            "6725",
+            "6726",
+            "6727",
+            "6728",
+            "6729"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Port Hedland": {
+          "zipcodes": [
+            "6721",
+            "6722",
+            "6723",
+            "6724",
+            "6725"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Wongan Hills": {
+          "zipcodes": [
+            "6603",
+            "6604",
+            "6605",
+            "6606",
+            "6607"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Mingenew": {
+          "zipcodes": [
+            "6522",
+            "6523",
+            "6524",
+            "6525",
+            "6526"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Jurien Bay": {
+          "zipcodes": [
+            "6516",
+            "6517",
+            "6518",
+            "6519",
+            "6520"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Dunsborough": {
+          "zipcodes": [
+            "6281",
+            "6282",
+            "6283",
+            "6284",
+            "6285"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Narrogin": {
+          "zipcodes": [
+            "6312",
+            "6313",
+            "6314",
+            "6315",
+            "6316"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        }
+      },
+      "name": "Western Australia"
+    }
+  },
+  "territories": {
+    "Australian Capital Territory": {
+      "cities": {
+        "Canberra": {
+          "zipcodes": [
+            "2600",
+            "2601",
+            "2602",
+            "2603",
+            "2604"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Tuggeranong": {
+          "zipcodes": [
+            "2900",
+            "2901",
+            "2902",
+            "2903",
+            "2904"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Belconnen": {
+          "zipcodes": [
+            "2617",
+            "2618",
+            "2619",
+            "2620",
+            "2621"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Gungahlin": {
+          "zipcodes": [
+            "2912",
+            "2913",
+            "2914",
+            "2915",
+            "2916"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "North Canberra": {
+          "zipcodes": [
+            "2601",
+            "2602",
+            "2603",
+            "2604",
+            "2605"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "South Canberra": {
+          "zipcodes": [
+            "2605",
+            "2606",
+            "2607",
+            "2608",
+            "2609"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Weston Creek": {
+          "zipcodes": [
+            "2611",
+            "2612",
+            "2613",
+            "2614",
+            "2615"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Woden Valley": {
+          "zipcodes": [
+            "2606",
+            "2607",
+            "2608",
+            "2609",
+            "2610"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        }
+      },
+      "name": "Australian Capital Territory"
+    },
+    "Northern Territory": {
+      "cities": {
+        "Darwin": {
+          "zipcodes": [
+            "0800",
+            "0801",
+            "0802",
+            "0803",
+            "0804"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Alice Springs": {
+          "zipcodes": [
+            "0870",
+            "0871",
+            "0872",
+            "0873",
+            "0874"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Katherine": {
+          "zipcodes": [
+            "0850",
+            "0851",
+            "0852",
+            "0853",
+            "0854"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Tennant Creek": {
+          "zipcodes": [
+            "0860",
+            "0861",
+            "0862",
+            "0863",
+            "0864"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Palmerston": {
+          "zipcodes": [
+            "0830",
+            "0831",
+            "0832",
+            "0833",
+            "0834"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Casuarina": {
+          "zipcodes": [
+            "0810",
+            "0811",
+            "0812",
+            "0813",
+            "0814"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Humpty Doo": {
+          "zipcodes": [
+            "0836",
+            "0837",
+            "0838",
+            "0839",
+            "0840"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        },
+        "Batchelor": {
+          "zipcodes": [
+            "0845",
+            "0846",
+            "0847",
+            "0848",
+            "0849"
+          ],
+          "areacodes": [
+            "08"
+          ]
+        }
+      },
+      "name": "Northern Territory"
+    }
+  },
+  "citycontainers": [
+    "states",
+    "territories"
+  ],
+  "firstnames": [
+    "Oliver",
+    "William",
+    "Jack",
+    "Noah",
+    "Liam",
+    "Lucas",
+    "James",
+    "Henry",
+    "Charlie",
+    "Thomas",
+    "Leo",
+    "Isaac",
+    "Mason",
+    "Max",
+    "Ethan",
+    "Jackson",
+    "Alexander",
+    "Sebastian",
+    "Samuel",
+    "Benjamin",
+    "Matthew",
+    "Daniel",
+    "Zachary",
+    "Hudson",
+    "Jacob",
+    "Logan",
+    "Harrison",
+    "Cooper",
+    "Aiden",
+    "Logan",
+    "Chloe",
+    "Charlotte",
+    "Amelia",
+    "Isla",
+    "Olivia",
+    "Mia",
+    "Sophie",
+    "Grace",
+    "Ella",
+    "Ruby",
+    "Harper",
+    "Lily",
+    "Eva",
+    "Madeline"
+  ],
+  "lastnames": [
+    "Smith",
+    "Jones",
+    "Williams",
+    "Taylor",
+    "Brown",
+    "Wilson",
+    "Moore",
+    "Jackson",
+    "White",
+    "Harris",
+    "Martin",
+    "Thompson",
+    "Roberts",
+    "Walker",
+    "Young",
+    "Allen",
+    "King",
+    "Scott",
+    "Adams",
+    "Baker",
+    "Green",
+    "Carter",
+    "Mitchell",
+    "Evans",
+    "Parker",
+    "Davis",
+    "Morris",
+    "Graham",
+    "Lee",
+    "Hall",
+    "Hughes",
+    "Collins",
+    "Butler",
+    "Richardson",
+    "Murphy",
+    "Bell",
+    "Wood",
+    "Coleman",
+    "Ward",
+    "King"
+  ]
 }

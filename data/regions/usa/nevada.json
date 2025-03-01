@@ -1,158 +1,143 @@
 {
-    "name": "nevada",
-    "capital": "Carson City",
-    "cities": [
-        {
-            "cityname": "Boulder City",
-            "zipcodes": [
-                "89005",
-                "89006"
-            ],
-            "areacodes": [
-                "702",
-                "725"
-            ]
-        },
-        {
-            "cityname": "Carson City",
-            "zipcodes": [
-                "89701",
-                "89702",
-                "89703"
-            ],
-            "areacodes": [
-                "775"
-            ]
-        },
-        {
-            "cityname": "Elko",
-            "zipcodes": [
-                "89801",
-                "89802"
-            ],
-            "areacodes": [
-                "775"
-            ]
-        },
-        {
-            "cityname": "Ely",
-            "zipcodes": [
-                "89301"
-            ],
-            "areacodes": [
-                "775"
-            ]
-        },
-        {
-            "cityname": "Fallon",
-            "zipcodes": [
-                "89406"
-            ],
-            "areacodes": [
-                "775"
-            ]
-        },
-        {
-            "cityname": "Fernley",
-            "zipcodes": [
-                "89408"
-            ],
-            "areacodes": [
-                "775"
-            ]
-        },
-        {
-            "cityname": "Henderson",
-            "zipcodes": [
-                "89002",
-                "89009"
-            ],
-            "areacodes": [
-                "702",
-                "725"
-            ]
-        },
-        {
-            "cityname": "Las Vegas",
-            "zipcodes": [
-                "89101",
-                "89102"
-            ],
-            "areacodes": [
-                "702",
-                "725"
-            ]
-        },
-        {
-            "cityname": "Mesquite",
-            "zipcodes": [
-                "89024",
-                "89027"
-            ],
-            "areacodes": [
-                "702",
-                "725"
-            ]
-        },
-        {
-            "cityname": "North Las Vegas",
-            "zipcodes": [
-            "89030",
-            "89031"
-            ],
-            "areacodes": [
-            "702",
-            "725"
-            ]
-        },
-        {
-            "cityname": "Pahrump",
-            "zipcodes": [
-            "89041",
-            "89048"
-            ],
-            "areacodes": [
-            "775"
-            ]
-        },
-        {
-            "cityname": "Reno",
-            "zipcodes": [
-            "89501",
-            "89502"
-            ],
-            "areacodes": [
-            "775"
-            ]
-        },
-        {
-            "cityname": "Sparks",
-            "zipcodes": [
-            "89431",
-            "89434"
-            ],
-            "areacodes": [
-            "775"
-            ]
-        },
-        {
-            "cityname": "Winnemucca",
-            "zipcodes": [
-            "89445",
-            "89446"
-            ],
-            "areacodes": [
-            "775"
-            ]
-        },
-        {
-            "cityname": "Yerington",
-            "zipcodes": [
-            "89447"
-            ],
-            "areacodes": [
-            "775"
-            ]
-        }
-    ]
+  "name": "nevada",
+  "capital": "Carson City",
+  "cities": {
+    "Boulder City": {
+      "zipcodes": [
+        "89005",
+        "89006"
+      ],
+      "areacodes": [
+        "702",
+        "725"
+      ]
+    },
+    "Carson City": {
+      "zipcodes": [
+        "89701",
+        "89702",
+        "89703"
+      ],
+      "areacodes": [
+        "775"
+      ]
+    },
+    "Elko": {
+      "zipcodes": [
+        "89801",
+        "89802"
+      ],
+      "areacodes": [
+        "775"
+      ]
+    },
+    "Ely": {
+      "zipcodes": [
+        "89301"
+      ],
+      "areacodes": [
+        "775"
+      ]
+    },
+    "Fallon": {
+      "zipcodes": [
+        "89406"
+      ],
+      "areacodes": [
+        "775"
+      ]
+    },
+    "Fernley": {
+      "zipcodes": [
+        "89408"
+      ],
+      "areacodes": [
+        "775"
+      ]
+    },
+    "Henderson": {
+      "zipcodes": [
+        "89002",
+        "89009"
+      ],
+      "areacodes": [
+        "702",
+        "725"
+      ]
+    },
+    "Las Vegas": {
+      "zipcodes": [
+        "89101",
+        "89102"
+      ],
+      "areacodes": [
+        "702",
+        "725"
+      ]
+    },
+    "Mesquite": {
+      "zipcodes": [
+        "89024",
+        "89027"
+      ],
+      "areacodes": [
+        "702",
+        "725"
+      ]
+    },
+    "North Las Vegas": {
+      "zipcodes": [
+        "89030",
+        "89031"
+      ],
+      "areacodes": [
+        "702",
+        "725"
+      ]
+    },
+    "Pahrump": {
+      "zipcodes": [
+        "89041",
+        "89048"
+      ],
+      "areacodes": [
+        "775"
+      ]
+    },
+    "Reno": {
+      "zipcodes": [
+        "89501",
+        "89502"
+      ],
+      "areacodes": [
+        "775"
+      ]
+    },
+    "Sparks": {
+      "zipcodes": [
+        "89431",
+        "89434"
+      ],
+      "areacodes": [
+        "775"
+      ]
+    },
+    "Winnemucca": {
+      "zipcodes": [
+        "89445",
+        "89446"
+      ],
+      "areacodes": [
+        "775"
+      ]
+    },
+    "Yerington": {
+      "zipcodes": [
+        "89447"
+      ],
+      "areacodes": [
+        "775"
+      ]
+    }
+  }
 }

@@ -1,721 +1,1314 @@
 {
-    "name" : "Wisconsin",
-    "capital" : "Madison",
-    "cities" : [
-        {
-            "cityname" : "Milwaukee",
-            "areacodes" : ["414", "262"],
-            "zipcodes" : ["53201", "53202", "53203", "53204", "53205"]
-        },
-        {
-            "cityname" : "Allouez",
-            "areacodes" : ["920"],
-            "zipcodes" : ["54301"]
-        },
-        {
-            "cityname" : "Altoona",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54720"]
-        },
-        {
-            "cityname" : "Antigo",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54409"]
-        },
-        {
-            "cityname" : "Appleton",
-            "areacodes" : ["920"],
-            "zipcodes" : ["54911", "54912", "54913", "54914", "54915", "54919"]
-        },
-        {
-            "cityname" : "Ashland",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54806"]
-        },
-        {
-            "cityname" : "Ashwaubenon",
-            "areacodes" : ["920"],
-            "zipcodes" : ["54304"]
-        },
-        {
-            "cityname" : "Baraboo",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53913"]
-        },
-        {
-            "cityname" : "Beaver Dam",
-            "areacodes" : ["920"],
-            "zipcodes" : ["53916"]
-        },
-        {
-            "cityname" : "Bellevue",
-            "areacodes" : ["920"],
-            "zipcodes" : ["54311"]
-        },
-        {
-            "cityname" : "Beloit",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53511"]
-        },
-        {
-            "cityname" : "Berlin",
-            "areacodes" : ["920"],
-            "zipcodes" : ["54923"]
-        },
-        {
-            "cityname" : "Brookfield",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53005", "53008", "53045"]
-        },
-        {
-            "cityname" : "Brown Deer",
-            "areacodes" : ["414"],
-            "zipcodes" : ["53209", "53223"]
-        },
-        {
-            "cityname" : "Burlington",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53105"]
-        },
-        {
-            "cityname" : "Caledonia",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53108"]
-        },
-        {
-            "cityname" : "Cedarburg",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53012"]
-        },
-        {
-            "cityname" : "Chippewa Falls",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54729"]
-        },
-        {
-            "cityname" : "Cottage Grove",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53527"]
-        },
-        {
-            "cityname" : "Cudahy",
-            "areacodes" : ["414"],
-            "zipcodes" : ["53110"]
-        },
-        {
-            "cityname" : "De Pere",
-            "areacodes" : ["920"],
-            "zipcodes" : ["54115"]
-        },
-        {
-            "cityname" : "DeForest",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53532"]
-        },
-        {
-            "cityname" : "Delafield",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53018"]
-        },
-        {
-            "cityname" : "Delavan",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53115"]
-        },
-        {
-            "cityname" : "Eau Claire",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54701", "54702", "54703"]
-        },
-        {
-            "cityname" : "Edgerton",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53534"]
-        },
-        {
-            "cityname" : "Elkhorn",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53121"]
-        },
-        {
-            "cityname" : "Elm Grove",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53122"]
-        },
-        {
-            "cityname" : "Evansville",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53536"]
-        },
-        {
-            "cityname" : "Fitchburg",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53711"]
-        },
-        {
-            "cityname" : "Fond du Lac",
-            "areacodes" : ["920"],
-            "zipcodes" : ["54935", "54936", "54937"]
-        },
-        {
-            "cityname" : "Fort Atkinson",
-            "areacodes" : ["920"],
-            "zipcodes" : ["53538"]
-        },
-        {
-            "cityname" : "Fox Point",
-            "areacodes" : ["414"],
-            "zipcodes" : ["53217"]
-        },
-        {
-            "cityname" : "Franklin",
-            "areacodes" : ["414"],
-            "zipcodes" : ["53132"]
-        },
-        {
-            "cityname" : "Germantown",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53022"]
-        },
-        {
-            "cityname" : "Glendale",
-            "areacodes" : ["414"],
-            "zipcodes" : ["53209"]
-        },
-        {
-            "cityname" : "Grafton",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53024"]
-        },
-        {
-            "cityname" : "Green Bay",
-            "areacodes" : ["920"],
-            "zipcodes" : ["54301", "54302", "54303", "54304", "54305", "54306", "54307", "54308", "54311", "54313", "54324"]
-        },
-        {
-            "cityname" : "Greendale",
-            "areacodes" : ["414"],
-            "zipcodes" : ["53129"]
-        },
-        {
-            "cityname" : "Greenfield",
-            "areacodes" : ["414"],
-            "zipcodes" : ["53219", "53220", "53221", "53228"]
-        },
-        {
-            "cityname" : "Hales Corners",
-            "areacodes" : ["414"],
-            "zipcodes" : ["53130"]
-        },
-        {
-            "cityname" : "Hartford",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53027"]
-        },
-        {
-            "cityname" : "Hartland",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53029"]
-        },
-        {
-            "cityname" : "Hobart",
-            "areacodes" : ["920"],
-            "zipcodes" : ["54155"]
-        },
-        {
-            "cityname" : "Holmen",
-            "areacodes" : ["608"],
-            "zipcodes" : ["54636"]
-        },
-        {
-            "cityname" : "Howard",
-            "areacodes" : ["920"],
-            "zipcodes" : ["54303", "54313"]
-        },
-        {
-            "cityname" : "Hudson",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54016"]
-        },
-        {
-            "cityname" : "Jackson",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53037"]
-        },
-        {
-            "cityname" : "Janesville",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53545", "53546", "53547", "53548"]
-        },
-        {
-            "cityname" : "Jefferson",
-            "areacodes" : ["920"],
-            "zipcodes" : ["53549"]
-        },
-        {
-            "cityname" : "Kaukauna",
-            "areacodes" : ["920"],
-            "zipcodes" : ["54130"]
-        },
-        {
-            "cityname" : "Kenosha",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53140", "53141", "53142", "53143", "53144"]
-        },
-        {
-            "cityname" : "Kimberly",
-            "areacodes" : ["920"],
-            "zipcodes" : ["54136"]
-        },
-        {
-            "cityname" : "Kronenwetter",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54455"]
-        },
-        {
-            "cityname" : "La Crosse",
-            "areacodes" : ["608"],
-            "zipcodes" : ["54601", "54602", "54603"]
-        },
-        {
-            "cityname" : "Lake Geneva",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53147"]
-        },
-        {
-            "cityname" : "Lake Hallie",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54729"]
-        },
-        {
-            "cityname" : "Lake Mills",
-            "areacodes" : ["920"],
-            "zipcodes" : ["53551"]
-        },
-        {
-            "cityname" : "Little Chute",
-            "areacodes" : ["920"],
-            "zipcodes" : ["54140"]
-        },
-        {
-            "cityname" : "Madison",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53701", "53702", "53703", "53704", "53705", "53706", "53707", "53708", "53711", "53713", "53714", "53715", "53716", "53717", "53718", "53719", "53725", "53726", "53744", "53774", "53777", "53778", "53779", "53782", "53783", "53784", "53785", "53786", "53788", "53789", "53790", "53791", "53792", "53793", "53794"]
-        },
-        {
-            "cityname" : "Manitowoc",
-            "areacodes" : ["920"],
-            "zipcodes" : ["54220", "54221"]
-        },
-        {
-            "cityname" : "Marinette",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54143"]
-        },
-        {
-            "cityname" : "Marshfield",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54404", "54449"]
-        },
-        {
-            "cityname" : "Mayville",
-            "areacodes" : ["920"],
-            "zipcodes" : ["53050"]
-        },
-        {
-            "cityname" : "McFarland",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53558"]
-        },
-        {
-            "cityname" : "Menasha",
-            "areacodes" : ["920"],
-            "zipcodes" : ["54952"]
-        },
-        {
-            "cityname" : "Menomonee Falls",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53051"]
-        },
-        {
-            "cityname" : "Menomonie",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54751"]
-        },
-        {
-            "cityname" : "Mequon",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53092", "53097"]
-        },
-        {
-            "cityname" : "Merrill",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54452"]
-        },
-        {
-            "cityname" : "Middleton",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53562"]
-        },
-        {
-            "cityname" : "Milton",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53563"]
-        },
-        {
-            "cityname" : "Milwaukee",
-            "areacodes" : ["414", "262"],
-            "zipcodes" : ["53201", "53202", "53203", "53204", "53205", "53206", "53207", "53208", "53209", "53210", "53211", "53212", "53213", "53214", "53215", "53216", "53217", "53218", "53219", "53220", "53221", "53222", "53223", "53224", "53225", "53226", "53227", "53228", "53233", "53234", "53235", "53237", "53259", "53263", "53267", "53268", "53274", "53278", "53288", "53290", "53293", "53295"]
-        },
-        {
-            "cityname" : "Monona",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53716"]
-        },
-        {
-            "cityname" : "Monroe",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53566"]
-        },
-        {
-            "cityname" : "Mount Horeb",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53572"]
-        },
-        {
-            "cityname" : "Mount Pleasant",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53403", "53406"]
-        },
-        {
-            "cityname" : "Mukwonago",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53149"]
-        },
-        {
-            "cityname" : "Muskego",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53150"]
-        },
-        {
-            "cityname" : "Neenah",
-            "areacodes" : ["920"],
-            "zipcodes" : ["54956", "54957"]
-        },
-        {
-            "cityname" : "New Berlin",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53146", "53151"]
-        },
-        {
-            "cityname" : "New London",
-            "areacodes" : ["920"],
-            "zipcodes" : ["54961"]
-        },
-        {
-            "cityname" : "New Richmond",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54017"]
-        },
-        {
-            "cityname" : "North Fond du Lac",
-            "areacodes" : ["920"],
-            "zipcodes" : ["54937"]
-        },
-        {
-            "cityname" : "Oak Creek",
-            "areacodes" : ["414"],
-            "zipcodes" : ["53154"]
-        },
-        {
-            "cityname" : "Oconomowoc",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53066"]
-        },
-        {
-            "cityname" : "Onalaska",
-            "areacodes" : ["608"],
-            "zipcodes" : ["54650"]
-        },
-        {
-            "cityname" : "Oregon",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53575"]
-        },
-        {
-            "cityname" : "Oshkosh",
-            "areacodes" : ["920"],
-            "zipcodes" : ["54901", "54902", "54903", "54904", "54906"]
-        },
-        {
-            "cityname" : "Pewaukee",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53072"]
-        },
-        {
-            "cityname" : "Platteville",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53818"]
-        },
-        {
-            "cityname" : "Pleasant Prairie",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53158"]
-        },
-        {
-            "cityname" : "Plover",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54467"]
-        },
-        {
-            "cityname" : "Plymouth",
-            "areacodes" : ["920"],
-            "zipcodes" : ["53073"]
-        },
-        {
-            "cityname" : "Port Washington",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53074"]
-        },
-        {
-            "cityname" : "Portage",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53901"]
-        },
-        {
-            "cityname" : "Prairie du Chien",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53821"]
-        },
-        {
-            "cityname" : "Racine",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53401", "53402", "53403", "53404", "53405", "53406", "53407", "53408"]
-        },
-        {
-            "cityname" : "Reedsburg",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53959"]
-        },
-        {
-            "cityname" : "Rhinelander",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54501"]
-        },
-        {
-            "cityname" : "Rib Mountain",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54401"]
-        },
-        {
-            "cityname" : "Rice Lake",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54868"]
-        },
-        {
-            "cityname" : "Richfield",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53076"]
-        },
-        {
-            "cityname" : "Richland Center",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53581"]
-        },
-        {
-            "cityname" : "Ripon",
-            "areacodes" : ["920"],
-            "zipcodes" : ["54971"]
-        },
-        {
-            "cityname" : "River Falls",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54022"]
-        },
-        {
-            "cityname" : "Rothschild",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54474"]
-        },
-        {
-            "cityname" : "Shawano",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54166"]
-        },
-        {
-            "cityname" : "Sheboygan",
-            "areacodes" : ["920"],
-            "zipcodes" : ["53081", "53082", "53083"]
-        },
-        {
-            "cityname" : "Sheboygan Falls",
-            "areacodes" : ["920"],
-            "zipcodes" : ["53085"]
-        },
-        {
-            "cityname" : "Shorewood",
-            "areacodes" : ["414"],
-            "zipcodes" : ["53211"]
-        },
-        {
-            "cityname" : "Slinger",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53086"]
-        },
-        {
-            "cityname" : "South Milwaukee",
-            "areacodes" : ["414"],
-            "zipcodes" : ["53172"]
-        },
-        {
-            "cityname" : "Sparta",
-            "areacodes" : ["608"],
-            "zipcodes" : ["54656"]
-        },
-        {
-            "cityname" : "St. Francis",
-            "areacodes" : ["414"],
-            "zipcodes" : ["53235"]
-        },
-        {
-            "cityname" : "Stevens Point",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54481", "54482", "54492"]
-        },
-        {
-            "cityname" : "Stoughton",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53589"]
-        },
-        {
-            "cityname" : "Sturgeon Bay",
-            "areacodes" : ["920"],
-            "zipcodes" : ["54235"]
-        },
-        {
-            "cityname" : "Sturtevant",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53177"]
-        },
-        {
-            "cityname" : "Suamico",
-            "areacodes" : ["920"],
-            "zipcodes" : ["54173"]
-        },
-        {
-            "cityname" : "Sun Prairie",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53590", "53596"]
-        },
-        {
-            "cityname" : "Superior",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54880"]
-        },
-        {
-            "cityname" : "Sussex",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53089"]
-        },
-        {
-            "cityname" : "Tichigan",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53185"]
-        },
-        {
-            "cityname" : "Tomah",
-            "areacodes" : ["608"],
-            "zipcodes" : ["54660"]
-        },
-        {
-            "cityname" : "Twin Lakes",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53181"]
-        },
-        {
-            "cityname" : "Two Rivers",
-            "areacodes" : ["920"],
-            "zipcodes" : ["54241"]
-        },
-        {
-            "cityname" : "Verona",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53593"]
-        },
-        {
-            "cityname" : "Waterford",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53185"]
-        },
-        {
-            "cityname" : "Watertown",
-            "areacodes" : ["920"],
-            "zipcodes" : ["53094", "53098"]
-        },
-        {
-            "cityname" : "Waukesha",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53186", "53187", "53188", "53189"]
-        },
-        {
-            "cityname" : "Waunakee",
-            "areacodes" : ["608"],
-            "zipcodes" : ["53597"]
-        },
-        {
-            "cityname" : "Waupaca",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54981"]
-        },
-        {
-            "cityname" : "Waupun",
-            "areacodes" : ["920"],
-            "zipcodes" : ["53963"]
-        },
-        {
-            "cityname" : "Wausau",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54401", "54402", "54403"]
-        },
-        {
-            "cityname" : "Wauwatosa",
-            "areacodes" : ["414"],
-            "zipcodes" : ["53213", "53222", "53225", "53226"]
-        },
-        {
-            "cityname" : "West Allis",
-            "areacodes" : ["414"],
-            "zipcodes" : ["53214", "53219", "53227"]
-        },
-        {
-            "cityname" : "West Bend",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53090", "53095"]
-        },
-        {
-            "cityname" : "Weston",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54476"]
-        },
-        {
-            "cityname" : "Whitefish Bay",
-            "areacodes" : ["414"],
-            "zipcodes" : ["53217"]
-        },
-        {
-            "cityname" : "Whitewater",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53190"]
-        },
-        {
-            "cityname" : "Wind Lake",
-            "areacodes" : ["262"],
-            "zipcodes" : ["53185"]
-        },
-        {
-            "cityname" : "Wisconsin Rapids",
-            "areacodes" : ["715", "534"],
-            "zipcodes" : ["54494", "54495"]
-        }
-    ]
+  "name": "Wisconsin",
+  "capital": "Madison",
+  "cities": {
+    "Milwaukee": {
+      "zipcodes": [
+        "53201",
+        "53202",
+        "53203",
+        "53204",
+        "53205",
+        "53206",
+        "53207",
+        "53208",
+        "53209",
+        "53210",
+        "53211",
+        "53212",
+        "53213",
+        "53214",
+        "53215",
+        "53216",
+        "53217",
+        "53218",
+        "53219",
+        "53220",
+        "53221",
+        "53222",
+        "53223",
+        "53224",
+        "53225",
+        "53226",
+        "53227",
+        "53228",
+        "53233",
+        "53234",
+        "53235",
+        "53237",
+        "53259",
+        "53263",
+        "53267",
+        "53268",
+        "53274",
+        "53278",
+        "53288",
+        "53290",
+        "53293",
+        "53295"
+      ],
+      "areacodes": [
+        "414",
+        "262"
+      ]
+    },
+    "Allouez": {
+      "zipcodes": [
+        "54301"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Altoona": {
+      "zipcodes": [
+        "54720"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "Antigo": {
+      "zipcodes": [
+        "54409"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "Appleton": {
+      "zipcodes": [
+        "54911",
+        "54912",
+        "54913",
+        "54914",
+        "54915",
+        "54919"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Ashland": {
+      "zipcodes": [
+        "54806"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "Ashwaubenon": {
+      "zipcodes": [
+        "54304"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Baraboo": {
+      "zipcodes": [
+        "53913"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Beaver Dam": {
+      "zipcodes": [
+        "53916"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Bellevue": {
+      "zipcodes": [
+        "54311"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Beloit": {
+      "zipcodes": [
+        "53511"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Berlin": {
+      "zipcodes": [
+        "54923"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Brookfield": {
+      "zipcodes": [
+        "53005",
+        "53008",
+        "53045"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Brown Deer": {
+      "zipcodes": [
+        "53209",
+        "53223"
+      ],
+      "areacodes": [
+        "414"
+      ]
+    },
+    "Burlington": {
+      "zipcodes": [
+        "53105"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Caledonia": {
+      "zipcodes": [
+        "53108"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Cedarburg": {
+      "zipcodes": [
+        "53012"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Chippewa Falls": {
+      "zipcodes": [
+        "54729"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "Cottage Grove": {
+      "zipcodes": [
+        "53527"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Cudahy": {
+      "zipcodes": [
+        "53110"
+      ],
+      "areacodes": [
+        "414"
+      ]
+    },
+    "De Pere": {
+      "zipcodes": [
+        "54115"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "DeForest": {
+      "zipcodes": [
+        "53532"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Delafield": {
+      "zipcodes": [
+        "53018"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Delavan": {
+      "zipcodes": [
+        "53115"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Eau Claire": {
+      "zipcodes": [
+        "54701",
+        "54702",
+        "54703"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "Edgerton": {
+      "zipcodes": [
+        "53534"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Elkhorn": {
+      "zipcodes": [
+        "53121"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Elm Grove": {
+      "zipcodes": [
+        "53122"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Evansville": {
+      "zipcodes": [
+        "53536"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Fitchburg": {
+      "zipcodes": [
+        "53711"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Fond du Lac": {
+      "zipcodes": [
+        "54935",
+        "54936",
+        "54937"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Fort Atkinson": {
+      "zipcodes": [
+        "53538"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Fox Point": {
+      "zipcodes": [
+        "53217"
+      ],
+      "areacodes": [
+        "414"
+      ]
+    },
+    "Franklin": {
+      "zipcodes": [
+        "53132"
+      ],
+      "areacodes": [
+        "414"
+      ]
+    },
+    "Germantown": {
+      "zipcodes": [
+        "53022"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Glendale": {
+      "zipcodes": [
+        "53209"
+      ],
+      "areacodes": [
+        "414"
+      ]
+    },
+    "Grafton": {
+      "zipcodes": [
+        "53024"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Green Bay": {
+      "zipcodes": [
+        "54301",
+        "54302",
+        "54303",
+        "54304",
+        "54305",
+        "54306",
+        "54307",
+        "54308",
+        "54311",
+        "54313",
+        "54324"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Greendale": {
+      "zipcodes": [
+        "53129"
+      ],
+      "areacodes": [
+        "414"
+      ]
+    },
+    "Greenfield": {
+      "zipcodes": [
+        "53219",
+        "53220",
+        "53221",
+        "53228"
+      ],
+      "areacodes": [
+        "414"
+      ]
+    },
+    "Hales Corners": {
+      "zipcodes": [
+        "53130"
+      ],
+      "areacodes": [
+        "414"
+      ]
+    },
+    "Hartford": {
+      "zipcodes": [
+        "53027"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Hartland": {
+      "zipcodes": [
+        "53029"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Hobart": {
+      "zipcodes": [
+        "54155"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Holmen": {
+      "zipcodes": [
+        "54636"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Howard": {
+      "zipcodes": [
+        "54303",
+        "54313"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Hudson": {
+      "zipcodes": [
+        "54016"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "Jackson": {
+      "zipcodes": [
+        "53037"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Janesville": {
+      "zipcodes": [
+        "53545",
+        "53546",
+        "53547",
+        "53548"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Jefferson": {
+      "zipcodes": [
+        "53549"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Kaukauna": {
+      "zipcodes": [
+        "54130"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Kenosha": {
+      "zipcodes": [
+        "53140",
+        "53141",
+        "53142",
+        "53143",
+        "53144"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Kimberly": {
+      "zipcodes": [
+        "54136"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Kronenwetter": {
+      "zipcodes": [
+        "54455"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "La Crosse": {
+      "zipcodes": [
+        "54601",
+        "54602",
+        "54603"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Lake Geneva": {
+      "zipcodes": [
+        "53147"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Lake Hallie": {
+      "zipcodes": [
+        "54729"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "Lake Mills": {
+      "zipcodes": [
+        "53551"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Little Chute": {
+      "zipcodes": [
+        "54140"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Madison": {
+      "zipcodes": [
+        "53701",
+        "53702",
+        "53703",
+        "53704",
+        "53705",
+        "53706",
+        "53707",
+        "53708",
+        "53711",
+        "53713",
+        "53714",
+        "53715",
+        "53716",
+        "53717",
+        "53718",
+        "53719",
+        "53725",
+        "53726",
+        "53744",
+        "53774",
+        "53777",
+        "53778",
+        "53779",
+        "53782",
+        "53783",
+        "53784",
+        "53785",
+        "53786",
+        "53788",
+        "53789",
+        "53790",
+        "53791",
+        "53792",
+        "53793",
+        "53794"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Manitowoc": {
+      "zipcodes": [
+        "54220",
+        "54221"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Marinette": {
+      "zipcodes": [
+        "54143"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "Marshfield": {
+      "zipcodes": [
+        "54404",
+        "54449"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "Mayville": {
+      "zipcodes": [
+        "53050"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "McFarland": {
+      "zipcodes": [
+        "53558"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Menasha": {
+      "zipcodes": [
+        "54952"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Menomonee Falls": {
+      "zipcodes": [
+        "53051"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Menomonie": {
+      "zipcodes": [
+        "54751"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "Mequon": {
+      "zipcodes": [
+        "53092",
+        "53097"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Merrill": {
+      "zipcodes": [
+        "54452"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "Middleton": {
+      "zipcodes": [
+        "53562"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Milton": {
+      "zipcodes": [
+        "53563"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Monona": {
+      "zipcodes": [
+        "53716"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Monroe": {
+      "zipcodes": [
+        "53566"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Mount Horeb": {
+      "zipcodes": [
+        "53572"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Mount Pleasant": {
+      "zipcodes": [
+        "53403",
+        "53406"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Mukwonago": {
+      "zipcodes": [
+        "53149"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Muskego": {
+      "zipcodes": [
+        "53150"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Neenah": {
+      "zipcodes": [
+        "54956",
+        "54957"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "New Berlin": {
+      "zipcodes": [
+        "53146",
+        "53151"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "New London": {
+      "zipcodes": [
+        "54961"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "New Richmond": {
+      "zipcodes": [
+        "54017"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "North Fond du Lac": {
+      "zipcodes": [
+        "54937"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Oak Creek": {
+      "zipcodes": [
+        "53154"
+      ],
+      "areacodes": [
+        "414"
+      ]
+    },
+    "Oconomowoc": {
+      "zipcodes": [
+        "53066"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Onalaska": {
+      "zipcodes": [
+        "54650"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Oregon": {
+      "zipcodes": [
+        "53575"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Oshkosh": {
+      "zipcodes": [
+        "54901",
+        "54902",
+        "54903",
+        "54904",
+        "54906"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Pewaukee": {
+      "zipcodes": [
+        "53072"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Platteville": {
+      "zipcodes": [
+        "53818"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Pleasant Prairie": {
+      "zipcodes": [
+        "53158"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Plover": {
+      "zipcodes": [
+        "54467"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "Plymouth": {
+      "zipcodes": [
+        "53073"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Port Washington": {
+      "zipcodes": [
+        "53074"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Portage": {
+      "zipcodes": [
+        "53901"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Prairie du Chien": {
+      "zipcodes": [
+        "53821"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Racine": {
+      "zipcodes": [
+        "53401",
+        "53402",
+        "53403",
+        "53404",
+        "53405",
+        "53406",
+        "53407",
+        "53408"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Reedsburg": {
+      "zipcodes": [
+        "53959"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Rhinelander": {
+      "zipcodes": [
+        "54501"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "Rib Mountain": {
+      "zipcodes": [
+        "54401"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "Rice Lake": {
+      "zipcodes": [
+        "54868"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "Richfield": {
+      "zipcodes": [
+        "53076"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Richland Center": {
+      "zipcodes": [
+        "53581"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Ripon": {
+      "zipcodes": [
+        "54971"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "River Falls": {
+      "zipcodes": [
+        "54022"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "Rothschild": {
+      "zipcodes": [
+        "54474"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "Shawano": {
+      "zipcodes": [
+        "54166"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "Sheboygan": {
+      "zipcodes": [
+        "53081",
+        "53082",
+        "53083"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Sheboygan Falls": {
+      "zipcodes": [
+        "53085"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Shorewood": {
+      "zipcodes": [
+        "53211"
+      ],
+      "areacodes": [
+        "414"
+      ]
+    },
+    "Slinger": {
+      "zipcodes": [
+        "53086"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "South Milwaukee": {
+      "zipcodes": [
+        "53172"
+      ],
+      "areacodes": [
+        "414"
+      ]
+    },
+    "Sparta": {
+      "zipcodes": [
+        "54656"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "St. Francis": {
+      "zipcodes": [
+        "53235"
+      ],
+      "areacodes": [
+        "414"
+      ]
+    },
+    "Stevens Point": {
+      "zipcodes": [
+        "54481",
+        "54482",
+        "54492"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "Stoughton": {
+      "zipcodes": [
+        "53589"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Sturgeon Bay": {
+      "zipcodes": [
+        "54235"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Sturtevant": {
+      "zipcodes": [
+        "53177"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Suamico": {
+      "zipcodes": [
+        "54173"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Sun Prairie": {
+      "zipcodes": [
+        "53590",
+        "53596"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Superior": {
+      "zipcodes": [
+        "54880"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "Sussex": {
+      "zipcodes": [
+        "53089"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Tichigan": {
+      "zipcodes": [
+        "53185"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Tomah": {
+      "zipcodes": [
+        "54660"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Twin Lakes": {
+      "zipcodes": [
+        "53181"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Two Rivers": {
+      "zipcodes": [
+        "54241"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Verona": {
+      "zipcodes": [
+        "53593"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Waterford": {
+      "zipcodes": [
+        "53185"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Watertown": {
+      "zipcodes": [
+        "53094",
+        "53098"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Waukesha": {
+      "zipcodes": [
+        "53186",
+        "53187",
+        "53188",
+        "53189"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Waunakee": {
+      "zipcodes": [
+        "53597"
+      ],
+      "areacodes": [
+        "608"
+      ]
+    },
+    "Waupaca": {
+      "zipcodes": [
+        "54981"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "Waupun": {
+      "zipcodes": [
+        "53963"
+      ],
+      "areacodes": [
+        "920"
+      ]
+    },
+    "Wausau": {
+      "zipcodes": [
+        "54401",
+        "54402",
+        "54403"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "Wauwatosa": {
+      "zipcodes": [
+        "53213",
+        "53222",
+        "53225",
+        "53226"
+      ],
+      "areacodes": [
+        "414"
+      ]
+    },
+    "West Allis": {
+      "zipcodes": [
+        "53214",
+        "53219",
+        "53227"
+      ],
+      "areacodes": [
+        "414"
+      ]
+    },
+    "West Bend": {
+      "zipcodes": [
+        "53090",
+        "53095"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Weston": {
+      "zipcodes": [
+        "54476"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    },
+    "Whitefish Bay": {
+      "zipcodes": [
+        "53217"
+      ],
+      "areacodes": [
+        "414"
+      ]
+    },
+    "Whitewater": {
+      "zipcodes": [
+        "53190"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Wind Lake": {
+      "zipcodes": [
+        "53185"
+      ],
+      "areacodes": [
+        "262"
+      ]
+    },
+    "Wisconsin Rapids": {
+      "zipcodes": [
+        "54494",
+        "54495"
+      ],
+      "areacodes": [
+        "715",
+        "534"
+      ]
+    }
+  }
 }

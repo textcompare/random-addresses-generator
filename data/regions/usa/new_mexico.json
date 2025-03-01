@@ -1,9 +1,8 @@
 {
   "name": "New Mexico",
   "capital": "Santa Fe",
-  "cities": [
-    {
-      "cityname": "Alamogordo",
+  "cities": {
+    "Alamogordo": {
       "zipcodes": [
         "88310",
         "88311"
@@ -12,8 +11,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Albuquerque",
+    "Albuquerque": {
       "zipcodes": [
         "87101",
         "87102",
@@ -65,8 +63,7 @@
         "505"
       ]
     },
-    {
-      "cityname": "Angel Fire",
+    "Angel Fire": {
       "zipcodes": [
         "87710"
       ],
@@ -74,8 +71,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Artesia",
+    "Artesia": {
       "zipcodes": [
         "88210",
         "88211"
@@ -84,8 +80,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Aztec",
+    "Aztec": {
       "zipcodes": [
         "87410"
       ],
@@ -93,8 +88,7 @@
         "505"
       ]
     },
-    {
-      "cityname": "Bayard",
+    "Bayard": {
       "zipcodes": [
         "88023"
       ],
@@ -102,8 +96,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Belen",
+    "Belen": {
       "zipcodes": [
         "87002"
       ],
@@ -111,8 +104,7 @@
         "505"
       ]
     },
-    {
-      "cityname": "Bernalillo",
+    "Bernalillo": {
       "zipcodes": [
         "87004"
       ],
@@ -120,8 +112,7 @@
         "505"
       ]
     },
-    {
-      "cityname": "Bloomfield",
+    "Bloomfield": {
       "zipcodes": [
         "87413"
       ],
@@ -129,8 +120,7 @@
         "505"
       ]
     },
-    {
-      "cityname": "Bosque Farms",
+    "Bosque Farms": {
       "zipcodes": [
         "87068"
       ],
@@ -138,8 +128,7 @@
         "505"
       ]
     },
-    {
-      "cityname": "Carlsbad",
+    "Carlsbad": {
       "zipcodes": [
         "88220",
         "88221"
@@ -148,8 +137,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Carrizozo",
+    "Carrizozo": {
       "zipcodes": [
         "88301"
       ],
@@ -157,8 +145,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Chama",
+    "Chama": {
       "zipcodes": [
         "87520"
       ],
@@ -166,8 +153,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Clayton",
+    "Clayton": {
       "zipcodes": [
         "88415"
       ],
@@ -175,8 +161,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Clovis",
+    "Clovis": {
       "zipcodes": [
         "88101",
         "88102"
@@ -185,8 +170,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Columbus",
+    "Columbus": {
       "zipcodes": [
         "88029"
       ],
@@ -194,8 +178,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Corona",
+    "Corona": {
       "zipcodes": [
         "88318"
       ],
@@ -203,8 +186,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Corrales",
+    "Corrales": {
       "zipcodes": [
         "87048"
       ],
@@ -212,8 +194,7 @@
         "505"
       ]
     },
-    {
-      "cityname": "Cuba",
+    "Cuba": {
       "zipcodes": [
         "87013"
       ],
@@ -221,8 +202,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Deming",
+    "Deming": {
       "zipcodes": [
         "88030",
         "88031"
@@ -231,8 +211,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Dexter",
+    "Dexter": {
       "zipcodes": [
         "88230"
       ],
@@ -240,8 +219,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Eagle Nest",
+    "Eagle Nest": {
       "zipcodes": [
         "87718"
       ],
@@ -249,8 +227,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Edgewood",
+    "Edgewood": {
       "zipcodes": [
         "87015"
       ],
@@ -258,8 +235,7 @@
         "505"
       ]
     },
-    {
-      "cityname": "Elephant Butte",
+    "Elephant Butte": {
       "zipcodes": [
         "87935"
       ],
@@ -267,8 +243,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Elida",
+    "Elida": {
       "zipcodes": [
         "88116"
       ],
@@ -276,8 +251,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Encino",
+    "Encino": {
       "zipcodes": [
         "88321"
       ],
@@ -285,8 +259,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Espanola",
+    "Espanola": {
       "zipcodes": [
         "87532",
         "87533"
@@ -295,8 +268,7 @@
         "505"
       ]
     },
-    {
-      "cityname": "Estancia",
+    "Estancia": {
       "zipcodes": [
         "87016"
       ],
@@ -304,8 +276,7 @@
         "505"
       ]
     },
-    {
-      "cityname": "Eunice",
+    "Eunice": {
       "zipcodes": [
         "88231"
       ],
@@ -313,8 +284,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Farmington",
+    "Farmington": {
       "zipcodes": [
         "87401",
         "87402",
@@ -324,8 +294,7 @@
         "505"
       ]
     },
-    {
-      "cityname": "Floyd",
+    "Floyd": {
       "zipcodes": [
         "88118"
       ],
@@ -333,8 +302,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Folsom",
+    "Folsom": {
       "zipcodes": [
         "88419"
       ],
@@ -342,8 +310,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Fort Sumner",
+    "Fort Sumner": {
       "zipcodes": [
         "88119"
       ],
@@ -351,8 +318,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Gallup",
+    "Gallup": {
       "zipcodes": [
         "87301",
         "87302",
@@ -362,8 +328,7 @@
         "505"
       ]
     },
-    {
-      "cityname": "Grady",
+    "Grady": {
       "zipcodes": [
         "88120"
       ],
@@ -371,8 +336,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Grants",
+    "Grants": {
       "zipcodes": [
         "87020"
       ],
@@ -380,8 +344,7 @@
         "505"
       ]
     },
-    {
-      "cityname": "Grenville",
+    "Grenville": {
       "zipcodes": [
         "88424"
       ],
@@ -389,8 +352,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Hagerman",
+    "Hagerman": {
       "zipcodes": [
         "88232"
       ],
@@ -398,8 +360,7 @@
         "575"
       ]
     },
-    {
-      "cityname": "Hatch",
+    "Hatch": {
       "zipcodes": [
         "87937"
       ],
@@ -407,1221 +368,1088 @@
         "575"
       ]
     },
-    {
-      "cityname": "Hernandez",
+    "Hernandez": {
       "zipcodes": [
-      "87537"
+        "87537"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Hobbs",
+    "Hobbs": {
       "zipcodes": [
-      "88240",
-      "88241",
-      "88242",
-      "88244"
+        "88240",
+        "88241",
+        "88242",
+        "88244"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Holloman Air Force Base",
+    "Holloman Air Force Base": {
       "zipcodes": [
-      "88330"
+        "88330"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Hope",
+    "Hope": {
       "zipcodes": [
-      "88250"
+        "88250"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "House",
+    "House": {
       "zipcodes": [
-      "88121"
+        "88121"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Hurley",
+    "Hurley": {
       "zipcodes": [
-      "88043"
+        "88043"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Jal",
+    "Jal": {
       "zipcodes": [
-      "88252"
+        "88252"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Jemez Pueblo",
+    "Jemez Pueblo": {
       "zipcodes": [
-      "87024"
+        "87024"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Jemez Springs",
+    "Jemez Springs": {
       "zipcodes": [
-      "87025"
+        "87025"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Kirtland",
+    "Kirtland": {
       "zipcodes": [
-      "87417"
+        "87417"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "La Jara",
+    "La Jara": {
       "zipcodes": [
-      "87027"
+        "87027"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "La Luz",
+    "La Luz": {
       "zipcodes": [
-      "88337"
+        "88337"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "La Mesa",
+    "La Mesa": {
       "zipcodes": [
-      "88044"
+        "88044"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Laguna",
+    "Laguna": {
       "zipcodes": [
-      "87026"
+        "87026"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Lake Arthur",
+    "Lake Arthur": {
       "zipcodes": [
-      "88253"
+        "88253"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Lakewood",
+    "Lakewood": {
       "zipcodes": [
-      "88254"
+        "88254"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Lamy",
+    "Lamy": {
       "zipcodes": [
-      "87540"
+        "87540"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Las Cruces",
+    "Las Cruces": {
       "zipcodes": [
-      "88001",
-      "88003",
-      "88004",
-      "88005",
-      "88006",
-      "88007",
-      "88011",
-      "88012",
-      "88013"
+        "88001",
+        "88003",
+        "88004",
+        "88005",
+        "88006",
+        "88007",
+        "88011",
+        "88012",
+        "88013"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Las Vegas",
+    "Las Vegas": {
       "zipcodes": [
-      "87701"
+        "87701"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Lindrith",
+    "Lindrith": {
       "zipcodes": [
-      "87029"
+        "87029"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Logan",
+    "Logan": {
       "zipcodes": [
-      "88426"
+        "88426"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Lordsburg",
+    "Lordsburg": {
       "zipcodes": [
-      "88045"
+        "88045"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Los Alamos",
+    "Los Alamos": {
       "zipcodes": [
-      "87544",
-      "87545"
+        "87544",
+        "87545"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Los Lunas",
+    "Los Lunas": {
       "zipcodes": [
-      "87031"
+        "87031"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Loving",
+    "Loving": {
       "zipcodes": [
-      "88256"
+        "88256"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Lovington",
+    "Lovington": {
       "zipcodes": [
-      "88260"
+        "88260"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Magdalena",
+    "Magdalena": {
       "zipcodes": [
-      "87825"
+        "87825"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Malaga",
+    "Malaga": {
       "zipcodes": [
-      "88263"
+        "88263"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Maxwell",
+    "Maxwell": {
       "zipcodes": [
-      "87728"
+        "87728"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Mayhill",
+    "Mayhill": {
       "zipcodes": [
-      "88339"
+        "88339"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "McAlister",
+    "McAlister": {
       "zipcodes": [
-      "88427"
+        "88427"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "McIntosh",
+    "McIntosh": {
       "zipcodes": [
-      "87032"
+        "87032"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Melrose",
+    "Melrose": {
       "zipcodes": [
-      "88124"
+        "88124"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Mescalero",
+    "Mescalero": {
       "zipcodes": [
-      "88340"
+        "88340"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Mesilla",
+    "Mesilla": {
       "zipcodes": [
-      "88046"
+        "88046"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Mesilla Park",
+    "Mesilla Park": {
       "zipcodes": [
-      "88047"
+        "88047"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Milan",
+    "Milan": {
       "zipcodes": [
-      "87021"
+        "87021"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Mimbres",
+    "Mimbres": {
       "zipcodes": [
-      "88049"
+        "88049"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Mora",
+    "Mora": {
       "zipcodes": [
-      "87732"
+        "87732"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Moriarty",
+    "Moriarty": {
       "zipcodes": [
-      "87035"
+        "87035"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Mosquero",
+    "Mosquero": {
       "zipcodes": [
-      "87733"
+        "87733"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Mountainair",
+    "Mountainair": {
       "zipcodes": [
-      "87036"
+        "87036"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Nageezi",
+    "Nageezi": {
       "zipcodes": [
-      "87037"
+        "87037"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Nara Visa",
+    "Nara Visa": {
       "zipcodes": [
-      "88430"
+        "88430"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "New Laguna",
+    "New Laguna": {
       "zipcodes": [
-      "87038"
+        "87038"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Ocate",
+    "Ocate": {
       "zipcodes": [
-      "87734"
+        "87734"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Ojo Caliente",
+    "Ojo Caliente": {
       "zipcodes": [
-      "87549"
+        "87549"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Pecos",
+    "Pecos": {
       "zipcodes": [
-      "87552"
+        "87552"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Pena Blanca",
+    "Pena Blanca": {
       "zipcodes": [
-      "87041"
+        "87041"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Penasco",
+    "Penasco": {
       "zipcodes": [
-      "87553"
+        "87553"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Peralta",
+    "Peralta": {
       "zipcodes": [
-      "87042"
+        "87042"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Placitas",
+    "Placitas": {
       "zipcodes": [
-      "87043"
+        "87043"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Portales",
+    "Portales": {
       "zipcodes": [
-      "88130"
+        "88130"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Questa",
+    "Questa": {
       "zipcodes": [
-      "87556"
+        "87556"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Ranchos De Taos",
+    "Ranchos De Taos": {
       "zipcodes": [
-      "87557"
+        "87557"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Raton",
+    "Raton": {
       "zipcodes": [
-      "87740"
+        "87740"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Red River",
+    "Red River": {
       "zipcodes": [
-      "87558"
+        "87558"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Regina",
+    "Regina": {
       "zipcodes": [
-      "87046"
+        "87046"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Reserve",
+    "Reserve": {
       "zipcodes": [
-      "87830"
+        "87830"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Ribera",
+    "Ribera": {
       "zipcodes": [
-      "87560"
+        "87560"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Rincon",
+    "Rincon": {
       "zipcodes": [
-      "87940"
+        "87940"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Rio Rancho",
+    "Rio Rancho": {
       "zipcodes": [
-      "87124",
-      "87144",
-      "87174"
+        "87124",
+        "87144",
+        "87174"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Rociada",
+    "Rociada": {
       "zipcodes": [
-      "87742"
+        "87742"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Rodeo",
+    "Rodeo": {
       "zipcodes": [
-      "88056"
+        "88056"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Roswell",
+    "Roswell": {
       "zipcodes": [
-      "88201",
-      "88202",
-      "88203"
+        "88201",
+        "88202",
+        "88203"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Rowe",
+    "Rowe": {
       "zipcodes": [
-      "87562"
+        "87562"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Roy",
+    "Roy": {
       "zipcodes": [
-      "87743"
+        "87743"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Ruidoso",
+    "Ruidoso": {
       "zipcodes": [
-      "88345",
-      "88346",
-      "88355"
+        "88345",
+        "88346",
+        "88355"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Ruidoso Downs",
+    "Ruidoso Downs": {
       "zipcodes": [
-      "88346"
+        "88346"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Salem",
+    "Salem": {
       "zipcodes": [
-      "87941"
+        "87941"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "San Acacia",
+    "San Acacia": {
       "zipcodes": [
-      "87831"
+        "87831"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "San Antonio",
+    "San Antonio": {
       "zipcodes": [
-      "87832"
+        "87832"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "San Cristobal",
+    "San Cristobal": {
       "zipcodes": [
-      "87564"
+        "87564"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "San Fidel",
+    "San Fidel": {
       "zipcodes": [
-      "87049"
+        "87049"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "San Jon",
+    "San Jon": {
       "zipcodes": [
-      "88434"
+        "88434"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "San Jose",
+    "San Jose": {
       "zipcodes": [
-      "87565"
+        "87565"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "San Juan Pueblo",
+    "San Juan Pueblo": {
       "zipcodes": [
-      "87566"
+        "87566"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "San Lorenzo",
+    "San Lorenzo": {
       "zipcodes": [
-      "88041"
+        "88041"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "San Patricio",
+    "San Patricio": {
       "zipcodes": [
-      "88348"
+        "88348"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "San Rafael",
+    "San Rafael": {
       "zipcodes": [
-      "87051"
+        "87051"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "San Ysidro",
+    "San Ysidro": {
       "zipcodes": [
-      "87053"
+        "87053"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Sandia Park",
+    "Sandia Park": {
       "zipcodes": [
-      "87047"
+        "87047"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Santa Cruz",
+    "Santa Cruz": {
       "zipcodes": [
-      "87567"
+        "87567"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Santa Rosa",
+    "Santa Rosa": {
       "zipcodes": [
-      "88435"
+        "88435"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Santa Teresa",
+    "Santa Teresa": {
       "zipcodes": [
-      "88008"
+        "88008"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Santo Domingo Pueblo",
+    "Santo Domingo Pueblo": {
       "zipcodes": [
-      "87052"
+        "87052"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Sapello",
+    "Sapello": {
       "zipcodes": [
-      "87745"
+        "87745"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Seboyeta",
+    "Seboyeta": {
       "zipcodes": [
-      "87014"
+        "87014"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Serafina",
+    "Serafina": {
       "zipcodes": [
-      "87569"
+        "87569"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Sheep Springs",
+    "Sheep Springs": {
       "zipcodes": [
-      "87364"
+        "87364"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Shiprock",
+    "Shiprock": {
       "zipcodes": [
-      "87420"
+        "87420"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Silver City",
+    "Silver City": {
       "zipcodes": [
-      "88061",
-      "88062"
+        "88061",
+        "88062"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Socorro",
+    "Socorro": {
       "zipcodes": [
-      "87801"
+        "87801"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Solano",
+    "Solano": {
       "zipcodes": [
-      "87746"
+        "87746"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Sombrillo",
+    "Sombrillo": {
       "zipcodes": [
-      "87532"
+        "87532"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Springer",
+    "Springer": {
       "zipcodes": [
-      "87747"
+        "87747"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Stanley",
+    "Stanley": {
       "zipcodes": [
-      "87056"
+        "87056"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Sunland Park",
+    "Sunland Park": {
       "zipcodes": [
-      "88063"
+        "88063"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Taiban",
+    "Taiban": {
       "zipcodes": [
-      "88134"
+        "88134"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Taos",
+    "Taos": {
       "zipcodes": [
-      "87571"
+        "87571"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Tatum",
+    "Tatum": {
       "zipcodes": [
-      "88267"
+        "88267"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Tererro",
+    "Tererro": {
       "zipcodes": [
-      "87573"
+        "87573"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Texico",
+    "Texico": {
       "zipcodes": [
-      "88135"
+        "88135"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Thoreau",
+    "Thoreau": {
       "zipcodes": [
-      "87323"
+        "87323"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Tijeras",
+    "Tijeras": {
       "zipcodes": [
-      "87059"
+        "87059"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Tinnie",
+    "Tinnie": {
       "zipcodes": [
-      "88351"
+        "88351"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Tome",
+    "Tome": {
       "zipcodes": [
-      "87060"
+        "87060"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Torreon",
+    "Torreon": {
       "zipcodes": [
-      "87061"
+        "87061"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Trementina",
+    "Trementina": {
       "zipcodes": [
-      "88439"
+        "88439"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Truchas",
+    "Truchas": {
       "zipcodes": [
-      "87578"
+        "87578"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Truth Or Consequences",
+    "Truth Or Consequences": {
       "zipcodes": [
-      "87901"
+        "87901"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Tucumcari",
+    "Tucumcari": {
       "zipcodes": [
-      "88401"
+        "88401"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Tularosa",
+    "Tularosa": {
       "zipcodes": [
-      "88352"
+        "88352"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Ute Park",
+    "Ute Park": {
       "zipcodes": [
-      "87749"
+        "87749"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Vadito",
+    "Vadito": {
       "zipcodes": [
-      "87579"
+        "87579"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Vado",
+    "Vado": {
       "zipcodes": [
-      "88072"
+        "88072"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Vallecitos",
+    "Vallecitos": {
       "zipcodes": [
-      "87581"
+        "87581"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Valley Farms",
+    "Valley Farms": {
       "zipcodes": [
-      "87062"
+        "87062"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Vaughn",
+    "Vaughn": {
       "zipcodes": [
-      "88353"
+        "88353"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Veguita",
+    "Veguita": {
       "zipcodes": [
-      "87062"
+        "87062"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Velarde",
+    "Velarde": {
       "zipcodes": [
-      "87582"
+        "87582"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Villanueva",
+    "Villanueva": {
       "zipcodes": [
-      "87583"
+        "87583"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Wagon Mound",
+    "Wagon Mound": {
       "zipcodes": [
-      "87752"
+        "87752"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Waterflow",
+    "Waterflow": {
       "zipcodes": [
-      "87421"
+        "87421"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Watrous",
+    "Watrous": {
       "zipcodes": [
-      "87753"
+        "87753"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Weed",
+    "Weed": {
       "zipcodes": [
-      "88354"
+        "88354"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "White Sands Missile Range",
+    "White Sands Missile Range": {
       "zipcodes": [
-      "88002"
+        "88002"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Willard",
+    "Willard": {
       "zipcodes": [
-      "87063"
+        "87063"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Winston",
+    "Winston": {
       "zipcodes": [
-      "87943"
+        "87943"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Yatahey",
+    "Yatahey": {
       "zipcodes": [
-      "87375"
+        "87375"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     },
-    {
-      "cityname": "Yeso",
+    "Yeso": {
       "zipcodes": [
-      "88136"
+        "88136"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Youngsville",
+    "Youngsville": {
       "zipcodes": [
-      "87064"
+        "87064"
       ],
       "areacodes": [
-      "575"
+        "575"
       ]
     },
-    {
-      "cityname": "Zuni",
+    "Zuni": {
       "zipcodes": [
-      "87327"
+        "87327"
       ],
       "areacodes": [
-      "505"
+        "505"
       ]
     }
-  ]
+  }
 }

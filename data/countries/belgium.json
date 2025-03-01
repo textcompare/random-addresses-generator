@@ -1,1420 +1,1410 @@
 {
-    "countrycode": "+32",
-    "phoneformat": "(A) XXXX XX XX",
-    "country": "Belgium",
-    "neighborhoods": {
-        "corporate": [
-            "Brussels City Center",
-            "La Defense",
-            "Zaventem",
-            "Woluwe-Saint-Lambert",
-            "Antwerp Central",
-            "Leuven Central",
-            "Ghent City Center",
-            "Liège Business District",
-            "Diegem",
-            "Charleroi Business District",
-            "Namur",
-            "Kortrijk",
-            "Hasselt",
-            "Brussels Airport Area",
-            "Ixelles",
-            "Schaerbeek",
-            "Anderlecht",
-            "Evere",
-            "Mechelen",
-            "Waterloo",
-            "Vlaams-Brabant",
-            "Gand",
-            "Genk",
-            "Brussels North",
-            "Sint-Lambrechts-Woluwe",
-            "Willebroek",
-            "Vilvoorde",
-            "Zele",
-            "Kontich",
-            "Wavre",
-            "Tervuren",
-            "Antwerp Port",
-            "Dendermonde",
-            "Sint-Niklaas",
-            "Jodoigne",
-            "Korbeek-Lo",
-            "Herentals",
-            "Hasselt",
-            "Blankenberge",
-            "Harelbeke",
-            "Strombeek-Bever",
-            "Bruges",
-            "Lier",
-            "Kortenberg",
-            "Ukkel",
-            "Oostende",
-            "Aalst",
-            "Asse",
-            "Beringen"
-        ],
-        "industrial": [
-            "Antwerp Port",
-            "Zeebrugge Industrial Zone",
-            "Liege Industrial District",
-            "Genk Industrial Zone",
-            "Kortrijk Industrial Park",
-            "Hasselt Industrial Area",
-            "Wavre Manufacturing District",
-            "Zaventem Industrial Park",
-            "Gentse Kanaalzone",
-            "Charleroi Industrial Area",
-            "Lokeren Industrial District",
-            "Antwerp Central Business District",
-            "Hasselt Tech Hub",
-            "Brussels Technopolis",
-            "Leuven Science Park",
-            "Korbeek-Lo Industrial Park",
-            "Ghent Port Area",
-            "Bruges Industrial Hub",
-            "Kruibeke Industrial Complex",
-            "Herentals Manufacturing Area",
-            "Limburg Industrial Park",
-            "Tienen Industrial District",
-            "Wetteren",
-            "Liège Port Area",
-            "Sambreville",
-            "Pecrot Industrial Zone",
-            "Nivelles Industrial District",
-            "Beveren Industrial Complex",
-            "Beringen Industrial Area",
-            "Geel Industrial Zone",
-            "Antwerp Beltway Industrial Park",
-            "Louvain-la-Neuve",
-            "Kortrijk Industrial Park",
-            "Lier Industrial Area",
-            "Oostende Port District",
-            "Dilsen-Stokkem",
-            "Lede",
-            "Schoten Industrial Park",
-            "Sint-Niklaas Manufacturing Zone",
-            "Seraing Industrial Hub",
-            "Marche-en-Famenne",
-            "Oostende Industrial District",
-            "Brussels North Industrial Complex",
-            "Seneffe Industrial Area",
-            "Namur Industrial Park",
-            "Braine-l'Alleud",
-            "Saint-Ghislain",
-            "Gembloux",
-            "Aarschot",
-            "Houthalen-Helchteren"
-        ],
-        "residential": [
-            "Brussels",
-            "Antwerp",
-            "Ghent",
-            "Liège",
-            "Leuven",
-            "Mechelen",
-            "Namur",
-            "Oostende",
-            "Charleroi",
-            "Wavre",
-            "Kortrijk",
-            "Sint-Niklaas",
-            "Tervuren",
-            "Waterloo",
-            "Sint-Lambrechts-Woluwe",
-            "Ukkel",
-            "Laeken",
-            "Schaerbeek",
-            "Anderlecht",
-            "Ixelles",
-            "Woluwe-Saint-Lambert",
-            "Jodoigne",
-            "Lier",
-            "Kortenberg",
-            "Herentals",
-            "Blankenberge",
-            "Beringen",
-            "Beveren",
-            "Dendermonde",
-            "Kontich",
-            "Aalst",
-            "Seraing",
-            "Beveren",
-            "Genk",
-            "Tienen",
-            "Wetteren",
-            "Oostkamp",
-            "Sint-Gillis",
-            "Roeselare",
-            "Hasselt",
-            "Harelbeke",
-            "Zwijndrecht",
-            "Zele",
-            "Evergem",
-            "Beersel",
-            "Edegem",
-            "Beringen",
-            "Geraardsbergen",
-            "Gistel",
-            "Kortrijk",
-            "Mol",
-            "Ninove",
-            "Aarschot",
-            "Eeklo",
-            "Chimay"
-        ]
-    },
-    "streetnames": {
-        "corporate": [
-            "Avenue Louise",
-            "Avenue de la Toison d'Or",
-            "Rue de la Loi",
-            "Avenue des Arts",
-            "Rue Royale",
-            "Boulevard de Waterloo",
-            "Avenue de Tervuren",
-            "Boulevard du Triomphe",
-            "Rue des Colonies",
-            "Boulevard Léopold III",
-            "Avenue F. Roosevelt",
-            "Rue de la Montagne",
-            "Boulevard du Luxembourg",
-            "Rue de la Régence",
-            "Avenue de la Reine",
-            "Avenue Jules César",
-            "Rue du Trône",
-            "Boulevard Emile Jacqmain",
-            "Avenue de la Paix",
-            "Rue Royale",
-            "Boulevard de la Reine",
-            "Avenue Pétillon",
-            "Avenue de Cortenbergh",
-            "Avenue de l'Arbre Ballon",
-            "Rue de la Loi",
-            "Avenue de Hinnisdael",
-            "Avenue de l'Artisan",
-            "Avenue de la Science",
-            "Boulevard de la Villette",
-            "Avenue Ernest Solvay",
-            "Boulevard des Invalides",
-            "Rue de l'Université",
-            "Avenue de Bouillon",
-            "Boulevard Leopold II",
-            "Rue Royale",
-            "Avenue du Boulevard",
-            "Avenue des Belles Fleurs",
-            "Avenue de la Liberté",
-            "Rue des Capucins",
-            "Avenue de la Couronne",
-            "Avenue Jules Dubois",
-            "Boulevard Général Jacques",
-            "Rue de l'Empereur"
-        ],
-        "industrial": [
-            "Rue de l'Industrie",
-            "Avenue des Industries",
-            "Avenue du Parc Industriel",
-            "Avenue des Trente Glorieuses",
-            "Avenue de l'Innovation",
-            "Rue des Métallurgistes",
-            "Boulevard des Entreprises",
-            "Avenue des Autrichiens",
-            "Rue de l'Energie",
-            "Avenue de la Zone Industrielle",
-            "Rue du Commerce",
-            "Avenue des Technologies",
-            "Rue de l'Innovation",
-            "Avenue de la Concurrence",
-            "Rue des Fabricants",
-            "Avenue des Entrepreneurs",
-            "Avenue de la Recherche",
-            "Avenue de l'Industrie",
-            "Rue des Investisseurs",
-            "Avenue de la Zone d'Activité",
-            "Rue des Machines",
-            "Avenue de la Production",
-            "Boulevard des Sciences",
-            "Avenue du Produit",
-            "Rue du Commerce International",
-            "Avenue de la Technologie",
-            "Avenue du Progrès",
-            "Avenue des Usines",
-            "Rue du Fabricant",
-            "Avenue des Investissements",
-            "Avenue de la Zone Économique",
-            "Rue des Ingénieurs",
-            "Avenue du Développement",
-            "Boulevard Industriel",
-            "Avenue des Entrepreneurs",
-            "Avenue des Systèmes",
-            "Avenue de la Machine",
-            "Avenue de l'Usine",
-            "Rue de la Fabrication",
-            "Avenue des Machines Outils",
-            "Avenue des Technologies Vertes"
-        ],
-        "residential": [
-            "Rue de la Paix",
-            "Avenue de la Reine",
-            "Rue Royale",
-            "Avenue Louise",
-            "Boulevard Leopold II",
-            "Avenue de Tervuren",
-            "Rue de la Loi",
-            "Rue des Colonies",
-            "Rue de l'Université",
-            "Avenue Jules César",
-            "Boulevard de Waterloo",
-            "Avenue de la Toison d'Or",
-            "Avenue des Arts",
-            "Avenue F. Roosevelt",
-            "Avenue Jules Dubois",
-            "Boulevard du Triomphe",
-            "Rue de la Régence",
-            "Avenue Pétillon",
-            "Rue de la Montagne",
-            "Rue du Trône",
-            "Avenue de l'Arbre Ballon",
-            "Avenue de la Science",
-            "Avenue de la Couronne",
-            "Boulevard Emile Jacqmain",
-            "Avenue des Belles Fleurs",
-            "Avenue des Artisans",
-            "Boulevard de la Villette",
-            "Avenue de Hinnisdael",
-            "Avenue du Boulevard",
-            "Avenue de la Liberté",
-            "Rue des Capucins",
-            "Avenue Ernest Solvay",
-            "Rue des Beaux-Arts",
-            "Avenue de la Zone Industrielle",
-            "Rue du Sablon",
-            "Rue de la Chasse",
-            "Avenue de l'Artisan",
-            "Rue de la Paix",
-            "Rue de l'Empereur",
-            "Rue des Lilas",
-            "Avenue de la Forêt",
-            "Rue du Diamant",
-            "Avenue Dailly"
-        ]
-    },
-    "regions": {
-        "Flanders": {
-            "cities": [
-                {
-                    "cityname": "Antwerp",
-                    "zipcodes": [
-                        "2000",
-                        "2001",
-                        "2002",
-                        "2003",
-                        "2004"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Ghent",
-                    "zipcodes": [
-                        "9000",
-                        "9001",
-                        "9002",
-                        "9003",
-                        "9004"
-                    ],
-                    "areacodes": [
-                        "09"
-                    ]
-                },
-                {
-                    "cityname": "Bruges",
-                    "zipcodes": [
-                        "8000",
-                        "8001",
-                        "8002",
-                        "8003",
-                        "8004"
-                    ],
-                    "areacodes": [
-                        "050"
-                    ]
-                },
-                {
-                    "cityname": "Leuven",
-                    "zipcodes": [
-                        "3000",
-                        "3001",
-                        "3002",
-                        "3003",
-                        "3004"
-                    ],
-                    "areacodes": [
-                        "016"
-                    ]
-                },
-                {
-                    "cityname": "Mechelen",
-                    "zipcodes": [
-                        "2800",
-                        "2801",
-                        "2802",
-                        "2803",
-                        "2804"
-                    ],
-                    "areacodes": [
-                        "015"
-                    ]
-                },
-                {
-                    "cityname": "Kortrijk",
-                    "zipcodes": [
-                        "8500",
-                        "8501",
-                        "8502",
-                        "8503",
-                        "8504"
-                    ],
-                    "areacodes": [
-                        "056"
-                    ]
-                },
-                {
-                    "cityname": "Hasselt",
-                    "zipcodes": [
-                        "3500",
-                        "3501",
-                        "3502",
-                        "3503",
-                        "3504"
-                    ],
-                    "areacodes": [
-                        "011"
-                    ]
-                },
-                {
-                    "cityname": "Sint-Niklaas",
-                    "zipcodes": [
-                        "9100",
-                        "9101",
-                        "9102",
-                        "9103",
-                        "9104"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Turnhout",
-                    "zipcodes": [
-                        "2300",
-                        "2301",
-                        "2302",
-                        "2303",
-                        "2304"
-                    ],
-                    "areacodes": [
-                        "014"
-                    ]
-                },
-                {
-                    "cityname": "Oostende",
-                    "zipcodes": [
-                        "8400",
-                        "8401",
-                        "8402",
-                        "8403",
-                        "8404"
-                    ],
-                    "areacodes": [
-                        "059"
-                    ]
-                },
-                {
-                    "cityname": "Roeselare",
-                    "zipcodes": [
-                        "8800",
-                        "8801",
-                        "8802",
-                        "8803",
-                        "8804"
-                    ],
-                    "areacodes": [
-                        "051"
-                    ]
-                },
-                {
-                    "cityname": "Aalst",
-                    "zipcodes": [
-                        "9300",
-                        "9301",
-                        "9302",
-                        "9303",
-                        "9304"
-                    ],
-                    "areacodes": [
-                        "053"
-                    ]
-                },
-                {
-                    "cityname": "Genk",
-                    "zipcodes": [
-                        "3600",
-                        "3601",
-                        "3602",
-                        "3603",
-                        "3604"
-                    ],
-                    "areacodes": [
-                        "089"
-                    ]
-                },
-                {
-                    "cityname": "Wetteren",
-                    "zipcodes": [
-                        "9230",
-                        "9231",
-                        "9232",
-                        "9233",
-                        "9234"
-                    ],
-                    "areacodes": [
-                        "09"
-                    ]
-                },
-                {
-                    "cityname": "Eeklo",
-                    "zipcodes": [
-                        "9900",
-                        "9901",
-                        "9902",
-                        "9903",
-                        "9904"
-                    ],
-                    "areacodes": [
-                        "09"
-                    ]
-                }
-            ],
-            "name": "Flanders"
-        },
-        "Wallonia": {
-            "cities": [
-                {
-                    "cityname": "Liège",
-                    "zipcodes": [
-                        "4000",
-                        "4001",
-                        "4002",
-                        "4003",
-                        "4004"
-                    ],
-                    "areacodes": [
-                        "04"
-                    ]
-                },
-                {
-                    "cityname": "Charleroi",
-                    "zipcodes": [
-                        "6000",
-                        "6001",
-                        "6002",
-                        "6003",
-                        "6004"
-                    ],
-                    "areacodes": [
-                        "071"
-                    ]
-                },
-                {
-                    "cityname": "Namur",
-                    "zipcodes": [
-                        "5000",
-                        "5001",
-                        "5002",
-                        "5003",
-                        "5004"
-                    ],
-                    "areacodes": [
-                        "081"
-                    ]
-                },
-                {
-                    "cityname": "Mons",
-                    "zipcodes": [
-                        "7000",
-                        "7001",
-                        "7002",
-                        "7003",
-                        "7004"
-                    ],
-                    "areacodes": [
-                        "065"
-                    ]
-                },
-                {
-                    "cityname": "Tournai",
-                    "zipcodes": [
-                        "7500",
-                        "7501",
-                        "7502",
-                        "7503",
-                        "7504"
-                    ],
-                    "areacodes": [
-                        "069"
-                    ]
-                },
-                {
-                    "cityname": "La Louvière",
-                    "zipcodes": [
-                        "7100",
-                        "7101",
-                        "7102",
-                        "7103",
-                        "7104"
-                    ],
-                    "areacodes": [
-                        "064"
-                    ]
-                },
-                {
-                    "cityname": "Verviers",
-                    "zipcodes": [
-                        "4800",
-                        "4801",
-                        "4802",
-                        "4803",
-                        "4804"
-                    ],
-                    "areacodes": [
-                        "087"
-                    ]
-                },
-                {
-                    "cityname": "Seraing",
-                    "zipcodes": [
-                        "4100",
-                        "4101",
-                        "4102",
-                        "4103",
-                        "4104"
-                    ],
-                    "areacodes": [
-                        "04"
-                    ]
-                },
-                {
-                    "cityname": "Arlon",
-                    "zipcodes": [
-                        "6700",
-                        "6701",
-                        "6702",
-                        "6703",
-                        "6704"
-                    ],
-                    "areacodes": [
-                        "063"
-                    ]
-                },
-                {
-                    "cityname": "Eupen",
-                    "zipcodes": [
-                        "4700",
-                        "4701",
-                        "4702",
-                        "4703",
-                        "4704"
-                    ],
-                    "areacodes": [
-                        "087"
-                    ]
-                },
-                {
-                    "cityname": "Wavre",
-                    "zipcodes": [
-                        "1300",
-                        "1301",
-                        "1302",
-                        "1303",
-                        "1304"
-                    ],
-                    "areacodes": [
-                        "010"
-                    ]
-                },
-                {
-                    "cityname": "Bastogne",
-                    "zipcodes": [
-                        "6600",
-                        "6601",
-                        "6602",
-                        "6603",
-                        "6604"
-                    ],
-                    "areacodes": [
-                        "061"
-                    ]
-                },
-                {
-                    "cityname": "Jodoigne",
-                    "zipcodes": [
-                        "1370",
-                        "1371",
-                        "1372",
-                        "1373",
-                        "1374"
-                    ],
-                    "areacodes": [
-                        "010"
-                    ]
-                },
-                {
-                    "cityname": "Huy",
-                    "zipcodes": [
-                        "4500",
-                        "4501",
-                        "4502",
-                        "4503",
-                        "4504"
-                    ],
-                    "areacodes": [
-                        "085"
-                    ]
-                },
-                {
-                    "cityname": "Nivelles",
-                    "zipcodes": [
-                        "1400",
-                        "1401",
-                        "1402",
-                        "1403",
-                        "1404"
-                    ],
-                    "areacodes": [
-                        "067"
-                    ]
-                }
-            ],
-            "name": "Wallonia"
-        },
-        "Brussels-Capital": {
-            "cities": [
-                {
-                    "cityname": "Brussels",
-                    "zipcodes": [
-                        "1000",
-                        "1001",
-                        "1002",
-                        "1003",
-                        "1004"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Anderlecht",
-                    "zipcodes": [
-                        "1070",
-                        "1071",
-                        "1072",
-                        "1073",
-                        "1074"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Schaerbeek",
-                    "zipcodes": [
-                        "1030",
-                        "1031",
-                        "1032",
-                        "1033",
-                        "1034"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Ixelles",
-                    "zipcodes": [
-                        "1050",
-                        "1051",
-                        "1052",
-                        "1053",
-                        "1054"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Saint-Gilles",
-                    "zipcodes": [
-                        "1060",
-                        "1061",
-                        "1062",
-                        "1063",
-                        "1064"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Uccle",
-                    "zipcodes": [
-                        "1180",
-                        "1181",
-                        "1182",
-                        "1183",
-                        "1184"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Woluwe-Saint-Lambert",
-                    "zipcodes": [
-                        "1200",
-                        "1201",
-                        "1202",
-                        "1203",
-                        "1204"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Woluwe-Saint-Pierre",
-                    "zipcodes": [
-                        "1150",
-                        "1151",
-                        "1152",
-                        "1153",
-                        "1154"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Etterbeek",
-                    "zipcodes": [
-                        "1040",
-                        "1041",
-                        "1042",
-                        "1043",
-                        "1044"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Forest",
-                    "zipcodes": [
-                        "1190",
-                        "1191",
-                        "1192",
-                        "1193",
-                        "1194"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Jodoigne",
-                    "zipcodes": [
-                        "1370",
-                        "1371",
-                        "1372",
-                        "1373",
-                        "1374"
-                    ],
-                    "areacodes": [
-                        "010"
-                    ]
-                },
-                {
-                    "cityname": "Koekelberg",
-                    "zipcodes": [
-                        "1081",
-                        "1082",
-                        "1083",
-                        "1084",
-                        "1085"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Molenbeek-Saint-Jean",
-                    "zipcodes": [
-                        "1080",
-                        "1081",
-                        "1082",
-                        "1083",
-                        "1084"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Saint-Josse-ten-Noode",
-                    "zipcodes": [
-                        "1210",
-                        "1211",
-                        "1212",
-                        "1213",
-                        "1214"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Laeken",
-                    "zipcodes": [
-                        "1020",
-                        "1021",
-                        "1022",
-                        "1023",
-                        "1024"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                }
-            ],
-            "name": "Brussels-Capital"
-        }
-    },
-    "communities": {
-        "Flemish Community": {
-            "cities": [
-                {
-                    "cityname": "Antwerp",
-                    "zipcodes": [
-                        "2000",
-                        "2001",
-                        "2002",
-                        "2003",
-                        "2004"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Ghent",
-                    "zipcodes": [
-                        "9000",
-                        "9001",
-                        "9002",
-                        "9003",
-                        "9004"
-                    ],
-                    "areacodes": [
-                        "09"
-                    ]
-                },
-                {
-                    "cityname": "Bruges",
-                    "zipcodes": [
-                        "8000",
-                        "8001",
-                        "8002",
-                        "8003",
-                        "8004"
-                    ],
-                    "areacodes": [
-                        "050"
-                    ]
-                },
-                {
-                    "cityname": "Leuven",
-                    "zipcodes": [
-                        "3000",
-                        "3001",
-                        "3002",
-                        "3003",
-                        "3004"
-                    ],
-                    "areacodes": [
-                        "016"
-                    ]
-                },
-                {
-                    "cityname": "Mechelen",
-                    "zipcodes": [
-                        "2800",
-                        "2801",
-                        "2802",
-                        "2803",
-                        "2804"
-                    ],
-                    "areacodes": [
-                        "015"
-                    ]
-                },
-                {
-                    "cityname": "Kortrijk",
-                    "zipcodes": [
-                        "8500",
-                        "8501",
-                        "8502",
-                        "8503",
-                        "8504"
-                    ],
-                    "areacodes": [
-                        "056"
-                    ]
-                },
-                {
-                    "cityname": "Hasselt",
-                    "zipcodes": [
-                        "3500",
-                        "3501",
-                        "3502",
-                        "3503",
-                        "3504"
-                    ],
-                    "areacodes": [
-                        "011"
-                    ]
-                },
-                {
-                    "cityname": "Sint-Niklaas",
-                    "zipcodes": [
-                        "9100",
-                        "9101",
-                        "9102",
-                        "9103",
-                        "9104"
-                    ],
-                    "areacodes": [
-                        "03"
-                    ]
-                },
-                {
-                    "cityname": "Turnhout",
-                    "zipcodes": [
-                        "2300",
-                        "2301",
-                        "2302",
-                        "2303",
-                        "2304"
-                    ],
-                    "areacodes": [
-                        "014"
-                    ]
-                },
-                {
-                    "cityname": "Oostende",
-                    "zipcodes": [
-                        "8400",
-                        "8401",
-                        "8402",
-                        "8403",
-                        "8404"
-                    ],
-                    "areacodes": [
-                        "059"
-                    ]
-                },
-                {
-                    "cityname": "Roeselare",
-                    "zipcodes": [
-                        "8800",
-                        "8801",
-                        "8802",
-                        "8803",
-                        "8804"
-                    ],
-                    "areacodes": [
-                        "051"
-                    ]
-                },
-                {
-                    "cityname": "Aalst",
-                    "zipcodes": [
-                        "9300",
-                        "9301",
-                        "9302",
-                        "9303",
-                        "9304"
-                    ],
-                    "areacodes": [
-                        "053"
-                    ]
-                },
-                {
-                    "cityname": "Genk",
-                    "zipcodes": [
-                        "3600",
-                        "3601",
-                        "3602",
-                        "3603",
-                        "3604"
-                    ],
-                    "areacodes": [
-                        "089"
-                    ]
-                },
-                {
-                    "cityname": "Wetteren",
-                    "zipcodes": [
-                        "9230",
-                        "9231",
-                        "9232",
-                        "9233",
-                        "9234"
-                    ],
-                    "areacodes": [
-                        "09"
-                    ]
-                },
-                {
-                    "cityname": "Eeklo",
-                    "zipcodes": [
-                        "9900",
-                        "9901",
-                        "9902",
-                        "9903",
-                        "9904"
-                    ],
-                    "areacodes": [
-                        "09"
-                    ]
-                }
-            ],
-            "name": "Flemish Community"
-        },
-        "French Community": {
-            "cities": [
-                {
-                    "cityname": "Liège",
-                    "zipcodes": [
-                        "4000",
-                        "4001",
-                        "4002",
-                        "4003",
-                        "4004"
-                    ],
-                    "areacodes": [
-                        "04"
-                    ]
-                },
-                {
-                    "cityname": "Charleroi",
-                    "zipcodes": [
-                        "6000",
-                        "6001",
-                        "6002",
-                        "6003",
-                        "6004"
-                    ],
-                    "areacodes": [
-                        "071"
-                    ]
-                },
-                {
-                    "cityname": "Namur",
-                    "zipcodes": [
-                        "5000",
-                        "5001",
-                        "5002",
-                        "5003",
-                        "5004"
-                    ],
-                    "areacodes": [
-                        "081"
-                    ]
-                },
-                {
-                    "cityname": "Mons",
-                    "zipcodes": [
-                        "7000",
-                        "7001",
-                        "7002",
-                        "7003",
-                        "7004"
-                    ],
-                    "areacodes": [
-                        "065"
-                    ]
-                },
-                {
-                    "cityname": "Tournai",
-                    "zipcodes": [
-                        "7500",
-                        "7501",
-                        "7502",
-                        "7503",
-                        "7504"
-                    ],
-                    "areacodes": [
-                        "069"
-                    ]
-                },
-                {
-                    "cityname": "La Louvière",
-                    "zipcodes": [
-                        "7100",
-                        "7101",
-                        "7102",
-                        "7103",
-                        "7104"
-                    ],
-                    "areacodes": [
-                        "064"
-                    ]
-                },
-                {
-                    "cityname": "Verviers",
-                    "zipcodes": [
-                        "4800",
-                        "4801",
-                        "4802",
-                        "4803",
-                        "4804"
-                    ],
-                    "areacodes": [
-                        "087"
-                    ]
-                },
-                {
-                    "cityname": "Seraing",
-                    "zipcodes": [
-                        "4100",
-                        "4101",
-                        "4102",
-                        "4103",
-                        "4104"
-                    ],
-                    "areacodes": [
-                        "04"
-                    ]
-                },
-                {
-                    "cityname": "Arlon",
-                    "zipcodes": [
-                        "6700",
-                        "6701",
-                        "6702",
-                        "6703",
-                        "6704"
-                    ],
-                    "areacodes": [
-                        "063"
-                    ]
-                },
-                {
-                    "cityname": "Eupen",
-                    "zipcodes": [
-                        "4700",
-                        "4701",
-                        "4702",
-                        "4703",
-                        "4704"
-                    ],
-                    "areacodes": [
-                        "087"
-                    ]
-                },
-                {
-                    "cityname": "Wavre",
-                    "zipcodes": [
-                        "1300",
-                        "1301",
-                        "1302",
-                        "1303",
-                        "1304"
-                    ],
-                    "areacodes": [
-                        "010"
-                    ]
-                },
-                {
-                    "cityname": "Bastogne",
-                    "zipcodes": [
-                        "6600",
-                        "6601",
-                        "6602",
-                        "6603",
-                        "6604"
-                    ],
-                    "areacodes": [
-                        "061"
-                    ]
-                },
-                {
-                    "cityname": "Jodoigne",
-                    "zipcodes": [
-                        "1370",
-                        "1371",
-                        "1372",
-                        "1373",
-                        "1374"
-                    ],
-                    "areacodes": [
-                        "010"
-                    ]
-                },
-                {
-                    "cityname": "Huy",
-                    "zipcodes": [
-                        "4500",
-                        "4501",
-                        "4502",
-                        "4503",
-                        "4504"
-                    ],
-                    "areacodes": [
-                        "085"
-                    ]
-                },
-                {
-                    "cityname": "Nivelles",
-                    "zipcodes": [
-                        "1400",
-                        "1401",
-                        "1402",
-                        "1403",
-                        "1404"
-                    ],
-                    "areacodes": [
-                        "067"
-                    ]
-                },
-                {
-                    "cityname": "Brussels",
-                    "zipcodes": [
-                        "1000",
-                        "1001",
-                        "1002",
-                        "1003",
-                        "1004"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Anderlecht",
-                    "zipcodes": [
-                        "1070",
-                        "1071",
-                        "1072",
-                        "1073",
-                        "1074"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                },
-                {
-                    "cityname": "Schaerbeek",
-                    "zipcodes": [
-                        "1030",
-                        "1031",
-                        "1032",
-                        "1033",
-                        "1034"
-                    ],
-                    "areacodes": [
-                        "02"
-                    ]
-                }
-            ],
-            "name": "French Community"
-        },
-        "German-speaking Community": {
-            "cities": [
-                {
-                    "cityname": "Eupen",
-                    "zipcodes": [
-                        "4700",
-                        "4701",
-                        "4702",
-                        "4703",
-                        "4704"
-                    ],
-                    "areacodes": [
-                        "087"
-                    ]
-                },
-                {
-                    "cityname": "Malmedy",
-                    "zipcodes": [
-                        "4960",
-                        "4961",
-                        "4962",
-                        "4963",
-                        "4964"
-                    ],
-                    "areacodes": [
-                        "080"
-                    ]
-                },
-                {
-                    "cityname": "Raeren",
-                    "zipcodes": [
-                        "4730",
-                        "4731",
-                        "4732",
-                        "4733",
-                        "4734"
-                    ],
-                    "areacodes": [
-                        "087"
-                    ]
-                },
-                {
-                    "cityname": "St. Vith",
-                    "zipcodes": [
-                        "4780",
-                        "4781",
-                        "4782",
-                        "4783",
-                        "4784"
-                    ],
-                    "areacodes": [
-                        "080"
-                    ]
-                }
-            ],
-            "name": "German-speaking Community"
-        }
-    },
-    "citycontainers": [
-        "regions",
-        "communities"
+  "countrycode": "+32",
+  "phoneformat": "(A) XXXX XX XX",
+  "country": "Belgium",
+  "neighborhoods": {
+    "corporate": [
+      "Brussels City Center",
+      "La Defense",
+      "Zaventem",
+      "Woluwe-Saint-Lambert",
+      "Antwerp Central",
+      "Leuven Central",
+      "Ghent City Center",
+      "Liège Business District",
+      "Diegem",
+      "Charleroi Business District",
+      "Namur",
+      "Kortrijk",
+      "Hasselt",
+      "Brussels Airport Area",
+      "Ixelles",
+      "Schaerbeek",
+      "Anderlecht",
+      "Evere",
+      "Mechelen",
+      "Waterloo",
+      "Vlaams-Brabant",
+      "Gand",
+      "Genk",
+      "Brussels North",
+      "Sint-Lambrechts-Woluwe",
+      "Willebroek",
+      "Vilvoorde",
+      "Zele",
+      "Kontich",
+      "Wavre",
+      "Tervuren",
+      "Antwerp Port",
+      "Dendermonde",
+      "Sint-Niklaas",
+      "Jodoigne",
+      "Korbeek-Lo",
+      "Herentals",
+      "Hasselt",
+      "Blankenberge",
+      "Harelbeke",
+      "Strombeek-Bever",
+      "Bruges",
+      "Lier",
+      "Kortenberg",
+      "Ukkel",
+      "Oostende",
+      "Aalst",
+      "Asse",
+      "Beringen"
     ],
-    "firstnames": [
-  "Noah", "Liam", "Lucas", "Emma", "Olivia", "Sophie", "Mia", "Lina", "Arthur", "Lucas",
-  "Charlotte", "Julien", "Louis", "Mia", "Alice", "Paul", "Chloé", "Eliott", "Victor", "Romain",
-  "Maxime", "Léon", "Tom", "Ethan", "Maël", "Simon", "Théo", "Gabriel", "Célia", "Lina",
-  "Anna", "Louise", "Sacha", "Hugo", "Mathis", "Nicolas", "Ruben", "Eva", "Clara", "Mélissa",
-  "Marius", "Léo"
-],
-"lastnames": [
-  "Peeters", "Janssens", "Maes", "Lambrecht", "Willems", "Leroy", "Schoonbroodt", "Lemoine", "Dubois", "De Vos",
-  "Demeulemeester", "De Smet", "De Bock", "Jacobs", "Lamberts", "Cools", "Vermeulen", "Lannoo", "Declercq", "Vandewalle",
-  "Bogaerts", "Van Damme", "Van der Meulen", "Verbeeck", "Vandersmissen", "Brussels", "Bodart", "Goffin", "Van den Broeck",
-  "Rondeau", "Wauters", "Vinck", "Meert", "Vandeput", "Lemaire", "Roux", "Cremers", "Bostyn", "Vandenbroucke", "Desmet"
-]
-
+    "industrial": [
+      "Antwerp Port",
+      "Zeebrugge Industrial Zone",
+      "Liege Industrial District",
+      "Genk Industrial Zone",
+      "Kortrijk Industrial Park",
+      "Hasselt Industrial Area",
+      "Wavre Manufacturing District",
+      "Zaventem Industrial Park",
+      "Gentse Kanaalzone",
+      "Charleroi Industrial Area",
+      "Lokeren Industrial District",
+      "Antwerp Central Business District",
+      "Hasselt Tech Hub",
+      "Brussels Technopolis",
+      "Leuven Science Park",
+      "Korbeek-Lo Industrial Park",
+      "Ghent Port Area",
+      "Bruges Industrial Hub",
+      "Kruibeke Industrial Complex",
+      "Herentals Manufacturing Area",
+      "Limburg Industrial Park",
+      "Tienen Industrial District",
+      "Wetteren",
+      "Liège Port Area",
+      "Sambreville",
+      "Pecrot Industrial Zone",
+      "Nivelles Industrial District",
+      "Beveren Industrial Complex",
+      "Beringen Industrial Area",
+      "Geel Industrial Zone",
+      "Antwerp Beltway Industrial Park",
+      "Louvain-la-Neuve",
+      "Kortrijk Industrial Park",
+      "Lier Industrial Area",
+      "Oostende Port District",
+      "Dilsen-Stokkem",
+      "Lede",
+      "Schoten Industrial Park",
+      "Sint-Niklaas Manufacturing Zone",
+      "Seraing Industrial Hub",
+      "Marche-en-Famenne",
+      "Oostende Industrial District",
+      "Brussels North Industrial Complex",
+      "Seneffe Industrial Area",
+      "Namur Industrial Park",
+      "Braine-l'Alleud",
+      "Saint-Ghislain",
+      "Gembloux",
+      "Aarschot",
+      "Houthalen-Helchteren"
+    ],
+    "residential": [
+      "Brussels",
+      "Antwerp",
+      "Ghent",
+      "Liège",
+      "Leuven",
+      "Mechelen",
+      "Namur",
+      "Oostende",
+      "Charleroi",
+      "Wavre",
+      "Kortrijk",
+      "Sint-Niklaas",
+      "Tervuren",
+      "Waterloo",
+      "Sint-Lambrechts-Woluwe",
+      "Ukkel",
+      "Laeken",
+      "Schaerbeek",
+      "Anderlecht",
+      "Ixelles",
+      "Woluwe-Saint-Lambert",
+      "Jodoigne",
+      "Lier",
+      "Kortenberg",
+      "Herentals",
+      "Blankenberge",
+      "Beringen",
+      "Beveren",
+      "Dendermonde",
+      "Kontich",
+      "Aalst",
+      "Seraing",
+      "Beveren",
+      "Genk",
+      "Tienen",
+      "Wetteren",
+      "Oostkamp",
+      "Sint-Gillis",
+      "Roeselare",
+      "Hasselt",
+      "Harelbeke",
+      "Zwijndrecht",
+      "Zele",
+      "Evergem",
+      "Beersel",
+      "Edegem",
+      "Beringen",
+      "Geraardsbergen",
+      "Gistel",
+      "Kortrijk",
+      "Mol",
+      "Ninove",
+      "Aarschot",
+      "Eeklo",
+      "Chimay"
+    ]
+  },
+  "streetnames": {
+    "corporate": [
+      "Avenue Louise",
+      "Avenue de la Toison d'Or",
+      "Rue de la Loi",
+      "Avenue des Arts",
+      "Rue Royale",
+      "Boulevard de Waterloo",
+      "Avenue de Tervuren",
+      "Boulevard du Triomphe",
+      "Rue des Colonies",
+      "Boulevard Léopold III",
+      "Avenue F. Roosevelt",
+      "Rue de la Montagne",
+      "Boulevard du Luxembourg",
+      "Rue de la Régence",
+      "Avenue de la Reine",
+      "Avenue Jules César",
+      "Rue du Trône",
+      "Boulevard Emile Jacqmain",
+      "Avenue de la Paix",
+      "Rue Royale",
+      "Boulevard de la Reine",
+      "Avenue Pétillon",
+      "Avenue de Cortenbergh",
+      "Avenue de l'Arbre Ballon",
+      "Rue de la Loi",
+      "Avenue de Hinnisdael",
+      "Avenue de l'Artisan",
+      "Avenue de la Science",
+      "Boulevard de la Villette",
+      "Avenue Ernest Solvay",
+      "Boulevard des Invalides",
+      "Rue de l'Université",
+      "Avenue de Bouillon",
+      "Boulevard Leopold II",
+      "Rue Royale",
+      "Avenue du Boulevard",
+      "Avenue des Belles Fleurs",
+      "Avenue de la Liberté",
+      "Rue des Capucins",
+      "Avenue de la Couronne",
+      "Avenue Jules Dubois",
+      "Boulevard Général Jacques",
+      "Rue de l'Empereur"
+    ],
+    "industrial": [
+      "Rue de l'Industrie",
+      "Avenue des Industries",
+      "Avenue du Parc Industriel",
+      "Avenue des Trente Glorieuses",
+      "Avenue de l'Innovation",
+      "Rue des Métallurgistes",
+      "Boulevard des Entreprises",
+      "Avenue des Autrichiens",
+      "Rue de l'Energie",
+      "Avenue de la Zone Industrielle",
+      "Rue du Commerce",
+      "Avenue des Technologies",
+      "Rue de l'Innovation",
+      "Avenue de la Concurrence",
+      "Rue des Fabricants",
+      "Avenue des Entrepreneurs",
+      "Avenue de la Recherche",
+      "Avenue de l'Industrie",
+      "Rue des Investisseurs",
+      "Avenue de la Zone d'Activité",
+      "Rue des Machines",
+      "Avenue de la Production",
+      "Boulevard des Sciences",
+      "Avenue du Produit",
+      "Rue du Commerce International",
+      "Avenue de la Technologie",
+      "Avenue du Progrès",
+      "Avenue des Usines",
+      "Rue du Fabricant",
+      "Avenue des Investissements",
+      "Avenue de la Zone Économique",
+      "Rue des Ingénieurs",
+      "Avenue du Développement",
+      "Boulevard Industriel",
+      "Avenue des Entrepreneurs",
+      "Avenue des Systèmes",
+      "Avenue de la Machine",
+      "Avenue de l'Usine",
+      "Rue de la Fabrication",
+      "Avenue des Machines Outils",
+      "Avenue des Technologies Vertes"
+    ],
+    "residential": [
+      "Rue de la Paix",
+      "Avenue de la Reine",
+      "Rue Royale",
+      "Avenue Louise",
+      "Boulevard Leopold II",
+      "Avenue de Tervuren",
+      "Rue de la Loi",
+      "Rue des Colonies",
+      "Rue de l'Université",
+      "Avenue Jules César",
+      "Boulevard de Waterloo",
+      "Avenue de la Toison d'Or",
+      "Avenue des Arts",
+      "Avenue F. Roosevelt",
+      "Avenue Jules Dubois",
+      "Boulevard du Triomphe",
+      "Rue de la Régence",
+      "Avenue Pétillon",
+      "Rue de la Montagne",
+      "Rue du Trône",
+      "Avenue de l'Arbre Ballon",
+      "Avenue de la Science",
+      "Avenue de la Couronne",
+      "Boulevard Emile Jacqmain",
+      "Avenue des Belles Fleurs",
+      "Avenue des Artisans",
+      "Boulevard de la Villette",
+      "Avenue de Hinnisdael",
+      "Avenue du Boulevard",
+      "Avenue de la Liberté",
+      "Rue des Capucins",
+      "Avenue Ernest Solvay",
+      "Rue des Beaux-Arts",
+      "Avenue de la Zone Industrielle",
+      "Rue du Sablon",
+      "Rue de la Chasse",
+      "Avenue de l'Artisan",
+      "Rue de la Paix",
+      "Rue de l'Empereur",
+      "Rue des Lilas",
+      "Avenue de la Forêt",
+      "Rue du Diamant",
+      "Avenue Dailly"
+    ]
+  },
+  "regions": {
+    "Flanders": {
+      "cities": {
+        "Antwerp": {
+          "zipcodes": [
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Ghent": {
+          "zipcodes": [
+            "9000",
+            "9001",
+            "9002",
+            "9003",
+            "9004"
+          ],
+          "areacodes": [
+            "09"
+          ]
+        },
+        "Bruges": {
+          "zipcodes": [
+            "8000",
+            "8001",
+            "8002",
+            "8003",
+            "8004"
+          ],
+          "areacodes": [
+            "050"
+          ]
+        },
+        "Leuven": {
+          "zipcodes": [
+            "3000",
+            "3001",
+            "3002",
+            "3003",
+            "3004"
+          ],
+          "areacodes": [
+            "016"
+          ]
+        },
+        "Mechelen": {
+          "zipcodes": [
+            "2800",
+            "2801",
+            "2802",
+            "2803",
+            "2804"
+          ],
+          "areacodes": [
+            "015"
+          ]
+        },
+        "Kortrijk": {
+          "zipcodes": [
+            "8500",
+            "8501",
+            "8502",
+            "8503",
+            "8504"
+          ],
+          "areacodes": [
+            "056"
+          ]
+        },
+        "Hasselt": {
+          "zipcodes": [
+            "3500",
+            "3501",
+            "3502",
+            "3503",
+            "3504"
+          ],
+          "areacodes": [
+            "011"
+          ]
+        },
+        "Sint-Niklaas": {
+          "zipcodes": [
+            "9100",
+            "9101",
+            "9102",
+            "9103",
+            "9104"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Turnhout": {
+          "zipcodes": [
+            "2300",
+            "2301",
+            "2302",
+            "2303",
+            "2304"
+          ],
+          "areacodes": [
+            "014"
+          ]
+        },
+        "Oostende": {
+          "zipcodes": [
+            "8400",
+            "8401",
+            "8402",
+            "8403",
+            "8404"
+          ],
+          "areacodes": [
+            "059"
+          ]
+        },
+        "Roeselare": {
+          "zipcodes": [
+            "8800",
+            "8801",
+            "8802",
+            "8803",
+            "8804"
+          ],
+          "areacodes": [
+            "051"
+          ]
+        },
+        "Aalst": {
+          "zipcodes": [
+            "9300",
+            "9301",
+            "9302",
+            "9303",
+            "9304"
+          ],
+          "areacodes": [
+            "053"
+          ]
+        },
+        "Genk": {
+          "zipcodes": [
+            "3600",
+            "3601",
+            "3602",
+            "3603",
+            "3604"
+          ],
+          "areacodes": [
+            "089"
+          ]
+        },
+        "Wetteren": {
+          "zipcodes": [
+            "9230",
+            "9231",
+            "9232",
+            "9233",
+            "9234"
+          ],
+          "areacodes": [
+            "09"
+          ]
+        },
+        "Eeklo": {
+          "zipcodes": [
+            "9900",
+            "9901",
+            "9902",
+            "9903",
+            "9904"
+          ],
+          "areacodes": [
+            "09"
+          ]
+        }
+      },
+      "name": "Flanders"
+    },
+    "Wallonia": {
+      "cities": {
+        "Liège": {
+          "zipcodes": [
+            "4000",
+            "4001",
+            "4002",
+            "4003",
+            "4004"
+          ],
+          "areacodes": [
+            "04"
+          ]
+        },
+        "Charleroi": {
+          "zipcodes": [
+            "6000",
+            "6001",
+            "6002",
+            "6003",
+            "6004"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        },
+        "Namur": {
+          "zipcodes": [
+            "5000",
+            "5001",
+            "5002",
+            "5003",
+            "5004"
+          ],
+          "areacodes": [
+            "081"
+          ]
+        },
+        "Mons": {
+          "zipcodes": [
+            "7000",
+            "7001",
+            "7002",
+            "7003",
+            "7004"
+          ],
+          "areacodes": [
+            "065"
+          ]
+        },
+        "Tournai": {
+          "zipcodes": [
+            "7500",
+            "7501",
+            "7502",
+            "7503",
+            "7504"
+          ],
+          "areacodes": [
+            "069"
+          ]
+        },
+        "La Louvière": {
+          "zipcodes": [
+            "7100",
+            "7101",
+            "7102",
+            "7103",
+            "7104"
+          ],
+          "areacodes": [
+            "064"
+          ]
+        },
+        "Verviers": {
+          "zipcodes": [
+            "4800",
+            "4801",
+            "4802",
+            "4803",
+            "4804"
+          ],
+          "areacodes": [
+            "087"
+          ]
+        },
+        "Seraing": {
+          "zipcodes": [
+            "4100",
+            "4101",
+            "4102",
+            "4103",
+            "4104"
+          ],
+          "areacodes": [
+            "04"
+          ]
+        },
+        "Arlon": {
+          "zipcodes": [
+            "6700",
+            "6701",
+            "6702",
+            "6703",
+            "6704"
+          ],
+          "areacodes": [
+            "063"
+          ]
+        },
+        "Eupen": {
+          "zipcodes": [
+            "4700",
+            "4701",
+            "4702",
+            "4703",
+            "4704"
+          ],
+          "areacodes": [
+            "087"
+          ]
+        },
+        "Wavre": {
+          "zipcodes": [
+            "1300",
+            "1301",
+            "1302",
+            "1303",
+            "1304"
+          ],
+          "areacodes": [
+            "010"
+          ]
+        },
+        "Bastogne": {
+          "zipcodes": [
+            "6600",
+            "6601",
+            "6602",
+            "6603",
+            "6604"
+          ],
+          "areacodes": [
+            "061"
+          ]
+        },
+        "Jodoigne": {
+          "zipcodes": [
+            "1370",
+            "1371",
+            "1372",
+            "1373",
+            "1374"
+          ],
+          "areacodes": [
+            "010"
+          ]
+        },
+        "Huy": {
+          "zipcodes": [
+            "4500",
+            "4501",
+            "4502",
+            "4503",
+            "4504"
+          ],
+          "areacodes": [
+            "085"
+          ]
+        },
+        "Nivelles": {
+          "zipcodes": [
+            "1400",
+            "1401",
+            "1402",
+            "1403",
+            "1404"
+          ],
+          "areacodes": [
+            "067"
+          ]
+        }
+      },
+      "name": "Wallonia"
+    },
+    "Brussels-Capital": {
+      "cities": {
+        "Brussels": {
+          "zipcodes": [
+            "1000",
+            "1001",
+            "1002",
+            "1003",
+            "1004"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Anderlecht": {
+          "zipcodes": [
+            "1070",
+            "1071",
+            "1072",
+            "1073",
+            "1074"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Schaerbeek": {
+          "zipcodes": [
+            "1030",
+            "1031",
+            "1032",
+            "1033",
+            "1034"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Ixelles": {
+          "zipcodes": [
+            "1050",
+            "1051",
+            "1052",
+            "1053",
+            "1054"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Saint-Gilles": {
+          "zipcodes": [
+            "1060",
+            "1061",
+            "1062",
+            "1063",
+            "1064"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Uccle": {
+          "zipcodes": [
+            "1180",
+            "1181",
+            "1182",
+            "1183",
+            "1184"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Woluwe-Saint-Lambert": {
+          "zipcodes": [
+            "1200",
+            "1201",
+            "1202",
+            "1203",
+            "1204"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Woluwe-Saint-Pierre": {
+          "zipcodes": [
+            "1150",
+            "1151",
+            "1152",
+            "1153",
+            "1154"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Etterbeek": {
+          "zipcodes": [
+            "1040",
+            "1041",
+            "1042",
+            "1043",
+            "1044"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Forest": {
+          "zipcodes": [
+            "1190",
+            "1191",
+            "1192",
+            "1193",
+            "1194"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Jodoigne": {
+          "zipcodes": [
+            "1370",
+            "1371",
+            "1372",
+            "1373",
+            "1374"
+          ],
+          "areacodes": [
+            "010"
+          ]
+        },
+        "Koekelberg": {
+          "zipcodes": [
+            "1081",
+            "1082",
+            "1083",
+            "1084",
+            "1085"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Molenbeek-Saint-Jean": {
+          "zipcodes": [
+            "1080",
+            "1081",
+            "1082",
+            "1083",
+            "1084"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Saint-Josse-ten-Noode": {
+          "zipcodes": [
+            "1210",
+            "1211",
+            "1212",
+            "1213",
+            "1214"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Laeken": {
+          "zipcodes": [
+            "1020",
+            "1021",
+            "1022",
+            "1023",
+            "1024"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        }
+      },
+      "name": "Brussels-Capital"
+    }
+  },
+  "communities": {
+    "Flemish Community": {
+      "cities": {
+        "Antwerp": {
+          "zipcodes": [
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Ghent": {
+          "zipcodes": [
+            "9000",
+            "9001",
+            "9002",
+            "9003",
+            "9004"
+          ],
+          "areacodes": [
+            "09"
+          ]
+        },
+        "Bruges": {
+          "zipcodes": [
+            "8000",
+            "8001",
+            "8002",
+            "8003",
+            "8004"
+          ],
+          "areacodes": [
+            "050"
+          ]
+        },
+        "Leuven": {
+          "zipcodes": [
+            "3000",
+            "3001",
+            "3002",
+            "3003",
+            "3004"
+          ],
+          "areacodes": [
+            "016"
+          ]
+        },
+        "Mechelen": {
+          "zipcodes": [
+            "2800",
+            "2801",
+            "2802",
+            "2803",
+            "2804"
+          ],
+          "areacodes": [
+            "015"
+          ]
+        },
+        "Kortrijk": {
+          "zipcodes": [
+            "8500",
+            "8501",
+            "8502",
+            "8503",
+            "8504"
+          ],
+          "areacodes": [
+            "056"
+          ]
+        },
+        "Hasselt": {
+          "zipcodes": [
+            "3500",
+            "3501",
+            "3502",
+            "3503",
+            "3504"
+          ],
+          "areacodes": [
+            "011"
+          ]
+        },
+        "Sint-Niklaas": {
+          "zipcodes": [
+            "9100",
+            "9101",
+            "9102",
+            "9103",
+            "9104"
+          ],
+          "areacodes": [
+            "03"
+          ]
+        },
+        "Turnhout": {
+          "zipcodes": [
+            "2300",
+            "2301",
+            "2302",
+            "2303",
+            "2304"
+          ],
+          "areacodes": [
+            "014"
+          ]
+        },
+        "Oostende": {
+          "zipcodes": [
+            "8400",
+            "8401",
+            "8402",
+            "8403",
+            "8404"
+          ],
+          "areacodes": [
+            "059"
+          ]
+        },
+        "Roeselare": {
+          "zipcodes": [
+            "8800",
+            "8801",
+            "8802",
+            "8803",
+            "8804"
+          ],
+          "areacodes": [
+            "051"
+          ]
+        },
+        "Aalst": {
+          "zipcodes": [
+            "9300",
+            "9301",
+            "9302",
+            "9303",
+            "9304"
+          ],
+          "areacodes": [
+            "053"
+          ]
+        },
+        "Genk": {
+          "zipcodes": [
+            "3600",
+            "3601",
+            "3602",
+            "3603",
+            "3604"
+          ],
+          "areacodes": [
+            "089"
+          ]
+        },
+        "Wetteren": {
+          "zipcodes": [
+            "9230",
+            "9231",
+            "9232",
+            "9233",
+            "9234"
+          ],
+          "areacodes": [
+            "09"
+          ]
+        },
+        "Eeklo": {
+          "zipcodes": [
+            "9900",
+            "9901",
+            "9902",
+            "9903",
+            "9904"
+          ],
+          "areacodes": [
+            "09"
+          ]
+        }
+      },
+      "name": "Flemish Community"
+    },
+    "French Community": {
+      "cities": {
+        "Liège": {
+          "zipcodes": [
+            "4000",
+            "4001",
+            "4002",
+            "4003",
+            "4004"
+          ],
+          "areacodes": [
+            "04"
+          ]
+        },
+        "Charleroi": {
+          "zipcodes": [
+            "6000",
+            "6001",
+            "6002",
+            "6003",
+            "6004"
+          ],
+          "areacodes": [
+            "071"
+          ]
+        },
+        "Namur": {
+          "zipcodes": [
+            "5000",
+            "5001",
+            "5002",
+            "5003",
+            "5004"
+          ],
+          "areacodes": [
+            "081"
+          ]
+        },
+        "Mons": {
+          "zipcodes": [
+            "7000",
+            "7001",
+            "7002",
+            "7003",
+            "7004"
+          ],
+          "areacodes": [
+            "065"
+          ]
+        },
+        "Tournai": {
+          "zipcodes": [
+            "7500",
+            "7501",
+            "7502",
+            "7503",
+            "7504"
+          ],
+          "areacodes": [
+            "069"
+          ]
+        },
+        "La Louvière": {
+          "zipcodes": [
+            "7100",
+            "7101",
+            "7102",
+            "7103",
+            "7104"
+          ],
+          "areacodes": [
+            "064"
+          ]
+        },
+        "Verviers": {
+          "zipcodes": [
+            "4800",
+            "4801",
+            "4802",
+            "4803",
+            "4804"
+          ],
+          "areacodes": [
+            "087"
+          ]
+        },
+        "Seraing": {
+          "zipcodes": [
+            "4100",
+            "4101",
+            "4102",
+            "4103",
+            "4104"
+          ],
+          "areacodes": [
+            "04"
+          ]
+        },
+        "Arlon": {
+          "zipcodes": [
+            "6700",
+            "6701",
+            "6702",
+            "6703",
+            "6704"
+          ],
+          "areacodes": [
+            "063"
+          ]
+        },
+        "Eupen": {
+          "zipcodes": [
+            "4700",
+            "4701",
+            "4702",
+            "4703",
+            "4704"
+          ],
+          "areacodes": [
+            "087"
+          ]
+        },
+        "Wavre": {
+          "zipcodes": [
+            "1300",
+            "1301",
+            "1302",
+            "1303",
+            "1304"
+          ],
+          "areacodes": [
+            "010"
+          ]
+        },
+        "Bastogne": {
+          "zipcodes": [
+            "6600",
+            "6601",
+            "6602",
+            "6603",
+            "6604"
+          ],
+          "areacodes": [
+            "061"
+          ]
+        },
+        "Jodoigne": {
+          "zipcodes": [
+            "1370",
+            "1371",
+            "1372",
+            "1373",
+            "1374"
+          ],
+          "areacodes": [
+            "010"
+          ]
+        },
+        "Huy": {
+          "zipcodes": [
+            "4500",
+            "4501",
+            "4502",
+            "4503",
+            "4504"
+          ],
+          "areacodes": [
+            "085"
+          ]
+        },
+        "Nivelles": {
+          "zipcodes": [
+            "1400",
+            "1401",
+            "1402",
+            "1403",
+            "1404"
+          ],
+          "areacodes": [
+            "067"
+          ]
+        },
+        "Brussels": {
+          "zipcodes": [
+            "1000",
+            "1001",
+            "1002",
+            "1003",
+            "1004"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Anderlecht": {
+          "zipcodes": [
+            "1070",
+            "1071",
+            "1072",
+            "1073",
+            "1074"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        },
+        "Schaerbeek": {
+          "zipcodes": [
+            "1030",
+            "1031",
+            "1032",
+            "1033",
+            "1034"
+          ],
+          "areacodes": [
+            "02"
+          ]
+        }
+      },
+      "name": "French Community"
+    },
+    "German-speaking Community": {
+      "cities": {
+        "Eupen": {
+          "zipcodes": [
+            "4700",
+            "4701",
+            "4702",
+            "4703",
+            "4704"
+          ],
+          "areacodes": [
+            "087"
+          ]
+        },
+        "Malmedy": {
+          "zipcodes": [
+            "4960",
+            "4961",
+            "4962",
+            "4963",
+            "4964"
+          ],
+          "areacodes": [
+            "080"
+          ]
+        },
+        "Raeren": {
+          "zipcodes": [
+            "4730",
+            "4731",
+            "4732",
+            "4733",
+            "4734"
+          ],
+          "areacodes": [
+            "087"
+          ]
+        },
+        "St. Vith": {
+          "zipcodes": [
+            "4780",
+            "4781",
+            "4782",
+            "4783",
+            "4784"
+          ],
+          "areacodes": [
+            "080"
+          ]
+        }
+      },
+      "name": "German-speaking Community"
+    }
+  },
+  "citycontainers": [
+    "regions",
+    "communities"
+  ],
+  "firstnames": [
+    "Noah",
+    "Liam",
+    "Lucas",
+    "Emma",
+    "Olivia",
+    "Sophie",
+    "Mia",
+    "Lina",
+    "Arthur",
+    "Lucas",
+    "Charlotte",
+    "Julien",
+    "Louis",
+    "Mia",
+    "Alice",
+    "Paul",
+    "Chloé",
+    "Eliott",
+    "Victor",
+    "Romain",
+    "Maxime",
+    "Léon",
+    "Tom",
+    "Ethan",
+    "Maël",
+    "Simon",
+    "Théo",
+    "Gabriel",
+    "Célia",
+    "Lina",
+    "Anna",
+    "Louise",
+    "Sacha",
+    "Hugo",
+    "Mathis",
+    "Nicolas",
+    "Ruben",
+    "Eva",
+    "Clara",
+    "Mélissa",
+    "Marius",
+    "Léo"
+  ],
+  "lastnames": [
+    "Peeters",
+    "Janssens",
+    "Maes",
+    "Lambrecht",
+    "Willems",
+    "Leroy",
+    "Schoonbroodt",
+    "Lemoine",
+    "Dubois",
+    "De Vos",
+    "Demeulemeester",
+    "De Smet",
+    "De Bock",
+    "Jacobs",
+    "Lamberts",
+    "Cools",
+    "Vermeulen",
+    "Lannoo",
+    "Declercq",
+    "Vandewalle",
+    "Bogaerts",
+    "Van Damme",
+    "Van der Meulen",
+    "Verbeeck",
+    "Vandersmissen",
+    "Brussels",
+    "Bodart",
+    "Goffin",
+    "Van den Broeck",
+    "Rondeau",
+    "Wauters",
+    "Vinck",
+    "Meert",
+    "Vandeput",
+    "Lemaire",
+    "Roux",
+    "Cremers",
+    "Bostyn",
+    "Vandenbroucke",
+    "Desmet"
+  ]
 }

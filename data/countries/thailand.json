@@ -305,9 +305,8 @@
   "provinces": {
     "Bangkok": {
       "name": "Bangkok",
-      "cities": [
-        {
-          "cityname": "Bangkok",
+      "cities": {
+        "Bangkok": {
           "zipcodes": [
             "10100",
             "10110",
@@ -319,8 +318,7 @@
             "02"
           ]
         },
-        {
-          "cityname": "Sathorn",
+        "Sathorn": {
           "zipcodes": [
             "10150",
             "10160",
@@ -332,8 +330,7 @@
             "02"
           ]
         },
-        {
-          "cityname": "Phaya Thai",
+        "Phaya Thai": {
           "zipcodes": [
             "10400",
             "10410",
@@ -345,8 +342,7 @@
             "02"
           ]
         },
-        {
-          "cityname": "Bang Sue",
+        "Bang Sue": {
           "zipcodes": [
             "10800",
             "10810",
@@ -358,8 +354,7 @@
             "02"
           ]
         },
-        {
-          "cityname": "Ratchathewi",
+        "Ratchathewi": {
           "zipcodes": [
             "10450",
             "10460",
@@ -371,13 +366,12 @@
             "02"
           ]
         }
-      ]
+      }
     },
     "Chiang Mai": {
       "name": "Chiang Mai",
-      "cities": [
-        {
-          "cityname": "Chiang Mai",
+      "cities": {
+        "Chiang Mai": {
           "zipcodes": [
             "50000",
             "50010",
@@ -389,8 +383,7 @@
             "053"
           ]
         },
-        {
-          "cityname": "Hang Dong",
+        "Hang Dong": {
           "zipcodes": [
             "50230",
             "50240",
@@ -402,8 +395,7 @@
             "053"
           ]
         },
-        {
-          "cityname": "Fang",
+        "Fang": {
           "zipcodes": [
             "50110",
             "50120",
@@ -415,8 +407,7 @@
             "053"
           ]
         },
-        {
-          "cityname": "Chom Thong",
+        "Chom Thong": {
           "zipcodes": [
             "50160",
             "50170",
@@ -428,8 +419,7 @@
             "053"
           ]
         },
-        {
-          "cityname": "San Sai",
+        "San Sai": {
           "zipcodes": [
             "50210",
             "50220",
@@ -441,13 +431,12 @@
             "053"
           ]
         }
-      ]
+      }
     },
     "Nakhon Ratchasima": {
       "name": "Nakhon Ratchasima",
-      "cities": [
-        {
-          "cityname": "Nakhon Ratchasima",
+      "cities": {
+        "Nakhon Ratchasima": {
           "zipcodes": [
             "30000",
             "30010",
@@ -459,8 +448,7 @@
             "044"
           ]
         },
-        {
-          "cityname": "Chok Chai",
+        "Chok Chai": {
           "zipcodes": [
             "30190",
             "30200",
@@ -472,8 +460,7 @@
             "044"
           ]
         },
-        {
-          "cityname": "Pak Thong Chai",
+        "Pak Thong Chai": {
           "zipcodes": [
             "30150",
             "30160",
@@ -485,8 +472,7 @@
             "044"
           ]
         },
-        {
-          "cityname": "Sikhio",
+        "Sikhio": {
           "zipcodes": [
             "30110",
             "30120",
@@ -498,8 +484,7 @@
             "044"
           ]
         },
-        {
-          "cityname": "Wang Nam Khieo",
+        "Wang Nam Khieo": {
           "zipcodes": [
             "30310",
             "30320",
@@ -511,13 +496,12 @@
             "044"
           ]
         }
-      ]
+      }
     },
     "Chonburi": {
       "name": "Chonburi",
-      "cities": [
-        {
-          "cityname": "Chonburi",
+      "cities": {
+        "Chonburi": {
           "zipcodes": [
             "20000",
             "20010",
@@ -529,8 +513,7 @@
             "038"
           ]
         },
-        {
-          "cityname": "Pattaya",
+        "Pattaya": {
           "zipcodes": [
             "20150",
             "20160",
@@ -542,8 +525,7 @@
             "038"
           ]
         },
-        {
-          "cityname": "Si Racha",
+        "Si Racha": {
           "zipcodes": [
             "20230",
             "20240",
@@ -555,8 +537,7 @@
             "038"
           ]
         },
-        {
-          "cityname": "Bang Lamung",
+        "Bang Lamung": {
           "zipcodes": [
             "20150",
             "20160",
@@ -568,8 +549,7 @@
             "038"
           ]
         },
-        {
-          "cityname": "Laem Chabang",
+        "Laem Chabang": {
           "zipcodes": [
             "20120",
             "20130",
@@ -581,13 +561,12 @@
             "038"
           ]
         }
-      ]
+      }
     },
     "Nakhon Si Thammarat": {
       "name": "Nakhon Si Thammarat",
-      "cities": [
-        {
-          "cityname": "Nakhon Si Thammarat",
+      "cities": {
+        "Nakhon Si Thammarat": {
           "zipcodes": [
             "80000",
             "80010",
@@ -599,8 +578,7 @@
             "075"
           ]
         },
-        {
-          "cityname": "Thung Song",
+        "Thung Song": {
           "zipcodes": [
             "80110",
             "80120",
@@ -612,8 +590,7 @@
             "075"
           ]
         },
-        {
-          "cityname": "Cha-uat",
+        "Cha-uat": {
           "zipcodes": [
             "80160",
             "80170",
@@ -625,8 +602,7 @@
             "075"
           ]
         },
-        {
-          "cityname": "Langu",
+        "Langu": {
           "zipcodes": [
             "80210",
             "80220",
@@ -638,8 +614,7 @@
             "075"
           ]
         },
-        {
-          "cityname": "Chulabhorn",
+        "Chulabhorn": {
           "zipcodes": [
             "80310",
             "80320",
@@ -651,13 +626,12 @@
             "075"
           ]
         }
-      ]
+      }
     },
     "Songkhla": {
       "name": "Songkhla",
-      "cities": [
-        {
-          "cityname": "Songkhla",
+      "cities": {
+        "Songkhla": {
           "zipcodes": [
             "90000",
             "90010",
@@ -669,8 +643,7 @@
             "074"
           ]
         },
-        {
-          "cityname": "Hat Yai",
+        "Hat Yai": {
           "zipcodes": [
             "90110",
             "90120",
@@ -682,8 +655,7 @@
             "074"
           ]
         },
-        {
-          "cityname": "Sathing Phra",
+        "Sathing Phra": {
           "zipcodes": [
             "90170",
             "90180",
@@ -695,8 +667,7 @@
             "074"
           ]
         },
-        {
-          "cityname": "Koh Hong",
+        "Koh Hong": {
           "zipcodes": [
             "90220",
             "90230",
@@ -708,8 +679,7 @@
             "074"
           ]
         },
-        {
-          "cityname": "Kanchanavanit",
+        "Kanchanavanit": {
           "zipcodes": [
             "90270",
             "90280",
@@ -721,13 +691,12 @@
             "074"
           ]
         }
-      ]
+      }
     },
     "Phuket": {
       "name": "Phuket",
-      "cities": [
-        {
-          "cityname": "Phuket",
+      "cities": {
+        "Phuket": {
           "zipcodes": [
             "83000",
             "83010",
@@ -739,8 +708,7 @@
             "076"
           ]
         },
-        {
-          "cityname": "Patong",
+        "Patong": {
           "zipcodes": [
             "83150",
             "83160",
@@ -752,8 +720,7 @@
             "076"
           ]
         },
-        {
-          "cityname": "Karon",
+        "Karon": {
           "zipcodes": [
             "83100",
             "83110",
@@ -765,8 +732,7 @@
             "076"
           ]
         },
-        {
-          "cityname": "Kamala",
+        "Kamala": {
           "zipcodes": [
             "83110",
             "83120",
@@ -778,8 +744,7 @@
             "076"
           ]
         },
-        {
-          "cityname": "Rawai",
+        "Rawai": {
           "zipcodes": [
             "83130",
             "83140",
@@ -791,13 +756,12 @@
             "076"
           ]
         }
-      ]
+      }
     },
     "Ayutthaya": {
       "name": "Ayutthaya",
-      "cities": [
-        {
-          "cityname": "Ayutthaya",
+      "cities": {
+        "Ayutthaya": {
           "zipcodes": [
             "13000",
             "13010",
@@ -809,8 +773,7 @@
             "035"
           ]
         },
-        {
-          "cityname": "Phra Nakhon Si Ayutthaya",
+        "Phra Nakhon Si Ayutthaya": {
           "zipcodes": [
             "13010",
             "13020",
@@ -822,8 +785,7 @@
             "035"
           ]
         },
-        {
-          "cityname": "Bang Pa-In",
+        "Bang Pa-In": {
           "zipcodes": [
             "13160",
             "13170",
@@ -835,8 +797,7 @@
             "035"
           ]
         },
-        {
-          "cityname": "Nakhon Luang",
+        "Nakhon Luang": {
           "zipcodes": [
             "13090",
             "13100",
@@ -848,8 +809,7 @@
             "035"
           ]
         },
-        {
-          "cityname": "Wang Noi",
+        "Wang Noi": {
           "zipcodes": [
             "13230",
             "13240",
@@ -861,13 +821,12 @@
             "035"
           ]
         }
-      ]
+      }
     },
     "Udon Thani": {
       "name": "Udon Thani",
-      "cities": [
-        {
-          "cityname": "Udon Thani",
+      "cities": {
+        "Udon Thani": {
           "zipcodes": [
             "41000",
             "41010",
@@ -879,8 +838,7 @@
             "042"
           ]
         },
-        {
-          "cityname": "Nong Bua Lamphu",
+        "Nong Bua Lamphu": {
           "zipcodes": [
             "39110",
             "39120",
@@ -892,8 +850,7 @@
             "042"
           ]
         },
-        {
-          "cityname": "Nong Khai",
+        "Nong Khai": {
           "zipcodes": [
             "43000",
             "43010",
@@ -905,8 +862,7 @@
             "042"
           ]
         },
-        {
-          "cityname": "Thung Fon",
+        "Thung Fon": {
           "zipcodes": [
             "41050",
             "41060",
@@ -918,8 +874,7 @@
             "042"
           ]
         },
-        {
-          "cityname": "Pracharat",
+        "Pracharat": {
           "zipcodes": [
             "41040",
             "41050",
@@ -931,13 +886,12 @@
             "042"
           ]
         }
-      ]
+      }
     },
     "Khon Kaen": {
       "name": "Khon Kaen",
-      "cities": [
-        {
-          "cityname": "Khon Kaen",
+      "cities": {
+        "Khon Kaen": {
           "zipcodes": [
             "40000",
             "40010",
@@ -949,8 +903,7 @@
             "043"
           ]
         },
-        {
-          "cityname": "Nong Rua",
+        "Nong Rua": {
           "zipcodes": [
             "40050",
             "40060",
@@ -962,8 +915,7 @@
             "043"
           ]
         },
-        {
-          "cityname": "Khao Suan Kwang",
+        "Khao Suan Kwang": {
           "zipcodes": [
             "40210",
             "40220",
@@ -975,8 +927,7 @@
             "043"
           ]
         },
-        {
-          "cityname": "Chumpae",
+        "Chumpae": {
           "zipcodes": [
             "40120",
             "40130",
@@ -988,8 +939,7 @@
             "043"
           ]
         },
-        {
-          "cityname": "Ban Phai",
+        "Ban Phai": {
           "zipcodes": [
             "40110",
             "40120",
@@ -1001,13 +951,12 @@
             "043"
           ]
         }
-      ]
+      }
     },
     "Chiang Rai": {
       "name": "Chiang Rai",
-      "cities": [
-        {
-          "cityname": "Chiang Rai",
+      "cities": {
+        "Chiang Rai": {
           "zipcodes": [
             "57000",
             "57010",
@@ -1019,8 +968,7 @@
             "053"
           ]
         },
-        {
-          "cityname": "Mae Sai",
+        "Mae Sai": {
           "zipcodes": [
             "57130",
             "57140",
@@ -1032,8 +980,7 @@
             "053"
           ]
         },
-        {
-          "cityname": "Chiang Khong",
+        "Chiang Khong": {
           "zipcodes": [
             "57110",
             "57120",
@@ -1045,8 +992,7 @@
             "053"
           ]
         },
-        {
-          "cityname": "Phan",
+        "Phan": {
           "zipcodes": [
             "57160",
             "57170",
@@ -1058,8 +1004,7 @@
             "053"
           ]
         },
-        {
-          "cityname": "Wiang Chiang Rung",
+        "Wiang Chiang Rung": {
           "zipcodes": [
             "57210",
             "57220",
@@ -1071,13 +1016,12 @@
             "053"
           ]
         }
-      ]
+      }
     },
     "Suphanburi": {
       "name": "Suphanburi",
-      "cities": [
-        {
-          "cityname": "Suphanburi",
+      "cities": {
+        "Suphanburi": {
           "zipcodes": [
             "72000",
             "72010",
@@ -1089,8 +1033,7 @@
             "035"
           ]
         },
-        {
-          "cityname": "Uthong",
+        "Uthong": {
           "zipcodes": [
             "72110",
             "72120",
@@ -1102,8 +1045,7 @@
             "035"
           ]
         },
-        {
-          "cityname": "Doem Bang Nang Buat",
+        "Doem Bang Nang Buat": {
           "zipcodes": [
             "72160",
             "72170",
@@ -1115,8 +1057,7 @@
             "035"
           ]
         },
-        {
-          "cityname": "Song Phi Nong",
+        "Song Phi Nong": {
           "zipcodes": [
             "72210",
             "72220",
@@ -1128,8 +1069,7 @@
             "035"
           ]
         },
-        {
-          "cityname": "Don Chedi",
+        "Don Chedi": {
           "zipcodes": [
             "72260",
             "72270",
@@ -1141,13 +1081,12 @@
             "035"
           ]
         }
-      ]
+      }
     },
     "Rayong": {
       "name": "Rayong",
-      "cities": [
-        {
-          "cityname": "Rayong",
+      "cities": {
+        "Rayong": {
           "zipcodes": [
             "21000",
             "21010",
@@ -1159,8 +1098,7 @@
             "038"
           ]
         },
-        {
-          "cityname": "Klaeng",
+        "Klaeng": {
           "zipcodes": [
             "21110",
             "21120",
@@ -1172,8 +1110,7 @@
             "038"
           ]
         },
-        {
-          "cityname": "Ban Chang",
+        "Ban Chang": {
           "zipcodes": [
             "21130",
             "21140",
@@ -1185,8 +1122,7 @@
             "038"
           ]
         },
-        {
-          "cityname": "Nong Irun",
+        "Nong Irun": {
           "zipcodes": [
             "21180",
             "21190",
@@ -1198,8 +1134,7 @@
             "038"
           ]
         },
-        {
-          "cityname": "Pluak Daeng",
+        "Pluak Daeng": {
           "zipcodes": [
             "21230",
             "21240",
@@ -1211,13 +1146,12 @@
             "038"
           ]
         }
-      ]
+      }
     },
     "Saraburi": {
       "name": "Saraburi",
-      "cities": [
-        {
-          "cityname": "Saraburi",
+      "cities": {
+        "Saraburi": {
           "zipcodes": [
             "18000",
             "18010",
@@ -1229,8 +1163,7 @@
             "036"
           ]
         },
-        {
-          "cityname": "Kaeng Khoi",
+        "Kaeng Khoi": {
           "zipcodes": [
             "18110",
             "18120",
@@ -1242,8 +1175,7 @@
             "036"
           ]
         },
-        {
-          "cityname": "Chaloem Phra Kiat",
+        "Chaloem Phra Kiat": {
           "zipcodes": [
             "18160",
             "18170",
@@ -1255,8 +1187,7 @@
             "036"
           ]
         },
-        {
-          "cityname": "Nong Khae",
+        "Nong Khae": {
           "zipcodes": [
             "18210",
             "18220",
@@ -1268,8 +1199,7 @@
             "036"
           ]
         },
-        {
-          "cityname": "Phra Phutthabat",
+        "Phra Phutthabat": {
           "zipcodes": [
             "18260",
             "18270",
@@ -1281,13 +1211,12 @@
             "036"
           ]
         }
-      ]
+      }
     },
     "Pattani": {
       "name": "Pattani",
-      "cities": [
-        {
-          "cityname": "Pattani",
+      "cities": {
+        "Pattani": {
           "zipcodes": [
             "94000",
             "94010",
@@ -1299,8 +1228,7 @@
             "073"
           ]
         },
-        {
-          "cityname": "Yarang",
+        "Yarang": {
           "zipcodes": [
             "94110",
             "94120",
@@ -1312,8 +1240,7 @@
             "073"
           ]
         },
-        {
-          "cityname": "Mai Kaen",
+        "Mai Kaen": {
           "zipcodes": [
             "94160",
             "94170",
@@ -1325,8 +1252,7 @@
             "073"
           ]
         },
-        {
-          "cityname": "Nong Chik",
+        "Nong Chik": {
           "zipcodes": [
             "94210",
             "94220",
@@ -1338,8 +1264,7 @@
             "073"
           ]
         },
-        {
-          "cityname": "Khok Pho",
+        "Khok Pho": {
           "zipcodes": [
             "94260",
             "94270",
@@ -1351,13 +1276,12 @@
             "073"
           ]
         }
-      ]
+      }
     },
     "Trang": {
       "name": "Trang",
-      "cities": [
-        {
-          "cityname": "Trang",
+      "cities": {
+        "Trang": {
           "zipcodes": [
             "92000",
             "92010",
@@ -1369,8 +1293,7 @@
             "075"
           ]
         },
-        {
-          "cityname": "Huai Yot",
+        "Huai Yot": {
           "zipcodes": [
             "92110",
             "92120",
@@ -1382,8 +1305,7 @@
             "075"
           ]
         },
-        {
-          "cityname": "Palian",
+        "Palian": {
           "zipcodes": [
             "92160",
             "92170",
@@ -1395,8 +1317,7 @@
             "075"
           ]
         },
-        {
-          "cityname": "Khao Chaison",
+        "Khao Chaison": {
           "zipcodes": [
             "92210",
             "92220",
@@ -1408,8 +1329,7 @@
             "075"
           ]
         },
-        {
-          "cityname": "Sikao",
+        "Sikao": {
           "zipcodes": [
             "92260",
             "92270",
@@ -1421,13 +1341,12 @@
             "075"
           ]
         }
-      ]
+      }
     },
     "Lampang": {
       "name": "Lampang",
-      "cities": [
-        {
-          "cityname": "Lampang",
+      "cities": {
+        "Lampang": {
           "zipcodes": [
             "52000",
             "52010",
@@ -1439,8 +1358,7 @@
             "054"
           ]
         },
-        {
-          "cityname": "Ko Kha",
+        "Ko Kha": {
           "zipcodes": [
             "52110",
             "52120",
@@ -1452,8 +1370,7 @@
             "054"
           ]
         },
-        {
-          "cityname": "Chae Hom",
+        "Chae Hom": {
           "zipcodes": [
             "52160",
             "52170",
@@ -1465,8 +1382,7 @@
             "054"
           ]
         },
-        {
-          "cityname": "Hang Chat",
+        "Hang Chat": {
           "zipcodes": [
             "52210",
             "52220",
@@ -1478,8 +1394,7 @@
             "054"
           ]
         },
-        {
-          "cityname": "Mueang Lampang",
+        "Mueang Lampang": {
           "zipcodes": [
             "52260",
             "52270",
@@ -1491,13 +1406,12 @@
             "054"
           ]
         }
-      ]
+      }
     },
     "Nonthaburi": {
       "name": "Nonthaburi",
-      "cities": [
-        {
-          "cityname": "Nonthaburi",
+      "cities": {
+        "Nonthaburi": {
           "zipcodes": [
             "11000",
             "11010",
@@ -1509,8 +1423,7 @@
             "02"
           ]
         },
-        {
-          "cityname": "Pak Kret",
+        "Pak Kret": {
           "zipcodes": [
             "11120",
             "11130",
@@ -1522,8 +1435,7 @@
             "02"
           ]
         },
-        {
-          "cityname": "Bang Bua Thong",
+        "Bang Bua Thong": {
           "zipcodes": [
             "11110",
             "11115",
@@ -1535,8 +1447,7 @@
             "02"
           ]
         },
-        {
-          "cityname": "Sai Noi",
+        "Sai Noi": {
           "zipcodes": [
             "11130",
             "11140",
@@ -1548,8 +1459,7 @@
             "02"
           ]
         },
-        {
-          "cityname": "Bang Yai",
+        "Bang Yai": {
           "zipcodes": [
             "11180",
             "11190",
@@ -1561,13 +1471,12 @@
             "02"
           ]
         }
-      ]
+      }
     },
     "Sukhothai": {
       "name": "Sukhothai",
-      "cities": [
-        {
-          "cityname": "Sukhothai",
+      "cities": {
+        "Sukhothai": {
           "zipcodes": [
             "64000",
             "64010",
@@ -1579,8 +1488,7 @@
             "055"
           ]
         },
-        {
-          "cityname": "Si Satchanalai",
+        "Si Satchanalai": {
           "zipcodes": [
             "64110",
             "64120",
@@ -1592,8 +1500,7 @@
             "055"
           ]
         },
-        {
-          "cityname": "Tapan",
+        "Tapan": {
           "zipcodes": [
             "64160",
             "64170",
@@ -1605,8 +1512,7 @@
             "055"
           ]
         },
-        {
-          "cityname": "Khiri Mat",
+        "Khiri Mat": {
           "zipcodes": [
             "64210",
             "64220",
@@ -1618,8 +1524,7 @@
             "055"
           ]
         },
-        {
-          "cityname": "Ban Dan Lan Hoi",
+        "Ban Dan Lan Hoi": {
           "zipcodes": [
             "64260",
             "64270",
@@ -1631,13 +1536,12 @@
             "055"
           ]
         }
-      ]
+      }
     },
     "Ratchaburi": {
       "name": "Ratchaburi",
-      "cities": [
-        {
-          "cityname": "Ratchaburi",
+      "cities": {
+        "Ratchaburi": {
           "zipcodes": [
             "70000",
             "70010",
@@ -1649,8 +1553,7 @@
             "032"
           ]
         },
-        {
-          "cityname": "Ban Pong",
+        "Ban Pong": {
           "zipcodes": [
             "70110",
             "70120",
@@ -1662,8 +1565,7 @@
             "032"
           ]
         },
-        {
-          "cityname": "Chom Bueng",
+        "Chom Bueng": {
           "zipcodes": [
             "70160",
             "70170",
@@ -1675,8 +1577,7 @@
             "032"
           ]
         },
-        {
-          "cityname": "Suan Phueng",
+        "Suan Phueng": {
           "zipcodes": [
             "70210",
             "70220",
@@ -1688,8 +1589,7 @@
             "032"
           ]
         },
-        {
-          "cityname": "Pak Tho",
+        "Pak Tho": {
           "zipcodes": [
             "70260",
             "70270",
@@ -1701,7 +1601,7 @@
             "032"
           ]
         }
-      ]
+      }
     }
   },
   "citycontainers": [

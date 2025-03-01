@@ -278,9 +278,8 @@
   },
   "regions": {
     "Moscow": {
-      "cities": [
-        {
-          "cityname": "Central Administrative Okrug",
+      "cities": {
+        "Central Administrative Okrug": {
           "zipcodes": [
             "101000",
             "101010",
@@ -292,8 +291,7 @@
             "495"
           ]
         },
-        {
-          "cityname": "Western Administrative Okrug",
+        "Western Administrative Okrug": {
           "zipcodes": [
             "121000",
             "121010",
@@ -305,8 +303,7 @@
             "495"
           ]
         },
-        {
-          "cityname": "Northwestern Administrative Okrug",
+        "Northwestern Administrative Okrug": {
           "zipcodes": [
             "125000",
             "125010",
@@ -318,8 +315,7 @@
             "495"
           ]
         },
-        {
-          "cityname": "Southern Administrative Okrug",
+        "Southern Administrative Okrug": {
           "zipcodes": [
             "115000",
             "115010",
@@ -331,8 +327,7 @@
             "495"
           ]
         },
-        {
-          "cityname": "Eastern Administrative Okrug",
+        "Eastern Administrative Okrug": {
           "zipcodes": [
             "107000",
             "107010",
@@ -344,8 +339,7 @@
             "495"
           ]
         },
-        {
-          "cityname": "Northeastern Administrative Okrug",
+        "Northeastern Administrative Okrug": {
           "zipcodes": [
             "127000",
             "127010",
@@ -357,8 +351,7 @@
             "495"
           ]
         },
-        {
-          "cityname": "Southwestern Administrative Okrug",
+        "Southwestern Administrative Okrug": {
           "zipcodes": [
             "119000",
             "119010",
@@ -370,8 +363,7 @@
             "495"
           ]
         },
-        {
-          "cityname": "Zelenograd",
+        "Zelenograd": {
           "zipcodes": [
             "124000",
             "124010",
@@ -383,8 +375,7 @@
             "495"
           ]
         },
-        {
-          "cityname": "Tushino",
+        "Tushino": {
           "zipcodes": [
             "125230",
             "125240",
@@ -396,8 +387,7 @@
             "495"
           ]
         },
-        {
-          "cityname": "Kryukovo",
+        "Kryukovo": {
           "zipcodes": [
             "141700",
             "141710",
@@ -409,13 +399,12 @@
             "495"
           ]
         }
-      ],
+      },
       "name": "Moscow"
     },
     "Saint Petersburg": {
-      "cities": [
-        {
-          "cityname": "Central District",
+      "cities": {
+        "Central District": {
           "zipcodes": [
             "190000",
             "190010",
@@ -427,8 +416,7 @@
             "812"
           ]
         },
-        {
-          "cityname": "Vyborgsky District",
+        "Vyborgsky District": {
           "zipcodes": [
             "194000",
             "194010",
@@ -440,8 +428,7 @@
             "812"
           ]
         },
-        {
-          "cityname": "Kirovsky District",
+        "Kirovsky District": {
           "zipcodes": [
             "195000",
             "195010",
@@ -453,8 +440,7 @@
             "812"
           ]
         },
-        {
-          "cityname": "Petrogradsky District",
+        "Petrogradsky District": {
           "zipcodes": [
             "197000",
             "197010",
@@ -466,8 +452,7 @@
             "812"
           ]
         },
-        {
-          "cityname": "Kalinin District",
+        "Kalinin District": {
           "zipcodes": [
             "194200",
             "194210",
@@ -479,8 +464,7 @@
             "812"
           ]
         },
-        {
-          "cityname": "Frunzensky District",
+        "Frunzensky District": {
           "zipcodes": [
             "192000",
             "192010",
@@ -492,8 +476,7 @@
             "812"
           ]
         },
-        {
-          "cityname": "Nevsky District",
+        "Nevsky District": {
           "zipcodes": [
             "190000",
             "190010",
@@ -505,8 +488,7 @@
             "812"
           ]
         },
-        {
-          "cityname": "Krasnogvardeisky District",
+        "Krasnogvardeisky District": {
           "zipcodes": [
             "195000",
             "195010",
@@ -518,8 +500,7 @@
             "812"
           ]
         },
-        {
-          "cityname": "Pushkinsky District",
+        "Pushkinsky District": {
           "zipcodes": [
             "196000",
             "196010",
@@ -531,8 +512,7 @@
             "812"
           ]
         },
-        {
-          "cityname": "Petrodvortsovy District",
+        "Petrodvortsovy District": {
           "zipcodes": [
             "198000",
             "198010",
@@ -544,13 +524,12 @@
             "812"
           ]
         }
-      ],
+      },
       "name": "Saint Petersburg"
     },
     "Sevastopol": {
-      "cities": [
-        {
-          "cityname": "Sevastopol City",
+      "cities": {
+        "Sevastopol City": {
           "zipcodes": [
             "299000",
             "299001",
@@ -562,8 +541,7 @@
             "8692"
           ]
         },
-        {
-          "cityname": "Balaklava",
+        "Balaklava": {
           "zipcodes": [
             "299500",
             "299501",
@@ -575,8 +553,7 @@
             "8692"
           ]
         },
-        {
-          "cityname": "Kachinsky",
+        "Kachinsky": {
           "zipcodes": [
             "299400",
             "299401",
@@ -588,8 +565,7 @@
             "8692"
           ]
         },
-        {
-          "cityname": "Inkerman",
+        "Inkerman": {
           "zipcodes": [
             "299200",
             "299201",
@@ -601,8 +577,7 @@
             "8692"
           ]
         },
-        {
-          "cityname": "Korenovka",
+        "Korenovka": {
           "zipcodes": [
             "299100",
             "299101",
@@ -614,13 +589,12 @@
             "8692"
           ]
         }
-      ],
+      },
       "name": "Sevastopol"
     },
     "Tatarstan": {
-      "cities": [
-        {
-          "cityname": "Kazan",
+      "cities": {
+        "Kazan": {
           "zipcodes": [
             "420000",
             "420001",
@@ -632,8 +606,7 @@
             "843"
           ]
         },
-        {
-          "cityname": "Naberezhnye Chelny",
+        "Naberezhnye Chelny": {
           "zipcodes": [
             "423800",
             "423801",
@@ -645,8 +618,7 @@
             "8552"
           ]
         },
-        {
-          "cityname": "Almetyevsk",
+        "Almetyevsk": {
           "zipcodes": [
             "423400",
             "423401",
@@ -658,8 +630,7 @@
             "8553"
           ]
         },
-        {
-          "cityname": "Bugulma",
+        "Bugulma": {
           "zipcodes": [
             "423200",
             "423201",
@@ -671,8 +642,7 @@
             "8554"
           ]
         },
-        {
-          "cityname": "Zelenodolsk",
+        "Zelenodolsk": {
           "zipcodes": [
             "422500",
             "422501",
@@ -684,13 +654,12 @@
             "8555"
           ]
         }
-      ],
+      },
       "name": "Tatarstan"
     },
     "Bashkortostan": {
-      "cities": [
-        {
-          "cityname": "Ufa",
+      "cities": {
+        "Ufa": {
           "zipcodes": [
             "450000",
             "450001",
@@ -702,8 +671,7 @@
             "347"
           ]
         },
-        {
-          "cityname": "Sterlitamak",
+        "Sterlitamak": {
           "zipcodes": [
             "453100",
             "453101",
@@ -715,8 +683,7 @@
             "3473"
           ]
         },
-        {
-          "cityname": "Salavat",
+        "Salavat": {
           "zipcodes": [
             "453200",
             "453201",
@@ -728,8 +695,7 @@
             "3476"
           ]
         },
-        {
-          "cityname": "Neftekamsk",
+        "Neftekamsk": {
           "zipcodes": [
             "453300",
             "453301",
@@ -741,8 +707,7 @@
             "3475"
           ]
         },
-        {
-          "cityname": "Ishimbay",
+        "Ishimbay": {
           "zipcodes": [
             "453400",
             "453401",
@@ -754,13 +719,12 @@
             "3474"
           ]
         }
-      ],
+      },
       "name": "Bashkortostan"
     },
     "Chechnya": {
-      "cities": [
-        {
-          "cityname": "Grozny",
+      "cities": {
+        "Grozny": {
           "zipcodes": [
             "364000",
             "364001",
@@ -772,8 +736,7 @@
             "8712"
           ]
         },
-        {
-          "cityname": "Argun",
+        "Argun": {
           "zipcodes": [
             "364500",
             "364501",
@@ -785,8 +748,7 @@
             "8712"
           ]
         },
-        {
-          "cityname": "Gudermes",
+        "Gudermes": {
           "zipcodes": [
             "364600",
             "364601",
@@ -798,8 +760,7 @@
             "8712"
           ]
         },
-        {
-          "cityname": "Shelkovskaya",
+        "Shelkovskaya": {
           "zipcodes": [
             "364700",
             "364701",
@@ -811,8 +772,7 @@
             "8712"
           ]
         },
-        {
-          "cityname": "Shali",
+        "Shali": {
           "zipcodes": [
             "364800",
             "364801",
@@ -824,13 +784,12 @@
             "8712"
           ]
         }
-      ],
+      },
       "name": "Chechnya"
     },
     "Krasnoyarsk Krai": {
-      "cities": [
-        {
-          "cityname": "Krasnoyarsk",
+      "cities": {
+        "Krasnoyarsk": {
           "zipcodes": [
             "660000",
             "660001",
@@ -842,8 +801,7 @@
             "391"
           ]
         },
-        {
-          "cityname": "Norilsk",
+        "Norilsk": {
           "zipcodes": [
             "663300",
             "663301",
@@ -855,8 +813,7 @@
             "3919"
           ]
         },
-        {
-          "cityname": "Zelenogorsk",
+        "Zelenogorsk": {
           "zipcodes": [
             "663030",
             "663031",
@@ -868,8 +825,7 @@
             "3917"
           ]
         },
-        {
-          "cityname": "Divnogorsk",
+        "Divnogorsk": {
           "zipcodes": [
             "663700",
             "663701",
@@ -881,8 +837,7 @@
             "3913"
           ]
         },
-        {
-          "cityname": "Achinsk",
+        "Achinsk": {
           "zipcodes": [
             "662150",
             "662151",
@@ -894,13 +849,12 @@
             "3916"
           ]
         }
-      ],
+      },
       "name": "Krasnoyarsk Krai"
     },
     "Primorsky Krai": {
-      "cities": [
-        {
-          "cityname": "Vladivostok",
+      "cities": {
+        "Vladivostok": {
           "zipcodes": [
             "690000",
             "690001",
@@ -912,8 +866,7 @@
             "423"
           ]
         },
-        {
-          "cityname": "Artem",
+        "Artem": {
           "zipcodes": [
             "692000",
             "692001",
@@ -925,8 +878,7 @@
             "4234"
           ]
         },
-        {
-          "cityname": "Nakhodka",
+        "Nakhodka": {
           "zipcodes": [
             "692900",
             "692901",
@@ -938,8 +890,7 @@
             "4236"
           ]
         },
-        {
-          "cityname": "Ussuriysk",
+        "Ussuriysk": {
           "zipcodes": [
             "692520",
             "692521",
@@ -951,8 +902,7 @@
             "4232"
           ]
         },
-        {
-          "cityname": "Partizansk",
+        "Partizansk": {
           "zipcodes": [
             "692500",
             "692501",
@@ -964,13 +914,12 @@
             "4233"
           ]
         }
-      ],
+      },
       "name": "Primorsky Krai"
     },
     "Moscow Oblast": {
-      "cities": [
-        {
-          "cityname": "Khimki",
+      "cities": {
+        "Khimki": {
           "zipcodes": [
             "141400",
             "141401",
@@ -982,8 +931,7 @@
             "495"
           ]
         },
-        {
-          "cityname": "Korolev",
+        "Korolev": {
           "zipcodes": [
             "141070",
             "141071",
@@ -995,8 +943,7 @@
             "495"
           ]
         },
-        {
-          "cityname": "Podolsk",
+        "Podolsk": {
           "zipcodes": [
             "142100",
             "142101",
@@ -1008,8 +955,7 @@
             "4967"
           ]
         },
-        {
-          "cityname": "Lyubertsy",
+        "Lyubertsy": {
           "zipcodes": [
             "140000",
             "140001",
@@ -1021,8 +967,7 @@
             "495"
           ]
         },
-        {
-          "cityname": "Serpukhov",
+        "Serpukhov": {
           "zipcodes": [
             "142200",
             "142201",
@@ -1034,13 +979,12 @@
             "4967"
           ]
         }
-      ],
+      },
       "name": "Moscow Oblast"
     },
     "Leningrad Oblast": {
-      "cities": [
-        {
-          "cityname": "Vyborg",
+      "cities": {
+        "Vyborg": {
           "zipcodes": [
             "188800",
             "188801",
@@ -1052,8 +996,7 @@
             "81378"
           ]
         },
-        {
-          "cityname": "Gatchina",
+        "Gatchina": {
           "zipcodes": [
             "188300",
             "188301",
@@ -1065,8 +1008,7 @@
             "81371"
           ]
         },
-        {
-          "cityname": "Kirovsk",
+        "Kirovsk": {
           "zipcodes": [
             "188740",
             "188741",
@@ -1078,8 +1020,7 @@
             "81372"
           ]
         },
-        {
-          "cityname": "Tikhvin",
+        "Tikhvin": {
           "zipcodes": [
             "187550",
             "187551",
@@ -1091,8 +1032,7 @@
             "81369"
           ]
         },
-        {
-          "cityname": "Sestroretsk",
+        "Sestroretsk": {
           "zipcodes": [
             "197712",
             "197713",
@@ -1104,13 +1044,12 @@
             "81364"
           ]
         }
-      ],
+      },
       "name": "Leningrad Oblast"
     },
     "Krasnodar Krai": {
-      "cities": [
-        {
-          "cityname": "Krasnodar",
+      "cities": {
+        "Krasnodar": {
           "zipcodes": [
             "350000",
             "350001",
@@ -1122,8 +1061,7 @@
             "861"
           ]
         },
-        {
-          "cityname": "Sochi",
+        "Sochi": {
           "zipcodes": [
             "354000",
             "354001",
@@ -1135,8 +1073,7 @@
             "862"
           ]
         },
-        {
-          "cityname": "Novorossiysk",
+        "Novorossiysk": {
           "zipcodes": [
             "353900",
             "353901",
@@ -1148,8 +1085,7 @@
             "8617"
           ]
         },
-        {
-          "cityname": "Armavir",
+        "Armavir": {
           "zipcodes": [
             "352900",
             "352901",
@@ -1161,8 +1097,7 @@
             "86131"
           ]
         },
-        {
-          "cityname": "Gelendzhik",
+        "Gelendzhik": {
           "zipcodes": [
             "353460",
             "353461",
@@ -1174,13 +1109,12 @@
             "86141"
           ]
         }
-      ],
+      },
       "name": "Krasnodar Krai"
     },
     "Sverdlovsk Oblast": {
-      "cities": [
-        {
-          "cityname": "Yekaterinburg",
+      "cities": {
+        "Yekaterinburg": {
           "zipcodes": [
             "620000",
             "620001",
@@ -1192,8 +1126,7 @@
             "343"
           ]
         },
-        {
-          "cityname": "Nizhny Tagil",
+        "Nizhny Tagil": {
           "zipcodes": [
             "622000",
             "622001",
@@ -1205,8 +1138,7 @@
             "3435"
           ]
         },
-        {
-          "cityname": "Kamensk-Uralsky",
+        "Kamensk-Uralsky": {
           "zipcodes": [
             "623400",
             "623401",
@@ -1218,8 +1150,7 @@
             "3439"
           ]
         },
-        {
-          "cityname": "Pervouralsk",
+        "Pervouralsk": {
           "zipcodes": [
             "623100",
             "623101",
@@ -1231,8 +1162,7 @@
             "3436"
           ]
         },
-        {
-          "cityname": "Asbest",
+        "Asbest": {
           "zipcodes": [
             "624300",
             "624301",
@@ -1244,13 +1174,12 @@
             "34342"
           ]
         }
-      ],
+      },
       "name": "Sverdlovsk Oblast"
     },
     "Novosibirsk Oblast": {
-      "cities": [
-        {
-          "cityname": "Novosibirsk",
+      "cities": {
+        "Novosibirsk": {
           "zipcodes": [
             "630000",
             "630001",
@@ -1262,8 +1191,7 @@
             "383"
           ]
         },
-        {
-          "cityname": "Berdiansk",
+        "Berdiansk": {
           "zipcodes": [
             "632001",
             "632002",
@@ -1275,8 +1203,7 @@
             "3834"
           ]
         },
-        {
-          "cityname": "Iskitim",
+        "Iskitim": {
           "zipcodes": [
             "633100",
             "633101",
@@ -1288,8 +1215,7 @@
             "38344"
           ]
         },
-        {
-          "cityname": "Cherepanovo",
+        "Cherepanovo": {
           "zipcodes": [
             "633300",
             "633301",
@@ -1301,8 +1227,7 @@
             "38343"
           ]
         },
-        {
-          "cityname": "Kamyshin",
+        "Kamyshin": {
           "zipcodes": [
             "634000",
             "634001",
@@ -1314,13 +1239,12 @@
             "38339"
           ]
         }
-      ],
+      },
       "name": "Novosibirsk Oblast"
     },
     "Chukchi Autonomous Okrug": {
-      "cities": [
-        {
-          "cityname": "Anadyr",
+      "cities": {
+        "Anadyr": {
           "zipcodes": [
             "689000",
             "689001",
@@ -1332,8 +1256,7 @@
             "42722"
           ]
         },
-        {
-          "cityname": "Bilibino",
+        "Bilibino": {
           "zipcodes": [
             "689040",
             "689041",
@@ -1345,8 +1268,7 @@
             "42741"
           ]
         },
-        {
-          "cityname": "Pevek",
+        "Pevek": {
           "zipcodes": [
             "689250",
             "689251",
@@ -1358,8 +1280,7 @@
             "42743"
           ]
         },
-        {
-          "cityname": "Ugolnye Kopi",
+        "Ugolnye Kopi": {
           "zipcodes": [
             "689400",
             "689401",
@@ -1371,8 +1292,7 @@
             "42747"
           ]
         },
-        {
-          "cityname": "Lavrentiya",
+        "Lavrentiya": {
           "zipcodes": [
             "689600",
             "689601",
@@ -1384,13 +1304,12 @@
             "42726"
           ]
         }
-      ],
+      },
       "name": "Chukchi Autonomous Okrug"
     },
     "Yamalo-Nenets Autonomous Okrug": {
-      "cities": [
-        {
-          "cityname": "Salen",
+      "cities": {
+        "Salen": {
           "zipcodes": [
             "629000",
             "629001",
@@ -1402,8 +1321,7 @@
             "34922"
           ]
         },
-        {
-          "cityname": "Noyabrsk",
+        "Noyabrsk": {
           "zipcodes": [
             "629800",
             "629801",
@@ -1415,8 +1333,7 @@
             "34968"
           ]
         },
-        {
-          "cityname": "Novy Urengoy",
+        "Novy Urengoy": {
           "zipcodes": [
             "629300",
             "629301",
@@ -1428,8 +1345,7 @@
             "34945"
           ]
         },
-        {
-          "cityname": "Tarko-Sale",
+        "Tarko-Sale": {
           "zipcodes": [
             "629170",
             "629171",
@@ -1441,8 +1357,7 @@
             "34933"
           ]
         },
-        {
-          "cityname": "Gubkinsky",
+        "Gubkinsky": {
           "zipcodes": [
             "629320",
             "629321",
@@ -1454,13 +1369,12 @@
             "34934"
           ]
         }
-      ],
+      },
       "name": "Yamalo-Nenets Autonomous Okrug"
     },
     "Amur Oblast": {
-      "cities": [
-        {
-          "cityname": "Blagoveshchensk",
+      "cities": {
+        "Blagoveshchensk": {
           "zipcodes": [
             "675000",
             "675001",
@@ -1472,8 +1386,7 @@
             "4162"
           ]
         },
-        {
-          "cityname": "Svobodny",
+        "Svobodny": {
           "zipcodes": [
             "676000",
             "676001",
@@ -1485,8 +1398,7 @@
             "41644"
           ]
         },
-        {
-          "cityname": "Zeya",
+        "Zeya": {
           "zipcodes": [
             "676200",
             "676201",
@@ -1498,8 +1410,7 @@
             "41625"
           ]
         },
-        {
-          "cityname": "Tynda",
+        "Tynda": {
           "zipcodes": [
             "676400",
             "676401",
@@ -1511,8 +1422,7 @@
             "41636"
           ]
         },
-        {
-          "cityname": "Belogorsk",
+        "Belogorsk": {
           "zipcodes": [
             "676500",
             "676501",
@@ -1524,13 +1434,12 @@
             "41647"
           ]
         }
-      ],
+      },
       "name": "Amur Oblast"
     },
     "Arkhangelsk Oblast": {
-      "cities": [
-        {
-          "cityname": "Arkhangelsk",
+      "cities": {
+        "Arkhangelsk": {
           "zipcodes": [
             "163000",
             "163001",
@@ -1542,8 +1451,7 @@
             "8182"
           ]
         },
-        {
-          "cityname": "Severodvinsk",
+        "Severodvinsk": {
           "zipcodes": [
             "164500",
             "164501",
@@ -1555,8 +1463,7 @@
             "8184"
           ]
         },
-        {
-          "cityname": "Velsk",
+        "Velsk": {
           "zipcodes": [
             "164300",
             "164301",
@@ -1568,8 +1475,7 @@
             "81835"
           ]
         },
-        {
-          "cityname": "Solombala",
+        "Solombala": {
           "zipcodes": [
             "164100",
             "164101",
@@ -1581,8 +1487,7 @@
             "8182"
           ]
         },
-        {
-          "cityname": "Onega",
+        "Onega": {
           "zipcodes": [
             "164800",
             "164801",
@@ -1594,13 +1499,12 @@
             "81833"
           ]
         }
-      ],
+      },
       "name": "Arkhangelsk Oblast"
     },
     "Volgograd Oblast": {
-      "cities": [
-        {
-          "cityname": "Volgograd",
+      "cities": {
+        "Volgograd": {
           "zipcodes": [
             "400000",
             "400001",
@@ -1612,8 +1516,7 @@
             "8442"
           ]
         },
-        {
-          "cityname": "Kamyshin",
+        "Kamyshin": {
           "zipcodes": [
             "403870",
             "403871",
@@ -1625,8 +1528,7 @@
             "84456"
           ]
         },
-        {
-          "cityname": "Mikhaylovka",
+        "Mikhaylovka": {
           "zipcodes": [
             "403030",
             "403031",
@@ -1638,8 +1540,7 @@
             "84469"
           ]
         },
-        {
-          "cityname": "Volzhsky",
+        "Volzhsky": {
           "zipcodes": [
             "404100",
             "404101",
@@ -1651,8 +1552,7 @@
             "8445"
           ]
         },
-        {
-          "cityname": "Frolovo",
+        "Frolovo": {
           "zipcodes": [
             "403410",
             "403411",
@@ -1664,13 +1564,12 @@
             "84469"
           ]
         }
-      ],
+      },
       "name": "Volgograd Oblast"
     },
     "Sakha Republic (Yakutia)": {
-      "cities": [
-        {
-          "cityname": "Yakutsk",
+      "cities": {
+        "Yakutsk": {
           "zipcodes": [
             "677000",
             "677001",
@@ -1682,8 +1581,7 @@
             "4112"
           ]
         },
-        {
-          "cityname": "Neryungri",
+        "Neryungri": {
           "zipcodes": [
             "678000",
             "678001",
@@ -1695,8 +1593,7 @@
             "41144"
           ]
         },
-        {
-          "cityname": "Mirny",
+        "Mirny": {
           "zipcodes": [
             "678100",
             "678101",
@@ -1708,8 +1605,7 @@
             "41155"
           ]
         },
-        {
-          "cityname": "Aldan",
+        "Aldan": {
           "zipcodes": [
             "678300",
             "678301",
@@ -1721,8 +1617,7 @@
             "41141"
           ]
         },
-        {
-          "cityname": "Vilyuysk",
+        "Vilyuysk": {
           "zipcodes": [
             "678400",
             "678401",
@@ -1734,13 +1629,12 @@
             "41143"
           ]
         }
-      ],
+      },
       "name": "Sakha Republic (Yakutia)"
     },
     "Kaliningrad Oblast": {
-      "cities": [
-        {
-          "cityname": "Kaliningrad",
+      "cities": {
+        "Kaliningrad": {
           "zipcodes": [
             "236000",
             "236001",
@@ -1752,8 +1646,7 @@
             "4012"
           ]
         },
-        {
-          "cityname": "Svetlogorsk",
+        "Svetlogorsk": {
           "zipcodes": [
             "238560",
             "238561",
@@ -1765,8 +1658,7 @@
             "40140"
           ]
         },
-        {
-          "cityname": "Gusev",
+        "Gusev": {
           "zipcodes": [
             "238300",
             "238301",
@@ -1778,8 +1670,7 @@
             "40156"
           ]
         },
-        {
-          "cityname": "Baltiysk",
+        "Baltiysk": {
           "zipcodes": [
             "238520",
             "238521",
@@ -1791,8 +1682,7 @@
             "40171"
           ]
         },
-        {
-          "cityname": "Chernyakhovsk",
+        "Chernyakhovsk": {
           "zipcodes": [
             "238150",
             "238151",
@@ -1804,26 +1694,96 @@
             "40161"
           ]
         }
-      ],
+      },
       "name": "Kaliningrad Oblast"
     }
   },
-  
-  "citycontainers":[
+  "citycontainers": [
     "regions"
   ],
   "firstnames": [
-  "Alexander", "Maxim", "Ivan", "Dmitry", "Andrei", "Mikhail", "Sergey", "Vladimir", "Artem", "Nikolai",
-  "Egor", "Alexey", "Roman", "Viktor", "Oleg", "Kirill", "Yuri", "Denis", "Pavel", "Semen",
-  "Anton", "Vitaly", "Maksim", "Igor", "Timur", "Leonid", "Daniil", "Valery", "Gleb", "Stanislav",
-  "Semyon", "Vasiliy", "Yaroslav", "Fedor", "Nikita", "Alexandr", "Igor", "Roman", "Vladislav", "Konstantin",
-  "Boris", "Yegor"
-],
-"lastnames": [
-  "Ivanov", "Petrov", "Sidorov", "Smirnov", "Kuznetsov", "Popov", "Lebedev", "Semenov", "Volkov", "Morozov",
-  "Vasiliev", "Pavlov", "Mikhailov", "Fedorov", "Novikov", "Andreev", "Sergeev", "Tarasov", "Zaitsev", "Matveev",
-  "Nikolaev", "Karpov", "Dmitriev", "Ermolov", "Chernyshev", "Kozlov", "Popov", "Romanov", "Shishkin",
-  "Maksimov", "Tikhomirov", "Belyaev", "Vorobyov", "Yakovlev", "Doronin", "Kovalchuk", "Tkachenko", "Gritsanov", "Solovyov"
-]
-
+    "Alexander",
+    "Maxim",
+    "Ivan",
+    "Dmitry",
+    "Andrei",
+    "Mikhail",
+    "Sergey",
+    "Vladimir",
+    "Artem",
+    "Nikolai",
+    "Egor",
+    "Alexey",
+    "Roman",
+    "Viktor",
+    "Oleg",
+    "Kirill",
+    "Yuri",
+    "Denis",
+    "Pavel",
+    "Semen",
+    "Anton",
+    "Vitaly",
+    "Maksim",
+    "Igor",
+    "Timur",
+    "Leonid",
+    "Daniil",
+    "Valery",
+    "Gleb",
+    "Stanislav",
+    "Semyon",
+    "Vasiliy",
+    "Yaroslav",
+    "Fedor",
+    "Nikita",
+    "Alexandr",
+    "Igor",
+    "Roman",
+    "Vladislav",
+    "Konstantin",
+    "Boris",
+    "Yegor"
+  ],
+  "lastnames": [
+    "Ivanov",
+    "Petrov",
+    "Sidorov",
+    "Smirnov",
+    "Kuznetsov",
+    "Popov",
+    "Lebedev",
+    "Semenov",
+    "Volkov",
+    "Morozov",
+    "Vasiliev",
+    "Pavlov",
+    "Mikhailov",
+    "Fedorov",
+    "Novikov",
+    "Andreev",
+    "Sergeev",
+    "Tarasov",
+    "Zaitsev",
+    "Matveev",
+    "Nikolaev",
+    "Karpov",
+    "Dmitriev",
+    "Ermolov",
+    "Chernyshev",
+    "Kozlov",
+    "Popov",
+    "Romanov",
+    "Shishkin",
+    "Maksimov",
+    "Tikhomirov",
+    "Belyaev",
+    "Vorobyov",
+    "Yakovlev",
+    "Doronin",
+    "Kovalchuk",
+    "Tkachenko",
+    "Gritsanov",
+    "Solovyov"
+  ]
 }

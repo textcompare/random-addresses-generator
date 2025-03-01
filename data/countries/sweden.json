@@ -300,9 +300,8 @@
   "counties": {
     "Stockholm": {
       "name": "Stockholm",
-      "cities": [
-        {
-          "cityname": "Stockholm",
+      "cities": {
+        "Stockholm": {
           "zipcodes": [
             "10000",
             "10001",
@@ -314,8 +313,7 @@
             "08"
           ]
         },
-        {
-          "cityname": "Sundbyberg",
+        "Sundbyberg": {
           "zipcodes": [
             "17200",
             "17201",
@@ -327,8 +325,7 @@
             "08"
           ]
         },
-        {
-          "cityname": "Solna",
+        "Solna": {
           "zipcodes": [
             "16900",
             "16901",
@@ -340,8 +337,7 @@
             "08"
           ]
         },
-        {
-          "cityname": "Västerhaninge",
+        "Västerhaninge": {
           "zipcodes": [
             "13700",
             "13701",
@@ -353,8 +349,7 @@
             "08"
           ]
         },
-        {
-          "cityname": "Nacka",
+        "Nacka": {
           "zipcodes": [
             "13100",
             "13101",
@@ -366,13 +361,12 @@
             "08"
           ]
         }
-      ]
+      }
     },
     "Västra Götaland": {
       "name": "Västra Götaland",
-      "cities": [
-        {
-          "cityname": "Göteborg",
+      "cities": {
+        "Göteborg": {
           "zipcodes": [
             "40000",
             "40001",
@@ -384,8 +378,7 @@
             "031"
           ]
         },
-        {
-          "cityname": "Borås",
+        "Borås": {
           "zipcodes": [
             "50100",
             "50101",
@@ -397,8 +390,7 @@
             "033"
           ]
         },
-        {
-          "cityname": "Mölndal",
+        "Mölndal": {
           "zipcodes": [
             "43100",
             "43101",
@@ -410,8 +402,7 @@
             "031"
           ]
         },
-        {
-          "cityname": "Skövde",
+        "Skövde": {
           "zipcodes": [
             "54100",
             "54101",
@@ -423,8 +414,7 @@
             "0500"
           ]
         },
-        {
-          "cityname": "Trollhättan",
+        "Trollhättan": {
           "zipcodes": [
             "46100",
             "46101",
@@ -436,13 +426,12 @@
             "0520"
           ]
         }
-      ]
+      }
     },
     "Skåne": {
       "name": "Skåne",
-      "cities": [
-        {
-          "cityname": "Malmö",
+      "cities": {
+        "Malmö": {
           "zipcodes": [
             "21100",
             "21101",
@@ -454,8 +443,7 @@
             "040"
           ]
         },
-        {
-          "cityname": "Helsingborg",
+        "Helsingborg": {
           "zipcodes": [
             "25100",
             "25101",
@@ -467,8 +455,7 @@
             "042"
           ]
         },
-        {
-          "cityname": "Lund",
+        "Lund": {
           "zipcodes": [
             "22100",
             "22101",
@@ -480,8 +467,7 @@
             "046"
           ]
         },
-        {
-          "cityname": "Kristianstad",
+        "Kristianstad": {
           "zipcodes": [
             "29100",
             "29101",
@@ -493,8 +479,7 @@
             "044"
           ]
         },
-        {
-          "cityname": "Trelleborg",
+        "Trelleborg": {
           "zipcodes": [
             "23100",
             "23101",
@@ -506,13 +491,12 @@
             "0410"
           ]
         }
-      ]
+      }
     },
     "Östergötland": {
       "name": "Östergötland",
-      "cities": [
-        {
-          "cityname": "Linköping",
+      "cities": {
+        "Linköping": {
           "zipcodes": [
             "58100",
             "58101",
@@ -524,8 +508,7 @@
             "013"
           ]
         },
-        {
-          "cityname": "Norrköping",
+        "Norrköping": {
           "zipcodes": [
             "60200",
             "60201",
@@ -537,8 +520,7 @@
             "011"
           ]
         },
-        {
-          "cityname": "Finspång",
+        "Finspång": {
           "zipcodes": [
             "61200",
             "61201",
@@ -550,8 +532,7 @@
             "012"
           ]
         },
-        {
-          "cityname": "Motala",
+        "Motala": {
           "zipcodes": [
             "59100",
             "59101",
@@ -563,8 +544,7 @@
             "0141"
           ]
         },
-        {
-          "cityname": "Kinda",
+        "Kinda": {
           "zipcodes": [
             "59000",
             "59001",
@@ -576,13 +556,12 @@
             "0144"
           ]
         }
-      ]
+      }
     },
     "Halland": {
       "name": "Halland",
-      "cities": [
-        {
-          "cityname": "Halmstad",
+      "cities": {
+        "Halmstad": {
           "zipcodes": [
             "30100",
             "30101",
@@ -594,8 +573,7 @@
             "035"
           ]
         },
-        {
-          "cityname": "Varberg",
+        "Varberg": {
           "zipcodes": [
             "43200",
             "43201",
@@ -607,8 +585,7 @@
             "0340"
           ]
         },
-        {
-          "cityname": "Kungsbacka",
+        "Kungsbacka": {
           "zipcodes": [
             "43400",
             "43401",
@@ -620,8 +597,7 @@
             "0300"
           ]
         },
-        {
-          "cityname": "Laholm",
+        "Laholm": {
           "zipcodes": [
             "31200",
             "31201",
@@ -633,8 +609,7 @@
             "0430"
           ]
         },
-        {
-          "cityname": "Falkenberg",
+        "Falkenberg": {
           "zipcodes": [
             "31100",
             "31101",
@@ -646,13 +621,12 @@
             "0346"
           ]
         }
-      ]
+      }
     },
     "Uppsala": {
       "name": "Uppsala",
-      "cities": [
-        {
-          "cityname": "Uppsala",
+      "cities": {
+        "Uppsala": {
           "zipcodes": [
             "75100",
             "75101",
@@ -664,8 +638,7 @@
             "018"
           ]
         },
-        {
-          "cityname": "Tierp",
+        "Tierp": {
           "zipcodes": [
             "81500",
             "81501",
@@ -677,8 +650,7 @@
             "0293"
           ]
         },
-        {
-          "cityname": "Enköping",
+        "Enköping": {
           "zipcodes": [
             "74900",
             "74901",
@@ -690,8 +662,7 @@
             "0171"
           ]
         },
-        {
-          "cityname": "Håbo",
+        "Håbo": {
           "zipcodes": [
             "74600",
             "74601",
@@ -703,8 +674,7 @@
             "0173"
           ]
         },
-        {
-          "cityname": "Knivsta",
+        "Knivsta": {
           "zipcodes": [
             "74100",
             "74101",
@@ -716,13 +686,12 @@
             "018"
           ]
         }
-      ]
+      }
     },
     "Värmland": {
       "name": "Värmland",
-      "cities": [
-        {
-          "cityname": "Karlstad",
+      "cities": {
+        "Karlstad": {
           "zipcodes": [
             "65200",
             "65201",
@@ -734,8 +703,7 @@
             "054"
           ]
         },
-        {
-          "cityname": "Arvika",
+        "Arvika": {
           "zipcodes": [
             "67100",
             "67101",
@@ -747,8 +715,7 @@
             "0570"
           ]
         },
-        {
-          "cityname": "Torsby",
+        "Torsby": {
           "zipcodes": [
             "68500",
             "68501",
@@ -760,8 +727,7 @@
             "0560"
           ]
         },
-        {
-          "cityname": "Sunne",
+        "Sunne": {
           "zipcodes": [
             "68600",
             "68601",
@@ -773,8 +739,7 @@
             "0565"
           ]
         },
-        {
-          "cityname": "Årjäng",
+        "Årjäng": {
           "zipcodes": [
             "67200",
             "67201",
@@ -786,13 +751,12 @@
             "0573"
           ]
         }
-      ]
+      }
     },
     "Jönköping": {
       "name": "Jönköping",
-      "cities": [
-        {
-          "cityname": "Jönköping",
+      "cities": {
+        "Jönköping": {
           "zipcodes": [
             "55100",
             "55101",
@@ -804,8 +768,7 @@
             "036"
           ]
         },
-        {
-          "cityname": "Värnamo",
+        "Värnamo": {
           "zipcodes": [
             "33100",
             "33101",
@@ -817,8 +780,7 @@
             "0370"
           ]
         },
-        {
-          "cityname": "Nässjö",
+        "Nässjö": {
           "zipcodes": [
             "57100",
             "57101",
@@ -830,8 +792,7 @@
             "0380"
           ]
         },
-        {
-          "cityname": "Gislaved",
+        "Gislaved": {
           "zipcodes": [
             "33200",
             "33201",
@@ -843,8 +804,7 @@
             "0371"
           ]
         },
-        {
-          "cityname": "Eksjö",
+        "Eksjö": {
           "zipcodes": [
             "57500",
             "57501",
@@ -856,13 +816,12 @@
             "0381"
           ]
         }
-      ]
+      }
     },
     "Södermanland": {
       "name": "Södermanland",
-      "cities": [
-        {
-          "cityname": "Nyköping",
+      "cities": {
+        "Nyköping": {
           "zipcodes": [
             "61100",
             "61101",
@@ -874,8 +833,7 @@
             "0155"
           ]
         },
-        {
-          "cityname": "Södertälje",
+        "Södertälje": {
           "zipcodes": [
             "15100",
             "15101",
@@ -887,8 +845,7 @@
             "08"
           ]
         },
-        {
-          "cityname": "Eskilstuna",
+        "Eskilstuna": {
           "zipcodes": [
             "63200",
             "63201",
@@ -900,8 +857,7 @@
             "016"
           ]
         },
-        {
-          "cityname": "Strängnäs",
+        "Strängnäs": {
           "zipcodes": [
             "64500",
             "64501",
@@ -913,8 +869,7 @@
             "0152"
           ]
         },
-        {
-          "cityname": "Flen",
+        "Flen": {
           "zipcodes": [
             "64000",
             "64001",
@@ -926,13 +881,12 @@
             "0157"
           ]
         }
-      ]
+      }
     },
     "Norrbotten": {
       "name": "Norrbotten",
-      "cities": [
-        {
-          "cityname": "Luleå",
+      "cities": {
+        "Luleå": {
           "zipcodes": [
             "97100",
             "97101",
@@ -944,8 +898,7 @@
             "0920"
           ]
         },
-        {
-          "cityname": "Piteå",
+        "Piteå": {
           "zipcodes": [
             "94100",
             "94101",
@@ -957,8 +910,7 @@
             "0911"
           ]
         },
-        {
-          "cityname": "Kiruna",
+        "Kiruna": {
           "zipcodes": [
             "98100",
             "98101",
@@ -970,8 +922,7 @@
             "0980"
           ]
         },
-        {
-          "cityname": "Gällivare",
+        "Gällivare": {
           "zipcodes": [
             "98200",
             "98201",
@@ -983,8 +934,7 @@
             "0970"
           ]
         },
-        {
-          "cityname": "Haparanda",
+        "Haparanda": {
           "zipcodes": [
             "95300",
             "95301",
@@ -996,13 +946,12 @@
             "0922"
           ]
         }
-      ]
+      }
     },
     "Kronoberg": {
       "name": "Kronoberg",
-      "cities": [
-        {
-          "cityname": "Växjö",
+      "cities": {
+        "Växjö": {
           "zipcodes": [
             "35200",
             "35201",
@@ -1014,8 +963,7 @@
             "0470"
           ]
         },
-        {
-          "cityname": "Ljungby",
+        "Ljungby": {
           "zipcodes": [
             "34100",
             "34101",
@@ -1027,8 +975,7 @@
             "0372"
           ]
         },
-        {
-          "cityname": "Alvesta",
+        "Alvesta": {
           "zipcodes": [
             "34200",
             "34201",
@@ -1040,8 +987,7 @@
             "0472"
           ]
         },
-        {
-          "cityname": "Tingsryd",
+        "Tingsryd": {
           "zipcodes": [
             "36200",
             "36201",
@@ -1053,8 +999,7 @@
             "0477"
           ]
         },
-        {
-          "cityname": "Älmhult",
+        "Älmhult": {
           "zipcodes": [
             "34300",
             "34301",
@@ -1066,13 +1011,12 @@
             "0479"
           ]
         }
-      ]
+      }
     },
     "Västmanland": {
       "name": "Västmanland",
-      "cities": [
-        {
-          "cityname": "Västerås",
+      "cities": {
+        "Västerås": {
           "zipcodes": [
             "72100",
             "72101",
@@ -1084,8 +1028,7 @@
             "021"
           ]
         },
-        {
-          "cityname": "Kungsör",
+        "Kungsör": {
           "zipcodes": [
             "73100",
             "73101",
@@ -1097,8 +1040,7 @@
             "0227"
           ]
         },
-        {
-          "cityname": "Sala",
+        "Sala": {
           "zipcodes": [
             "73300",
             "73301",
@@ -1110,8 +1052,7 @@
             "0224"
           ]
         },
-        {
-          "cityname": "Fagersta",
+        "Fagersta": {
           "zipcodes": [
             "73700",
             "73701",
@@ -1123,8 +1064,7 @@
             "0223"
           ]
         },
-        {
-          "cityname": "Hallstahammar",
+        "Hallstahammar": {
           "zipcodes": [
             "73400",
             "73401",
@@ -1136,13 +1076,12 @@
             "0220"
           ]
         }
-      ]
+      }
     },
     "Blekinge": {
       "name": "Blekinge",
-      "cities": [
-        {
-          "cityname": "Karlskrona",
+      "cities": {
+        "Karlskrona": {
           "zipcodes": [
             "37100",
             "37101",
@@ -1154,8 +1093,7 @@
             "0455"
           ]
         },
-        {
-          "cityname": "Ronneby",
+        "Ronneby": {
           "zipcodes": [
             "37200",
             "37201",
@@ -1167,8 +1105,7 @@
             "0457"
           ]
         },
-        {
-          "cityname": "Karlshamn",
+        "Karlshamn": {
           "zipcodes": [
             "37400",
             "37401",
@@ -1180,8 +1117,7 @@
             "0454"
           ]
         },
-        {
-          "cityname": "Olofström",
+        "Olofström": {
           "zipcodes": [
             "29300",
             "29301",
@@ -1193,8 +1129,7 @@
             "0454"
           ]
         },
-        {
-          "cityname": "Sölvesborg",
+        "Sölvesborg": {
           "zipcodes": [
             "29400",
             "29401",
@@ -1206,13 +1141,12 @@
             "0456"
           ]
         }
-      ]
+      }
     },
     "Dalarna": {
       "name": "Dalarna",
-      "cities": [
-        {
-          "cityname": "Falun",
+      "cities": {
+        "Falun": {
           "zipcodes": [
             "79100",
             "79101",
@@ -1224,8 +1158,7 @@
             "023"
           ]
         },
-        {
-          "cityname": "Borlänge",
+        "Borlänge": {
           "zipcodes": [
             "78100",
             "78101",
@@ -1237,8 +1170,7 @@
             "0243"
           ]
         },
-        {
-          "cityname": "Leksand",
+        "Leksand": {
           "zipcodes": [
             "79300",
             "79301",
@@ -1250,8 +1182,7 @@
             "0247"
           ]
         },
-        {
-          "cityname": "Rättvik",
+        "Rättvik": {
           "zipcodes": [
             "79500",
             "79501",
@@ -1263,8 +1194,7 @@
             "0248"
           ]
         },
-        {
-          "cityname": "Mora",
+        "Mora": {
           "zipcodes": [
             "79200",
             "79201",
@@ -1276,13 +1206,12 @@
             "0250"
           ]
         }
-      ]
+      }
     },
     "Gävleborg": {
       "name": "Gävleborg",
-      "cities": [
-        {
-          "cityname": "Gävle",
+      "cities": {
+        "Gävle": {
           "zipcodes": [
             "80100",
             "80101",
@@ -1294,8 +1223,7 @@
             "026"
           ]
         },
-        {
-          "cityname": "Hudiksvall",
+        "Hudiksvall": {
           "zipcodes": [
             "82400",
             "82401",
@@ -1307,8 +1235,7 @@
             "0650"
           ]
         },
-        {
-          "cityname": "Bollnäs",
+        "Bollnäs": {
           "zipcodes": [
             "82100",
             "82101",
@@ -1320,8 +1247,7 @@
             "0278"
           ]
         },
-        {
-          "cityname": "Ljusdal",
+        "Ljusdal": {
           "zipcodes": [
             "82700",
             "82701",
@@ -1333,8 +1259,7 @@
             "0651"
           ]
         },
-        {
-          "cityname": "Sundsvall",
+        "Sundsvall": {
           "zipcodes": [
             "85100",
             "85101",
@@ -1346,7 +1271,7 @@
             "060"
           ]
         }
-      ]
+      }
     },
     "citycontainers": [
       "counties"

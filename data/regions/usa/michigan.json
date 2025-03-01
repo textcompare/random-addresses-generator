@@ -1,1046 +1,957 @@
 {
-    "name": "Michigan",
-    "capital": "Lansing",
-    "cities": [
-        {
-            "cityname": "Adrian",
-            "zipcodes": [
-                "49221"
-            ],
-            "areacodes": [
-                "517"
-            ]
-        },
-        {
-            "cityname": "Albion",
-            "zipcodes": [
-                "49224"
-            ],
-            "areacodes": [
-                "517"
-            ]
-        },
-        {
-            "cityname": "Allegan",
-            "zipcodes": [
-                "49010"
-            ],
-            "areacodes": [
-                "269"
-            ]
-        },
-        {
-            "cityname": "Allen Park",
-            "zipcodes": [
-                "48101"
-            ],
-            "areacodes": [
-                "313"
-            ]
-        },
-        {
-            "cityname": "Alma",
-            "zipcodes": [
-                "48801",
-                "48802"
-            ],
-            "areacodes": [
-                "989"
-            ]
-        },
-        {
-            "cityname": "Alpena",
-            "zipcodes": [
-                "49707"
-            ],
-            "areacodes": [
-                "989"
-            ]
-        },
-        {
-            "cityname": "Ann Arbor",
-            "zipcodes": [
-                "48103",
-                "48104",
-                "48105",
-                "48106",
-                "48107",
-                "48108",
-                "48109",
-                "48113"
-            ],
-            "areacodes": [
-                "734"
-            ]
-        },
-        {
-            "cityname": "Battle Creek",
-            "zipcodes": [
-                "49014",
-                "49015",
-                "49016",
-                "49017",
-                "49018",
-                "49037"
-            ],
-            "areacodes": [
-                "269"
-            ]
-        },
-        {
-            "cityname": "Bay City",
-            "zipcodes": [
-                "48706",
-                "48707",
-                "48708"
-            ],
-            "areacodes": [
-                "989"
-            ]
-        },
-        {
-            "cityname": "Benton Harbor",
-            "zipcodes": [
-            "49022",
-            "49023"
-            ],
-            "areacodes": [
-            "269"
-            ]
-        },
-        {
-            "cityname": "Berkley",
-            "zipcodes": [
-            "48072"
-            ],
-            "areacodes": [
-            "248"
-            ]
-        },
-        {
-            "cityname": "Beverly Hills",
-            "zipcodes": [
-            "48025"
-            ],
-            "areacodes": [
-            "248"
-            ]
-        },
-        {
-            "cityname": "Big Rapids",
-            "zipcodes": [
-            "49307"
-            ],
-            "areacodes": [
-            "231"
-            ]
-        },
-        {
-            "cityname": "Birmingham",
-            "zipcodes": [
-            "48009",
-            "48012"
-            ],
-            "areacodes": [
-            "248"
-            ]
-        },
-        {
-            "cityname": "Boyne City",
-            "zipcodes": [
-            "49712"
-            ],
-            "areacodes": [
-            "231"
-            ]
-        },
-        {
-            "cityname": "Brighton",
-            "zipcodes": [
-            "48114",
-            "48116"
-            ],
-            "areacodes": [
-            "810"
-            ]
-        },
-        {
-            "cityname": "Cadillac",
-            "zipcodes": [
-            "49601"
-            ],
-            "areacodes": [
-            "231"
-            ]
-        },
-        {
-            "cityname": "Canton",
-            "zipcodes": [
-            "48187",
-            "48188"
-            ],
-            "areacodes": [
-            "734"
-            ]
-        },
-        {
-            "cityname": "Charlotte",
-            "zipcodes": [
-            "48813"
-            ],
-            "areacodes": [
-            "517"
-            ]
-        },
-        {
-            "cityname": "Cheboygan",
-            "zipcodes": [
-            "49721"
-            ],
-            "areacodes": [
-            "231"
-            ]
-        },
-        {
-            "cityname": "Clawson",
-            "zipcodes": [
-            "48017"
-            ],
-            "areacodes": [
-            "248"
-            ]
-        },
-        {
-            "cityname": "Coldwater",
-            "zipcodes": [
-            "49036"
-            ],
-            "areacodes": [
-            "517"
-            ]
-        },
-        {
-            "cityname": "Dearborn",
-            "zipcodes": [
-            "48120",
-            "48121",
-            "48123",
-            "48124",
-            "48126",
-            "48128"
-            ],
-            "areacodes": [
-            "313"
-            ]
-        },
-        {
-            "cityname": "Dearborn Heights",
-            "zipcodes": [
-            "48125",
-            "48127"
-            ],
-            "areacodes": [
-            "313"
-            ]
-        },
-        {
-            "cityname": "Detroit",
-            "zipcodes": [
-            "48201",
-            "48202",
-            "48203",
-            "48204",
-            "48205",
-            "48206",
-            "48207",
-            "48208",
-            "48209",
-            "48210",
-            "48211",
-            "48212",
-            "48213",
-            "48214",
-            "48215",
-            "48216",
-            "48217",
-            "48218",
-            "48219",
-            "48220",
-            "48221",
-            "48222",
-            "48223",
-            "48224",
-            "48225",
-            "48226",
-            "48227",
-            "48228",
-            "48229",
-            "48230",
-            "48231",
-            "48232",
-            "48233",
-            "48234",
-            "48235",
-            "48236",
-            "48237",
-            "48238",
-            "48239",
-            "48240",
-            "48242",
-            "48243",
-            "48244"
-            ],
-            "areacodes": [
-            "313"
-            ]
-        },
-        {
-            "cityname": "East Lansing",
-            "zipcodes": [
-            "48823",
-            "48824",
-            "48825",
-            "48826"
-            ],
-            "areacodes": [
-            "517"
-            ]
-        },
-        {
-            "cityname": "Eastpointe",
-            "zipcodes": [
-            "48021"
-            ],
-            "areacodes": [
-            "586"
-            ]
-        },
-        {
-            "cityname": "Ecorse",
-            "zipcodes": [
-            "48229"
-            ],
-            "areacodes": [
-            "313"
-            ]
-        },
-        {
-            "cityname": "Escanaba",
-            "zipcodes": [
-            "49829"
-            ],
-            "areacodes": [
-            "906"
-            ]
-        },
-        {
-            "cityname": "Farmington",
-            "zipcodes": [
-            "48331",
-            "48332",
-            "48333",
-            "48334",
-            "48335",
-            "48336"
-            ],
-            "areacodes": [
-            "248"
-            ]
-        },
-        {
-            "cityname": "Ferndale",
-            "zipcodes": [
-            "48220"
-            ],
-            "areacodes": [
-            "248"
-            ]
-        },
-        {
-            "cityname": "Flint",
-            "zipcodes": [
-            "48501",
-            "48502",
-            "48503",
-            "48504",
-            "48505",
-            "48506",
-            "48507",
-            "48509",
-            "48519",
-            "48529",
-            "48531",
-            "48532",
-            "48550",
-            "48551",
-            "48552",
-            "48553",
-            "48554",
-            "48555",
-            "48556",
-            "48557",
-            "48559"
-            ],
-            "areacodes": [
-            "810"
-            ]
-        },
-        {
-            "cityname": "Garden City",
-            "zipcodes": [
-            "48135",
-            "48136"
-            ],
-            "areacodes": [
-            "734"
-            ]
-        },
-        {
-            "cityname": "Grand Blanc",
-            "zipcodes": [
-            "48439",
-            "48480"
-            ],
-            "areacodes": [
-            "810"
-            ]
-        },
-        {
-            "cityname": "Grand Haven",
-            "zipcodes": [
-            "49417"
-            ],
-            "areacodes": [
-            "616"
-            ]
-        },
-        {
-            "cityname": "Grand Rapids",
-            "zipcodes": [
-            "49501",
-            "49502",
-            "49503",
-            "49504",
-            "49505",
-            "49506",
-            "49507",
-            "49508",
-            "49509",
-            "49510",
-            "49512",
-            "49514",
-            "49515",
-            "49516",
-            "49518",
-            "49519",
-            "49523",
-            "49525",
-            "49528",
-            "49530",
-            "49534",
-            "49544",
-            "49546",
-            "49548",
-            "49555",
-            "49560",
-            "49588",
-            "49599"
-            ],
-            "areacodes": [
-            "616"
-            ]
-        },
-        {
-            "cityname": "Grosse Pointe",
-            "zipcodes": [
-            "48230",
-            "48236"
-            ],
-            "areacodes": [
-            "313"
-            ]
-        },
-        {
-            "cityname": "Hamtramck",
-            "zipcodes": [
-            "48212"
-            ],
-            "areacodes": [
-            "313"
-            ]
-        },
-        {
-            "cityname": "Harper Woods",
-            "zipcodes": [
-            "48225"
-            ],
-            "areacodes": [
-            "313"
-            ]
-        },
-        {
-            "cityname": "Harrison",
-            "zipcodes": [
-            "48625"
-            ],
-            "areacodes": [
-            "989"
-            ]
-        },
-        {
-            "cityname": "Hazel Park",
-            "zipcodes": [
-            "48030"
-            ],
-            "areacodes": [
-            "248"
-            ]
-        },
-        {
-            "cityname": "Highland Park",
-            "zipcodes": [
-            "48203"
-            ],
-            "areacodes": [
-            "313"
-            ]
-        },
-        {
-            "cityname": "Holland",
-            "zipcodes": [
-            "49422",
-            "49423",
-            "49424"
-            ],
-            "areacodes": [
-            "616"
-            ]
-        },
-        {
-            "cityname": "Howell",
-            "zipcodes": [
-            "48843",
-            "48844",
-            "48855"
-            ],
-            "areacodes": [
-            "517"
-            ]
-        },
-        {
-            "cityname": "Inkster",
-            "zipcodes": [
-            "48141"
-            ],
-            "areacodes": [
-            "313"
-            ]
-        },
-        {
-            "cityname": "Ionia",
-            "zipcodes": [
-            "48846"
-            ],
-            "areacodes": [
-            "616"
-            ]
-        },
-        {
-            "cityname": "Iron Mountain",
-            "zipcodes": [
-            "49801"
-            ],
-            "areacodes": [
-            "906"
-            ]
-        },
-        {
-            "cityname": "Ironwood",
-            "zipcodes": [
-            "49938"
-            ],
-            "areacodes": [
-            "906"
-            ]
-        },
-        {
-            "cityname": "Ishpeming",
-            "zipcodes": [
-            "49849"
-            ],
-            "areacodes": [
-            "906"
-            ]
-        },
-        {
-            "cityname": "Jackson",
-            "zipcodes": [
-            "49201",
-            "49202",
-            "49203",
-            "49204"
-            ],
-            "areacodes": [
-            "517"
-            ]
-        },
-        {
-            "cityname": "Kalamazoo",
-            "zipcodes": [
-            "49001",
-            "49002",
-            "49003",
-            "49004",
-            "49005",
-            "49006",
-            "49007",
-            "49008",
-            "49009",
-            "49019"
-            ],
-            "areacodes": [
-            "269"
-            ]
-        },
-        {
-            "cityname": "Kentwood",
-            "zipcodes": [
-            "49508",
-            "49512",
-            "49548"
-            ],
-            "areacodes": [
-            "616"
-            ]
-        },
-        {
-            "cityname": "Lansing",
-            "zipcodes": [
-            "48901",
-            "48906",
-            "48908",
-            "48909",
-            "48910",
-            "48911",
-            "48912",
-            "48913",
-            "48915",
-            "48916",
-            "48917",
-            "48918",
-            "48919",
-            "48921",
-            "48922",
-            "48924",
-            "48929",
-            "48930",
-            "48933",
-            "48937",
-            "48950",
-            "48951",
-            "48956",
-            "48980"
-            ],
-            "areacodes": [
-            "517"
-            ]
-        },
-        {
-            "cityname": "Lincoln Park",
-            "zipcodes": [
-            "48146"
-            ],
-            "areacodes": [
-            "313"
-            ]
-        },
-        {
-            "cityname": "Livonia",
-            "zipcodes": [
-            "48150",
-            "48151",
-            "48152",
-            "48153",
-            "48154"
-            ],
-            "areacodes": [
-            "734"
-            ]
-        },
-        {
-            "cityname": "Madison Heights",
-            "zipcodes": [
-            "48071"
-            ],
-            "areacodes": [
-            "248"
-            ]
-        },
-        {
-            "cityname": "Marquette",
-            "zipcodes": [
-            "49855"
-            ],
-            "areacodes": [
-            "906"
-            ]
-        },
-        {
-            "cityname": "Midland",
-            "zipcodes": [
-            "48640",
-            "48641",
-            "48642",
-            "48667",
-            "48670",
-            "48674",
-            "48686"
-            ],
-            "areacodes": [
-            "989"
-            ]
-        },
-        {
-            "cityname": "Monroe",
-            "zipcodes": [
-            "48161",
-            "48162"
-            ],
-            "areacodes": [
-            "734"
-            ]
-        },
-        {
-            "cityname": "Mount Clemens",
-            "zipcodes": [
-            "48043",
-            "48046"
-            ],
-            "areacodes": [
-            "586"
-            ]
-        },
-        {
-            "cityname": "Mount Pleasant",
-            "zipcodes": [
-            "48804",
-            "48858",
-            "48859"
-            ],
-            "areacodes": [
-            "989"
-            ]
-        },
-        {
-            "cityname": "Muskegon",
-            "zipcodes": [
-            "49440",
-            "49441",
-            "49442",
-            "49443",
-            "49444",
-            "49445"
-            ],
-            "areacodes": [
-            "231"
-            ]
-        },
-        {
-            "cityname": "Niles",
-            "zipcodes": [
-            "49120",
-            "49121"
-            ],
-            "areacodes": [
-            "269"
-            ]
-        },
-        {
-            "cityname": "Novi",
-            "zipcodes": [
-            "48374",
-            "48375",
-            "48376",
-            "48377"
-            ],
-            "areacodes": [
-            "248"
-            ]
-        },
-        {
-            "cityname": "Oak Park",
-            "zipcodes": [
-            "48237"
-            ],
-            "areacodes": [
-            "248"
-            ]
-        },
-        {
-            "cityname": "Owosso",
-            "zipcodes": [
-            "48867"
-            ],
-            "areacodes": [
-            "989"
-            ]
-        },
-        {
-            "cityname": "Pontiac",
-            "zipcodes": [
-            "48340",
-            "48341",
-            "48342",
-            "48343"
-            ],
-            "areacodes": [
-            "248"
-            ]
-        },
-        {
-            "cityname": "Port Huron",
-            "zipcodes": [
-            "48060",
-            "48061"
-            ],
-            "areacodes": [
-            "810"
-            ]
-        },
-        {
-            "cityname": "Portage",
-            "zipcodes": [
-            "49002",
-            "49024",
-            "49081"
-            ],
-            "areacodes": [
-            "269"
-            ]
-        },
-        {
-            "cityname": "Redford",
-            "zipcodes": [
-            "48239",
-            "48240"
-            ],
-            "areacodes": [
-            "313"
-            ]
-        },
-        {
-            "cityname": "Rochester Hills",
-            "zipcodes": [
-            "48306",
-            "48307",
-            "48309"
-            ],
-            "areacodes": [
-            "248"
-            ]
-        },
-        {
-            "cityname": "Romulus",
-            "zipcodes": [
-            "48174"
-            ],
-            "areacodes": [
-            "734"
-            ]
-        },
-        {
-            "cityname": "Roseville",
-            "zipcodes": [
-            "48066"
-            ],
-            "areacodes": [
-            "586"
-            ]
-        },
-        {
-            "cityname": "Royal Oak",
-            "zipcodes": [
-            "48067",
-            "48068",
-            "48073"
-            ],
-            "areacodes": [
-            "248"
-            ]
-        },
-        {
-            "cityname": "Saginaw",
-            "zipcodes": [
-            "48601",
-            "48602",
-            "48603",
-            "48604",
-            "48605",
-            "48606",
-            "48607",
-            "48608",
-            "48609",
-            "48638"
-            ],
-            "areacodes": [
-            "989"
-            ]
-        },
-        {
-            "cityname": "Saint Clair Shores",
-            "zipcodes": [
-            "48080",
-            "48081",
-            "48082"
-            ],
-            "areacodes": [
-            "586"
-            ]
-        },
-        {
-            "cityname": "Saint Joseph",
-            "zipcodes": [
-            "49085"
-            ],
-            "areacodes": [
-            "269"
-            ]
-        },
-        {
-            "cityname": "Southfield",
-            "zipcodes": [
-            "48033",
-            "48034",
-            "48037",
-            "48075",
-            "48076",
-            "48086"
-            ],
-            "areacodes": [
-            "248"
-            ]
-        },
-        {
-            "cityname": "Southgate",
-            "zipcodes": [
-            "48195"
-            ],
-            "areacodes": [
-            "734"
-            ]
-        },
-        {
-            "cityname": "Sterling Heights",
-            "zipcodes": [
-            "48310",
-            "48311",
-            "48312",
-            "48313",
-            "48314"
-            ],
-            "areacodes": [
-            "586"
-            ]
-        },
-        {
-            "cityname": "Taylor",
-            "zipcodes": [
-            "48180"
-            ],
-            "areacodes": [
-            "734"
-            ]
-        },
-        {
-            "cityname": "Traverse City",
-            "zipcodes": [
-            "49684",
-            "49685",
-            "49686",
-            "49696"
-            ],
-            "areacodes": [
-            "231"
-            ]
-        },
-        {
-            "cityname": "Troy",
-            "zipcodes": [
-            "48007",
-            "48083",
-            "48084",
-            "48085",
-            "48098",
-            "48099"
-            ],
-            "areacodes": [
-            "248"
-            ]
-        },
-        {
-            "cityname": "Warren",
-            "zipcodes": [
-            "48088",
-            "48089",
-            "48090",
-            "48091",
-            "48092",
-            "48093",
-            "48397"
-            ],
-            "areacodes": [
-            "586"
-            ]
-        },
-        {
-            "cityname": "Waterford",
-            "zipcodes": [
-            "48327",
-            "48328",
-            "48329"
-            ],
-            "areacodes": [
-            "248"
-            ]
-        },
-        {
-            "cityname": "Westland",
-            "zipcodes": [
-            "48185",
-            "48186"
-            ],
-            "areacodes": [
-            "734"
-            ]
-        },
-        {
-            "cityname": "Wyandotte",
-            "zipcodes": [
-            "48192"
-            ],
-            "areacodes": [
-            "734"
-            ]
-        },
-        {
-            "cityname": "Wyoming",
-            "zipcodes": [
-            "49509",
-            "49519"
-            ],
-            "areacodes": [
-            "616"
-            ]
-        },
-        {
-            "cityname": "Ypsilanti",
-            "zipcodes": [
-            "48197",
-            "48198"
-            ],
-            "areacodes": [
-            "734"
-            ]
-        }
-    ]
+  "name": "Michigan",
+  "capital": "Lansing",
+  "cities": {
+    "Adrian": {
+      "zipcodes": [
+        "49221"
+      ],
+      "areacodes": [
+        "517"
+      ]
+    },
+    "Albion": {
+      "zipcodes": [
+        "49224"
+      ],
+      "areacodes": [
+        "517"
+      ]
+    },
+    "Allegan": {
+      "zipcodes": [
+        "49010"
+      ],
+      "areacodes": [
+        "269"
+      ]
+    },
+    "Allen Park": {
+      "zipcodes": [
+        "48101"
+      ],
+      "areacodes": [
+        "313"
+      ]
+    },
+    "Alma": {
+      "zipcodes": [
+        "48801",
+        "48802"
+      ],
+      "areacodes": [
+        "989"
+      ]
+    },
+    "Alpena": {
+      "zipcodes": [
+        "49707"
+      ],
+      "areacodes": [
+        "989"
+      ]
+    },
+    "Ann Arbor": {
+      "zipcodes": [
+        "48103",
+        "48104",
+        "48105",
+        "48106",
+        "48107",
+        "48108",
+        "48109",
+        "48113"
+      ],
+      "areacodes": [
+        "734"
+      ]
+    },
+    "Battle Creek": {
+      "zipcodes": [
+        "49014",
+        "49015",
+        "49016",
+        "49017",
+        "49018",
+        "49037"
+      ],
+      "areacodes": [
+        "269"
+      ]
+    },
+    "Bay City": {
+      "zipcodes": [
+        "48706",
+        "48707",
+        "48708"
+      ],
+      "areacodes": [
+        "989"
+      ]
+    },
+    "Benton Harbor": {
+      "zipcodes": [
+        "49022",
+        "49023"
+      ],
+      "areacodes": [
+        "269"
+      ]
+    },
+    "Berkley": {
+      "zipcodes": [
+        "48072"
+      ],
+      "areacodes": [
+        "248"
+      ]
+    },
+    "Beverly Hills": {
+      "zipcodes": [
+        "48025"
+      ],
+      "areacodes": [
+        "248"
+      ]
+    },
+    "Big Rapids": {
+      "zipcodes": [
+        "49307"
+      ],
+      "areacodes": [
+        "231"
+      ]
+    },
+    "Birmingham": {
+      "zipcodes": [
+        "48009",
+        "48012"
+      ],
+      "areacodes": [
+        "248"
+      ]
+    },
+    "Boyne City": {
+      "zipcodes": [
+        "49712"
+      ],
+      "areacodes": [
+        "231"
+      ]
+    },
+    "Brighton": {
+      "zipcodes": [
+        "48114",
+        "48116"
+      ],
+      "areacodes": [
+        "810"
+      ]
+    },
+    "Cadillac": {
+      "zipcodes": [
+        "49601"
+      ],
+      "areacodes": [
+        "231"
+      ]
+    },
+    "Canton": {
+      "zipcodes": [
+        "48187",
+        "48188"
+      ],
+      "areacodes": [
+        "734"
+      ]
+    },
+    "Charlotte": {
+      "zipcodes": [
+        "48813"
+      ],
+      "areacodes": [
+        "517"
+      ]
+    },
+    "Cheboygan": {
+      "zipcodes": [
+        "49721"
+      ],
+      "areacodes": [
+        "231"
+      ]
+    },
+    "Clawson": {
+      "zipcodes": [
+        "48017"
+      ],
+      "areacodes": [
+        "248"
+      ]
+    },
+    "Coldwater": {
+      "zipcodes": [
+        "49036"
+      ],
+      "areacodes": [
+        "517"
+      ]
+    },
+    "Dearborn": {
+      "zipcodes": [
+        "48120",
+        "48121",
+        "48123",
+        "48124",
+        "48126",
+        "48128"
+      ],
+      "areacodes": [
+        "313"
+      ]
+    },
+    "Dearborn Heights": {
+      "zipcodes": [
+        "48125",
+        "48127"
+      ],
+      "areacodes": [
+        "313"
+      ]
+    },
+    "Detroit": {
+      "zipcodes": [
+        "48201",
+        "48202",
+        "48203",
+        "48204",
+        "48205",
+        "48206",
+        "48207",
+        "48208",
+        "48209",
+        "48210",
+        "48211",
+        "48212",
+        "48213",
+        "48214",
+        "48215",
+        "48216",
+        "48217",
+        "48218",
+        "48219",
+        "48220",
+        "48221",
+        "48222",
+        "48223",
+        "48224",
+        "48225",
+        "48226",
+        "48227",
+        "48228",
+        "48229",
+        "48230",
+        "48231",
+        "48232",
+        "48233",
+        "48234",
+        "48235",
+        "48236",
+        "48237",
+        "48238",
+        "48239",
+        "48240",
+        "48242",
+        "48243",
+        "48244"
+      ],
+      "areacodes": [
+        "313"
+      ]
+    },
+    "East Lansing": {
+      "zipcodes": [
+        "48823",
+        "48824",
+        "48825",
+        "48826"
+      ],
+      "areacodes": [
+        "517"
+      ]
+    },
+    "Eastpointe": {
+      "zipcodes": [
+        "48021"
+      ],
+      "areacodes": [
+        "586"
+      ]
+    },
+    "Ecorse": {
+      "zipcodes": [
+        "48229"
+      ],
+      "areacodes": [
+        "313"
+      ]
+    },
+    "Escanaba": {
+      "zipcodes": [
+        "49829"
+      ],
+      "areacodes": [
+        "906"
+      ]
+    },
+    "Farmington": {
+      "zipcodes": [
+        "48331",
+        "48332",
+        "48333",
+        "48334",
+        "48335",
+        "48336"
+      ],
+      "areacodes": [
+        "248"
+      ]
+    },
+    "Ferndale": {
+      "zipcodes": [
+        "48220"
+      ],
+      "areacodes": [
+        "248"
+      ]
+    },
+    "Flint": {
+      "zipcodes": [
+        "48501",
+        "48502",
+        "48503",
+        "48504",
+        "48505",
+        "48506",
+        "48507",
+        "48509",
+        "48519",
+        "48529",
+        "48531",
+        "48532",
+        "48550",
+        "48551",
+        "48552",
+        "48553",
+        "48554",
+        "48555",
+        "48556",
+        "48557",
+        "48559"
+      ],
+      "areacodes": [
+        "810"
+      ]
+    },
+    "Garden City": {
+      "zipcodes": [
+        "48135",
+        "48136"
+      ],
+      "areacodes": [
+        "734"
+      ]
+    },
+    "Grand Blanc": {
+      "zipcodes": [
+        "48439",
+        "48480"
+      ],
+      "areacodes": [
+        "810"
+      ]
+    },
+    "Grand Haven": {
+      "zipcodes": [
+        "49417"
+      ],
+      "areacodes": [
+        "616"
+      ]
+    },
+    "Grand Rapids": {
+      "zipcodes": [
+        "49501",
+        "49502",
+        "49503",
+        "49504",
+        "49505",
+        "49506",
+        "49507",
+        "49508",
+        "49509",
+        "49510",
+        "49512",
+        "49514",
+        "49515",
+        "49516",
+        "49518",
+        "49519",
+        "49523",
+        "49525",
+        "49528",
+        "49530",
+        "49534",
+        "49544",
+        "49546",
+        "49548",
+        "49555",
+        "49560",
+        "49588",
+        "49599"
+      ],
+      "areacodes": [
+        "616"
+      ]
+    },
+    "Grosse Pointe": {
+      "zipcodes": [
+        "48230",
+        "48236"
+      ],
+      "areacodes": [
+        "313"
+      ]
+    },
+    "Hamtramck": {
+      "zipcodes": [
+        "48212"
+      ],
+      "areacodes": [
+        "313"
+      ]
+    },
+    "Harper Woods": {
+      "zipcodes": [
+        "48225"
+      ],
+      "areacodes": [
+        "313"
+      ]
+    },
+    "Harrison": {
+      "zipcodes": [
+        "48625"
+      ],
+      "areacodes": [
+        "989"
+      ]
+    },
+    "Hazel Park": {
+      "zipcodes": [
+        "48030"
+      ],
+      "areacodes": [
+        "248"
+      ]
+    },
+    "Highland Park": {
+      "zipcodes": [
+        "48203"
+      ],
+      "areacodes": [
+        "313"
+      ]
+    },
+    "Holland": {
+      "zipcodes": [
+        "49422",
+        "49423",
+        "49424"
+      ],
+      "areacodes": [
+        "616"
+      ]
+    },
+    "Howell": {
+      "zipcodes": [
+        "48843",
+        "48844",
+        "48855"
+      ],
+      "areacodes": [
+        "517"
+      ]
+    },
+    "Inkster": {
+      "zipcodes": [
+        "48141"
+      ],
+      "areacodes": [
+        "313"
+      ]
+    },
+    "Ionia": {
+      "zipcodes": [
+        "48846"
+      ],
+      "areacodes": [
+        "616"
+      ]
+    },
+    "Iron Mountain": {
+      "zipcodes": [
+        "49801"
+      ],
+      "areacodes": [
+        "906"
+      ]
+    },
+    "Ironwood": {
+      "zipcodes": [
+        "49938"
+      ],
+      "areacodes": [
+        "906"
+      ]
+    },
+    "Ishpeming": {
+      "zipcodes": [
+        "49849"
+      ],
+      "areacodes": [
+        "906"
+      ]
+    },
+    "Jackson": {
+      "zipcodes": [
+        "49201",
+        "49202",
+        "49203",
+        "49204"
+      ],
+      "areacodes": [
+        "517"
+      ]
+    },
+    "Kalamazoo": {
+      "zipcodes": [
+        "49001",
+        "49002",
+        "49003",
+        "49004",
+        "49005",
+        "49006",
+        "49007",
+        "49008",
+        "49009",
+        "49019"
+      ],
+      "areacodes": [
+        "269"
+      ]
+    },
+    "Kentwood": {
+      "zipcodes": [
+        "49508",
+        "49512",
+        "49548"
+      ],
+      "areacodes": [
+        "616"
+      ]
+    },
+    "Lansing": {
+      "zipcodes": [
+        "48901",
+        "48906",
+        "48908",
+        "48909",
+        "48910",
+        "48911",
+        "48912",
+        "48913",
+        "48915",
+        "48916",
+        "48917",
+        "48918",
+        "48919",
+        "48921",
+        "48922",
+        "48924",
+        "48929",
+        "48930",
+        "48933",
+        "48937",
+        "48950",
+        "48951",
+        "48956",
+        "48980"
+      ],
+      "areacodes": [
+        "517"
+      ]
+    },
+    "Lincoln Park": {
+      "zipcodes": [
+        "48146"
+      ],
+      "areacodes": [
+        "313"
+      ]
+    },
+    "Livonia": {
+      "zipcodes": [
+        "48150",
+        "48151",
+        "48152",
+        "48153",
+        "48154"
+      ],
+      "areacodes": [
+        "734"
+      ]
+    },
+    "Madison Heights": {
+      "zipcodes": [
+        "48071"
+      ],
+      "areacodes": [
+        "248"
+      ]
+    },
+    "Marquette": {
+      "zipcodes": [
+        "49855"
+      ],
+      "areacodes": [
+        "906"
+      ]
+    },
+    "Midland": {
+      "zipcodes": [
+        "48640",
+        "48641",
+        "48642",
+        "48667",
+        "48670",
+        "48674",
+        "48686"
+      ],
+      "areacodes": [
+        "989"
+      ]
+    },
+    "Monroe": {
+      "zipcodes": [
+        "48161",
+        "48162"
+      ],
+      "areacodes": [
+        "734"
+      ]
+    },
+    "Mount Clemens": {
+      "zipcodes": [
+        "48043",
+        "48046"
+      ],
+      "areacodes": [
+        "586"
+      ]
+    },
+    "Mount Pleasant": {
+      "zipcodes": [
+        "48804",
+        "48858",
+        "48859"
+      ],
+      "areacodes": [
+        "989"
+      ]
+    },
+    "Muskegon": {
+      "zipcodes": [
+        "49440",
+        "49441",
+        "49442",
+        "49443",
+        "49444",
+        "49445"
+      ],
+      "areacodes": [
+        "231"
+      ]
+    },
+    "Niles": {
+      "zipcodes": [
+        "49120",
+        "49121"
+      ],
+      "areacodes": [
+        "269"
+      ]
+    },
+    "Novi": {
+      "zipcodes": [
+        "48374",
+        "48375",
+        "48376",
+        "48377"
+      ],
+      "areacodes": [
+        "248"
+      ]
+    },
+    "Oak Park": {
+      "zipcodes": [
+        "48237"
+      ],
+      "areacodes": [
+        "248"
+      ]
+    },
+    "Owosso": {
+      "zipcodes": [
+        "48867"
+      ],
+      "areacodes": [
+        "989"
+      ]
+    },
+    "Pontiac": {
+      "zipcodes": [
+        "48340",
+        "48341",
+        "48342",
+        "48343"
+      ],
+      "areacodes": [
+        "248"
+      ]
+    },
+    "Port Huron": {
+      "zipcodes": [
+        "48060",
+        "48061"
+      ],
+      "areacodes": [
+        "810"
+      ]
+    },
+    "Portage": {
+      "zipcodes": [
+        "49002",
+        "49024",
+        "49081"
+      ],
+      "areacodes": [
+        "269"
+      ]
+    },
+    "Redford": {
+      "zipcodes": [
+        "48239",
+        "48240"
+      ],
+      "areacodes": [
+        "313"
+      ]
+    },
+    "Rochester Hills": {
+      "zipcodes": [
+        "48306",
+        "48307",
+        "48309"
+      ],
+      "areacodes": [
+        "248"
+      ]
+    },
+    "Romulus": {
+      "zipcodes": [
+        "48174"
+      ],
+      "areacodes": [
+        "734"
+      ]
+    },
+    "Roseville": {
+      "zipcodes": [
+        "48066"
+      ],
+      "areacodes": [
+        "586"
+      ]
+    },
+    "Royal Oak": {
+      "zipcodes": [
+        "48067",
+        "48068",
+        "48073"
+      ],
+      "areacodes": [
+        "248"
+      ]
+    },
+    "Saginaw": {
+      "zipcodes": [
+        "48601",
+        "48602",
+        "48603",
+        "48604",
+        "48605",
+        "48606",
+        "48607",
+        "48608",
+        "48609",
+        "48638"
+      ],
+      "areacodes": [
+        "989"
+      ]
+    },
+    "Saint Clair Shores": {
+      "zipcodes": [
+        "48080",
+        "48081",
+        "48082"
+      ],
+      "areacodes": [
+        "586"
+      ]
+    },
+    "Saint Joseph": {
+      "zipcodes": [
+        "49085"
+      ],
+      "areacodes": [
+        "269"
+      ]
+    },
+    "Southfield": {
+      "zipcodes": [
+        "48033",
+        "48034",
+        "48037",
+        "48075",
+        "48076",
+        "48086"
+      ],
+      "areacodes": [
+        "248"
+      ]
+    },
+    "Southgate": {
+      "zipcodes": [
+        "48195"
+      ],
+      "areacodes": [
+        "734"
+      ]
+    },
+    "Sterling Heights": {
+      "zipcodes": [
+        "48310",
+        "48311",
+        "48312",
+        "48313",
+        "48314"
+      ],
+      "areacodes": [
+        "586"
+      ]
+    },
+    "Taylor": {
+      "zipcodes": [
+        "48180"
+      ],
+      "areacodes": [
+        "734"
+      ]
+    },
+    "Traverse City": {
+      "zipcodes": [
+        "49684",
+        "49685",
+        "49686",
+        "49696"
+      ],
+      "areacodes": [
+        "231"
+      ]
+    },
+    "Troy": {
+      "zipcodes": [
+        "48007",
+        "48083",
+        "48084",
+        "48085",
+        "48098",
+        "48099"
+      ],
+      "areacodes": [
+        "248"
+      ]
+    },
+    "Warren": {
+      "zipcodes": [
+        "48088",
+        "48089",
+        "48090",
+        "48091",
+        "48092",
+        "48093",
+        "48397"
+      ],
+      "areacodes": [
+        "586"
+      ]
+    },
+    "Waterford": {
+      "zipcodes": [
+        "48327",
+        "48328",
+        "48329"
+      ],
+      "areacodes": [
+        "248"
+      ]
+    },
+    "Westland": {
+      "zipcodes": [
+        "48185",
+        "48186"
+      ],
+      "areacodes": [
+        "734"
+      ]
+    },
+    "Wyandotte": {
+      "zipcodes": [
+        "48192"
+      ],
+      "areacodes": [
+        "734"
+      ]
+    },
+    "Wyoming": {
+      "zipcodes": [
+        "49509",
+        "49519"
+      ],
+      "areacodes": [
+        "616"
+      ]
+    },
+    "Ypsilanti": {
+      "zipcodes": [
+        "48197",
+        "48198"
+      ],
+      "areacodes": [
+        "734"
+      ]
+    }
+  }
 }

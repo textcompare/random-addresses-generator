@@ -291,9 +291,8 @@
   "regions": {
     "Zurich": {
       "name": "Zurich",
-      "cities": [
-        {
-          "cityname": "Zurich",
+      "cities": {
+        "Zurich": {
           "zipcodes": [
             "8000",
             "8001",
@@ -305,8 +304,7 @@
             "044"
           ]
         },
-        {
-          "cityname": "Kloten",
+        "Kloten": {
           "zipcodes": [
             "8302",
             "8303",
@@ -318,8 +316,7 @@
             "044"
           ]
         },
-        {
-          "cityname": "Uetliberg",
+        "Uetliberg": {
           "zipcodes": [
             "8041",
             "8042",
@@ -331,8 +328,7 @@
             "044"
           ]
         },
-        {
-          "cityname": "Winterthur",
+        "Winterthur": {
           "zipcodes": [
             "8400",
             "8401",
@@ -344,8 +340,7 @@
             "052"
           ]
         },
-        {
-          "cityname": "Zollikon",
+        "Zollikon": {
           "zipcodes": [
             "8702",
             "8703",
@@ -357,13 +352,12 @@
             "044"
           ]
         }
-      ]
+      }
     },
     "Bern": {
       "name": "Bern",
-      "cities": [
-        {
-          "cityname": "Bern",
+      "cities": {
+        "Bern": {
           "zipcodes": [
             "3000",
             "3001",
@@ -375,8 +369,7 @@
             "031"
           ]
         },
-        {
-          "cityname": "Thun",
+        "Thun": {
           "zipcodes": [
             "3600",
             "3601",
@@ -388,8 +381,7 @@
             "033"
           ]
         },
-        {
-          "cityname": "Biel/Bienne",
+        "Biel/Bienne": {
           "zipcodes": [
             "2500",
             "2501",
@@ -401,8 +393,7 @@
             "032"
           ]
         },
-        {
-          "cityname": "Langenthal",
+        "Langenthal": {
           "zipcodes": [
             "4900",
             "4901",
@@ -414,8 +405,7 @@
             "062"
           ]
         },
-        {
-          "cityname": "Muri bei Bern",
+        "Muri bei Bern": {
           "zipcodes": [
             "3074",
             "3075",
@@ -427,13 +417,12 @@
             "031"
           ]
         }
-      ]
+      }
     },
     "Lucerne": {
       "name": "Lucerne",
-      "cities": [
-        {
-          "cityname": "Lucerne",
+      "cities": {
+        "Lucerne": {
           "zipcodes": [
             "6000",
             "6001",
@@ -445,8 +434,7 @@
             "041"
           ]
         },
-        {
-          "cityname": "Emmen",
+        "Emmen": {
           "zipcodes": [
             "6032",
             "6033",
@@ -458,8 +446,7 @@
             "041"
           ]
         },
-        {
-          "cityname": "Horw",
+        "Horw": {
           "zipcodes": [
             "6048",
             "6049",
@@ -471,8 +458,7 @@
             "041"
           ]
         },
-        {
-          "cityname": "Kriens",
+        "Kriens": {
           "zipcodes": [
             "6010",
             "6011",
@@ -484,8 +470,7 @@
             "041"
           ]
         },
-        {
-          "cityname": "Sursee",
+        "Sursee": {
           "zipcodes": [
             "6210",
             "6211",
@@ -497,13 +482,12 @@
             "041"
           ]
         }
-      ]
+      }
     },
     "Aargau": {
       "name": "Aargau",
-      "cities": [
-        {
-          "cityname": "Aarau",
+      "cities": {
+        "Aarau": {
           "zipcodes": [
             "5000",
             "5001",
@@ -515,8 +499,7 @@
             "062"
           ]
         },
-        {
-          "cityname": "Zofingen",
+        "Zofingen": {
           "zipcodes": [
             "4800",
             "4801",
@@ -528,8 +511,7 @@
             "062"
           ]
         },
-        {
-          "cityname": "Brugg",
+        "Brugg": {
           "zipcodes": [
             "5200",
             "5201",
@@ -541,8 +523,7 @@
             "056"
           ]
         },
-        {
-          "cityname": "Bad Zurzach",
+        "Bad Zurzach": {
           "zipcodes": [
             "5330",
             "5331",
@@ -554,8 +535,7 @@
             "056"
           ]
         },
-        {
-          "cityname": "Baden",
+        "Baden": {
           "zipcodes": [
             "5400",
             "5401",
@@ -567,13 +547,12 @@
             "056"
           ]
         }
-      ]
+      }
     },
     "St. Gallen": {
       "name": "St. Gallen",
-      "cities": [
-        {
-          "cityname": "St. Gallen",
+      "cities": {
+        "St. Gallen": {
           "zipcodes": [
             "9000",
             "9001",
@@ -585,8 +564,7 @@
             "071"
           ]
         },
-        {
-          "cityname": "Rorschach",
+        "Rorschach": {
           "zipcodes": [
             "9400",
             "9401",
@@ -598,8 +576,7 @@
             "071"
           ]
         },
-        {
-          "cityname": "Appenzell",
+        "Appenzell": {
           "zipcodes": [
             "9050",
             "9051",
@@ -611,8 +588,7 @@
             "071"
           ]
         },
-        {
-          "cityname": "Flawil",
+        "Flawil": {
           "zipcodes": [
             "1300",
             "1301",
@@ -624,8 +600,7 @@
             "071"
           ]
         },
-        {
-          "cityname": "Buchs",
+        "Buchs": {
           "zipcodes": [
             "9470",
             "9471",
@@ -637,13 +612,12 @@
             "071"
           ]
         }
-      ]
+      }
     },
     "Basel-Landschaft": {
       "name": "Basel-Landschaft",
-      "cities": [
-        {
-          "cityname": "Liestal",
+      "cities": {
+        "Liestal": {
           "zipcodes": [
             "4410",
             "4411",
@@ -655,8 +629,7 @@
             "061"
           ]
         },
-        {
-          "cityname": "Basel",
+        "Basel": {
           "zipcodes": [
             "4000",
             "4001",
@@ -668,8 +641,7 @@
             "061"
           ]
         },
-        {
-          "cityname": "Muttenz",
+        "Muttenz": {
           "zipcodes": [
             "4132",
             "4133",
@@ -681,8 +653,7 @@
             "061"
           ]
         },
-        {
-          "cityname": "Biel-Bienne",
+        "Biel-Bienne": {
           "zipcodes": [
             "2500",
             "2501",
@@ -694,8 +665,7 @@
             "032"
           ]
         },
-        {
-          "cityname": "Riehen",
+        "Riehen": {
           "zipcodes": [
             "4125",
             "4126",
@@ -707,13 +677,12 @@
             "061"
           ]
         }
-      ]
+      }
     },
     "Vaud": {
       "name": "Vaud",
-      "cities": [
-        {
-          "cityname": "Lausanne",
+      "cities": {
+        "Lausanne": {
           "zipcodes": [
             "1000",
             "1001",
@@ -725,8 +694,7 @@
             "021"
           ]
         },
-        {
-          "cityname": "Vevey",
+        "Vevey": {
           "zipcodes": [
             "1800",
             "1801",
@@ -738,8 +706,7 @@
             "021"
           ]
         },
-        {
-          "cityname": "Montreux",
+        "Montreux": {
           "zipcodes": [
             "1820",
             "1821",
@@ -751,8 +718,7 @@
             "021"
           ]
         },
-        {
-          "cityname": "Nyon",
+        "Nyon": {
           "zipcodes": [
             "1260",
             "1261",
@@ -764,8 +730,7 @@
             "022"
           ]
         },
-        {
-          "cityname": "Payerne",
+        "Payerne": {
           "zipcodes": [
             "1530",
             "1531",
@@ -777,13 +742,12 @@
             "026"
           ]
         }
-      ]
+      }
     },
     "Ticino": {
       "name": "Ticino",
-      "cities": [
-        {
-          "cityname": "Lugano",
+      "cities": {
+        "Lugano": {
           "zipcodes": [
             "6900",
             "6901",
@@ -795,8 +759,7 @@
             "091"
           ]
         },
-        {
-          "cityname": "Bellinzona",
+        "Bellinzona": {
           "zipcodes": [
             "6500",
             "6501",
@@ -808,8 +771,7 @@
             "091"
           ]
         },
-        {
-          "cityname": "Mendrisio",
+        "Mendrisio": {
           "zipcodes": [
             "6850",
             "6851",
@@ -821,8 +783,7 @@
             "091"
           ]
         },
-        {
-          "cityname": "Locarno",
+        "Locarno": {
           "zipcodes": [
             "6600",
             "6601",
@@ -834,8 +795,7 @@
             "091"
           ]
         },
-        {
-          "cityname": "Tenero",
+        "Tenero": {
           "zipcodes": [
             "6598",
             "6599",
@@ -847,13 +807,12 @@
             "091"
           ]
         }
-      ]
+      }
     },
     "Thurgau": {
       "name": "Thurgau",
-      "cities": [
-        {
-          "cityname": "Frauenfeld",
+      "cities": {
+        "Frauenfeld": {
           "zipcodes": [
             "8500",
             "8501",
@@ -865,8 +824,7 @@
             "052"
           ]
         },
-        {
-          "cityname": "Weinfelden",
+        "Weinfelden": {
           "zipcodes": [
             "8570",
             "8571",
@@ -878,8 +836,7 @@
             "071"
           ]
         },
-        {
-          "cityname": "Arbon",
+        "Arbon": {
           "zipcodes": [
             "9320",
             "9321",
@@ -891,8 +848,7 @@
             "071"
           ]
         },
-        {
-          "cityname": "Kreuzlingen",
+        "Kreuzlingen": {
           "zipcodes": [
             "8280",
             "8281",
@@ -904,8 +860,7 @@
             "071"
           ]
         },
-        {
-          "cityname": "Romanshorn",
+        "Romanshorn": {
           "zipcodes": [
             "8590",
             "8591",
@@ -917,13 +872,12 @@
             "071"
           ]
         }
-      ]
+      }
     },
     "Geneva": {
       "name": "Geneva",
-      "cities": [
-        {
-          "cityname": "Geneva",
+      "cities": {
+        "Geneva": {
           "zipcodes": [
             "1200",
             "1201",
@@ -935,8 +889,7 @@
             "022"
           ]
         },
-        {
-          "cityname": "Carouge",
+        "Carouge": {
           "zipcodes": [
             "1227",
             "1228",
@@ -948,8 +901,7 @@
             "022"
           ]
         },
-        {
-          "cityname": "Lancy",
+        "Lancy": {
           "zipcodes": [
             "1212",
             "1213",
@@ -961,8 +913,7 @@
             "022"
           ]
         },
-        {
-          "cityname": "Meyrin",
+        "Meyrin": {
           "zipcodes": [
             "1217",
             "1218",
@@ -974,8 +925,7 @@
             "022"
           ]
         },
-        {
-          "cityname": "Onex",
+        "Onex": {
           "zipcodes": [
             "1213",
             "1214",
@@ -987,13 +937,12 @@
             "022"
           ]
         }
-      ]
+      }
     },
     "Fribourg": {
       "name": "Fribourg",
-      "cities": [
-        {
-          "cityname": "Fribourg",
+      "cities": {
+        "Fribourg": {
           "zipcodes": [
             "1700",
             "1701",
@@ -1005,8 +954,7 @@
             "026"
           ]
         },
-        {
-          "cityname": "Bulle",
+        "Bulle": {
           "zipcodes": [
             "1630",
             "1631",
@@ -1018,8 +966,7 @@
             "026"
           ]
         },
-        {
-          "cityname": "Morat",
+        "Morat": {
           "zipcodes": [
             "3280",
             "3281",
@@ -1031,8 +978,7 @@
             "026"
           ]
         },
-        {
-          "cityname": "Château-d'Oex",
+        "Château-d'Oex": {
           "zipcodes": [
             "1660",
             "1661",
@@ -1044,8 +990,7 @@
             "026"
           ]
         },
-        {
-          "cityname": "Villarson",
+        "Villarson": {
           "zipcodes": [
             "1680",
             "1681",
@@ -1057,13 +1002,12 @@
             "026"
           ]
         }
-      ]
+      }
     },
     "Solothurn": {
       "name": "Solothurn",
-      "cities": [
-        {
-          "cityname": "Solothurn",
+      "cities": {
+        "Solothurn": {
           "zipcodes": [
             "4500",
             "4501",
@@ -1075,8 +1019,7 @@
             "032"
           ]
         },
-        {
-          "cityname": "Zuchwil",
+        "Zuchwil": {
           "zipcodes": [
             "4528",
             "4529",
@@ -1088,8 +1031,7 @@
             "032"
           ]
         },
-        {
-          "cityname": "Olten",
+        "Olten": {
           "zipcodes": [
             "4600",
             "4601",
@@ -1101,8 +1043,7 @@
             "062"
           ]
         },
-        {
-          "cityname": "Bettlach",
+        "Bettlach": {
           "zipcodes": [
             "2544",
             "2545",
@@ -1114,8 +1055,7 @@
             "032"
           ]
         },
-        {
-          "cityname": "Balsthal",
+        "Balsthal": {
           "zipcodes": [
             "4710",
             "4711",
@@ -1127,13 +1067,12 @@
             "062"
           ]
         }
-      ]
+      }
     },
     "Valais": {
       "name": "Valais",
-      "cities": [
-        {
-          "cityname": "Sion",
+      "cities": {
+        "Sion": {
           "zipcodes": [
             "1950",
             "1951",
@@ -1145,8 +1084,7 @@
             "027"
           ]
         },
-        {
-          "cityname": "Monthey",
+        "Monthey": {
           "zipcodes": [
             "1870",
             "1871",
@@ -1158,8 +1096,7 @@
             "024"
           ]
         },
-        {
-          "cityname": "Brigue",
+        "Brigue": {
           "zipcodes": [
             "3900",
             "3901",
@@ -1171,8 +1108,7 @@
             "027"
           ]
         },
-        {
-          "cityname": "Visp",
+        "Visp": {
           "zipcodes": [
             "3930",
             "3931",
@@ -1184,8 +1120,7 @@
             "027"
           ]
         },
-        {
-          "cityname": "Martigny",
+        "Martigny": {
           "zipcodes": [
             "1920",
             "1921",
@@ -1197,13 +1132,12 @@
             "027"
           ]
         }
-      ]
+      }
     },
     "Basel-Stadt": {
       "name": "Basel-Stadt",
-      "cities": [
-        {
-          "cityname": "Basel",
+      "cities": {
+        "Basel": {
           "zipcodes": [
             "4000",
             "4001",
@@ -1215,8 +1149,7 @@
             "061"
           ]
         },
-        {
-          "cityname": "Riehen",
+        "Riehen": {
           "zipcodes": [
             "4125",
             "4126",
@@ -1228,8 +1161,7 @@
             "061"
           ]
         },
-        {
-          "cityname": "Bettingen",
+        "Bettingen": {
           "zipcodes": [
             "4126",
             "4127",
@@ -1241,8 +1173,7 @@
             "061"
           ]
         },
-        {
-          "cityname": "Pratteln",
+        "Pratteln": {
           "zipcodes": [
             "4133",
             "4134",
@@ -1254,8 +1185,7 @@
             "061"
           ]
         },
-        {
-          "cityname": "Liestal",
+        "Liestal": {
           "zipcodes": [
             "4410",
             "4411",
@@ -1267,13 +1197,12 @@
             "061"
           ]
         }
-      ]
+      }
     },
     "Schwyz": {
       "name": "Schwyz",
-      "cities": [
-        {
-          "cityname": "Schwyz",
+      "cities": {
+        "Schwyz": {
           "zipcodes": [
             "6430",
             "6431",
@@ -1285,8 +1214,7 @@
             "041"
           ]
         },
-        {
-          "cityname": "Einsiedeln",
+        "Einsiedeln": {
           "zipcodes": [
             "8840",
             "8841",
@@ -1298,8 +1226,7 @@
             "055"
           ]
         },
-        {
-          "cityname": "Küssnacht",
+        "Küssnacht": {
           "zipcodes": [
             "6403",
             "6404",
@@ -1311,8 +1238,7 @@
             "041"
           ]
         },
-        {
-          "cityname": "Lachen",
+        "Lachen": {
           "zipcodes": [
             "8853",
             "8854",
@@ -1324,8 +1250,7 @@
             "055"
           ]
         },
-        {
-          "cityname": "Brunnen",
+        "Brunnen": {
           "zipcodes": [
             "6440",
             "6441",
@@ -1337,13 +1262,12 @@
             "041"
           ]
         }
-      ]
+      }
     },
     "Appenzell Ausserrhoden": {
       "name": "Appenzell Ausserrhoden",
-      "cities": [
-        {
-          "cityname": "Herisau",
+      "cities": {
+        "Herisau": {
           "zipcodes": [
             "9100",
             "9101",
@@ -1355,8 +1279,7 @@
             "071"
           ]
         },
-        {
-          "cityname": "Appenzell",
+        "Appenzell": {
           "zipcodes": [
             "9050",
             "9051",
@@ -1368,8 +1291,7 @@
             "071"
           ]
         },
-        {
-          "cityname": "Teufen",
+        "Teufen": {
           "zipcodes": [
             "9053",
             "9054",
@@ -1381,8 +1303,7 @@
             "071"
           ]
         },
-        {
-          "cityname": "Trogen",
+        "Trogen": {
           "zipcodes": [
             "9043",
             "9044",
@@ -1394,8 +1315,7 @@
             "071"
           ]
         },
-        {
-          "cityname": "Ebenalp",
+        "Ebenalp": {
           "zipcodes": [
             "9057",
             "9058",
@@ -1407,13 +1327,12 @@
             "071"
           ]
         }
-      ]
+      }
     },
     "Appenzell Innerrhoden": {
       "name": "Appenzell Innerrhoden",
-      "cities": [
-        {
-          "cityname": "Appenzell",
+      "cities": {
+        "Appenzell": {
           "zipcodes": [
             "9050",
             "9051",
@@ -1425,8 +1344,7 @@
             "071"
           ]
         },
-        {
-          "cityname": "Schwende",
+        "Schwende": {
           "zipcodes": [
             "9050",
             "9051",
@@ -1438,8 +1356,7 @@
             "071"
           ]
         },
-        {
-          "cityname": "Rüte",
+        "Rüte": {
           "zipcodes": [
             "9052",
             "9053",
@@ -1451,8 +1368,7 @@
             "071"
           ]
         },
-        {
-          "cityname": "Gonten",
+        "Gonten": {
           "zipcodes": [
             "9053",
             "9054",
@@ -1464,8 +1380,7 @@
             "071"
           ]
         },
-        {
-          "cityname": "Jakobsbad",
+        "Jakobsbad": {
           "zipcodes": [
             "9054",
             "9055",
@@ -1477,13 +1392,12 @@
             "071"
           ]
         }
-      ]
+      }
     },
     "Zug": {
       "name": "Zug",
-      "cities": [
-        {
-          "cityname": "Zug",
+      "cities": {
+        "Zug": {
           "zipcodes": [
             "6300",
             "6301",
@@ -1495,8 +1409,7 @@
             "041"
           ]
         },
-        {
-          "cityname": "Cham",
+        "Cham": {
           "zipcodes": [
             "6330",
             "6331",
@@ -1508,8 +1421,7 @@
             "041"
           ]
         },
-        {
-          "cityname": "Steinhausen",
+        "Steinhausen": {
           "zipcodes": [
             "6312",
             "6313",
@@ -1521,8 +1433,7 @@
             "041"
           ]
         },
-        {
-          "cityname": "Menzingen",
+        "Menzingen": {
           "zipcodes": [
             "6313",
             "6314",
@@ -1534,8 +1445,7 @@
             "041"
           ]
         },
-        {
-          "cityname": "Baar",
+        "Baar": {
           "zipcodes": [
             "6340",
             "6341",
@@ -1547,13 +1457,12 @@
             "041"
           ]
         }
-      ]
+      }
     },
     "Neuchâtel": {
       "name": "Neuchâtel",
-      "cities": [
-        {
-          "cityname": "Neuchâtel",
+      "cities": {
+        "Neuchâtel": {
           "zipcodes": [
             "2000",
             "2001",
@@ -1565,8 +1474,7 @@
             "032"
           ]
         },
-        {
-          "cityname": "La Chaux-de-Fonds",
+        "La Chaux-de-Fonds": {
           "zipcodes": [
             "2300",
             "2301",
@@ -1578,8 +1486,7 @@
             "032"
           ]
         },
-        {
-          "cityname": "Le Locle",
+        "Le Locle": {
           "zipcodes": [
             "2400",
             "2401",
@@ -1591,8 +1498,7 @@
             "032"
           ]
         },
-        {
-          "cityname": "Biel/Bienne",
+        "Biel/Bienne": {
           "zipcodes": [
             "2500",
             "2501",
@@ -1604,8 +1510,7 @@
             "032"
           ]
         },
-        {
-          "cityname": "Cernier",
+        "Cernier": {
           "zipcodes": [
             "2034",
             "2035",
@@ -1617,13 +1522,12 @@
             "032"
           ]
         }
-      ]
+      }
     },
     "Uri": {
       "name": "Uri",
-      "cities": [
-        {
-          "cityname": "Altdorf",
+      "cities": {
+        "Altdorf": {
           "zipcodes": [
             "6460",
             "6461",
@@ -1635,8 +1539,7 @@
             "041"
           ]
         },
-        {
-          "cityname": "Andermatt",
+        "Andermatt": {
           "zipcodes": [
             "6490",
             "6491",
@@ -1648,8 +1551,7 @@
             "041"
           ]
         },
-        {
-          "cityname": "Schattdorf",
+        "Schattdorf": {
           "zipcodes": [
             "6467",
             "6468",
@@ -1661,8 +1563,7 @@
             "041"
           ]
         },
-        {
-          "cityname": "Attinghausen",
+        "Attinghausen": {
           "zipcodes": [
             "6462",
             "6463",
@@ -1674,8 +1575,7 @@
             "041"
           ]
         },
-        {
-          "cityname": "Flüelen",
+        "Flüelen": {
           "zipcodes": [
             "6454",
             "6455",
@@ -1687,7 +1587,7 @@
             "041"
           ]
         }
-      ]
+      }
     }
   },
   "citycontainers": [

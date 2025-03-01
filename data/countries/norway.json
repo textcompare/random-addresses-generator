@@ -285,9 +285,8 @@
   },
   "counties": {
     "Agder": {
-      "cities": [
-        {
-          "cityname": "Kristiansand",
+      "cities": {
+        "Kristiansand": {
           "zipcodes": [
             "4601",
             "4602",
@@ -299,8 +298,7 @@
             "38"
           ]
         },
-        {
-          "cityname": "Arendal",
+        "Arendal": {
           "zipcodes": [
             "4836",
             "4837",
@@ -312,8 +310,7 @@
             "37"
           ]
         },
-        {
-          "cityname": "Farsund",
+        "Farsund": {
           "zipcodes": [
             "4550",
             "4551",
@@ -325,8 +322,7 @@
             "38"
           ]
         },
-        {
-          "cityname": "Lillesand",
+        "Lillesand": {
           "zipcodes": [
             "4790",
             "4791",
@@ -338,8 +334,7 @@
             "38"
           ]
         },
-        {
-          "cityname": "Grimstad",
+        "Grimstad": {
           "zipcodes": [
             "4870",
             "4871",
@@ -351,8 +346,7 @@
             "38"
           ]
         },
-        {
-          "cityname": "Mandal",
+        "Mandal": {
           "zipcodes": [
             "4514",
             "4515",
@@ -364,8 +358,7 @@
             "38"
           ]
         },
-        {
-          "cityname": "Vennesla",
+        "Vennesla": {
           "zipcodes": [
             "4700",
             "4701",
@@ -377,8 +370,7 @@
             "38"
           ]
         },
-        {
-          "cityname": "Flekkefjord",
+        "Flekkefjord": {
           "zipcodes": [
             "4400",
             "4401",
@@ -390,8 +382,7 @@
             "38"
           ]
         },
-        {
-          "cityname": "Risør",
+        "Risør": {
           "zipcodes": [
             "4950",
             "4951",
@@ -403,8 +394,7 @@
             "37"
           ]
         },
-        {
-          "cityname": "Byglandsfjord",
+        "Byglandsfjord": {
           "zipcodes": [
             "4743",
             "4744",
@@ -416,13 +406,12 @@
             "38"
           ]
         }
-      ],
+      },
       "name": "Agder"
     },
     "Innlandet": {
-      "cities": [
-        {
-          "cityname": "Hamar",
+      "cities": {
+        "Hamar": {
           "zipcodes": [
             "2301",
             "2302",
@@ -434,8 +423,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Gjøvik",
+        "Gjøvik": {
           "zipcodes": [
             "2821",
             "2822",
@@ -447,8 +435,7 @@
             "61"
           ]
         },
-        {
-          "cityname": "Lillehammer",
+        "Lillehammer": {
           "zipcodes": [
             "2601",
             "2602",
@@ -460,8 +447,7 @@
             "61"
           ]
         },
-        {
-          "cityname": "Kongsvinger",
+        "Kongsvinger": {
           "zipcodes": [
             "2213",
             "2214",
@@ -473,8 +459,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Rena",
+        "Rena": {
           "zipcodes": [
             "2450",
             "2451",
@@ -486,8 +471,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Elverum",
+        "Elverum": {
           "zipcodes": [
             "2401",
             "2402",
@@ -499,8 +483,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Trysil",
+        "Trysil": {
           "zipcodes": [
             "2420",
             "2421",
@@ -512,8 +495,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Løten",
+        "Løten": {
           "zipcodes": [
             "2325",
             "2326",
@@ -525,8 +507,7 @@
             "62"
           ]
         },
-        {
-          "cityname": "Ringebu",
+        "Ringebu": {
           "zipcodes": [
             "2630",
             "2631",
@@ -538,8 +519,7 @@
             "61"
           ]
         },
-        {
-          "cityname": "Sør-Fron",
+        "Sør-Fron": {
           "zipcodes": [
             "2647",
             "2648",
@@ -551,13 +531,12 @@
             "61"
           ]
         }
-      ],
+      },
       "name": "Innlandet"
     },
     "Møre og Romsdal": {
-      "cities": [
-        {
-          "cityname": "Ålesund",
+      "cities": {
+        "Ålesund": {
           "zipcodes": [
             "6001",
             "6002",
@@ -569,8 +548,7 @@
             "70"
           ]
         },
-        {
-          "cityname": "Molde",
+        "Molde": {
           "zipcodes": [
             "6410",
             "6411",
@@ -582,8 +560,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Volda",
+        "Volda": {
           "zipcodes": [
             "6100",
             "6101",
@@ -595,8 +572,7 @@
             "70"
           ]
         },
-        {
-          "cityname": "Kristiansund",
+        "Kristiansund": {
           "zipcodes": [
             "6501",
             "6502",
@@ -608,8 +584,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Ørsta",
+        "Ørsta": {
           "zipcodes": [
             "6150",
             "6151",
@@ -621,8 +596,7 @@
             "70"
           ]
         },
-        {
-          "cityname": "Sunndalsøra",
+        "Sunndalsøra": {
           "zipcodes": [
             "6600",
             "6601",
@@ -634,8 +608,7 @@
             "71"
           ]
         },
-        {
-          "cityname": "Haram",
+        "Haram": {
           "zipcodes": [
             "6270",
             "6271",
@@ -647,8 +620,7 @@
             "70"
           ]
         },
-        {
-          "cityname": "Sula",
+        "Sula": {
           "zipcodes": [
             "6030",
             "6031",
@@ -660,8 +632,7 @@
             "70"
           ]
         },
-        {
-          "cityname": "Stranda",
+        "Stranda": {
           "zipcodes": [
             "6200",
             "6201",
@@ -673,8 +644,7 @@
             "70"
           ]
         },
-        {
-          "cityname": "Eide",
+        "Eide": {
           "zipcodes": [
             "6490",
             "6491",
@@ -686,13 +656,12 @@
             "71"
           ]
         }
-      ],
+      },
       "name": "Møre og Romsdal"
     },
     "Nordland": {
-      "cities": [
-        {
-          "cityname": "Bodø",
+      "cities": {
+        "Bodø": {
           "zipcodes": [
             "8001",
             "8002",
@@ -704,8 +673,7 @@
             "75"
           ]
         },
-        {
-          "cityname": "Mo i Rana",
+        "Mo i Rana": {
           "zipcodes": [
             "8601",
             "8602",
@@ -717,8 +685,7 @@
             "75"
           ]
         },
-        {
-          "cityname": "Vesterålen",
+        "Vesterålen": {
           "zipcodes": [
             "8400",
             "8401",
@@ -730,8 +697,7 @@
             "75"
           ]
         },
-        {
-          "cityname": "Narvik",
+        "Narvik": {
           "zipcodes": [
             "8514",
             "8515",
@@ -743,8 +709,7 @@
             "76"
           ]
         },
-        {
-          "cityname": "Lofoten",
+        "Lofoten": {
           "zipcodes": [
             "8360",
             "8361",
@@ -756,8 +721,7 @@
             "76"
           ]
         },
-        {
-          "cityname": "Rana",
+        "Rana": {
           "zipcodes": [
             "8601",
             "8602",
@@ -769,8 +733,7 @@
             "75"
           ]
         },
-        {
-          "cityname": "Sortland",
+        "Sortland": {
           "zipcodes": [
             "8400",
             "8401",
@@ -782,8 +745,7 @@
             "76"
           ]
         },
-        {
-          "cityname": "Svolvær",
+        "Svolvær": {
           "zipcodes": [
             "8300",
             "8301",
@@ -795,8 +757,7 @@
             "76"
           ]
         },
-        {
-          "cityname": "Fauske",
+        "Fauske": {
           "zipcodes": [
             "8200",
             "8201",
@@ -808,8 +769,7 @@
             "75"
           ]
         },
-        {
-          "cityname": "Hamarøy",
+        "Hamarøy": {
           "zipcodes": [
             "8260",
             "8261",
@@ -821,13 +781,12 @@
             "75"
           ]
         }
-      ],
+      },
       "name": "Nordland"
     },
     "Oslo": {
-      "cities": [
-        {
-          "cityname": "Oslo",
+      "cities": {
+        "Oslo": {
           "zipcodes": [
             "0101",
             "0102",
@@ -839,13 +798,12 @@
             "22"
           ]
         }
-      ],
+      },
       "name": "Oslo"
     },
     "Rogaland": {
-      "cities": [
-        {
-          "cityname": "Stavanger",
+      "cities": {
+        "Stavanger": {
           "zipcodes": [
             "4001",
             "4002",
@@ -857,8 +815,7 @@
             "51"
           ]
         },
-        {
-          "cityname": "Sandnes",
+        "Sandnes": {
           "zipcodes": [
             "4301",
             "4302",
@@ -870,8 +827,7 @@
             "51"
           ]
         },
-        {
-          "cityname": "Egersund",
+        "Egersund": {
           "zipcodes": [
             "4370",
             "4371",
@@ -883,8 +839,7 @@
             "51"
           ]
         },
-        {
-          "cityname": "Karmøy",
+        "Karmøy": {
           "zipcodes": [
             "4250",
             "4251",
@@ -896,8 +851,7 @@
             "52"
           ]
         },
-        {
-          "cityname": "Haugesund",
+        "Haugesund": {
           "zipcodes": [
             "5521",
             "5522",
@@ -909,8 +863,7 @@
             "52"
           ]
         },
-        {
-          "cityname": "Sola",
+        "Sola": {
           "zipcodes": [
             "4050",
             "4051",
@@ -922,8 +875,7 @@
             "51"
           ]
         },
-        {
-          "cityname": "Bokn",
+        "Bokn": {
           "zipcodes": [
             "4160",
             "4161",
@@ -935,8 +887,7 @@
             "52"
           ]
         },
-        {
-          "cityname": "Randaberg",
+        "Randaberg": {
           "zipcodes": [
             "4070",
             "4071",
@@ -948,8 +899,7 @@
             "51"
           ]
         },
-        {
-          "cityname": "Gjesdal",
+        "Gjesdal": {
           "zipcodes": [
             "4330",
             "4331",
@@ -961,8 +911,7 @@
             "51"
           ]
         },
-        {
-          "cityname": "Time",
+        "Time": {
           "zipcodes": [
             "4340",
             "4341",
@@ -974,13 +923,12 @@
             "51"
           ]
         }
-      ],
+      },
       "name": "Rogaland"
     },
     "Viken": {
-      "cities": [
-        {
-          "cityname": "Drammen",
+      "cities": {
+        "Drammen": {
           "zipcodes": [
             "3001",
             "3002",
@@ -992,8 +940,7 @@
             "32"
           ]
         },
-        {
-          "cityname": "Fredrikstad",
+        "Fredrikstad": {
           "zipcodes": [
             "1601",
             "1602",
@@ -1005,8 +952,7 @@
             "69"
           ]
         },
-        {
-          "cityname": "Asker",
+        "Asker": {
           "zipcodes": [
             "1381",
             "1382",
@@ -1018,8 +964,7 @@
             "32"
           ]
         },
-        {
-          "cityname": "Bærum",
+        "Bærum": {
           "zipcodes": [
             "1351",
             "1352",
@@ -1031,8 +976,7 @@
             "67"
           ]
         },
-        {
-          "cityname": "Lillestrøm",
+        "Lillestrøm": {
           "zipcodes": [
             "2001",
             "2002",
@@ -1044,8 +988,7 @@
             "63"
           ]
         },
-        {
-          "cityname": "Kongsberg",
+        "Kongsberg": {
           "zipcodes": [
             "3601",
             "3602",
@@ -1057,8 +1000,7 @@
             "32"
           ]
         },
-        {
-          "cityname": "Moss",
+        "Moss": {
           "zipcodes": [
             "1501",
             "1502",
@@ -1070,8 +1012,7 @@
             "69"
           ]
         },
-        {
-          "cityname": "Hønefoss",
+        "Hønefoss": {
           "zipcodes": [
             "3510",
             "3511",
@@ -1083,8 +1024,7 @@
             "32"
           ]
         },
-        {
-          "cityname": "Sarpsborg",
+        "Sarpsborg": {
           "zipcodes": [
             "1701",
             "1702",
@@ -1096,8 +1036,7 @@
             "69"
           ]
         },
-        {
-          "cityname": "Kongsvinger",
+        "Kongsvinger": {
           "zipcodes": [
             "2211",
             "2212",
@@ -1109,13 +1048,12 @@
             "62"
           ]
         }
-      ],
+      },
       "name": "Viken"
     },
     "Trøndelag": {
-      "cities": [
-        {
-          "cityname": "Trondheim",
+      "cities": {
+        "Trondheim": {
           "zipcodes": [
             "7011",
             "7012",
@@ -1127,8 +1065,7 @@
             "73"
           ]
         },
-        {
-          "cityname": "Stjørdal",
+        "Stjørdal": {
           "zipcodes": [
             "7500",
             "7501",
@@ -1140,8 +1077,7 @@
             "74"
           ]
         },
-        {
-          "cityname": "Verdal",
+        "Verdal": {
           "zipcodes": [
             "7650",
             "7651",
@@ -1153,8 +1089,7 @@
             "74"
           ]
         },
-        {
-          "cityname": "Namsos",
+        "Namsos": {
           "zipcodes": [
             "7800",
             "7801",
@@ -1166,8 +1101,7 @@
             "74"
           ]
         },
-        {
-          "cityname": "Orkanger",
+        "Orkanger": {
           "zipcodes": [
             "7300",
             "7301",
@@ -1179,8 +1113,7 @@
             "72"
           ]
         },
-        {
-          "cityname": "Melhus",
+        "Melhus": {
           "zipcodes": [
             "7224",
             "7225",
@@ -1192,8 +1125,7 @@
             "73"
           ]
         },
-        {
-          "cityname": "Røros",
+        "Røros": {
           "zipcodes": [
             "7374",
             "7375",
@@ -1205,8 +1137,7 @@
             "72"
           ]
         },
-        {
-          "cityname": "Selbu",
+        "Selbu": {
           "zipcodes": [
             "7580",
             "7581",
@@ -1218,8 +1149,7 @@
             "73"
           ]
         },
-        {
-          "cityname": "Åfjord",
+        "Åfjord": {
           "zipcodes": [
             "7170",
             "7171",
@@ -1231,8 +1161,7 @@
             "73"
           ]
         },
-        {
-          "cityname": "Inderøy",
+        "Inderøy": {
           "zipcodes": [
             "7670",
             "7671",
@@ -1244,13 +1173,12 @@
             "74"
           ]
         }
-      ],
+      },
       "name": "Trøndelag"
     },
     "Troms og Finnmark": {
-      "cities": [
-        {
-          "cityname": "Tromsø",
+      "cities": {
+        "Tromsø": {
           "zipcodes": [
             "9001",
             "9002",
@@ -1262,8 +1190,7 @@
             "77"
           ]
         },
-        {
-          "cityname": "Alta",
+        "Alta": {
           "zipcodes": [
             "9501",
             "9502",
@@ -1275,8 +1202,7 @@
             "78"
           ]
         },
-        {
-          "cityname": "Harstad",
+        "Harstad": {
           "zipcodes": [
             "9401",
             "9402",
@@ -1288,8 +1214,7 @@
             "77"
           ]
         },
-        {
-          "cityname": "Hammerfest",
+        "Hammerfest": {
           "zipcodes": [
             "9600",
             "9601",
@@ -1301,8 +1226,7 @@
             "78"
           ]
         },
-        {
-          "cityname": "Vadsø",
+        "Vadsø": {
           "zipcodes": [
             "9800",
             "9801",
@@ -1314,8 +1238,7 @@
             "78"
           ]
         },
-        {
-          "cityname": "Kautokeino",
+        "Kautokeino": {
           "zipcodes": [
             "9520",
             "9521",
@@ -1327,8 +1250,7 @@
             "78"
           ]
         },
-        {
-          "cityname": "Lenvik",
+        "Lenvik": {
           "zipcodes": [
             "9300",
             "9301",
@@ -1340,8 +1262,7 @@
             "77"
           ]
         },
-        {
-          "cityname": "Lyngen",
+        "Lyngen": {
           "zipcodes": [
             "9060",
             "9061",
@@ -1353,8 +1274,7 @@
             "77"
           ]
         },
-        {
-          "cityname": "Balsfjord",
+        "Balsfjord": {
           "zipcodes": [
             "9050",
             "9051",
@@ -1366,8 +1286,7 @@
             "77"
           ]
         },
-        {
-          "cityname": "Nordkapp",
+        "Nordkapp": {
           "zipcodes": [
             "9760",
             "9761",
@@ -1379,13 +1298,12 @@
             "78"
           ]
         }
-      ],
+      },
       "name": "Troms og Finnmark"
     },
     "Vestfold og Telemark": {
-      "cities": [
-        {
-          "cityname": "Tønsberg",
+      "cities": {
+        "Tønsberg": {
           "zipcodes": [
             "3101",
             "3102",
@@ -1397,8 +1315,7 @@
             "33"
           ]
         },
-        {
-          "cityname": "Sandefjord",
+        "Sandefjord": {
           "zipcodes": [
             "3211",
             "3212",
@@ -1410,8 +1327,7 @@
             "33"
           ]
         },
-        {
-          "cityname": "Porsgrunn",
+        "Porsgrunn": {
           "zipcodes": [
             "3911",
             "3912",
@@ -1423,8 +1339,7 @@
             "35"
           ]
         },
-        {
-          "cityname": "Skien",
+        "Skien": {
           "zipcodes": [
             "3711",
             "3712",
@@ -1436,8 +1351,7 @@
             "35"
           ]
         },
-        {
-          "cityname": "Larvik",
+        "Larvik": {
           "zipcodes": [
             "3251",
             "3252",
@@ -1449,8 +1363,7 @@
             "33"
           ]
         },
-        {
-          "cityname": "Bø",
+        "Bø": {
           "zipcodes": [
             "3801",
             "3802",
@@ -1462,8 +1375,7 @@
             "35"
           ]
         },
-        {
-          "cityname": "Kragerø",
+        "Kragerø": {
           "zipcodes": [
             "3770",
             "3771",
@@ -1475,8 +1387,7 @@
             "35"
           ]
         },
-        {
-          "cityname": "Notodden",
+        "Notodden": {
           "zipcodes": [
             "3670",
             "3671",
@@ -1488,8 +1399,7 @@
             "35"
           ]
         },
-        {
-          "cityname": "Bamble",
+        "Bamble": {
           "zipcodes": [
             "3960",
             "3961",
@@ -1501,8 +1411,7 @@
             "35"
           ]
         },
-        {
-          "cityname": "Siljan",
+        "Siljan": {
           "zipcodes": [
             "3746",
             "3747",
@@ -1514,13 +1423,12 @@
             "35"
           ]
         }
-      ],
+      },
       "name": "Vestfold og Telemark"
     },
     "Vestland": {
-      "cities": [
-        {
-          "cityname": "Bergen",
+      "cities": {
+        "Bergen": {
           "zipcodes": [
             "5001",
             "5002",
@@ -1532,8 +1440,7 @@
             "55"
           ]
         },
-        {
-          "cityname": "Stavanger",
+        "Stavanger": {
           "zipcodes": [
             "4001",
             "4002",
@@ -1545,8 +1452,7 @@
             "51"
           ]
         },
-        {
-          "cityname": "Haugesund",
+        "Haugesund": {
           "zipcodes": [
             "5501",
             "5502",
@@ -1558,8 +1464,7 @@
             "52"
           ]
         },
-        {
-          "cityname": "Florø",
+        "Florø": {
           "zipcodes": [
             "6901",
             "6902",
@@ -1571,8 +1476,7 @@
             "57"
           ]
         },
-        {
-          "cityname": "Voss",
+        "Voss": {
           "zipcodes": [
             "5700",
             "5701",
@@ -1584,8 +1488,7 @@
             "56"
           ]
         },
-        {
-          "cityname": "Øygarden",
+        "Øygarden": {
           "zipcodes": [
             "5335",
             "5336",
@@ -1597,8 +1500,7 @@
             "55"
           ]
         },
-        {
-          "cityname": "Kongsberg",
+        "Kongsberg": {
           "zipcodes": [
             "3611",
             "3612",
@@ -1610,8 +1512,7 @@
             "32"
           ]
         },
-        {
-          "cityname": "Sogndal",
+        "Sogndal": {
           "zipcodes": [
             "6851",
             "6852",
@@ -1623,8 +1524,7 @@
             "57"
           ]
         },
-        {
-          "cityname": "Lærdal",
+        "Lærdal": {
           "zipcodes": [
             "6887",
             "6888",
@@ -1636,8 +1536,7 @@
             "57"
           ]
         },
-        {
-          "cityname": "Alver",
+        "Alver": {
           "zipcodes": [
             "5911",
             "5912",
@@ -1649,27 +1548,98 @@
             "55"
           ]
         }
-      ],
+      },
       "name": "Vestland"
     }
-  }
-  ,
-  "citycontainers":[
+  },
+  "citycontainers": [
     "counties"
   ],
   "firstnames": [
-  "Jakob", "Emil", "William", "Oskar", "Magnus", "Oliver", "Lucas", "Aksel", "Lukas", "Oscar",
-  "Henrik", "Noah", "Elias", "Mikkel", "Andreas", "Mathias", "Sander", "Alexander", "Herman", "Tobias",
-  "Adrian", "Felix", "Mats", "Johannes", "Samuel", "Martin", "Isak", "David", "Daniel", "Benjamin",
-  "Kristian", "Petter", "Viktor", "Amund", "Eivind", "Levi", "Fredrik", "Kasper", "Jonathan", "Theodor",
-  "Sindre", "Liam"
-],
-"lastnames": [
-  "Hansen", "Johansen", "Olsen", "Larsen", "Andersen", "Pedersen", "Nilsen", "Berg", "Dahl", "Solberg",
-  "Jensen", "Madsen", "Pettersen", "Rasmussen", "Christensen", "Haugland", "Kristensen", "Sivertsen", "Haugen", "Stensrud",
-  "Bakken", "Lind", "Strand", "Svendsen", "Karlsen", "Aune", "Røed", "Jørgensen", "Nygard", "Gundersen",
-  "Sørensen", "Eide", "Aarseth", "Lunde", "Viken", "Vik", "Evensen", "Torgersen", "Eliassen", "Eidsvold",
-  "Ness"
-]
-
+    "Jakob",
+    "Emil",
+    "William",
+    "Oskar",
+    "Magnus",
+    "Oliver",
+    "Lucas",
+    "Aksel",
+    "Lukas",
+    "Oscar",
+    "Henrik",
+    "Noah",
+    "Elias",
+    "Mikkel",
+    "Andreas",
+    "Mathias",
+    "Sander",
+    "Alexander",
+    "Herman",
+    "Tobias",
+    "Adrian",
+    "Felix",
+    "Mats",
+    "Johannes",
+    "Samuel",
+    "Martin",
+    "Isak",
+    "David",
+    "Daniel",
+    "Benjamin",
+    "Kristian",
+    "Petter",
+    "Viktor",
+    "Amund",
+    "Eivind",
+    "Levi",
+    "Fredrik",
+    "Kasper",
+    "Jonathan",
+    "Theodor",
+    "Sindre",
+    "Liam"
+  ],
+  "lastnames": [
+    "Hansen",
+    "Johansen",
+    "Olsen",
+    "Larsen",
+    "Andersen",
+    "Pedersen",
+    "Nilsen",
+    "Berg",
+    "Dahl",
+    "Solberg",
+    "Jensen",
+    "Madsen",
+    "Pettersen",
+    "Rasmussen",
+    "Christensen",
+    "Haugland",
+    "Kristensen",
+    "Sivertsen",
+    "Haugen",
+    "Stensrud",
+    "Bakken",
+    "Lind",
+    "Strand",
+    "Svendsen",
+    "Karlsen",
+    "Aune",
+    "Røed",
+    "Jørgensen",
+    "Nygard",
+    "Gundersen",
+    "Sørensen",
+    "Eide",
+    "Aarseth",
+    "Lunde",
+    "Viken",
+    "Vik",
+    "Evensen",
+    "Torgersen",
+    "Eliassen",
+    "Eidsvold",
+    "Ness"
+  ]
 }

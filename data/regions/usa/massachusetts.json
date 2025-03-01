@@ -1,950 +1,868 @@
 {
-    "name": "Massachusetts",
-    "capital": "Boston",
-    "cities": [
-        {
-            "cityname": "Agawam",
-            "zipcodes": [
-                "01001"
-            ],
-            "areacodes": [
-                "413"
-            ]
-        },
-        {
-            "cityname": "Amesbury",
-            "zipcodes": [
-                "01913"
-            ],
-            "areacodes": [
-                "978",
-                "351"
-            ]
-        },
-        {
-            "cityname": "Amherst",
-            "zipcodes": [
-                "01002",
-                "01003",
-                "01004"
-            ],
-            "areacodes": [
-                "413"
-            ]
-        },
-        {
-            "cityname": "Arlington",
-            "zipcodes": [
-                "02474",
-                "02475",
-                "02476"
-            ],
-            "areacodes": [
-                "781",
-                "339"
-            ]
-        },
-        {
-            "cityname": "Attleboro",
-            "zipcodes": [
-                "02703"
-            ],
-            "areacodes": [
-                "508",
-                "774"
-            ]
-        },
-        {
-            "cityname": "Barnstable",
-            "zipcodes": [
-                "02630",
-                "02631",
-                "02632",
-                "02635",
-                "02637",
-                "02647",
-                "02648",
-                "02655",
-                "02668",
-                "02675"
-            ],
-            "areacodes": [
-                "508",
-                "774"
-            ]
-        },
-        {
-            "cityname": "Beverly",
-            "zipcodes": [
-                "01915"
-            ],
-            "areacodes": [
-                "978",
-                "351"
-            ]
-        },
-        {
-            "cityname": "Boston",
-            "zipcodes": [
-                "02108",
-                "02109",
-                "02110",
-                "02111",
-                "02112",
-                "02113",
-                "02114",
-                "02115"
-            ],
-            "areacodes": [
-                "617",
-                "857"
-            ]
-        },
-        {
-            "cityname": "Braintree",
-            "zipcodes": [
-                "02184",
-                "02185"
-            ],
-            "areacodes": [
-                "781",
-                "339"
-            ]
-        },
-        {
-            "cityname": "Brockton",
-            "zipcodes": [
-            "02301",
-            "02302",
-            "02303",
-            "02304",
-            "02305"
-            ],
-            "areacodes": [
-            "508",
-            "774"
-            ]
-        },
-        {
-            "cityname": "Brookline",
-            "zipcodes": [
-            "02445",
-            "02446",
-            "02447",
-            "02467"
-            ],
-            "areacodes": [
-            "617",
-            "857"
-            ]
-        },
-        {
-            "cityname": "Cambridge",
-            "zipcodes": [
-            "02138",
-            "02139",
-            "02140",
-            "02141",
-            "02142",
-            "02163"
-            ],
-            "areacodes": [
-            "617",
-            "857"
-            ]
-        },
-        {
-            "cityname": "Chelsea",
-            "zipcodes": [
-            "02150"
-            ],
-            "areacodes": [
-            "617",
-            "857"
-            ]
-        },
-        {
-            "cityname": "Chicopee",
-            "zipcodes": [
-            "01013",
-            "01020",
-            "01021",
-            "01022"
-            ],
-            "areacodes": [
-            "413"
-            ]
-        },
-        {
-            "cityname": "Clinton",
-            "zipcodes": [
-            "01510"
-            ],
-            "areacodes": [
-            "978",
-            "351"
-            ]
-        },
-        {
-            "cityname": "Concord",
-            "zipcodes": [
-            "01742"
-            ],
-            "areacodes": [
-            "978",
-            "351"
-            ]
-        },
-        {
-            "cityname": "Danvers",
-            "zipcodes": [
-            "01923"
-            ],
-            "areacodes": [
-            "978",
-            "351"
-            ]
-        },
-        {
-            "cityname": "Dartmouth",
-            "zipcodes": [
-            "02714",
-            "02747",
-            "02748"
-            ],
-            "areacodes": [
-            "508",
-            "774"
-            ]
-        },
-        {
-            "cityname": "Dedham",
-            "zipcodes": [
-            "02026",
-            "02027"
-            ],
-            "areacodes": [
-            "781",
-            "339"
-            ]
-        },
-        {
-            "cityname": "Dover",
-            "zipcodes": [
-            "02030"
-            ],
-            "areacodes": [
-            "508",
-            "774"
-            ]
-        },
-        {
-            "cityname": "East Longmeadow",
-            "zipcodes": [
-            "01028"
-            ],
-            "areacodes": [
-            "413"
-            ]
-        },
-        {
-            "cityname": "Easthampton",
-            "zipcodes": [
-            "01027"
-            ],
-            "areacodes": [
-            "413"
-            ]
-        },
-        {
-            "cityname": "Everett",
-            "zipcodes": [
-            "02149"
-            ],
-            "areacodes": [
-            "617",
-            "857"
-            ]
-        },
-        {
-            "cityname": "Fairhaven",
-            "zipcodes": [
-            "02719"
-            ],
-            "areacodes": [
-            "508",
-            "774"
-            ]
-        },
-        {
-            "cityname": "Fall River",
-            "zipcodes": [
-            "02720",
-            "02721",
-            "02722",
-            "02723",
-            "02724"
-            ],
-            "areacodes": [
-            "508",
-            "774"
-            ]
-        },
-        {
-            "cityname": "Fitchburg",
-            "zipcodes": [
-            "01420"
-            ],
-            "areacodes": [
-            "978",
-            "351"
-            ]
-        },
-        {
-            "cityname": "Framingham",
-            "zipcodes": [
-            "01701",
-            "01702",
-            "01703",
-            "01704",
-            "01705"
-            ],
-            "areacodes": [
-            "508",
-            "774"
-            ]
-        },
-        {
-            "cityname": "Franklin",
-            "zipcodes": [
-            "02038"
-            ],
-            "areacodes": [
-            "508",
-            "774"
-            ]
-        },
-        {
-            "cityname": "Gardner",
-            "zipcodes": [
-            "01440"
-            ],
-            "areacodes": [
-            "978",
-            "351"
-            ]
-        },
-        {
-            "cityname": "Gloucester",
-            "zipcodes": [
-            "01930"
-            ],
-            "areacodes": [
-            "978",
-            "351"
-            ]
-        },
-        {
-            "cityname": "Greenfield",
-            "zipcodes": [
-            "01301"
-            ],
-            "areacodes": [
-            "413"
-            ]
-        },
-        {
-            "cityname": "Groton",
-            "zipcodes": [
-            "01450"
-            ],
-            "areacodes": [
-            "978",
-            "351"
-            ]
-        },
-        {
-            "cityname": "Hadley",
-            "zipcodes": [
-            "01035"
-            ],
-            "areacodes": [
-            "413"
-            ]
-        },
-        {
-            "cityname": "Haverhill",
-            "zipcodes": [
-            "01830",
-            "01831",
-            "01832",
-            "01835"
-            ],
-            "areacodes": [
-            "978",
-            "351"
-            ]
-        },
-        {
-            "cityname": "Hingham",
-            "zipcodes": [
-            "02043",
-            "02044"
-            ],
-            "areacodes": [
-            "781",
-            "339"
-            ]
-        },
-        {
-            "cityname": "Holyoke",
-            "zipcodes": [
-            "01040",
-            "01041"
-            ],
-            "areacodes": [
-            "413"
-            ]
-        },
-        {
-            "cityname": "Hudson",
-            "zipcodes": [
-            "01749"
-            ],
-            "areacodes": [
-            "978",
-            "351"
-            ]
-        },
-        {
-            "cityname": "Lawrence",
-            "zipcodes": [
-            "01840",
-            "01841",
-            "01842",
-            "01843"
-            ],
-            "areacodes": [
-            "978",
-            "351"
-            ]
-        },
-        {
-            "cityname": "Leominster",
-            "zipcodes": [
-            "01453"
-            ],
-            "areacodes": [
-            "978",
-            "351"
-            ]
-        },
-        {
-            "cityname": "Lexington",
-            "zipcodes": [
-            "02420",
-            "02421"
-            ],
-            "areacodes": [
-            "781",
-            "339"
-            ]
-        },
-        {
-            "cityname": "Lowell",
-            "zipcodes": [
-            "01850",
-            "01851",
-            "01852",
-            "01853",
-            "01854"
-            ],
-            "areacodes": [
-            "978",
-            "351"
-            ]
-        },
-        {
-            "cityname": "Ludlow",
-            "zipcodes": [
-            "01056"
-            ],
-            "areacodes": [
-            "413"
-            ]
-        },
-        {
-            "cityname": "Lynn",
-            "zipcodes": [
-            "01901",
-            "01902",
-            "01903",
-            "01904",
-            "01905",
-            "01910"
-            ],
-            "areacodes": [
-            "781",
-            "339"
-            ]
-        },
-        {
-            "cityname": "Malden",
-            "zipcodes": [
-            "02148"
-            ],
-            "areacodes": [
-            "781",
-            "339"
-            ]
-        },
-        {
-            "cityname": "Marlborough",
-            "zipcodes": [
-            "01752"
-            ],
-            "areacodes": [
-            "508",
-            "774"
-            ]
-        },
-        {
-            "cityname": "Medford",
-            "zipcodes": [
-            "02155",
-            "02156"
-            ],
-            "areacodes": [
-            "781",
-            "339"
-            ]
-        },
-        {
-            "cityname": "Melrose",
-            "zipcodes": [
-            "02176"
-            ],
-            "areacodes": [
-            "781",
-            "339"
-            ]
-        },
-        {
-            "cityname": "Methuen",
-            "zipcodes": [
-            "01844"
-            ],
-            "areacodes": [
-            "978",
-            "351"
-            ]
-        },
-        {
-            "cityname": "Milford",
-            "zipcodes": [
-            "01757"
-            ],
-            "areacodes": [
-            "508",
-            "774"
-            ]
-        },
-        {
-            "cityname": "Milton",
-            "zipcodes": [
-            "02186",
-            "02187"
-            ],
-            "areacodes": [
-            "617",
-            "857"
-            ]
-        },
-        {
-            "cityname": "Natick",
-            "zipcodes": [
-            "01760"
-            ],
-            "areacodes": [
-            "508",
-            "774"
-            ]
-        },
-        {
-            "cityname": "New Bedford",
-            "zipcodes": [
-            "02740",
-            "02741",
-            "02742",
-            "02744",
-            "02745",
-            "02746"
-            ],
-            "areacodes": [
-            "508",
-            "774"
-            ]
-        },
-        {
-            "cityname": "Newburyport",
-            "zipcodes": [
-            "01950"
-            ],
-            "areacodes": [
-            "978",
-            "351"
-            ]
-        },
-        {
-            "cityname": "Newton",
-            "zipcodes": [
-            "02458",
-            "02459",
-            "02460",
-            "02461",
-            "02462",
-            "02464",
-            "02465",
-            "02466",
-            "02467",
-            "02468"
-            ],
-            "areacodes": [
-            "617",
-            "857"
-            ]
-        },
-        {
-            "cityname": "North Adams",
-            "zipcodes": [
-            "01247"
-            ],
-            "areacodes": [
-            "413"
-            ]
-        },
-        {
-            "cityname": "Northampton",
-            "zipcodes": [
-            "01060",
-            "01061",
-            "01062",
-            "01063"
-            ],
-            "areacodes": [
-            "413"
-            ]
-        },
-        {
-            "cityname": "Norwood",
-            "zipcodes": [
-            "02062"
-            ],
-            "areacodes": [
-            "781",
-            "339"
-            ]
-        },
-        {
-            "cityname": "Peabody",
-            "zipcodes": [
-            "01960",
-            "01961"
-            ],
-            "areacodes": [
-            "978",
-            "351"
-            ]
-        },
-        {
-            "cityname": "Pittsfield",
-            "zipcodes": [
-            "01201",
-            "01202",
-            "01203"
-            ],
-            "areacodes": [
-            "413"
-            ]
-        },
-        {
-            "cityname": "Plymouth",
-            "zipcodes": [
-            "02360",
-            "02361",
-            "02362"
-            ],
-            "areacodes": [
-            "508",
-            "774"
-            ]
-        },
-        {
-            "cityname": "Quincy",
-            "zipcodes": [
-            "02169",
-            "02170",
-            "02171"
-            ],
-            "areacodes": [
-            "617",
-            "857"
-            ]
-        },
-        {
-            "cityname": "Randolph",
-            "zipcodes": [
-            "02368"
-            ],
-            "areacodes": [
-            "781",
-            "339"
-            ]
-        },
-        {
-            "cityname": "Revere",
-            "zipcodes": [
-            "02151"
-            ],
-            "areacodes": [
-            "781",
-            "339"
-            ]
-        },
-        {
-            "cityname": "Salem",
-            "zipcodes": [
-            "01970",
-            "01971"
-            ],
-            "areacodes": [
-            "978",
-            "351"
-            ]
-        },
-        {
-            "cityname": "Saugus",
-            "zipcodes": [
-            "01906"
-            ],
-            "areacodes": [
-            "781",
-            "339"
-            ]
-        },
-        {
-            "cityname": "Somerville",
-            "zipcodes": [
-            "02143",
-            "02144",
-            "02145"
-            ],
-            "areacodes": [
-            "617",
-            "857"
-            ]
-        },
-        {
-            "cityname": "South Hadley",
-            "zipcodes": [
-            "01075"
-            ],
-            "areacodes": [
-            "413"
-            ]
-        },
-        {
-            "cityname": "Springfield",
-            "zipcodes": [
-            "01101",
-            "01102",
-            "01103",
-            "01104",
-            "01105",
-            "01107",
-            "01108",
-            "01109",
-            "01118",
-            "01119",
-            "01128",
-            "01129",
-            "01151"
-            ],
-            "areacodes": [
-            "413"
-            ]
-        },
-        {
-            "cityname": "Stoneham",
-            "zipcodes": [
-            "02180"
-            ],
-            "areacodes": [
-            "781",
-            "339"
-            ]
-        },
-        {
-            "cityname": "Stoughton",
-            "zipcodes": [
-            "02072"
-            ],
-            "areacodes": [
-            "781",
-            "339"
-            ]
-        },
-        {
-            "cityname": "Taunton",
-            "zipcodes": [
-            "02780",
-            "02783"
-            ],
-            "areacodes": [
-            "508",
-            "774"
-            ]
-        },
-        {
-            "cityname": "Tewksbury",
-            "zipcodes": [
-            "01876"
-            ],
-            "areacodes": [
-            "978",
-            "351"
-            ]
-        },
-        {
-            "cityname": "Wakefield",
-            "zipcodes": [
-            "01880"
-            ],
-            "areacodes": [
-            "781",
-            "339"
-            ]
-        },
-        {
-            "cityname": "Waltham",
-            "zipcodes": [
-            "02451",
-            "02452",
-            "02453",
-            "02454"
-            ],
-            "areacodes": [
-            "781",
-            "339"
-            ]
-        },
-        {
-            "cityname": "Watertown",
-            "zipcodes": [
-            "02471",
-            "02472",
-            "02477"
-            ],
-            "areacodes": [
-            "617",
-            "857"
-            ]
-        },
-        {
-            "cityname": "Wellesley",
-            "zipcodes": [
-            "02481",
-            "02482"
-            ],
-            "areacodes": [
-            "781",
-            "339"
-            ]
-        },
-        {
-            "cityname": "West Springfield",
-            "zipcodes": [
-            "01089",
-            "01090"
-            ],
-            "areacodes": [
-            "413"
-            ]
-        },
-        {
-            "cityname": "Westfield",
-            "zipcodes": [
-            "01085",
-            "01086"
-            ],
-            "areacodes": [
-            "413"
-            ]
-        },
-        {
-            "cityname": "Weymouth",
-            "zipcodes": [
-            "02188",
-            "02189",
-            "02190",
-            "02191"
-            ],
-            "areacodes": [
-            "781",
-            "339"
-            ]
-        },
-        {
-            "cityname": "Woburn",
-            "zipcodes": [
-            "01801",
-            "01813",
-            "01815",
-            "01888"
-            ],
-            "areacodes": [
-            "781",
-            "339"
-            ]
-        },
-        {
-            "cityname": "Worcester",
-            "zipcodes": [
-            "01601",
-            "01602",
-            "01603",
-            "01604",
-            "01605",
-            "01606",
-            "01607",
-            "01608",
-            "01609",
-            "01610",
-            "01611",
-            "01612",
-            "01613",
-            "01614",
-            "01615",
-            "01653",
-            "01654",
-            "01655"
-            ],
-            "areacodes": [
-            "508",
-            "774"
-            ]
-        },
-        {
-            "cityname": "Yarmouth",
-            "zipcodes": [
-            "02664",
-            "02673",
-            "02675"
-            ],
-            "areacodes": [
-            "508",
-            "774"
-            ]
-        }
-    ]
+  "name": "Massachusetts",
+  "capital": "Boston",
+  "cities": {
+    "Agawam": {
+      "zipcodes": [
+        "01001"
+      ],
+      "areacodes": [
+        "413"
+      ]
+    },
+    "Amesbury": {
+      "zipcodes": [
+        "01913"
+      ],
+      "areacodes": [
+        "978",
+        "351"
+      ]
+    },
+    "Amherst": {
+      "zipcodes": [
+        "01002",
+        "01003",
+        "01004"
+      ],
+      "areacodes": [
+        "413"
+      ]
+    },
+    "Arlington": {
+      "zipcodes": [
+        "02474",
+        "02475",
+        "02476"
+      ],
+      "areacodes": [
+        "781",
+        "339"
+      ]
+    },
+    "Attleboro": {
+      "zipcodes": [
+        "02703"
+      ],
+      "areacodes": [
+        "508",
+        "774"
+      ]
+    },
+    "Barnstable": {
+      "zipcodes": [
+        "02630",
+        "02631",
+        "02632",
+        "02635",
+        "02637",
+        "02647",
+        "02648",
+        "02655",
+        "02668",
+        "02675"
+      ],
+      "areacodes": [
+        "508",
+        "774"
+      ]
+    },
+    "Beverly": {
+      "zipcodes": [
+        "01915"
+      ],
+      "areacodes": [
+        "978",
+        "351"
+      ]
+    },
+    "Boston": {
+      "zipcodes": [
+        "02108",
+        "02109",
+        "02110",
+        "02111",
+        "02112",
+        "02113",
+        "02114",
+        "02115"
+      ],
+      "areacodes": [
+        "617",
+        "857"
+      ]
+    },
+    "Braintree": {
+      "zipcodes": [
+        "02184",
+        "02185"
+      ],
+      "areacodes": [
+        "781",
+        "339"
+      ]
+    },
+    "Brockton": {
+      "zipcodes": [
+        "02301",
+        "02302",
+        "02303",
+        "02304",
+        "02305"
+      ],
+      "areacodes": [
+        "508",
+        "774"
+      ]
+    },
+    "Brookline": {
+      "zipcodes": [
+        "02445",
+        "02446",
+        "02447",
+        "02467"
+      ],
+      "areacodes": [
+        "617",
+        "857"
+      ]
+    },
+    "Cambridge": {
+      "zipcodes": [
+        "02138",
+        "02139",
+        "02140",
+        "02141",
+        "02142",
+        "02163"
+      ],
+      "areacodes": [
+        "617",
+        "857"
+      ]
+    },
+    "Chelsea": {
+      "zipcodes": [
+        "02150"
+      ],
+      "areacodes": [
+        "617",
+        "857"
+      ]
+    },
+    "Chicopee": {
+      "zipcodes": [
+        "01013",
+        "01020",
+        "01021",
+        "01022"
+      ],
+      "areacodes": [
+        "413"
+      ]
+    },
+    "Clinton": {
+      "zipcodes": [
+        "01510"
+      ],
+      "areacodes": [
+        "978",
+        "351"
+      ]
+    },
+    "Concord": {
+      "zipcodes": [
+        "01742"
+      ],
+      "areacodes": [
+        "978",
+        "351"
+      ]
+    },
+    "Danvers": {
+      "zipcodes": [
+        "01923"
+      ],
+      "areacodes": [
+        "978",
+        "351"
+      ]
+    },
+    "Dartmouth": {
+      "zipcodes": [
+        "02714",
+        "02747",
+        "02748"
+      ],
+      "areacodes": [
+        "508",
+        "774"
+      ]
+    },
+    "Dedham": {
+      "zipcodes": [
+        "02026",
+        "02027"
+      ],
+      "areacodes": [
+        "781",
+        "339"
+      ]
+    },
+    "Dover": {
+      "zipcodes": [
+        "02030"
+      ],
+      "areacodes": [
+        "508",
+        "774"
+      ]
+    },
+    "East Longmeadow": {
+      "zipcodes": [
+        "01028"
+      ],
+      "areacodes": [
+        "413"
+      ]
+    },
+    "Easthampton": {
+      "zipcodes": [
+        "01027"
+      ],
+      "areacodes": [
+        "413"
+      ]
+    },
+    "Everett": {
+      "zipcodes": [
+        "02149"
+      ],
+      "areacodes": [
+        "617",
+        "857"
+      ]
+    },
+    "Fairhaven": {
+      "zipcodes": [
+        "02719"
+      ],
+      "areacodes": [
+        "508",
+        "774"
+      ]
+    },
+    "Fall River": {
+      "zipcodes": [
+        "02720",
+        "02721",
+        "02722",
+        "02723",
+        "02724"
+      ],
+      "areacodes": [
+        "508",
+        "774"
+      ]
+    },
+    "Fitchburg": {
+      "zipcodes": [
+        "01420"
+      ],
+      "areacodes": [
+        "978",
+        "351"
+      ]
+    },
+    "Framingham": {
+      "zipcodes": [
+        "01701",
+        "01702",
+        "01703",
+        "01704",
+        "01705"
+      ],
+      "areacodes": [
+        "508",
+        "774"
+      ]
+    },
+    "Franklin": {
+      "zipcodes": [
+        "02038"
+      ],
+      "areacodes": [
+        "508",
+        "774"
+      ]
+    },
+    "Gardner": {
+      "zipcodes": [
+        "01440"
+      ],
+      "areacodes": [
+        "978",
+        "351"
+      ]
+    },
+    "Gloucester": {
+      "zipcodes": [
+        "01930"
+      ],
+      "areacodes": [
+        "978",
+        "351"
+      ]
+    },
+    "Greenfield": {
+      "zipcodes": [
+        "01301"
+      ],
+      "areacodes": [
+        "413"
+      ]
+    },
+    "Groton": {
+      "zipcodes": [
+        "01450"
+      ],
+      "areacodes": [
+        "978",
+        "351"
+      ]
+    },
+    "Hadley": {
+      "zipcodes": [
+        "01035"
+      ],
+      "areacodes": [
+        "413"
+      ]
+    },
+    "Haverhill": {
+      "zipcodes": [
+        "01830",
+        "01831",
+        "01832",
+        "01835"
+      ],
+      "areacodes": [
+        "978",
+        "351"
+      ]
+    },
+    "Hingham": {
+      "zipcodes": [
+        "02043",
+        "02044"
+      ],
+      "areacodes": [
+        "781",
+        "339"
+      ]
+    },
+    "Holyoke": {
+      "zipcodes": [
+        "01040",
+        "01041"
+      ],
+      "areacodes": [
+        "413"
+      ]
+    },
+    "Hudson": {
+      "zipcodes": [
+        "01749"
+      ],
+      "areacodes": [
+        "978",
+        "351"
+      ]
+    },
+    "Lawrence": {
+      "zipcodes": [
+        "01840",
+        "01841",
+        "01842",
+        "01843"
+      ],
+      "areacodes": [
+        "978",
+        "351"
+      ]
+    },
+    "Leominster": {
+      "zipcodes": [
+        "01453"
+      ],
+      "areacodes": [
+        "978",
+        "351"
+      ]
+    },
+    "Lexington": {
+      "zipcodes": [
+        "02420",
+        "02421"
+      ],
+      "areacodes": [
+        "781",
+        "339"
+      ]
+    },
+    "Lowell": {
+      "zipcodes": [
+        "01850",
+        "01851",
+        "01852",
+        "01853",
+        "01854"
+      ],
+      "areacodes": [
+        "978",
+        "351"
+      ]
+    },
+    "Ludlow": {
+      "zipcodes": [
+        "01056"
+      ],
+      "areacodes": [
+        "413"
+      ]
+    },
+    "Lynn": {
+      "zipcodes": [
+        "01901",
+        "01902",
+        "01903",
+        "01904",
+        "01905",
+        "01910"
+      ],
+      "areacodes": [
+        "781",
+        "339"
+      ]
+    },
+    "Malden": {
+      "zipcodes": [
+        "02148"
+      ],
+      "areacodes": [
+        "781",
+        "339"
+      ]
+    },
+    "Marlborough": {
+      "zipcodes": [
+        "01752"
+      ],
+      "areacodes": [
+        "508",
+        "774"
+      ]
+    },
+    "Medford": {
+      "zipcodes": [
+        "02155",
+        "02156"
+      ],
+      "areacodes": [
+        "781",
+        "339"
+      ]
+    },
+    "Melrose": {
+      "zipcodes": [
+        "02176"
+      ],
+      "areacodes": [
+        "781",
+        "339"
+      ]
+    },
+    "Methuen": {
+      "zipcodes": [
+        "01844"
+      ],
+      "areacodes": [
+        "978",
+        "351"
+      ]
+    },
+    "Milford": {
+      "zipcodes": [
+        "01757"
+      ],
+      "areacodes": [
+        "508",
+        "774"
+      ]
+    },
+    "Milton": {
+      "zipcodes": [
+        "02186",
+        "02187"
+      ],
+      "areacodes": [
+        "617",
+        "857"
+      ]
+    },
+    "Natick": {
+      "zipcodes": [
+        "01760"
+      ],
+      "areacodes": [
+        "508",
+        "774"
+      ]
+    },
+    "New Bedford": {
+      "zipcodes": [
+        "02740",
+        "02741",
+        "02742",
+        "02744",
+        "02745",
+        "02746"
+      ],
+      "areacodes": [
+        "508",
+        "774"
+      ]
+    },
+    "Newburyport": {
+      "zipcodes": [
+        "01950"
+      ],
+      "areacodes": [
+        "978",
+        "351"
+      ]
+    },
+    "Newton": {
+      "zipcodes": [
+        "02458",
+        "02459",
+        "02460",
+        "02461",
+        "02462",
+        "02464",
+        "02465",
+        "02466",
+        "02467",
+        "02468"
+      ],
+      "areacodes": [
+        "617",
+        "857"
+      ]
+    },
+    "North Adams": {
+      "zipcodes": [
+        "01247"
+      ],
+      "areacodes": [
+        "413"
+      ]
+    },
+    "Northampton": {
+      "zipcodes": [
+        "01060",
+        "01061",
+        "01062",
+        "01063"
+      ],
+      "areacodes": [
+        "413"
+      ]
+    },
+    "Norwood": {
+      "zipcodes": [
+        "02062"
+      ],
+      "areacodes": [
+        "781",
+        "339"
+      ]
+    },
+    "Peabody": {
+      "zipcodes": [
+        "01960",
+        "01961"
+      ],
+      "areacodes": [
+        "978",
+        "351"
+      ]
+    },
+    "Pittsfield": {
+      "zipcodes": [
+        "01201",
+        "01202",
+        "01203"
+      ],
+      "areacodes": [
+        "413"
+      ]
+    },
+    "Plymouth": {
+      "zipcodes": [
+        "02360",
+        "02361",
+        "02362"
+      ],
+      "areacodes": [
+        "508",
+        "774"
+      ]
+    },
+    "Quincy": {
+      "zipcodes": [
+        "02169",
+        "02170",
+        "02171"
+      ],
+      "areacodes": [
+        "617",
+        "857"
+      ]
+    },
+    "Randolph": {
+      "zipcodes": [
+        "02368"
+      ],
+      "areacodes": [
+        "781",
+        "339"
+      ]
+    },
+    "Revere": {
+      "zipcodes": [
+        "02151"
+      ],
+      "areacodes": [
+        "781",
+        "339"
+      ]
+    },
+    "Salem": {
+      "zipcodes": [
+        "01970",
+        "01971"
+      ],
+      "areacodes": [
+        "978",
+        "351"
+      ]
+    },
+    "Saugus": {
+      "zipcodes": [
+        "01906"
+      ],
+      "areacodes": [
+        "781",
+        "339"
+      ]
+    },
+    "Somerville": {
+      "zipcodes": [
+        "02143",
+        "02144",
+        "02145"
+      ],
+      "areacodes": [
+        "617",
+        "857"
+      ]
+    },
+    "South Hadley": {
+      "zipcodes": [
+        "01075"
+      ],
+      "areacodes": [
+        "413"
+      ]
+    },
+    "Springfield": {
+      "zipcodes": [
+        "01101",
+        "01102",
+        "01103",
+        "01104",
+        "01105",
+        "01107",
+        "01108",
+        "01109",
+        "01118",
+        "01119",
+        "01128",
+        "01129",
+        "01151"
+      ],
+      "areacodes": [
+        "413"
+      ]
+    },
+    "Stoneham": {
+      "zipcodes": [
+        "02180"
+      ],
+      "areacodes": [
+        "781",
+        "339"
+      ]
+    },
+    "Stoughton": {
+      "zipcodes": [
+        "02072"
+      ],
+      "areacodes": [
+        "781",
+        "339"
+      ]
+    },
+    "Taunton": {
+      "zipcodes": [
+        "02780",
+        "02783"
+      ],
+      "areacodes": [
+        "508",
+        "774"
+      ]
+    },
+    "Tewksbury": {
+      "zipcodes": [
+        "01876"
+      ],
+      "areacodes": [
+        "978",
+        "351"
+      ]
+    },
+    "Wakefield": {
+      "zipcodes": [
+        "01880"
+      ],
+      "areacodes": [
+        "781",
+        "339"
+      ]
+    },
+    "Waltham": {
+      "zipcodes": [
+        "02451",
+        "02452",
+        "02453",
+        "02454"
+      ],
+      "areacodes": [
+        "781",
+        "339"
+      ]
+    },
+    "Watertown": {
+      "zipcodes": [
+        "02471",
+        "02472",
+        "02477"
+      ],
+      "areacodes": [
+        "617",
+        "857"
+      ]
+    },
+    "Wellesley": {
+      "zipcodes": [
+        "02481",
+        "02482"
+      ],
+      "areacodes": [
+        "781",
+        "339"
+      ]
+    },
+    "West Springfield": {
+      "zipcodes": [
+        "01089",
+        "01090"
+      ],
+      "areacodes": [
+        "413"
+      ]
+    },
+    "Westfield": {
+      "zipcodes": [
+        "01085",
+        "01086"
+      ],
+      "areacodes": [
+        "413"
+      ]
+    },
+    "Weymouth": {
+      "zipcodes": [
+        "02188",
+        "02189",
+        "02190",
+        "02191"
+      ],
+      "areacodes": [
+        "781",
+        "339"
+      ]
+    },
+    "Woburn": {
+      "zipcodes": [
+        "01801",
+        "01813",
+        "01815",
+        "01888"
+      ],
+      "areacodes": [
+        "781",
+        "339"
+      ]
+    },
+    "Worcester": {
+      "zipcodes": [
+        "01601",
+        "01602",
+        "01603",
+        "01604",
+        "01605",
+        "01606",
+        "01607",
+        "01608",
+        "01609",
+        "01610",
+        "01611",
+        "01612",
+        "01613",
+        "01614",
+        "01615",
+        "01653",
+        "01654",
+        "01655"
+      ],
+      "areacodes": [
+        "508",
+        "774"
+      ]
+    },
+    "Yarmouth": {
+      "zipcodes": [
+        "02664",
+        "02673",
+        "02675"
+      ],
+      "areacodes": [
+        "508",
+        "774"
+      ]
+    }
+  }
 }

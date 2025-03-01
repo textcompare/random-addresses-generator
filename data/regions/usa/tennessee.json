@@ -1,786 +1,1261 @@
 {
-    "cityname" : "Tennessee",
-    "capitcal" : "Nashville",
-    "cities" : [
-        {
-            "cityname" : "Memphis",
-            "areacodes" :["901"] ,
-            "zipcodes" : [38101, 38103, 38104, 38105, 38112, 38118, 38127]
-        },
-        {
-            "cityname" : "Adamsville",
-            "areacodes" : ["731"],
-            "zipcodes" : [38310]
-        },
-        {
-            "cityname" : "Alamo",
-            "areacodes" : ["731"],
-            "zipcodes" : [38001]
-        },
-        {
-            "cityname" : "Alexandria",
-            "areacodes" : ["615"],
-            "zipcodes" : [37012]
-        },
-        {
-            "cityname" : "Altamont",
-            "areacodes" : ["931"],
-            "zipcodes" : [37301]
-        },
-        {
-            "cityname" : "Arlington",
-            "areacodes" : ["901"],
-            "zipcodes" : [38002]
-        },
-        {
-            "cityname" : "Ashland City",
-            "areacodes" : ["615"],
-            "zipcodes" : [37015]
-        },
-        {
-            "cityname" : "Atwood",
-            "areacodes" : ["731"],
-            "zipcodes" : [38220]
-        },
-        {
-            "cityname" : "Auburntown",
-            "areacodes" : ["615"],
-            "zipcodes" : [37016]
-        },
-        {
-            "cityname" : "Baileyton",
-            "areacodes" : ["423"],
-            "zipcodes" : [37745]
-        },
-        {
-            "cityname" : "Bean Station",
-            "areacodes" : ["865"],
-            "zipcodes" : [37708]
-        },
-        {
-            "cityname" : "Beersheba Springs",
-            "areacodes" : ["931"],
-            "zipcodes" : [37305]
-        },
-        {
-            "cityname" : "Bell Buckle",
-            "areacodes" : ["931"],
-            "zipcodes" : [37020]
-        },
-        {
-            "cityname" : "Benton",
-            "areacodes" : ["423"],
-            "zipcodes" : [37307]
-        },
-        {
-            "cityname" : "Bethel Springs",
-            "areacodes" : ["731"],
-            "zipcodes" : [38315]
-        },
-        {
-            "cityname" : "Big Sandy",
-            "areacodes" : ["731"],
-            "zipcodes" : [38221]
-        },
-        {
-            "cityname" : "Braden",
-            "areacodes" : ["901"],
-            "zipcodes" : [38010]
-        },
-        {
-            "cityname" : "Bradford",
-            "areacodes" : ["731"],
-            "zipcodes" : [38316]
-        },
-        {
-            "cityname" : "Brighton",
-            "areacodes" : ["901"],
-            "zipcodes" : [38011]
-        },
-        {
-            "cityname" : "Bruceton",
-            "areacodes" : ["731"],
-            "zipcodes" : [38317]
-        },
-        {
-            "cityname" : "Bulls Gap",
-            "areacodes" : ["423"],
-            "zipcodes" : [37711]
-        },
-        {
-            "cityname" : "Burlison",
-            "areacodes" : ["901"],
-            "zipcodes" : [38015]
-        },
-        {
-            "cityname" : "Burns",
-            "areacodes" : ["615"],
-            "zipcodes" : [37029]
-        },
-        {
-            "cityname" : "Byrdstown",
-            "areacodes" : ["931"],
-            "zipcodes" : [38549]
-        },
-        {
-            "cityname" : "Calhoun",
-            "areacodes" : ["423"],
-            "zipcodes" : [37309]
-        },
-        {
-            "cityname" : "Carthage",
-            "areacodes" : ["615"],
-            "zipcodes" : [37030]
-        },
-        {
-            "cityname" : "Caryville",
-            "areacodes" : ["423"],
-            "zipcodes" : [37714]
-        },
-        {
-            "cityname" : "Centertown",
-            "areacodes" : ["931"],
-            "zipcodes" : [37110]
-        },
-        {
-            "cityname" : "Centerville",
-            "areacodes" : ["931"],
-            "zipcodes" : [37033]
-        },
-        {
-            "cityname" : "Chapel Hill",
-            "areacodes" : ["931"],
-            "zipcodes" : [37034]
-        },
-        {
-            "cityname" : "Charlotte",
-            "areacodes" : ["615"],
-            "zipcodes" : [37036]
-        },
-        {
-            "cityname" : "Clarksburg",
-            "areacodes" : ["731"],
-            "zipcodes" : [38324]
-        },
-        {
-            "cityname" : "Collierville",
-            "areacodes" : ["901"],
-            "zipcodes" : [38017, 38027]
-        },
-        {
-            "cityname" : "Coopertown",
-            "areacodes" : ["615"],
-            "zipcodes" : [37146]
-        },
-        {
-            "cityname" : "Cornersville",
-            "areacodes" : ["931"],
-            "zipcodes" : [37047]
-        },
-        {
-            "cityname" : "Cottage Grove",
-            "areacodes" : ["731"],
-            "zipcodes" : [38224]
-        },
-        {
-            "cityname" : "Cumberland City",
-            "areacodes" : ["931"],
-            "zipcodes" : [37050]
-        },
-        {
-            "cityname" : "Cumberland Gap",
-            "areacodes" : ["423"],
-            "zipcodes" : [37724]
-        },
-        {
-            "cityname" : "Dandridge",
-            "areacodes" : ["865"],
-            "zipcodes" : [37725]
-        },
-        {
-            "cityname" : "Decatur",
-            "areacodes" : ["423"],
-            "zipcodes" : [37322]
-        },
-        {
-            "cityname" : "Decaturville",
-            "areacodes" : ["731"],
-            "zipcodes" : [38329]
-        },
-        {
-            "cityname" : "Dowelltown",
-            "areacodes" : ["615"],
-            "zipcodes" : [37059]
-        },
-        {
-            "cityname" : "Doyle",
-            "areacodes" : ["931"],
-            "zipcodes" : [38559]
-        },
-        {
-            "cityname" : "Dresden",
-            "areacodes" : ["731"],
-            "zipcodes" : [38225]
-        },
-        {
-            "cityname" : "Eastview",
-            "areacodes" : ["731"],
-            "zipcodes" : [38367]
-        },
-        {
-            "cityname" : "Englewood",
-            "areacodes" : ["423"],
-            "zipcodes" : [37329]
-        },
-        {
-            "cityname" : "Enville",
-            "areacodes" : ["731"],
-            "zipcodes" : [38332]
-        },
-        {
-            "cityname" : "Erwin",
-            "areacodes" : ["423"],
-            "zipcodes" : [37650]
-        },
-        {
-            "cityname" : "Estill Springs",
-            "areacodes" : ["931"],
-            "zipcodes" : [37330]
-        },
-        {
-            "cityname" : "Ethridge",
-            "areacodes" : ["931"],
-            "zipcodes" : [38456]
-        },
-        {
-            "cityname" : "Farragut",
-            "areacodes" : ["865"],
-            "zipcodes" : [37934]
-        },
-        {
-            "cityname" : "Finger",
-            "areacodes" : ["731"],
-            "zipcodes" : [38334]
-        },
-        {
-            "cityname" : "Gadsden",
-            "areacodes" : ["731"],
-            "zipcodes" : [38337]
-        },
-        {
-            "cityname" : "Gainesboro",
-            "areacodes" : ["931"],
-            "zipcodes" : [38562]
-        },
-        {
-            "cityname" : "Garland",
-            "areacodes" : ["901"],
-            "zipcodes" : [38039]
-        },
-        {
-            "cityname" : "Gates",
-            "areacodes" : ["731"],
-            "zipcodes" : [38037]
-        },
-        {
-            "cityname" : "Gibson",
-            "areacodes" : ["731"],
-            "zipcodes" : [38338]
-        },
-        {
-            "cityname" : "Gleason",
-            "areacodes" : ["731"],
-            "zipcodes" : [38229]
-        },
-        {
-            "cityname" : "Gordonsville",
-            "areacodes" : ["615"],
-            "zipcodes" : [38563]
-        },
-        {
-            "cityname" : "Graysville",
-            "areacodes" : ["423"],
-            "zipcodes" : [37338]
-        },
-        {
-            "cityname" : "Guys",
-            "areacodes" : ["731"],
-            "zipcodes" : [38339]
-        },
-        {
-            "cityname" : "Halls",
-            "areacodes" : ["731"],
-            "zipcodes" : [38040]
-        },
-        {
-            "cityname" : "Hartsville",
-            "areacodes" : ["615"],
-            "zipcodes" : [37074]
-        },
-        {
-            "cityname" : "Henning",
-            "areacodes" : ["731"],
-            "zipcodes" : [38041]
-        },
-        {
-            "cityname" : "Henry",
-            "areacodes" : ["731"],
-            "zipcodes" : [38231]
-        },
-        {
-            "cityname" : "Hickory Valley",
-            "areacodes" : ["731"],
-            "zipcodes" : [38042]
-        },
-        {
-            "cityname" : "Hollow Rock",
-            "areacodes" : ["731"],
-            "zipcodes" : [38342]
-        },
-        {
-            "cityname" : "Hornbeak",
-            "areacodes" : ["731"],
-            "zipcodes" : [38232]
-        },
-        {
-            "cityname" : "Hornsby",
-            "areacodes" : ["731"],
-            "zipcodes" : [38044]
-        },
-        {
-            "cityname" : "Huntingdon",
-            "areacodes" : ["731"],
-            "zipcodes" : [38344]
-        },
-        {
-            "cityname" : "Huntland",
-            "areacodes" : ["931"],
-            "zipcodes" : [37345]
-        },
-        {
-            "cityname" : "Huntsville",
-            "areacodes" : ["423"],
-            "zipcodes" : [37756]
-        },
-        {
-            "cityname" : "Jacksboro",
-            "areacodes" : ["423"],
-            "zipcodes" : [37757]
-        },
-        {
-            "cityname" : "Jasper",
-            "areacodes" : ["423"],
-            "zipcodes" : [37347]
-        },
-        {
-            "cityname" : "Jonesborough",
-            "areacodes" : ["423"],
-            "zipcodes" : [37659]
-        },
-        {
-            "cityname" : "Kenton",
-            "areacodes" : ["731"],
-            "zipcodes" : [38233]
-        },
-        {
-            "cityname" : "Kimball",
-            "areacodes" : ["423"],
-            "zipcodes" : [37347]
-        },
-        {
-            "cityname" : "Kingston Springs",
-            "areacodes" : ["615"],
-            "zipcodes" : [37082]
-        },
-        {
-            "cityname" : "La Grange",
-            "areacodes" : ["901"],
-            "zipcodes" : [38046]
-        },
-        {
-            "cityname" : "Liberty",
-            "areacodes" : ["615"],
-            "zipcodes" : [37095]
-        },
-        {
-            "cityname" : "Linden",
-            "areacodes" : ["931"],
-            "zipcodes" : [37096]
-        },
-        {
-            "cityname" : "Livingston",
-            "areacodes" : ["931"],
-            "zipcodes" : [38570]
-        },
-        {
-            "cityname" : "Lookout Mountain",
-            "areacodes" : ["423"],
-            "zipcodes" : [37350]
-        },
-        {
-            "cityname" : "Louisville",
-            "areacodes" : ["865"],
-            "zipcodes" : [37777]
-        },
-        {
-            "cityname" : "Lynnville",
-            "areacodes" : ["931"],
-            "zipcodes" : [38472]
-        },
-        {
-            "cityname" : "Mason",
-            "areacodes" : ["901"],
-            "zipcodes" : [38049]
-        },
-        {
-            "cityname" : "Maury City",
-            "areacodes" : ["731"],
-            "zipcodes" : [38050]
-        },
-        {
-            "cityname" : "McLemoresville",
-            "areacodes" : ["731"],
-            "zipcodes" : [38235]
-        },
-        {
-            "cityname" : "Michie",
-            "areacodes" : ["731"],
-            "zipcodes" : [38357]
-        },
-        {
-            "cityname" : "Milledgeville",
-            "areacodes" : ["731"],
-            "zipcodes" : [38359]
-        },
-        {
-            "cityname" : "Monteagle",
-            "areacodes" : ["931"],
-            "zipcodes" : [37356]
-        },
-        {
-            "cityname" : "Monterey",
-            "areacodes" : ["931"],
-            "zipcodes" : [38574]
-        },
-        {
-            "cityname" : "Morrison",
-            "areacodes" : ["931"],
-            "zipcodes" : [37357]
-        },
-        {
-            "cityname" : "Mosheim",
-            "areacodes" : ["423"],
-            "zipcodes" : [37818]
-        },
-        {
-            "cityname" : "Mountain City",
-            "areacodes" : ["423"],
-            "zipcodes" : [37683]
-        },
-        {
-            "cityname" : "New Market",
-            "areacodes" : ["865"],
-            "zipcodes" : [37820]
-        },
-        {
-            "cityname" : "Newbern",
-            "areacodes" : ["731"],
-            "zipcodes" : [38059]
-        },
-        {
-            "cityname" : "Nolensville",
-            "areacodes" : ["615"],
-            "zipcodes" : [37135]
-        },
-        {
-            "cityname" : "Normandy",
-            "areacodes" : ["931"],
-            "zipcodes" : [37360]
-        },
-        {
-            "cityname" : "Oakdale",
-            "areacodes" : ["423"],
-            "zipcodes" : [37829]
-        },
-        {
-            "cityname" : "Oakland",
-            "areacodes" : ["901"],
-            "zipcodes" : [38060]
-        },
-        {
-            "cityname" : "Obion",
-            "areacodes" : ["731"],
-            "zipcodes" : [38240]
-        },
-        {
-            "cityname" : "Oliver Springs",
-            "areacodes" : ["865"],
-            "zipcodes" : [37840]
-        },
-        {
-            "cityname" : "Oneida",
-            "areacodes" : ["423"],
-            "zipcodes" : [37841]
-        },
-        {
-            "cityname" : "Orme",
-            "areacodes" : ["423"],
-            "zipcodes" : [37380]
-        },
-        {
-            "cityname" : "Palmer",
-            "areacodes" : ["931"],
-            "zipcodes" : [37365]
-        },
-        {
-            "cityname" : "Parrottsville",
-            "areacodes" : ["423"],
-            "zipcodes" : [37843]
-        },
-        {
-            "cityname" : "Pegram",
-            "areacodes" : ["615"],
-            "zipcodes" : [37143]
-        },
-        {
-            "cityname" : "Petersburg",
-            "areacodes" : ["931"],
-            "zipcodes" : [37144]
-        },
-        {
-            "cityname" : "Pittman Center",
-            "areacodes" : ["865"],
-            "zipcodes" : [37876]
-        },
-        {
-            "cityname" : "Pleasant Hill",
-            "areacodes" : ["931"],
-            "zipcodes" : [38578]
-        },
-        {
-            "cityname" : "Powells Crossroads",
-            "areacodes" : ["423"],
-            "zipcodes" : [37397]
-        },
-        {
-            "cityname" : "Ridgely",
-            "areacodes" : ["731"],
-            "zipcodes" : [38080]
-        },
-        {
-            "cityname" : "Rives",
-            "areacodes" : ["731"],
-            "zipcodes" : [38253]
-        },
-        {
-            "cityname" : "Rogersville",
-            "areacodes" : ["423"],
-            "zipcodes" : [37857]
-        },
-        {
-            "cityname" : "Rossville",
-            "areacodes" : ["901"],
-            "zipcodes" : [38066]
-        },
-        {
-            "cityname" : "Rutherford",
-            "areacodes" : ["731"],
-            "zipcodes" : [38369]
-        },
-        {
-            "cityname" : "Saltillo",
-            "areacodes" : ["731"],
-            "zipcodes" : [38370]
-        },
-        {
-            "cityname" : "Sardis",
-            "areacodes" : ["731"],
-            "zipcodes" : [38371]
-        },
-        {
-            "cityname" : "Saulsbury",
-            "areacodes" : ["731"],
-            "zipcodes" : [38067]
-        },
-        {
-            "cityname" : "Scotts Hill",
-            "areacodes" : ["731"],
-            "zipcodes" : [38374]
-        },
-        {
-            "cityname" : "Selmer",
-            "areacodes" : ["731"],
-            "zipcodes" : [38375]
-        },
-        {
-            "cityname" : "Sharon",
-            "areacodes" : ["731"],
-            "zipcodes" : [38255]
-        },
-        {
-            "cityname" : "Signal Mountain",
-            "areacodes" : ["423"],
-            "zipcodes" : [37377]
-        },
-        {
-            "cityname" : "Silerton",
-            "areacodes" : ["731"],
-            "zipcodes" : [38377]
-        },
-        {
-            "cityname" : "Slayden",
-            "areacodes" : ["931"],
-            "zipcodes" : [37165]
-        },
-        {
-            "cityname" : "Smyrna",
-            "areacodes" : ["615"],
-            "zipcodes" : [37167]
-        },
-        {
-            "cityname" : "Sneedville",
-            "areacodes" : ["423"],
-            "zipcodes" : [37869]
-        },
-        {
-            "cityname" : "Somerville",
-            "areacodes" : ["901"],
-            "zipcodes" : [38068]
-        },
-        {
-            "cityname" : "South Carthage",
-            "areacodes" : ["615"],
-            "zipcodes" : [37030]
-        },
-        {
-            "cityname" : "Spencer",
-            "areacodes" : ["931"],
-            "zipcodes" : [38585]
-        },
-        {
-            "cityname" : "Spring City",
-            "areacodes" : ["423"],
-            "zipcodes" : [37381]
-        },
-        {
-            "cityname" : "Stanton",
-            "areacodes" : ["731"],
-            "zipcodes" : [38069]
-        },
-        {
-            "cityname" : "Stantonville",
-            "areacodes" : ["731"],
-            "zipcodes" : [38379]
-        },
-        {
-            "cityname" : "Surgoinsville",
-            "areacodes" : ["423"],
-            "zipcodes" : [37873]
-        },
-        {
-            "cityname" : "Tazewell",
-            "areacodes" : ["423"],
-            "zipcodes" : [37879]
-        },
-        {
-            "cityname" : "Tellico Plains",
-            "areacodes" : ["423"],
-            "zipcodes" : [37385]
-        },
-        {
-            "cityname" : "Thompson's Station",
-            "areacodes" : ["615"],
-            "zipcodes" : [37179]
-        },
-        {
-            "cityname" : "Tiptonville",
-            "areacodes" : ["731"],
-            "zipcodes" : [38079]
-        },
-        {
-            "cityname" : "Toone",
-            "areacodes" : ["731"],
-            "zipcodes" : [38381]
-        },
-        {
-            "cityname" : "Tracy City",
-            "areacodes" : ["931"],
-            "zipcodes" : [37387]
-        },
-        {
-            "cityname" : "Trezevant",
-            "areacodes" : ["731"],
-            "zipcodes" : [38258]
-        },
-        {
-            "cityname" : "Trimble",
-            "areacodes" : ["731"],
-            "zipcodes" : [38259]
-        },
-        {
-            "cityname" : "Troy",
-            "areacodes" : ["731"],
-            "zipcodes" : [38260]
-        },
-        {
-            "cityname" : "Unicoi",
-            "areacodes" : ["423"],
-            "zipcodes" : [37692]
-        },
-        {
-            "cityname" : "Vanleer",
-            "areacodes" : ["931"],
-            "zipcodes" : [37181]
-        },
-        {
-            "cityname" : "Viola",
-            "areacodes" : ["931"],
-            "zipcodes" : [37394]
-        },
-        {
-            "cityname" : "Vonore",
-            "areacodes" : ["423"],
-            "zipcodes" : [37885]
-        },
-        {
-            "cityname" : "Walden",
-            "areacodes" : ["423"],
-            "zipcodes" : [37377]
-        },
-        {
-            "cityname" : "Wartrace",
-            "areacodes" : ["931"],
-            "zipcodes" : [37183]
-        },
-        {
-            "cityname" : "Watertown",
-            "areacodes" : ["615"],
-            "zipcodes" : [37184]
-        },
-        {
-            "cityname" : "Westmoreland",
-            "areacodes" : ["615"],
-            "zipcodes" : [37186]
-        },
-        {
-            "cityname" : "White Bluff",
-            "areacodes" : ["615"],
-            "zipcodes" : [37187]
-        },
-        {
-            "cityname" : "White Pine",
-            "areacodes" : ["865"],
-            "zipcodes" : [37890]
-        },
-        {
-            "cityname" : "Winfield",
-            "areacodes" : ["423"],
-            "zipcodes" : [37892]
-        },
-        {
-            "cityname" : "Woodbury",
-            "areacodes" : ["615"],
-            "zipcodes" : [37190]
-        }
-    ]
+  "cityname": "Tennessee",
+  "capitcal": "Nashville",
+  "cities": {
+    "Memphis": {
+      "zipcodes": [
+        38101,
+        38103,
+        38104,
+        38105,
+        38112,
+        38118,
+        38127
+      ],
+      "areacodes": [
+        "901"
+      ]
+    },
+    "Adamsville": {
+      "zipcodes": [
+        38310
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Alamo": {
+      "zipcodes": [
+        38001
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Alexandria": {
+      "zipcodes": [
+        37012
+      ],
+      "areacodes": [
+        "615"
+      ]
+    },
+    "Altamont": {
+      "zipcodes": [
+        37301
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Arlington": {
+      "zipcodes": [
+        38002
+      ],
+      "areacodes": [
+        "901"
+      ]
+    },
+    "Ashland City": {
+      "zipcodes": [
+        37015
+      ],
+      "areacodes": [
+        "615"
+      ]
+    },
+    "Atwood": {
+      "zipcodes": [
+        38220
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Auburntown": {
+      "zipcodes": [
+        37016
+      ],
+      "areacodes": [
+        "615"
+      ]
+    },
+    "Baileyton": {
+      "zipcodes": [
+        37745
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Bean Station": {
+      "zipcodes": [
+        37708
+      ],
+      "areacodes": [
+        "865"
+      ]
+    },
+    "Beersheba Springs": {
+      "zipcodes": [
+        37305
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Bell Buckle": {
+      "zipcodes": [
+        37020
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Benton": {
+      "zipcodes": [
+        37307
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Bethel Springs": {
+      "zipcodes": [
+        38315
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Big Sandy": {
+      "zipcodes": [
+        38221
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Braden": {
+      "zipcodes": [
+        38010
+      ],
+      "areacodes": [
+        "901"
+      ]
+    },
+    "Bradford": {
+      "zipcodes": [
+        38316
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Brighton": {
+      "zipcodes": [
+        38011
+      ],
+      "areacodes": [
+        "901"
+      ]
+    },
+    "Bruceton": {
+      "zipcodes": [
+        38317
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Bulls Gap": {
+      "zipcodes": [
+        37711
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Burlison": {
+      "zipcodes": [
+        38015
+      ],
+      "areacodes": [
+        "901"
+      ]
+    },
+    "Burns": {
+      "zipcodes": [
+        37029
+      ],
+      "areacodes": [
+        "615"
+      ]
+    },
+    "Byrdstown": {
+      "zipcodes": [
+        38549
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Calhoun": {
+      "zipcodes": [
+        37309
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Carthage": {
+      "zipcodes": [
+        37030
+      ],
+      "areacodes": [
+        "615"
+      ]
+    },
+    "Caryville": {
+      "zipcodes": [
+        37714
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Centertown": {
+      "zipcodes": [
+        37110
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Centerville": {
+      "zipcodes": [
+        37033
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Chapel Hill": {
+      "zipcodes": [
+        37034
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Charlotte": {
+      "zipcodes": [
+        37036
+      ],
+      "areacodes": [
+        "615"
+      ]
+    },
+    "Clarksburg": {
+      "zipcodes": [
+        38324
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Collierville": {
+      "zipcodes": [
+        38017,
+        38027
+      ],
+      "areacodes": [
+        "901"
+      ]
+    },
+    "Coopertown": {
+      "zipcodes": [
+        37146
+      ],
+      "areacodes": [
+        "615"
+      ]
+    },
+    "Cornersville": {
+      "zipcodes": [
+        37047
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Cottage Grove": {
+      "zipcodes": [
+        38224
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Cumberland City": {
+      "zipcodes": [
+        37050
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Cumberland Gap": {
+      "zipcodes": [
+        37724
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Dandridge": {
+      "zipcodes": [
+        37725
+      ],
+      "areacodes": [
+        "865"
+      ]
+    },
+    "Decatur": {
+      "zipcodes": [
+        37322
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Decaturville": {
+      "zipcodes": [
+        38329
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Dowelltown": {
+      "zipcodes": [
+        37059
+      ],
+      "areacodes": [
+        "615"
+      ]
+    },
+    "Doyle": {
+      "zipcodes": [
+        38559
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Dresden": {
+      "zipcodes": [
+        38225
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Eastview": {
+      "zipcodes": [
+        38367
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Englewood": {
+      "zipcodes": [
+        37329
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Enville": {
+      "zipcodes": [
+        38332
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Erwin": {
+      "zipcodes": [
+        37650
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Estill Springs": {
+      "zipcodes": [
+        37330
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Ethridge": {
+      "zipcodes": [
+        38456
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Farragut": {
+      "zipcodes": [
+        37934
+      ],
+      "areacodes": [
+        "865"
+      ]
+    },
+    "Finger": {
+      "zipcodes": [
+        38334
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Gadsden": {
+      "zipcodes": [
+        38337
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Gainesboro": {
+      "zipcodes": [
+        38562
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Garland": {
+      "zipcodes": [
+        38039
+      ],
+      "areacodes": [
+        "901"
+      ]
+    },
+    "Gates": {
+      "zipcodes": [
+        38037
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Gibson": {
+      "zipcodes": [
+        38338
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Gleason": {
+      "zipcodes": [
+        38229
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Gordonsville": {
+      "zipcodes": [
+        38563
+      ],
+      "areacodes": [
+        "615"
+      ]
+    },
+    "Graysville": {
+      "zipcodes": [
+        37338
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Guys": {
+      "zipcodes": [
+        38339
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Halls": {
+      "zipcodes": [
+        38040
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Hartsville": {
+      "zipcodes": [
+        37074
+      ],
+      "areacodes": [
+        "615"
+      ]
+    },
+    "Henning": {
+      "zipcodes": [
+        38041
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Henry": {
+      "zipcodes": [
+        38231
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Hickory Valley": {
+      "zipcodes": [
+        38042
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Hollow Rock": {
+      "zipcodes": [
+        38342
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Hornbeak": {
+      "zipcodes": [
+        38232
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Hornsby": {
+      "zipcodes": [
+        38044
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Huntingdon": {
+      "zipcodes": [
+        38344
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Huntland": {
+      "zipcodes": [
+        37345
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Huntsville": {
+      "zipcodes": [
+        37756
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Jacksboro": {
+      "zipcodes": [
+        37757
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Jasper": {
+      "zipcodes": [
+        37347
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Jonesborough": {
+      "zipcodes": [
+        37659
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Kenton": {
+      "zipcodes": [
+        38233
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Kimball": {
+      "zipcodes": [
+        37347
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Kingston Springs": {
+      "zipcodes": [
+        37082
+      ],
+      "areacodes": [
+        "615"
+      ]
+    },
+    "La Grange": {
+      "zipcodes": [
+        38046
+      ],
+      "areacodes": [
+        "901"
+      ]
+    },
+    "Liberty": {
+      "zipcodes": [
+        37095
+      ],
+      "areacodes": [
+        "615"
+      ]
+    },
+    "Linden": {
+      "zipcodes": [
+        37096
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Livingston": {
+      "zipcodes": [
+        38570
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Lookout Mountain": {
+      "zipcodes": [
+        37350
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Louisville": {
+      "zipcodes": [
+        37777
+      ],
+      "areacodes": [
+        "865"
+      ]
+    },
+    "Lynnville": {
+      "zipcodes": [
+        38472
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Mason": {
+      "zipcodes": [
+        38049
+      ],
+      "areacodes": [
+        "901"
+      ]
+    },
+    "Maury City": {
+      "zipcodes": [
+        38050
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "McLemoresville": {
+      "zipcodes": [
+        38235
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Michie": {
+      "zipcodes": [
+        38357
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Milledgeville": {
+      "zipcodes": [
+        38359
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Monteagle": {
+      "zipcodes": [
+        37356
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Monterey": {
+      "zipcodes": [
+        38574
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Morrison": {
+      "zipcodes": [
+        37357
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Mosheim": {
+      "zipcodes": [
+        37818
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Mountain City": {
+      "zipcodes": [
+        37683
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "New Market": {
+      "zipcodes": [
+        37820
+      ],
+      "areacodes": [
+        "865"
+      ]
+    },
+    "Newbern": {
+      "zipcodes": [
+        38059
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Nolensville": {
+      "zipcodes": [
+        37135
+      ],
+      "areacodes": [
+        "615"
+      ]
+    },
+    "Normandy": {
+      "zipcodes": [
+        37360
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Oakdale": {
+      "zipcodes": [
+        37829
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Oakland": {
+      "zipcodes": [
+        38060
+      ],
+      "areacodes": [
+        "901"
+      ]
+    },
+    "Obion": {
+      "zipcodes": [
+        38240
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Oliver Springs": {
+      "zipcodes": [
+        37840
+      ],
+      "areacodes": [
+        "865"
+      ]
+    },
+    "Oneida": {
+      "zipcodes": [
+        37841
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Orme": {
+      "zipcodes": [
+        37380
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Palmer": {
+      "zipcodes": [
+        37365
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Parrottsville": {
+      "zipcodes": [
+        37843
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Pegram": {
+      "zipcodes": [
+        37143
+      ],
+      "areacodes": [
+        "615"
+      ]
+    },
+    "Petersburg": {
+      "zipcodes": [
+        37144
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Pittman Center": {
+      "zipcodes": [
+        37876
+      ],
+      "areacodes": [
+        "865"
+      ]
+    },
+    "Pleasant Hill": {
+      "zipcodes": [
+        38578
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Powells Crossroads": {
+      "zipcodes": [
+        37397
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Ridgely": {
+      "zipcodes": [
+        38080
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Rives": {
+      "zipcodes": [
+        38253
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Rogersville": {
+      "zipcodes": [
+        37857
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Rossville": {
+      "zipcodes": [
+        38066
+      ],
+      "areacodes": [
+        "901"
+      ]
+    },
+    "Rutherford": {
+      "zipcodes": [
+        38369
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Saltillo": {
+      "zipcodes": [
+        38370
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Sardis": {
+      "zipcodes": [
+        38371
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Saulsbury": {
+      "zipcodes": [
+        38067
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Scotts Hill": {
+      "zipcodes": [
+        38374
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Selmer": {
+      "zipcodes": [
+        38375
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Sharon": {
+      "zipcodes": [
+        38255
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Signal Mountain": {
+      "zipcodes": [
+        37377
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Silerton": {
+      "zipcodes": [
+        38377
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Slayden": {
+      "zipcodes": [
+        37165
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Smyrna": {
+      "zipcodes": [
+        37167
+      ],
+      "areacodes": [
+        "615"
+      ]
+    },
+    "Sneedville": {
+      "zipcodes": [
+        37869
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Somerville": {
+      "zipcodes": [
+        38068
+      ],
+      "areacodes": [
+        "901"
+      ]
+    },
+    "South Carthage": {
+      "zipcodes": [
+        37030
+      ],
+      "areacodes": [
+        "615"
+      ]
+    },
+    "Spencer": {
+      "zipcodes": [
+        38585
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Spring City": {
+      "zipcodes": [
+        37381
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Stanton": {
+      "zipcodes": [
+        38069
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Stantonville": {
+      "zipcodes": [
+        38379
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Surgoinsville": {
+      "zipcodes": [
+        37873
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Tazewell": {
+      "zipcodes": [
+        37879
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Tellico Plains": {
+      "zipcodes": [
+        37385
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Thompson's Station": {
+      "zipcodes": [
+        37179
+      ],
+      "areacodes": [
+        "615"
+      ]
+    },
+    "Tiptonville": {
+      "zipcodes": [
+        38079
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Toone": {
+      "zipcodes": [
+        38381
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Tracy City": {
+      "zipcodes": [
+        37387
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Trezevant": {
+      "zipcodes": [
+        38258
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Trimble": {
+      "zipcodes": [
+        38259
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Troy": {
+      "zipcodes": [
+        38260
+      ],
+      "areacodes": [
+        "731"
+      ]
+    },
+    "Unicoi": {
+      "zipcodes": [
+        37692
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Vanleer": {
+      "zipcodes": [
+        37181
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Viola": {
+      "zipcodes": [
+        37394
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Vonore": {
+      "zipcodes": [
+        37885
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Walden": {
+      "zipcodes": [
+        37377
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Wartrace": {
+      "zipcodes": [
+        37183
+      ],
+      "areacodes": [
+        "931"
+      ]
+    },
+    "Watertown": {
+      "zipcodes": [
+        37184
+      ],
+      "areacodes": [
+        "615"
+      ]
+    },
+    "Westmoreland": {
+      "zipcodes": [
+        37186
+      ],
+      "areacodes": [
+        "615"
+      ]
+    },
+    "White Bluff": {
+      "zipcodes": [
+        37187
+      ],
+      "areacodes": [
+        "615"
+      ]
+    },
+    "White Pine": {
+      "zipcodes": [
+        37890
+      ],
+      "areacodes": [
+        "865"
+      ]
+    },
+    "Winfield": {
+      "zipcodes": [
+        37892
+      ],
+      "areacodes": [
+        "423"
+      ]
+    },
+    "Woodbury": {
+      "zipcodes": [
+        37190
+      ],
+      "areacodes": [
+        "615"
+      ]
+    }
+  }
 }

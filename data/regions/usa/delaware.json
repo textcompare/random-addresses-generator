@@ -1,504 +1,453 @@
 {
-    "name": "Delaware",
-    "capital": "Dover",
-    "cities": [
-        {
-            "cityname": "Bear",
-            "zipcodes": [
-                "19701"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Bethany Beach",
-            "zipcodes": [
-                "19930"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Bethel",
-            "zipcodes": [
-                "19931"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Bridgeville",
-            "zipcodes": [
-                "19933"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Camden Wyoming",
-            "zipcodes": [
-                "19934"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Cheswold",
-            "zipcodes": [
-                "19936"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Claymont",
-            "zipcodes": [
-                "19703"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Clayton",
-            "zipcodes": [
-                "19938"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Dagsboro",
-            "zipcodes": [
-                "19939"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Delaware City",
-            "zipcodes": [
-                "19706"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Delmar",
-            "zipcodes": [
-                "19940"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Dover",
-            "zipcodes": [
-                "19901",
-                "19903",
-                "19904",
-                "19905",
-                "19906"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Ellendale",
-            "zipcodes": [
-                "19941"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Felton",
-            "zipcodes": [
-                "19943"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Fenwick Island",
-            "zipcodes": [
-                "19944"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Frankford",
-            "zipcodes": [
-                "19945"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Frederica",
-            "zipcodes": [
-                "19946"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Georgetown",
-            "zipcodes": [
-                "19947"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Greenwood",
-            "zipcodes": [
-                "19950"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Harbeson",
-            "zipcodes": [
-                "19951"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Harrington",
-            "zipcodes": [
-                "19952"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Hartly",
-            "zipcodes": [
-                "19953"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Hockessin",
-            "zipcodes": [
-                "19707"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Houston",
-            "zipcodes": [
-                "19954"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Kenton",
-            "zipcodes": [
-                "19955"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Laurel",
-            "zipcodes": [
-                "19956"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Lewes",
-            "zipcodes": [
-                "19958"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Lincoln",
-            "zipcodes": [
-                "19960"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Little Creek",
-            "zipcodes": [
-                "19961"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Magnolia",
-            "zipcodes": [
-                "19962"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Marydel",
-            "zipcodes": [
-                "19964"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Middletown",
-            "zipcodes": [
-                "19709"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Milford",
-            "zipcodes": [
-                "19963"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Millsboro",
-            "zipcodes": [
-                "19966"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Millville",
-            "zipcodes": [
-                "19967"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Milton",
-            "zipcodes": [
-                "19968"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "New Castle",
-            "zipcodes": [
-                "19720",
-                "19721"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Newark",
-            "zipcodes": [
-                "19702",
-                "19711",
-                "19712",
-                "19713",
-                "19714",
-                "19715",
-                "19716",
-                "19717",
-                "19718",
-                "19725",
-                "19726"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Ocean View",
-            "zipcodes": [
-                "19970"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Odessa",
-            "zipcodes": [
-                "19730"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Rehoboth Beach",
-            "zipcodes": [
-                "19971"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Rockland",
-            "zipcodes": [
-                "19732"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Seaford",
-            "zipcodes": [
-                "19973"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Selbyville",
-            "zipcodes": [
-                "19975"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Smyrna",
-            "zipcodes": [
-                "19977"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Townsend",
-            "zipcodes": [
-                "19734"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Viola",
-            "zipcodes": [
-                "19979"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Wilmington",
-            "zipcodes": [
-                "19801",
-                "19802",
-                "19803",
-                "19804",
-                "19805",
-                "19806",
-                "19807",
-                "19808",
-                "19809",
-                "19810",
-                "19850",
-                "19880",
-                "19884",
-                "19885",
-                "19886",
-                "19890",
-                "19891",
-                "19892",
-                "19893",
-                "19894",
-                "19895",
-                "19896",
-                "19897",
-                "19898",
-                "19899"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Winterthur",
-            "zipcodes": [
-                "19735"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Woodside",
-            "zipcodes": [
-                "19980"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        },
-        {
-            "cityname": "Yorklyn",
-            "zipcodes": [
-                "19736"
-            ],
-            "areacodes": [
-                "302"
-            ]
-        }
-    ]
+  "name": "Delaware",
+  "capital": "Dover",
+  "cities": {
+    "Bear": {
+      "zipcodes": [
+        "19701"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Bethany Beach": {
+      "zipcodes": [
+        "19930"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Bethel": {
+      "zipcodes": [
+        "19931"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Bridgeville": {
+      "zipcodes": [
+        "19933"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Camden Wyoming": {
+      "zipcodes": [
+        "19934"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Cheswold": {
+      "zipcodes": [
+        "19936"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Claymont": {
+      "zipcodes": [
+        "19703"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Clayton": {
+      "zipcodes": [
+        "19938"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Dagsboro": {
+      "zipcodes": [
+        "19939"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Delaware City": {
+      "zipcodes": [
+        "19706"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Delmar": {
+      "zipcodes": [
+        "19940"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Dover": {
+      "zipcodes": [
+        "19901",
+        "19903",
+        "19904",
+        "19905",
+        "19906"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Ellendale": {
+      "zipcodes": [
+        "19941"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Felton": {
+      "zipcodes": [
+        "19943"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Fenwick Island": {
+      "zipcodes": [
+        "19944"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Frankford": {
+      "zipcodes": [
+        "19945"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Frederica": {
+      "zipcodes": [
+        "19946"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Georgetown": {
+      "zipcodes": [
+        "19947"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Greenwood": {
+      "zipcodes": [
+        "19950"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Harbeson": {
+      "zipcodes": [
+        "19951"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Harrington": {
+      "zipcodes": [
+        "19952"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Hartly": {
+      "zipcodes": [
+        "19953"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Hockessin": {
+      "zipcodes": [
+        "19707"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Houston": {
+      "zipcodes": [
+        "19954"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Kenton": {
+      "zipcodes": [
+        "19955"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Laurel": {
+      "zipcodes": [
+        "19956"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Lewes": {
+      "zipcodes": [
+        "19958"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Lincoln": {
+      "zipcodes": [
+        "19960"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Little Creek": {
+      "zipcodes": [
+        "19961"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Magnolia": {
+      "zipcodes": [
+        "19962"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Marydel": {
+      "zipcodes": [
+        "19964"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Middletown": {
+      "zipcodes": [
+        "19709"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Milford": {
+      "zipcodes": [
+        "19963"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Millsboro": {
+      "zipcodes": [
+        "19966"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Millville": {
+      "zipcodes": [
+        "19967"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Milton": {
+      "zipcodes": [
+        "19968"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "New Castle": {
+      "zipcodes": [
+        "19720",
+        "19721"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Newark": {
+      "zipcodes": [
+        "19702",
+        "19711",
+        "19712",
+        "19713",
+        "19714",
+        "19715",
+        "19716",
+        "19717",
+        "19718",
+        "19725",
+        "19726"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Ocean View": {
+      "zipcodes": [
+        "19970"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Odessa": {
+      "zipcodes": [
+        "19730"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Rehoboth Beach": {
+      "zipcodes": [
+        "19971"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Rockland": {
+      "zipcodes": [
+        "19732"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Seaford": {
+      "zipcodes": [
+        "19973"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Selbyville": {
+      "zipcodes": [
+        "19975"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Smyrna": {
+      "zipcodes": [
+        "19977"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Townsend": {
+      "zipcodes": [
+        "19734"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Viola": {
+      "zipcodes": [
+        "19979"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Wilmington": {
+      "zipcodes": [
+        "19801",
+        "19802",
+        "19803",
+        "19804",
+        "19805",
+        "19806",
+        "19807",
+        "19808",
+        "19809",
+        "19810",
+        "19850",
+        "19880",
+        "19884",
+        "19885",
+        "19886",
+        "19890",
+        "19891",
+        "19892",
+        "19893",
+        "19894",
+        "19895",
+        "19896",
+        "19897",
+        "19898",
+        "19899"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Winterthur": {
+      "zipcodes": [
+        "19735"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Woodside": {
+      "zipcodes": [
+        "19980"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    },
+    "Yorklyn": {
+      "zipcodes": [
+        "19736"
+      ],
+      "areacodes": [
+        "302"
+      ]
+    }
+  }
 }

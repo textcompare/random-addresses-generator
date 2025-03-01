@@ -297,9 +297,8 @@
   },
   "provinces": {
     "Drenthe": {
-      "cities": [
-        {
-          "cityname": "Assen",
+      "cities": {
+        "Assen": {
           "zipcodes": [
             "9400",
             "9401",
@@ -311,8 +310,7 @@
             "0592"
           ]
         },
-        {
-          "cityname": "Emmen",
+        "Emmen": {
           "zipcodes": [
             "7800",
             "7801",
@@ -324,8 +322,7 @@
             "0591"
           ]
         },
-        {
-          "cityname": "Hoogeveen",
+        "Hoogeveen": {
           "zipcodes": [
             "7900",
             "7901",
@@ -337,8 +334,7 @@
             "0528"
           ]
         },
-        {
-          "cityname": "Meppel",
+        "Meppel": {
           "zipcodes": [
             "7940",
             "7941",
@@ -350,8 +346,7 @@
             "0522"
           ]
         },
-        {
-          "cityname": "Coevorden",
+        "Coevorden": {
           "zipcodes": [
             "7740",
             "7741",
@@ -363,8 +358,7 @@
             "0524"
           ]
         },
-        {
-          "cityname": "Beilen",
+        "Beilen": {
           "zipcodes": [
             "9411",
             "9412",
@@ -376,8 +370,7 @@
             "0593"
           ]
         },
-        {
-          "cityname": "Zuidwolde",
+        "Zuidwolde": {
           "zipcodes": [
             "7921",
             "7922",
@@ -389,8 +382,7 @@
             "0528"
           ]
         },
-        {
-          "cityname": "Pekela",
+        "Pekela": {
           "zipcodes": [
             "9665",
             "9666",
@@ -402,8 +394,7 @@
             "0597"
           ]
         },
-        {
-          "cityname": "Rolde",
+        "Rolde": {
           "zipcodes": [
             "9441",
             "9442",
@@ -415,8 +406,7 @@
             "0592"
           ]
         },
-        {
-          "cityname": "Sleen",
+        "Sleen": {
           "zipcodes": [
             "7840",
             "7841",
@@ -428,13 +418,12 @@
             "0591"
           ]
         }
-      ],
+      },
       "name": "Drenthe"
     },
     "Flevoland": {
-      "cities": [
-        {
-          "cityname": "Lelystad",
+      "cities": {
+        "Lelystad": {
           "zipcodes": [
             "8200",
             "8201",
@@ -446,8 +435,7 @@
             "0320"
           ]
         },
-        {
-          "cityname": "Almere",
+        "Almere": {
           "zipcodes": [
             "1300",
             "1301",
@@ -459,8 +447,7 @@
             "036"
           ]
         },
-        {
-          "cityname": "Dronten",
+        "Dronten": {
           "zipcodes": [
             "8250",
             "8251",
@@ -472,8 +459,7 @@
             "0321"
           ]
         },
-        {
-          "cityname": "Zeewolde",
+        "Zeewolde": {
           "zipcodes": [
             "3890",
             "3891",
@@ -485,8 +471,7 @@
             "036"
           ]
         },
-        {
-          "cityname": "Urk",
+        "Urk": {
           "zipcodes": [
             "8320",
             "8321",
@@ -498,13 +483,12 @@
             "0527"
           ]
         }
-      ],
+      },
       "name": "Flevoland"
     },
     "Friesland": {
-      "cities": [
-        {
-          "cityname": "Leeuwarden",
+      "cities": {
+        "Leeuwarden": {
           "zipcodes": [
             "8911",
             "8912",
@@ -516,8 +500,7 @@
             "058"
           ]
         },
-        {
-          "cityname": "Heerenveen",
+        "Heerenveen": {
           "zipcodes": [
             "8441",
             "8442",
@@ -529,8 +512,7 @@
             "0513"
           ]
         },
-        {
-          "cityname": "Drachten",
+        "Drachten": {
           "zipcodes": [
             "9201",
             "9202",
@@ -542,8 +524,7 @@
             "0512"
           ]
         },
-        {
-          "cityname": "Sneek",
+        "Sneek": {
           "zipcodes": [
             "8601",
             "8602",
@@ -555,8 +536,7 @@
             "0515"
           ]
         },
-        {
-          "cityname": "Harlingen",
+        "Harlingen": {
           "zipcodes": [
             "8861",
             "8862",
@@ -568,8 +548,7 @@
             "0517"
           ]
         },
-        {
-          "cityname": "Frjentsjer",
+        "Frjentsjer": {
           "zipcodes": [
             "8801",
             "8802",
@@ -581,13 +560,12 @@
             "0517"
           ]
         }
-      ],
+      },
       "name": "Friesland"
     },
     "Gelderland": {
-      "cities": [
-        {
-          "cityname": "Arnhem",
+      "cities": {
+        "Arnhem": {
           "zipcodes": [
             "6811",
             "6812",
@@ -599,8 +577,7 @@
             "026"
           ]
         },
-        {
-          "cityname": "Nijmegen",
+        "Nijmegen": {
           "zipcodes": [
             "6511",
             "6512",
@@ -612,8 +589,7 @@
             "024"
           ]
         },
-        {
-          "cityname": "Apeldoorn",
+        "Apeldoorn": {
           "zipcodes": [
             "7311",
             "7312",
@@ -625,8 +601,7 @@
             "055"
           ]
         },
-        {
-          "cityname": "Ede",
+        "Ede": {
           "zipcodes": [
             "6711",
             "6712",
@@ -638,8 +613,7 @@
             "0318"
           ]
         },
-        {
-          "cityname": "Veenendaal",
+        "Veenendaal": {
           "zipcodes": [
             "3901",
             "3902",
@@ -651,8 +625,7 @@
             "0318"
           ]
         },
-        {
-          "cityname": "Zutphen",
+        "Zutphen": {
           "zipcodes": [
             "7201",
             "7202",
@@ -664,13 +637,12 @@
             "0575"
           ]
         }
-      ],
+      },
       "name": "Gelderland"
     },
     "Groningen": {
-      "cities": [
-        {
-          "cityname": "Groningen",
+      "cities": {
+        "Groningen": {
           "zipcodes": [
             "9711",
             "9712",
@@ -682,8 +654,7 @@
             "050"
           ]
         },
-        {
-          "cityname": "Delfzijl",
+        "Delfzijl": {
           "zipcodes": [
             "9931",
             "9932",
@@ -695,8 +666,7 @@
             "0590"
           ]
         },
-        {
-          "cityname": "Veendam",
+        "Veendam": {
           "zipcodes": [
             "9641",
             "9642",
@@ -708,8 +678,7 @@
             "0598"
           ]
         },
-        {
-          "cityname": "Stadskanaal",
+        "Stadskanaal": {
           "zipcodes": [
             "9501",
             "9502",
@@ -721,8 +690,7 @@
             "0599"
           ]
         },
-        {
-          "cityname": "Haren",
+        "Haren": {
           "zipcodes": [
             "9751",
             "9752",
@@ -734,8 +702,7 @@
             "050"
           ]
         },
-        {
-          "cityname": "Appingedam",
+        "Appingedam": {
           "zipcodes": [
             "9901",
             "9902",
@@ -747,13 +714,12 @@
             "0596"
           ]
         }
-      ],
+      },
       "name": "Groningen"
     },
     "Limburg": {
-      "cities": [
-        {
-          "cityname": "Maastricht",
+      "cities": {
+        "Maastricht": {
           "zipcodes": [
             "6211",
             "6212",
@@ -765,8 +731,7 @@
             "043"
           ]
         },
-        {
-          "cityname": "Venlo",
+        "Venlo": {
           "zipcodes": [
             "5911",
             "5912",
@@ -778,8 +743,7 @@
             "077"
           ]
         },
-        {
-          "cityname": "Roermond",
+        "Roermond": {
           "zipcodes": [
             "6041",
             "6042",
@@ -791,8 +755,7 @@
             "0475"
           ]
         },
-        {
-          "cityname": "Sittard",
+        "Sittard": {
           "zipcodes": [
             "6131",
             "6132",
@@ -804,8 +767,7 @@
             "046"
           ]
         },
-        {
-          "cityname": "Geleen",
+        "Geleen": {
           "zipcodes": [
             "6161",
             "6162",
@@ -817,8 +779,7 @@
             "046"
           ]
         },
-        {
-          "cityname": "Heerlen",
+        "Heerlen": {
           "zipcodes": [
             "6401",
             "6402",
@@ -830,13 +791,12 @@
             "045"
           ]
         }
-      ],
+      },
       "name": "Limburg"
     },
     "North Holland": {
-      "cities": [
-        {
-          "cityname": "Amsterdam",
+      "cities": {
+        "Amsterdam": {
           "zipcodes": [
             "1011",
             "1012",
@@ -848,8 +808,7 @@
             "020"
           ]
         },
-        {
-          "cityname": "Haarlem",
+        "Haarlem": {
           "zipcodes": [
             "2011",
             "2012",
@@ -861,8 +820,7 @@
             "023"
           ]
         },
-        {
-          "cityname": "Zaandam",
+        "Zaandam": {
           "zipcodes": [
             "1501",
             "1502",
@@ -874,8 +832,7 @@
             "075"
           ]
         },
-        {
-          "cityname": "Alkmaar",
+        "Alkmaar": {
           "zipcodes": [
             "1811",
             "1812",
@@ -887,8 +844,7 @@
             "072"
           ]
         },
-        {
-          "cityname": "Hilversum",
+        "Hilversum": {
           "zipcodes": [
             "1211",
             "1212",
@@ -900,8 +856,7 @@
             "035"
           ]
         },
-        {
-          "cityname": "Amstelveen",
+        "Amstelveen": {
           "zipcodes": [
             "1181",
             "1182",
@@ -913,13 +868,12 @@
             "020"
           ]
         }
-      ],
+      },
       "name": "North Holland"
     },
     "North Brabant": {
-      "cities": [
-        {
-          "cityname": "Eindhoven",
+      "cities": {
+        "Eindhoven": {
           "zipcodes": [
             "5611",
             "5612",
@@ -931,8 +885,7 @@
             "040"
           ]
         },
-        {
-          "cityname": "Tilburg",
+        "Tilburg": {
           "zipcodes": [
             "5011",
             "5012",
@@ -944,8 +897,7 @@
             "013"
           ]
         },
-        {
-          "cityname": "Breda",
+        "Breda": {
           "zipcodes": [
             "4811",
             "4812",
@@ -957,8 +909,7 @@
             "076"
           ]
         },
-        {
-          "cityname": "Den Bosch",
+        "Den Bosch": {
           "zipcodes": [
             "5211",
             "5212",
@@ -970,8 +921,7 @@
             "073"
           ]
         },
-        {
-          "cityname": "Helmond",
+        "Helmond": {
           "zipcodes": [
             "5701",
             "5702",
@@ -983,8 +933,7 @@
             "0492"
           ]
         },
-        {
-          "cityname": "Oss",
+        "Oss": {
           "zipcodes": [
             "5341",
             "5342",
@@ -996,13 +945,12 @@
             "0412"
           ]
         }
-      ],
+      },
       "name": "North Brabant"
     },
     "Overijssel": {
-      "cities": [
-        {
-          "cityname": "Zwolle",
+      "cities": {
+        "Zwolle": {
           "zipcodes": [
             "8011",
             "8012",
@@ -1014,8 +962,7 @@
             "038"
           ]
         },
-        {
-          "cityname": "Enschede",
+        "Enschede": {
           "zipcodes": [
             "7511",
             "7512",
@@ -1027,8 +974,7 @@
             "053"
           ]
         },
-        {
-          "cityname": "Deventer",
+        "Deventer": {
           "zipcodes": [
             "7411",
             "7412",
@@ -1040,8 +986,7 @@
             "0570"
           ]
         },
-        {
-          "cityname": "Hengelo",
+        "Hengelo": {
           "zipcodes": [
             "7551",
             "7552",
@@ -1053,8 +998,7 @@
             "074"
           ]
         },
-        {
-          "cityname": "Meppel",
+        "Meppel": {
           "zipcodes": [
             "7941",
             "7942",
@@ -1066,8 +1010,7 @@
             "0522"
           ]
         },
-        {
-          "cityname": "Olst",
+        "Olst": {
           "zipcodes": [
             "8121",
             "8122",
@@ -1079,7 +1022,7 @@
             "0570"
           ]
         }
-      ],
+      },
       "name": "Overijssel"
     }
   },
@@ -1087,18 +1030,90 @@
     "provinces"
   ],
   "firstnames": [
-  "Noah", "Lucas", "Daan", "Levi", "Milan", "Finn", "Sem", "Liam", "Jesse", "Max", 
-  "Timo", "Luuk", "Ryan", "Mees", "Isaac", "Julian", "Teun", "Tom", "James", "Gijs",
-  "Lars", "Bram", "Joris", "Ravi", "Jordi", "Mick", "Kyan", "Damian", "Milan", "Benjamin",
-  "Felix", "Dylan", "Victor", "David", "Mats", "Simon", "Hassan", "Kay", "Rafael", "Niels",
-  "Zayn", "Maxim"
-],
-"lastnames": [
-  "de Vries", "Jansen", "de Jong", "van den Berg", "van Dijk", "Bakker", "Visser", "Smit", "Meijer", "Hendriks",
-  "Dekker", "Kramer", "Mulder", "Bos", "Peters", "Meyer", "Koster", "Schmidt", "Boer", "Willems",
-  "Huisman", "Vink", "Blom", "Lopes", "Mol", "Vermeulen", "Verhoeven", "Vanderberg", "Hoffman", "Huisman",
-  "Valk", "Faber", "Hansen", "Koning", "Van Leeuwen", "Van der Meer", "Vervent", "De Groot", "Stein", "Haring",
-  "Veldhuizen"
-]
-
+    "Noah",
+    "Lucas",
+    "Daan",
+    "Levi",
+    "Milan",
+    "Finn",
+    "Sem",
+    "Liam",
+    "Jesse",
+    "Max",
+    "Timo",
+    "Luuk",
+    "Ryan",
+    "Mees",
+    "Isaac",
+    "Julian",
+    "Teun",
+    "Tom",
+    "James",
+    "Gijs",
+    "Lars",
+    "Bram",
+    "Joris",
+    "Ravi",
+    "Jordi",
+    "Mick",
+    "Kyan",
+    "Damian",
+    "Milan",
+    "Benjamin",
+    "Felix",
+    "Dylan",
+    "Victor",
+    "David",
+    "Mats",
+    "Simon",
+    "Hassan",
+    "Kay",
+    "Rafael",
+    "Niels",
+    "Zayn",
+    "Maxim"
+  ],
+  "lastnames": [
+    "de Vries",
+    "Jansen",
+    "de Jong",
+    "van den Berg",
+    "van Dijk",
+    "Bakker",
+    "Visser",
+    "Smit",
+    "Meijer",
+    "Hendriks",
+    "Dekker",
+    "Kramer",
+    "Mulder",
+    "Bos",
+    "Peters",
+    "Meyer",
+    "Koster",
+    "Schmidt",
+    "Boer",
+    "Willems",
+    "Huisman",
+    "Vink",
+    "Blom",
+    "Lopes",
+    "Mol",
+    "Vermeulen",
+    "Verhoeven",
+    "Vanderberg",
+    "Hoffman",
+    "Huisman",
+    "Valk",
+    "Faber",
+    "Hansen",
+    "Koning",
+    "Van Leeuwen",
+    "Van der Meer",
+    "Vervent",
+    "De Groot",
+    "Stein",
+    "Haring",
+    "Veldhuizen"
+  ]
 }
