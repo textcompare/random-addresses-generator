@@ -1272,10 +1272,7 @@
           ]
         }
       }
-    },
-    "citycontainers": [
-      "counties"
-    ]
+    }
   },
   "citycontainers": [
     "counties"
