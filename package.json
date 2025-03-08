@@ -1,6 +1,6 @@
 {
   "name": "random-addresses-generator",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "type": "module",
   "description": "random-addresses-generator is a lightweight JavaScript library for generating random and customizable addresses. Perfect for developers needing dummy data for testing, prototyping, or mockups. The package supports various address formats and is designed to be easily extendable for internationalization and custom templates.",
   "main": "./src/index.js",

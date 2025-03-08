@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.8](https://github.com/textcompare/random-addresses-generator/compare/v1.1.7...v1.1.8) (2025-03-08)
+
 ### [1.1.7](https://github.com/textcompare/random-addresses-generator/compare/v1.1.6...v1.1.7) (2025-03-08)
 - Fixed streetName generation according to the category
 
