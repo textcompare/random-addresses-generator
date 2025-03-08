@@ -19,7 +19,7 @@ npm install random-addresses-generator
 **CDN:**
 ```html
 <script type="module">
-        import { getAddress } from 'https://cdn.jsdelivr.net/npm/random-addresses-generator@1.1.7/src/index.js'; 
+        import { getAddress } from 'https://cdn.jsdelivr.net/npm/random-addresses-generator@1.1.10/src/index.js'; 
         console.log(await getAddress(1));
     </script>
 ```
