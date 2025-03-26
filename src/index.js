@@ -18,10 +18,12 @@ class DataContainer {
         }
 
         if (fs && path) {
-            return await JSON.parse(fs.readFileSync(path.resolve(import.meta.dirname, filePath), 'utf-8'));
+            const dirName = path.dirname(new URL(import.meta.url).pathname).replace(/^\/([a-zA-Z]:)/, '$1'); // Normalize Windows path
+            return await JSON.parse(fs.readFileSync(path.resolve(dirName, filePath), 'utf-8'));
         } else {
             return await fetch(new URL(filePath, basePath)).then(res => res.json());
         }
+        //return JSON.parse(await fetch(filePath).then(res => res.text()));
     }
 
 
@@ -93,6 +95,10 @@ function generateRandomPhoneNumber(areaCode, countryCode, phoneFormat) {
 }
 
 async function searchCity(cityName) {
+    if (!addressData || !addressData.citycontainers) {
+        console.error("Error: addressData or citycontainers is undefined.");
+        return false;
+    }
     const containers = addressData.citycontainers;
 
     // Handle USA separately
@@ -151,6 +157,11 @@ async function generateAddress(count, info) {
 
     dataContainer = new DataContainer(country);
     await dataContainer.loadData();
+
+    if (!addressData || !addressData.citycontainers) {
+        console.error("Error: addressData or citycontainers is undefined.");
+        return "Error: Unable to generate address due to missing data.";
+    }
 
     // Normalize the address format based on user input
     const addressFormat = info.addressFormat && info.addressFormat.includes('all')
