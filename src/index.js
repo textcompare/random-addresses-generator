@@ -18,8 +18,7 @@ class DataContainer {
         }
 
         if (fs && path) {
-            const dirName = path.dirname(new URL(import.meta.url).pathname).replace(/^\/([a-zA-Z]:)/, '$1'); // Normalize Windows path
-            return await JSON.parse(fs.readFileSync(path.resolve(dirName, filePath), 'utf-8'));
+            return await JSON.parse(fs.readFileSync(path.resolve(import.meta.dirname, filePath), 'utf-8'));
         } else {
             return await fetch(new URL(filePath, basePath)).then(res => res.json());
         }
