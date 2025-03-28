@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.11](https://github.com/textcompare/random-addresses-generator/compare/v1.1.10...v1.1.11) (2025-03-28)
+
+
+### Bug Fixes
+
+* fix error the "paths[0]" argument must be of type string. Received undefined ([de62833](https://github.com/textcompare/random-addresses-generator/commit/de62833fb8a006b001ea4375de90fdbc8c765407))
+
 ### [1.1.10](https://github.com/textcompare/random-addresses-generator/compare/v1.1.9...v1.1.10) (2025-03-08)
 - Added more streets for USA
 
